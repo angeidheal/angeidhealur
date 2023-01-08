@@ -43,7 +43,3 @@ The Local: [Spain approves trans law that allows easy gender change on ID  ](htt
 Pink News: [Spain passes landmark trans rights law to make gender recognition simpler](https://www.thepinknews.com/2022/12/22/spain-passes-trans-right-law-to-make-gender-recognition-simpler/)
 
 Reuters: [Spanish lawmakers approve transgender rights bill](https://www.reuters.com/world/europe/spanish-lawmakers-approve-transgender-rights-bill-2022-12-22/)
-
-#### Fàg beachd
-
-Ma tha beachd agad mun a’ phost seo, faodaidh tu a chur thugam air [Mastodon](https://mastodon.scot/@angeidheal/109561553126122132)
