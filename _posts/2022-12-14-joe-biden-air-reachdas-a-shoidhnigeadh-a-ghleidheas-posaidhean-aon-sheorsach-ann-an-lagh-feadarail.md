@@ -36,10 +36,6 @@ Ma thachras sin, bidh gach stàit fa leth comasach air reachdas pòsaidh a chur 
 
 Fon reachdas seo ge-tà, feumaidh an Riaghaltas Feadaraileach, a h-uile stàit agus ranntairean a tha nam phàirt de na Stàitean Aonaichte pòsaidhean aon-sheòrsach agus ioma-chinnidheach aithneachadh ma tha iad dligheach ann am pàirt eile de na Stàitean.
 
-#### Fàg beachd
-
-Ma tha beachd agad mun sgeulachd seo, faodaidh tu a chur thugam air [Mastodon](https://www.mastodon.scot/@angeidheal).
-
 #### Barrachd fhiosrachaidh
 
 Faodaidh tu barrachd leughadh mun sgeulachd seo an-seo:
