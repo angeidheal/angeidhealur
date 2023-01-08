@@ -21,10 +21,6 @@ An dràsta tha an lagh ag ràdh nach fhaod ach boireannach agus fireannach a ph�
 
 Cha deach ceann-latha an reifreinn a thaghadh fhathast.
 
-#### Fàg beachd
-
-Ma tha beachd agad air an sgeulachd seo, faodaidh tu a chur thugam air [Mastodon](https://www.mastodon.scot/@angeidheal).
-
 #### Barrachd fhiosrachaidh
 
 Faodaidh tu barrachd leughadh mun sgeulachd seo an-seo:
