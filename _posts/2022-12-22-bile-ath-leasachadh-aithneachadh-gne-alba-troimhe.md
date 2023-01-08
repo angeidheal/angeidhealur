@@ -31,7 +31,3 @@ Thathar an dùil a-nis gun tèid an lagh atharrachadh an ath-bhliadhna gus nach 
 Equality Network: [Scotland moves forward again as Gender Recognition Reform Bill passes](https://www.equality-network.org/scotland-moves-forward-again-as-gender-recognition-reform-bill-passes/)  
 Openly: [Scotland passes bill to make it easier to change gender](https://www.openlynews.com/i/?id=d28e9115-44a2-47eb-95c9-89ba34ab12eb)  
 Pink News: [Scotland passes sweeping gender recognition reform in ‘tremendous step forward for trans rights’](https://www.thepinknews.com/2022/12/22/scotland-gender-recognition-reform-bill-passes/)
-
-#### Fàg beachd
-
-Ma tha beachd agad mun a’ phost seo, faodaidh tu a chur thugam air [Mastodon](https://mastodon.scot/@angeidheal/109558954922665388).
