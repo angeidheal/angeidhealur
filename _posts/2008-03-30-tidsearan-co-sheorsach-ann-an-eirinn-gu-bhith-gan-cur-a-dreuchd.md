@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1031'
 permalink: /2008-03-30-tidsearan-co-sheorsach-ann-an-eirinn-gu-bhith-gan-cur-a-dreuchd/
-image: /wp-content/uploads/2022/12/2008-03-30-tidsearan-co-sheorsach-ann-an-eirinn-gu-bhith-gan-cur-a-dreuchd.webp
+image: /images/posts/2008-03-30-tidsearan-co-sheorsach-ann-an-eirinn-gu-bhith-gan-cur-a-dreuchd.webp
 categories:
     - 'An t-Saoghal'
     - Creideamh

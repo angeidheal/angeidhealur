@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1145'
 permalink: /2022-12-15-faclair-lgbt/
-image: /wp-content/uploads/2023/01/fnang.webp
+image: /images/posts/fnang.webp
 categories:
     - Blog
     - Gàidhlig

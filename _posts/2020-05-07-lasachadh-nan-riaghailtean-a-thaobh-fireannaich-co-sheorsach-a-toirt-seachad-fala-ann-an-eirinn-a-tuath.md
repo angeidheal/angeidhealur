@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=372'
 permalink: /2020-05-07-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-co-sheorsach-a-toirt-seachad-fala-ann-an-eirinn-a-tuath/
-image: /wp-content/uploads/2022/12/tabhartas-fala.webp
+image: /images/posts/tabhartas-fala.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - 'Èirinn a Tuath'

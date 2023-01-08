@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=969'
 permalink: /2008-04-09-buidheann-god-hates-fags-gu-bhith-a-caill-na-h-eaglais-aca/
-image: /wp-content/uploads/2022/12/2008-04-09-buidheann-god-hates-fags-gu-bhith-a-caill-na-h-eaglais-aca.webp
+image: /images/posts/2008-04-09-buidheann-god-hates-fags-gu-bhith-a-caill-na-h-eaglais-aca.webp
 categories:
     - 'An t-Saoghal'
     - Creideamh

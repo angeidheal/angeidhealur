@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=482'
 permalink: /2019-01-11-talla-spors-dhun-eideann-a-tabhann-chlasaichean-fallaineachd-an-asgaidh-do-dhaoine-tar-gneitheach-agus-neo-bhinearaidh/
-image: /wp-content/uploads/2022/12/2019-01-11-talla-spors-dhun-eideann-a-tabhann-chlasaichean-fallaineachd-an-asgaidh-do-dhaoine-tar-gneitheach-agus-neo-bhinearaidh.webp
+image: /images/posts/2019-01-11-talla-spors-dhun-eideann-a-tabhann-chlasaichean-fallaineachd-an-asgaidh-do-dhaoine-tar-gneitheach-agus-neo-bhinearaidh.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

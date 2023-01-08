@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=726'
 permalink: /2018-01-07-riaghaltas-na-h-alba-airson-laghan-a-thaobh-dearbh-aithne-ghneitheach-ath-leasachadh/
-image: /wp-content/uploads/2022/12/parlamaid-na-h-alba.webp
+image: /images/posts/parlamaid-na-h-alba.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

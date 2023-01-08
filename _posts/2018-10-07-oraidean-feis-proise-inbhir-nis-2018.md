@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=444'
 permalink: /2018-10-07-oraidean-feis-proise-inbhir-nis-2018/
-image: /wp-content/uploads/2022/12/Highland_Pride.webp
+image: /images/posts/Highland_Pride.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

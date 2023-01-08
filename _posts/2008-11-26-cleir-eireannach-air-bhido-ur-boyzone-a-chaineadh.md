@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=837'
 permalink: /2008-11-26-cleir-eireannach-air-bhido-ur-boyzone-a-chaineadh/
-image: /wp-content/uploads/2022/12/2008-11-26-cleir-eireannach-air-bhido-ur-boyzone-a-chaineadh-scaled.webp
+image: /images/posts/2008-11-26-cleir-eireannach-air-bhido-ur-boyzone-a-chaineadh-scaled.webp
 categories:
     - 'An t-Saoghal'
     - Creideamh

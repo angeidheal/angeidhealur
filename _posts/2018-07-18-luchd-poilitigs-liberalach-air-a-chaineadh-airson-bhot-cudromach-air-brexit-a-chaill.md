@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=653'
 permalink: /2018-07-18-luchd-poilitigs-liberalach-air-a-chaineadh-airson-bhot-cudromach-air-brexit-a-chaill/
-image: /wp-content/uploads/2022/12/2018-07-18-luchd-poilitigs-liberalach-air-a-chaineadh-airson-bhot-cudromach-air-brexit-a-chaill.webp
+image: /images/posts/2018-07-18-luchd-poilitigs-liberalach-air-a-chaineadh-airson-bhot-cudromach-air-brexit-a-chaill.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - 'An Roinn Eòrpa'
@@ -21,9 +21,9 @@ Nam measg chaidh Tim Farron a chàineadh o chionn ’s gun robh a’ dèanamh ò
 A-rèir prògram an tachartais bha Mgr Fallon gu bhith bruidhinn air na h-oidhirpean a rinn na meadhanan gus faighinn a-mach ma tha e dhen bheachd ma tha fèise co-sheòrsach co-chòrdail ri creideis Crìosdail:
 
 > “Tim Farron MP made the headlines during the 2017 general election campaign as leader of the Liberal Democrat party, although it was not, in fact, politics that generated the headlines but repeated attempts by the mainstream media to get him to express an opinion on whether gay sex was compatible with Christian faith.
-> 
+>
 > He announced he would step down as party leader following the election, stating that he had become “torn between living as a faithful Christian and serving as a political leader.
-> 
+>
 > Many hold strong opinions on the issue but it raised an even more important question: What happens when my truth is not yours?”
 
 Ged a tha am prògram a’ toirt iomradh follaiseach air fèise co-sheòrsach, thuirt neach-labhairt ri Pink News nach do bhruidhinn Mgr Fallon mu a dheidhinn agus gun do bhruidhinn e air a bheatha mar Chrìostaidh.
@@ -54,7 +54,7 @@ Nam measg sgrìobh Stephen Kinnock, BP airson Aberavon:
 Agus sgrìobh Richard Burgon BP airson Leeds an Ear:
 
 > Journalists reporting current Lib Dem Leader Vince Cable and last Lib Dem Leader Tim Farron didn’t vote in one of tonight’s votes in which Tory Government only survived by 3 votes.
-> 
+>
 > Last week they brought a motion to get in to Government with the Tories.[\#NeverTrustTheLibDems](https://twitter.com/hashtag/NeverTrustTheLibDems?src=hash&ref_src=twsrc%5Etfw)  
 > — Richard Burgon MP (@RichardBurgon) [16 July 2018](https://twitter.com/RichardBurgon/status/1018980120223199233?ref_src=twsrc%5Etfw)
 

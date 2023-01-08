@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=765'
 permalink: /2011-01-01-sgoilearan-sussex-a-deanamh-sabaid-air-grain-co-sheorsachd-le-iomairt-grin/
-image: /wp-content/uploads/2022/12/2011-01-01-sgoilearan-sussex-a-deanamh-sabaid-air-grain-co-sheorsachd-le-iomairt-grin.webp
+image: /images/posts/2011-01-01-sgoilearan-sussex-a-deanamh-sabaid-air-grain-co-sheorsachd-le-iomairt-grin.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - Foghlam

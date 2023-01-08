@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=805'
 permalink: /2009-03-24-cha-teid-bp-iris-robinson-a-thoirt-gu-lagh/
-image: /wp-content/uploads/2022/12/2009-03-24-cha-teid-bp-iris-robinson-a-thoirt-gu-lagh.webp
+image: /images/posts/2009-03-24-cha-teid-bp-iris-robinson-a-thoirt-gu-lagh.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - Poileataigs

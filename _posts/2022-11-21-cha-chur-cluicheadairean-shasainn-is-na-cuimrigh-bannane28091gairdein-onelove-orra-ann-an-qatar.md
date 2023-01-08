@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=117'
 permalink: /2022-11-21-cha-chur-cluicheadairean-shasainn-is-na-cuimrigh-bannan%e2%80%91gairdein-onelove-orra-ann-an-qatar/
-image: /wp-content/uploads/2022/12/2022-11-21-cha-chur-cluicheadairean-shasainn-is-na-cuimrigh-bannan-gairdein-onelove-orra-ann-an-qatar.webp
+image: /images/posts/2022-11-21-cha-chur-cluicheadairean-shasainn-is-na-cuimrigh-bannan-gairdein-onelove-orra-ann-an-qatar.webp
 categories:
     - 'An t-Saoghal'
     - Lagh

@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=273'
 permalink: /2022-03-03-bile-ga-thoirt-a-steach-do-pharlamaid-na-h-alba-a-tha-ag-amas-air-a-dheanamh-nas-fhasa-do-phearsachan-an-aithne-ghne-laghail-atharrachadh/
-image: /wp-content/uploads/2022/12/parlamaid-na-h-alba.webp
+image: /images/posts/parlamaid-na-h-alba.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=226'
 permalink: /2022-09-08-a-chuimrigh-tar-bhoireannaich-toirmeasgte-bho-rugbaidh-nam-ban/
-image: /wp-content/uploads/2022/12/2022-09-08-a-chuimrigh-tar-bhoireannaich-toirmeasgte-bho-rugbaidh-nam-ban.webp
+image: /images/posts/2022-09-08-a-chuimrigh-tar-bhoireannaich-toirmeasgte-bho-rugbaidh-nam-ban.webp
 categories:
     - 'A'' Chuimrigh'
     - 'An Rìoghachd Aonaichte'

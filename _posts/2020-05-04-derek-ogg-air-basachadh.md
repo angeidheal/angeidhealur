@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=374'
 permalink: /2020-05-04-derek-ogg-air-basachadh/
-image: /wp-content/uploads/2022/12/2020-05-04-derek-ogg-air-basachadh.webp
+image: /images/posts/2020-05-04-derek-ogg-air-basachadh.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

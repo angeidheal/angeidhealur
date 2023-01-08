@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=802'
 permalink: /2009-03-24-gearanan-a-cur-bacadh-air-ministear-co-sheorsach/
-image: /wp-content/uploads/2022/12/2009-03-24-gearanan-a-cur-bacadh-air-ministear-co-sheorsach.webp
+image: /images/posts/2009-03-24-gearanan-a-cur-bacadh-air-ministear-co-sheorsach.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

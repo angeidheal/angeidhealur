@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1025'
 permalink: /2008-03-31-taic-airson-posaidhean-aon-sheorsach-a-fas-nas-laidire-ann-an-eirinn/
-image: /wp-content/uploads/2022/12/2008-03-31-taic-airson-posaidhean-co-sheorsach-a-fas-nas-laidire-ann-an-eirinn.webp
+image: /images/posts/2008-03-31-taic-airson-posaidhean-co-sheorsach-a-fas-nas-laidire-ann-an-eirinn.webp
 categories:
     - 'An t-Saoghal'
     - Èirinn

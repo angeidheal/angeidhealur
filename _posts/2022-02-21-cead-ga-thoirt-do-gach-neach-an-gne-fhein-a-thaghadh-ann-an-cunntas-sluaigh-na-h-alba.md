@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=275'
 permalink: /2022-02-21-cead-ga-thoirt-do-gach-neach-an-gne-fhein-a-thaghadh-ann-an-cunntas-sluaigh-na-h-alba/
-image: /wp-content/uploads/2022/02/2022-02-21-cead-ga-thoirt-do-gach-neach-an-gne-fhein-a-thaghadh-ann-an-cunntas-sluaigh-na-h-alba.webp
+image: /images/posts/2022-02-21-cead-ga-thoirt-do-gach-neach-an-gne-fhein-a-thaghadh-ann-an-cunntas-sluaigh-na-h-alba.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

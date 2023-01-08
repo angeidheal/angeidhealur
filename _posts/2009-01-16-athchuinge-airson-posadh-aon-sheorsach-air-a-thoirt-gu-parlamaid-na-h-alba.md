@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=828'
 permalink: /2009-01-16-athchuinge-airson-posadh-aon-sheorsach-air-a-thoirt-gu-parlamaid-na-h-alba/
-image: /wp-content/uploads/2022/12/posadh-aon-sheorsach.webp
+image: /images/posts/posadh-aon-sheorsach.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

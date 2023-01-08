@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=960'
 permalink: /2008-04-09-mathraichean-leasbach-a-sabaid-airson-coirichean-laghail-ann-an-iosrael/
-image: /wp-content/uploads/2022/12/2008-04-09-mathraichean-leasbach-a-sabaid-airson-coirichean-laghail-ann-iosrael.webp
+image: /images/posts/2008-04-09-mathraichean-leasbach-a-sabaid-airson-coirichean-laghail-ann-iosrael.webp
 categories:
     - 'An t-Saoghal'
     - Lagh

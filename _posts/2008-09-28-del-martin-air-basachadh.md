@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=873'
 permalink: /2008-09-28-del-martin-air-basachadh/
-image: /wp-content/uploads/2022/12/2008-09-28-del-martin-air-basachadh.webp
+image: /images/posts/2008-09-28-del-martin-air-basachadh.webp
 categories:
     - 'An t-Saoghal'
     - Iomairteachd

@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1103'
 permalink: /2008-03-14-carthannas-ag-iarraidh-banachdaich-hpv-airson-balaich/
-image: /wp-content/uploads/2022/12/2008-03-14-carthannas-ag-iarraidh-banachdaich-hpv-airson-balaich.webp
+image: /images/posts/2008-03-14-carthannas-ag-iarraidh-banachdaich-hpv-airson-balaich.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - Foghlam

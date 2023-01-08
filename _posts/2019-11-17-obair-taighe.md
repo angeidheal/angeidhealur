@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=398'
 permalink: /2019-11-17-obair-taighe/
-image: /wp-content/uploads/2022/12/2019-11-17-obair-taighe-scaled.webp
+image: /images/posts/2019-11-17-obair-taighe-scaled.webp
 categories:
     - Blog
 ---

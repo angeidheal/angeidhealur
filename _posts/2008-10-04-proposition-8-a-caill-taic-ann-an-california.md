@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=860'
 permalink: /2008-10-04-proposition-8-a-caill-taic-ann-an-california/
-image: /wp-content/uploads/2022/12/prop-8.webp
+image: /images/posts/prop-8.webp
 categories:
     - 'An t-Saoghal'
     - Lagh

@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=211'
 permalink: /2022-09-28-dithis-fo-chasaid-ionnsaigh-grain-co%e2%80%91sheorsachd-an-inbhir-nis/
-image: /wp-content/uploads/2022/09/2022-09-28-dithis-fo-chasaid-ionnsaigh-grain-co-sheorsachd-an-inbhir-nis.webp
+image: /images/posts/2022-09-28-dithis-fo-chasaid-ionnsaigh-grain-co-sheorsachd-an-inbhir-nis.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=217'
 permalink: /2022-09-26-cuba-air-bhotadh-gus-posadh-aon-sheorsach-a-dheanamh-laghail/
-image: /wp-content/uploads/2022/12/2022-09-26-cuba-air-bhotadh-gus-posadh-aon-sheorsach-a-dheanamh-laghail.webp
+image: /images/posts/2022-09-26-cuba-air-bhotadh-gus-posadh-aon-sheorsach-a-dheanamh-laghail.webp
 categories:
     - 'An t-Saoghal'
     - Poileataigs

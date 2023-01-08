@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=995'
 permalink: /2008-04-07-eminem-gu-bhith-a-riochdachadh-elton-john-ann-am-film-ur/
-image: /wp-content/uploads/2022/12/2008-04-07-eminem-gu-bhith-a-riochdachadh-elton-john-ann-am-film-ur.webp
+image: /images/posts/2008-04-07-eminem-gu-bhith-a-riochdachadh-elton-john-ann-am-film-ur.webp
 categories:
     - Dibhearsan
 ---

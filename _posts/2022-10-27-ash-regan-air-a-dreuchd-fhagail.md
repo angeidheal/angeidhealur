@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=129'
 permalink: /2022-10-27-ash-regan-air-a-dreuchd-fhagail/
-image: /wp-content/uploads/2022/12/2022-10-27-ash-regan-air-a-dreuchd-fhagail.webp
+image: /images/posts/2022-10-27-ash-regan-air-a-dreuchd-fhagail.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

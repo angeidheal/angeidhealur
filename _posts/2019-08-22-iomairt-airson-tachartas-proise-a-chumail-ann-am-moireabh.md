@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=419'
 permalink: /2019-08-22-iomairt-airson-tachartas-proise-a-chumail-ann-am-moireabh/
-image: /wp-content/uploads/2022/12/2019-08-22-iomairt-airson-tachartas-proise-a-chumail-ann-am-moireabh.webp
+image: /images/posts/2019-08-22-iomairt-airson-tachartas-proise-a-chumail-ann-am-moireabh.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

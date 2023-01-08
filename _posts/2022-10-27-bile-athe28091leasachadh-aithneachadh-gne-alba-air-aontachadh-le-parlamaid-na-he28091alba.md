@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=126'
 permalink: /2022-10-27-bile-ath%e2%80%91leasachadh-aithneachadh-gne-alba-air-aontachadh-le-parlamaid-na-h%e2%80%91alba/
-image: /wp-content/uploads/2022/10/2022-10-27-bile-ath-leasachadh-aithneachadh-gne-alba-air-aontachachadh-le-parlamaid-na-h-alba.webp
+image: /images/posts/2022-10-27-bile-ath-leasachadh-aithneachadh-gne-alba-air-aontachachadh-le-parlamaid-na-h-alba.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1019'
 permalink: /2008-04-02-buidheann-co-ionannachd-gu-bhith-a-deanamh-priomhachas-air-cuisean-lagha-a-thaobh-gneitheachd/
-image: /wp-content/uploads/2022/12/2008-04-02-buidheann-co-ionannachd-gu-bhith-a-deanamh-priomhachas-air-cuisean-lagha-a-thaobh-gneitheachd.webp
+image: /images/posts/2008-04-02-buidheann-co-ionannachd-gu-bhith-a-deanamh-priomhachas-air-cuisean-lagha-a-thaobh-gneitheachd.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - Lagh

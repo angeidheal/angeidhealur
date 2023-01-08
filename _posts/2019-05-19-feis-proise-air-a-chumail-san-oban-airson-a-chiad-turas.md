@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=438'
 permalink: /2019-05-19-feis-proise-air-a-chumail-san-oban-airson-a-chiad-turas/
-image: /wp-content/uploads/2022/12/2019-05-19-feis-proise-air-a-chumail-san-oban-airson-a-chiad-turas.webp
+image: /images/posts/2019-05-19-feis-proise-air-a-chumail-san-oban-airson-a-chiad-turas.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

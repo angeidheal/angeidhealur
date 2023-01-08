@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=369'
 permalink: /2020-05-13-ceannard-stonewall-ur-air-ainmeachadh/
-image: /wp-content/uploads/2022/12/2020-05-13-ceannard-stonewall-ur-air-ainmeachadh.webp
+image: /images/posts/2020-05-13-ceannard-stonewall-ur-air-ainmeachadh.webp
 categories:
     - 'An Rìoghachd Aonaichte'
 ---

@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=813'
 permalink: /2009-03-12-bpa-a-toirt-taic-do-lagh-an-aghaidh-eucoirean-graineil/
-image: /wp-content/uploads/2022/12/2009-03-12-bpa-a-toirt-taic-do-lagh-an-aghaidh-eucoirean-graineil.webp
+image: /images/posts/2009-03-12-bpa-a-toirt-taic-do-lagh-an-aghaidh-eucoirean-graineil.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

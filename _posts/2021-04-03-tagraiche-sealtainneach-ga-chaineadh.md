@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=323'
 permalink: /2021-04-03-tagraiche-sealtainneach-ga-chaineadh/
-image: /wp-content/uploads/2022/12/2021-04-03-tagraiche-sealtainneach-ga-chaineadh.webp
+image: /images/posts/2021-04-03-tagraiche-sealtainneach-ga-chaineadh.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

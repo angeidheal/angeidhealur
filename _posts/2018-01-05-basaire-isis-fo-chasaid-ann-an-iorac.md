@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=738'
 permalink: /2018-01-05-basaire-isis-fo-chasaid-ann-an-iorac/
-image: /wp-content/uploads/2022/12/2018-01-05-basaire-isis-fo-chasaid-ann-an-iorac.webp
+image: /images/posts/2018-01-05-basaire-isis-fo-chasaid-ann-an-iorac.webp
 categories:
     - 'An t-Saoghal'
     - Lagh

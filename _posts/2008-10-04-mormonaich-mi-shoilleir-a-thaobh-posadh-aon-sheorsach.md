@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=862'
 permalink: /2008-10-04-mormonaich-mi-shoilleir-a-thaobh-posadh-aon-sheorsach/
-image: /wp-content/uploads/2022/12/2008-10-04-mormonaich-mi-shoilleir-a-thaobh-posadh-aon-sheorsach.webp
+image: /images/posts/2008-10-04-mormonaich-mi-shoilleir-a-thaobh-posadh-aon-sheorsach.webp
 categories:
     - 'An t-Saoghal'
     - Creideamh

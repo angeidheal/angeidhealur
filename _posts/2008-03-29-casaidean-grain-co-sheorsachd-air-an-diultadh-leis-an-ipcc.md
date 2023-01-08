@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1049'
 permalink: /2008-03-29-casaidean-grain-co-sheorsachd-air-an-diultadh-leis-an-ipcc/
-image: /wp-content/uploads/2022/12/2008-03-29-casaidean-grain-co-sheorsachd-air-an-diultadh-leis-an-ipcc.webp
+image: /images/posts/2008-03-29-casaidean-grain-co-sheorsachd-air-an-diultadh-leis-an-ipcc.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - Lagh

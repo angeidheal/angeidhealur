@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=461'
 permalink: /2019-04-08-maoin-ur-air-a-steidheachadh-gus-taic-a-thoirt-do-dheagraichean-feisean-proise-na-h-alba/
-image: /wp-content/uploads/2022/12/2019-04-08-maoin-ur-air-a-steidheachadh-gus-taic-a-thoirt-do-dh-eagraichean-feisean-proise-na-h-alba.webp
+image: /images/posts/2019-04-08-maoin-ur-air-a-steidheachadh-gus-taic-a-thoirt-do-dh-eagraichean-feisean-proise-na-h-alba.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

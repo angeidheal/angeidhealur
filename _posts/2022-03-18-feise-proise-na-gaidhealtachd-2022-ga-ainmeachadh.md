@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=264'
 permalink: /2022-03-18-feise-proise-na-gaidhealtachd-2022-ga-ainmeachadh/
-image: /wp-content/uploads/2022/12/Highland_Pride.webp
+image: /images/posts/Highland_Pride.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=386'
 permalink: /2020-01-04-fireannach-fo-chasaid-ionnsaigh-a-thoirt-air-deugair-tar-ghneitheach/
-image: /wp-content/uploads/2022/12/2020-01-04-fireannach-fo-chasaid-ionnsaigh-a-thoirt-air-deugair-tar-ghneitheach.webp
+image: /images/posts/2020-01-04-fireannach-fo-chasaid-ionnsaigh-a-thoirt-air-deugair-tar-ghneitheach.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

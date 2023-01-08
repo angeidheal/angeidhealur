@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=390'
 permalink: /2019-11-20-tagraiche-taghaidh-obar-dheathain-air-a-chur-a-reim-airson-puist-an-aghaidh-nan-iudhach-agus-nan-co-sheorsach/
-image: /wp-content/uploads/2022/12/2019-11-20-tagraiche-taghaidh-obar-dheathain-air-a-chur-a-reim.webp
+image: /images/posts/2019-11-20-tagraiche-taghaidh-obar-dheathain-air-a-chur-a-reim.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

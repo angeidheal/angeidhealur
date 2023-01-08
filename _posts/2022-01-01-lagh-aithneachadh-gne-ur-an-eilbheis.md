@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=296'
 permalink: /2022-01-01-lagh-aithneachadh-gne-ur-an-eilbheis/
-image: /wp-content/uploads/2022/12/2022-01-01-lagh-aithneachadh-gne-ur-an-eilbheis.webp
+image: /images/posts/2022-01-01-lagh-aithneachadh-gne-ur-an-eilbheis.webp
 categories:
     - 'An Roinn Eòrpa'
     - 'An t-Saoghal'

@@ -10,7 +10,7 @@ mastoshare-post-status:
     - 'off'
 mastoshareshare-lastSuccessfullTootURL:
     - 'https://mastodon.scot/@angeidheal/109559095152722027'
-image: /wp-content/uploads/2022/12/parlamaid-na-h-alba.webp
+image: /images/posts/parlamaid-na-h-alba.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'
@@ -21,7 +21,7 @@ categories:
 Bhòt Pàrlamaid na h-Alba an-diugh airson Achd Aithneachadh Gnè ath-leasachadh gus a dhèanamh nas fhasa do dhaoine tar-ghnèitheach an gnè laghail aca atharrachadh.
 
 Bhòt Buill-phàrlamaid 86-39 airson gabhail ris a’ bhile.  
-   
+
 Thathar an dùil a-nis gun tèid an lagh atharrachadh an ath-bhliadhna gus nach bi aig tagraichean ri fhianais-leigheis a thoirt seachad gus teisteanas aithneachadh gnè fhaighinn.
 
  Cuideachd thèid an aois as lugha do thagraichean a lùghdachadh bho 18 gu 16 is an ùine a dh’fheumas tagraichean a bhith beò sa ghnè a ghabh iad a lùghdachadh bho dhà bhliadhna gu trì mìosan no sia mìosan ma tha an tagraiche 16 no 17.

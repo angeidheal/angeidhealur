@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=762'
 permalink: /2011-01-03-companasan-catharra-air-a-dheanamh-laghail-ann-an-eirinn/
-image: /wp-content/uploads/2022/12/2011-01-03-companasan-catharra-air-a-dheanamh-laghail-ann-an-eirinn.webp
+image: /images/posts/2011-01-03-companasan-catharra-air-a-dheanamh-laghail-ann-an-eirinn.webp
 categories:
     - 'An t-Saoghal'
     - Èirinn

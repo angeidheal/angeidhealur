@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=788'
 permalink: /2009-05-26-ard-chuirt-chalifornia-a-cumail-ri-prop-8/
-image: /wp-content/uploads/2022/12/prop-8.webp
+image: /images/posts/prop-8.webp
 categories:
     - 'An t-Saoghal'
     - Lagh

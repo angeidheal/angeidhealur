@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1128'
 permalink: /2022-12-14-joe-biden-air-reachdas-a-shoidhnigeadh-a-ghleidheas-posaidhean-aon-sheorsach-ann-an-lagh-feadarail/
-image: /wp-content/uploads/2022/12/posadh-aon-sheorsach.webp
+image: /images/posts/posadh-aon-sheorsach.webp
 categories:
     - 'An t-Saoghal'
     - Lagh

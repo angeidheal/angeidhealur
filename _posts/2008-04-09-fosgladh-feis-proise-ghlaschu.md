@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=966'
 permalink: /2008-04-09-fosgladh-feis-proise-ghlaschu/
-image: /wp-content/uploads/2022/12/2008-04-09-fosgladh-pride-glaschu.webp
+image: /images/posts/2008-04-09-fosgladh-pride-glaschu.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=383'
 permalink: /2020-01-14-bbc-news-pileat-le-hiv-a-cur-an-aghaidh-stiogma/
-image: /wp-content/uploads/2022/12/2020-01-14-bbc-news-pileat-le-hiv-a-cur-an-aghaidh-stiogma.webp
+image: /images/posts/2020-01-14-bbc-news-pileat-le-hiv-a-cur-an-aghaidh-stiogma.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

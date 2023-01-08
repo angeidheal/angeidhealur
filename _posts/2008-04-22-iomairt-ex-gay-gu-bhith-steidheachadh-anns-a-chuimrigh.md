@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=946'
 permalink: /2008-04-22-iomairt-ex-gay-gu-bhith-steidheachadh-anns-a-chuimrigh/
-image: /wp-content/uploads/2022/12/2008-04-22-iomairt-ex-gay-gu-bhith-steidheachadh-anns-a-chuimrigh.webp
+image: /images/posts/2008-04-22-iomairt-ex-gay-gu-bhith-steidheachadh-anns-a-chuimrigh.webp
 categories:
     - 'A'' Chuimrigh'
     - 'An Rìoghachd Aonaichte'

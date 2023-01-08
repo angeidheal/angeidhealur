@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=132'
 permalink: /2022-10-26-post-grain-ga-chur-gu-zander-murray/
-image: /wp-content/uploads/2022/12/2022-10-26-post-grain-ga-chur-gu-zander-murray.webp
+image: /images/posts/2022-10-26-post-grain-ga-chur-gu-zander-murray.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

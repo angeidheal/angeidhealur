@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=138'
 permalink: /2022-10-25-peter-tatchell-ga-chur-an-greim/
-image: /wp-content/uploads/2022/12/2022-10-25-peter-tatchell-ga-chur-an-greim.webp
+image: /images/posts/2022-10-25-peter-tatchell-ga-chur-an-greim.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - 'An t-Saoghal'

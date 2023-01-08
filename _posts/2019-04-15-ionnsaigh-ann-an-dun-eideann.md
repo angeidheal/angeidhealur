@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=458'
 permalink: /2019-04-15-ionnsaigh-ann-an-dun-eideann/
-image: /wp-content/uploads/2022/12/2019-04-15-ionnsaigh-ann-an-dun-eideann.webp
+image: /images/posts/2019-04-15-ionnsaigh-ann-an-dun-eideann.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

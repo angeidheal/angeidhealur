@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1085'
 permalink: /2008-03-17-buidheann-irish-queers-a-togail-fianais-an-aghaidh-caismeachd-naomh-padraig/
-image: /wp-content/uploads/2022/12/2008-03-17-buidheann-irish-queers-a-togail-fianai-an-aghaidh-caismeachd-naomh-padraig.webp
+image: /images/posts/2008-03-17-buidheann-irish-queers-a-togail-fianai-an-aghaidh-caismeachd-naomh-padraig.webp
 categories:
     - 'An t-Saoghal'
     - Creideamh

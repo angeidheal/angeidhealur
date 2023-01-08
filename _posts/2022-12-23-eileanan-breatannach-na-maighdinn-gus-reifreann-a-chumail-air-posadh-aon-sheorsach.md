@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1123'
 permalink: /2022-12-23-eileanan-breatannach-na-maighdinn-gus-reifreann-a-chumail-air-posadh-aon-sheorsach/
-image: /wp-content/uploads/2022/12/Bratach-Eileanan-Breatannach-na-Maighdinn.webp
+image: /images/posts/Bratach-Eileanan-Breatannach-na-Maighdinn.webp
 categories:
     - 'An t-Saoghal'
     - Lagh

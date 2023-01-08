@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=310'
 permalink: /2021-09-08-emma-roddick-ga-suidheachadh-mar-cho-neach-gairm-buidheann-lgdt-taigh-an-roid/
-image: /wp-content/uploads/2022/12/2021-09-08-emma-roddick-ga-suidheachadh-mar-cho-neach-gairm-buidheann-lgdt-taigh-an-roid.webp
+image: /images/posts/2021-09-08-emma-roddick-ga-suidheachadh-mar-cho-neach-gairm-buidheann-lgdt-taigh-an-roid.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

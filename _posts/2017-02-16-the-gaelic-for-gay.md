@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=756'
 permalink: /2017-02-16-the-gaelic-for-gay/
-image: /wp-content/uploads/2022/12/2017-02-16-the-gaelic-for-gay.webp
+image: /images/posts/2017-02-16-the-gaelic-for-gay.webp
 categories:
     - Gàidhlig
 ---

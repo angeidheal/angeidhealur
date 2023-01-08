@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1079'
 permalink: /2008-03-17-gearanan-mu-dheidhinn-sanasan-co-sheorsach-air-an-diultadh/
-image: /wp-content/uploads/2022/12/2008-03-17-gearanan-mu-dheidhinn-sanasan-co-sheorsach-air-an-diultadh.webp
+image: /images/posts/2008-03-17-gearanan-mu-dheidhinn-sanasan-co-sheorsach-air-an-diultadh.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - Foghlam

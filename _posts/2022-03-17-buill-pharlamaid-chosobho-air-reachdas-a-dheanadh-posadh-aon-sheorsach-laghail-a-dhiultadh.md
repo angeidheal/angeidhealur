@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=267'
 permalink: /2022-03-17-buill-pharlamaid-chosobho-air-reachdas-a-dheanadh-posadh-aon-sheorsach-laghail-a-dhiultadh/
-image: /wp-content/uploads/2022/12/posadh-aon-sheorsach.webp
+image: /images/posts/posadh-aon-sheorsach.webp
 categories:
     - 'An t-Saoghal'
     - Poileataigs

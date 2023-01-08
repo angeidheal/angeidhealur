@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=879'
 permalink: /2008-07-25-luchd-saidheans-air-laigse-aig-hiv-lorg/
-image: /wp-content/uploads/2022/12/2008-07-25-luchd-saidheans-air-laigse-aig-hiv-lorg.webp
+image: /images/posts/2008-07-25-luchd-saidheans-air-laigse-aig-hiv-lorg.webp
 categories:
     - 'An t-Saoghal'
     - Saidheans

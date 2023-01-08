@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=251'
 permalink: /2022-03-29-riaghailtean-nas-fhosgailte-a-thaobh-fala-a-thoirt-seachad-an-eirinn/
-image: /wp-content/uploads/2022/12/tabhartas-fala.webp
+image: /images/posts/tabhartas-fala.webp
 categories:
     - 'An t-Saoghal'
     - Èirinn

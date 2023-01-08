@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=845'
 permalink: /2008-11-05-air-urachadh-bhot-california-florida-agus-arizona-airson-casg-a-chur-air-posadh-aon-sheorsach/
-image: /wp-content/uploads/2022/12/posadh-aon-sheorsach.webp
+image: /images/posts/posadh-aon-sheorsach.webp
 categories:
     - Blog
 ---

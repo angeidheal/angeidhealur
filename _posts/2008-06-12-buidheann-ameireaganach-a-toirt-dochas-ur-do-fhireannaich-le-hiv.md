@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=897'
 permalink: /2008-06-12-buidheann-ameireaganach-a-toirt-dochas-ur-do-fhireannaich-le-hiv/
-image: /wp-content/uploads/2022/12/2008-06-12-buidheann-ameireaganach-a-toirt-dochas-ur-do-fireannaich-le-hiv.webp
+image: /images/posts/2008-06-12-buidheann-ameireaganach-a-toirt-dochas-ur-do-fireannaich-le-hiv.webp
 categories:
     - 'An t-Saoghal'
     - Saidheans

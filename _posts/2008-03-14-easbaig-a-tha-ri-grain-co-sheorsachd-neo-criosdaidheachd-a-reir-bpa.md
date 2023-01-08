@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1097'
 permalink: /2008-03-14-easbaig-a-tha-ri-grain-co-sheorsachd-neo-criosdaidheachd-a-reir-bpa/
-image: /wp-content/uploads/2022/12/2008-03-14-easbaig-a-tha-ri-grain-co-sheorsachd-neo-criosdaidheachd-a-reir-bpa.webp
+image: /images/posts/2008-03-14-easbaig-a-tha-ri-grain-co-sheorsachd-neo-criosdaidheachd-a-reir-bpa.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

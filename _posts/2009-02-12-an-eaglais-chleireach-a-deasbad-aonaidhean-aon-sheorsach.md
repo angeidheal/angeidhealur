@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=819'
 permalink: /2009-02-12-an-eaglais-chleireach-a-deasbad-aonaidhean-aon-sheorsach/
-image: /wp-content/uploads/2022/12/2009-02-12-an-eaglais-chleireach-a-deasbad-aonaidhean-aon-sheorsach.webp
+image: /images/posts/2009-02-12-an-eaglais-chleireach-a-deasbad-aonaidhean-aon-sheorsach.webp
 categories:
     - 'An t-Saoghal'
     - Creideamh

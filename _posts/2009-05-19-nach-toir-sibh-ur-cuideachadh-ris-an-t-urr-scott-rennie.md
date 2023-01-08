@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=794'
 permalink: /2009-05-19-nach-toir-sibh-ur-cuideachadh-ris-an-t-urr-scott-rennie/
-image: /wp-content/uploads/2022/12/2009-05-19-nach-toir-sibh-ur-cuideachadh-ris-an-t-urr-scott-rennie.webp
+image: /images/posts/2009-05-19-nach-toir-sibh-ur-cuideachadh-ris-an-t-urr-scott-rennie.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

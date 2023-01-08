@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=575'
 permalink: /2018-11-06-feis-film-lcdt-ri-tilleadh-a-ghlaschu/
-image: /wp-content/uploads/2022/12/2018-11-06-feis-film-lcdt-ri-tilleadh-a-ghlaschu.webp
+image: /images/posts/2018-11-06-feis-film-lcdt-ri-tilleadh-a-ghlaschu.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

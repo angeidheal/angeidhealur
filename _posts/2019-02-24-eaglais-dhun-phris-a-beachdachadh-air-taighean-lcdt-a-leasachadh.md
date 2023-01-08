@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=467'
 permalink: /2019-02-24-eaglais-dhun-phris-a-beachdachadh-air-taighean-lcdt-a-leasachadh/
-image: /wp-content/uploads/2022/12/2019-02-24-eaglais-dhun-phris-a-beachdachadh-air-taighean-lgbt-a-leasachadh.webp
+image: /images/posts/2019-02-24-eaglais-dhun-phris-a-beachdachadh-air-taighean-lgbt-a-leasachadh.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

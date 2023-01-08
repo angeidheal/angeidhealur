@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=249'
 permalink: /2022-04-10-criomagan-naidheachd-na-seachdain/
-image: /wp-content/uploads/2022/12/criomagan.webp
+image: /images/posts/criomagan.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - 'An t-Saoghal'

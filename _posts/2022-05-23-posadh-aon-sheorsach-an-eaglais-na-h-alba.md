@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=246'
 permalink: /2022-05-23-posadh-aon-sheorsach-an-eaglais-na-h-alba/
-image: /wp-content/uploads/2022/12/posadh-aon-sheorsach.webp
+image: /images/posts/posadh-aon-sheorsach.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

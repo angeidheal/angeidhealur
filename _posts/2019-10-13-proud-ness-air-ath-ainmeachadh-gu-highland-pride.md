@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=404'
 permalink: /2019-10-13-proud-ness-air-ath-ainmeachadh-gu-highland-pride/
-image: /wp-content/uploads/2022/12/RSLocalFile-D189F2AE-C9CF-4DEE-BF00-29258F62F2C0.png
+image: /images/posts/RSLocalFile-D189F2AE-C9CF-4DEE-BF00-29258F62F2C0.png
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=102'
 permalink: /2022-12-04-arainn-oilthigh-uladh-ann-an-catar-na-briseadh%e2%80%91cridhe/
-image: /wp-content/uploads/2022/12/2022-12-04-arainn-oilthigh-uladh-ann-an-catar-na-briseadh-cridhe.webp
+image: /images/posts/2022-12-04-arainn-oilthigh-uladh-ann-an-catar-na-briseadh-cridhe.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - 'An t-Saoghal'

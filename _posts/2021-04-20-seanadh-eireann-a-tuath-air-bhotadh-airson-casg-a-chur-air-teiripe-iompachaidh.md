@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=320'
 permalink: /2021-04-20-seanadh-eireann-a-tuath-air-bhotadh-airson-casg-a-chur-air-teiripe-iompachaidh/
-image: /wp-content/uploads/2022/12/2021-04-20-seanadh-eireann-a-tuath-air-bhotadh-airson-casg-a-chur-air-teiripe-iompachaidh.webp
+image: /images/posts/2021-04-20-seanadh-eireann-a-tuath-air-bhotadh-airson-casg-a-chur-air-teiripe-iompachaidh.webp
 categories:
     - 'An t-Saoghal'
     - Èirinn

@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=900'
 permalink: /2008-05-21-posadh-the-final-frontier/
-image: /wp-content/uploads/2022/12/2008-05-21-posadh-the-final-frontier.webp
+image: /images/posts/2008-05-21-posadh-the-final-frontier.webp
 categories:
     - 'An t-Saoghal'
     - Dibhearsan

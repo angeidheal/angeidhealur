@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=425'
 permalink: /2019-08-19-corr-s-9000-mile-an-lathair-aig-feis-proise-ghlaschu-ann-am-meadhan-connspaid-ur/
-image: /wp-content/uploads/2022/12/2019-08-19-corr-is-9000-an-lathair-aig-feis-proise-ghlaschu-ann-am-meadhan-connspaid-ur.webp
+image: /images/posts/2019-08-19-corr-is-9000-an-lathair-aig-feis-proise-ghlaschu-ann-am-meadhan-connspaid-ur.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

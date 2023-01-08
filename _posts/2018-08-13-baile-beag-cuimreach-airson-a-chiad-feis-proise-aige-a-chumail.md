@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=636'
 permalink: /2018-08-13-baile-beag-cuimreach-airson-a-chiad-feis-proise-aige-a-chumail/
-image: /wp-content/uploads/2022/12/2018-08-13-baile-beag-cuimreach-airson-a-chiad-feis-proise-aige-a-chumail.webp
+image: /images/posts/2018-08-13-baile-beag-cuimreach-airson-a-chiad-feis-proise-aige-a-chumail.webp
 categories:
     - 'A'' Chuimrigh'
     - 'An Rìoghachd Aonaichte'

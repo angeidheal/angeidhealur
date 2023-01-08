@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=891'
 permalink: /2008-06-22-bile-ur-a-brosnachadh-co-ionannachd-do-dhaoine-lcdt/
-image: /wp-content/uploads/2022/12/2008-06-22-bile-ur-a-brosnachadh-co-ionannachd-do-dhaoine-lcdt.webp
+image: /images/posts/2008-06-22-bile-ur-a-brosnachadh-co-ionannachd-do-dhaoine-lcdt.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - Lagh

@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=644'
 permalink: /2018-07-24-juice1038-na-chiad-steisean-reidio-lcdte-ann-an-eirinn-a-tuath/
-image: /wp-content/uploads/2022/12/2018-07-24-juice1038-na-chiad-steisean-reidio-lcdte-ann-an-eirinn-a-tuath.webp
+image: /images/posts/2018-07-24-juice1038-na-chiad-steisean-reidio-lcdte-ann-an-eirinn-a-tuath.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - Dibhearsan

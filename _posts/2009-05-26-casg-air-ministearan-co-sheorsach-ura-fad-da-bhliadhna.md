@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=785'
 permalink: /2009-05-26-casg-air-ministearan-co-sheorsach-ura-fad-da-bhliadhna/
-image: /wp-content/uploads/2022/12/2009-05-26-casg-air-ministearan-co-sheorsach-ura-fad-da-bhliadhna.webp
+image: /images/posts/2009-05-26-casg-air-ministearan-co-sheorsach-ura-fad-da-bhliadhna.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

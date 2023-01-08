@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=747'
 permalink: /2017-06-02-leo-varadkar-na-chiad-phriomhaire-co-sheorsach-aig-eirinn/
-image: /wp-content/uploads/2022/12/2017-06-02-leo-varadkar-na-chiad-priomhaire-co-sheorsach-aig-eirinn.webp
+image: /images/posts/2017-06-02-leo-varadkar-na-chiad-priomhaire-co-sheorsach-aig-eirinn.webp
 categories:
     - 'An t-Saoghal'
     - Èirinn

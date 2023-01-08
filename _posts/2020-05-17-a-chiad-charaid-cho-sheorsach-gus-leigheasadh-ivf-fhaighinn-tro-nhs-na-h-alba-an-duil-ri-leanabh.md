@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=363'
 permalink: /2020-05-17-a-chiad-charaid-cho-sheorsach-gus-leigheasadh-ivf-fhaighinn-tro-nhs-na-h-alba-an-duil-ri-leanabh/
-image: /wp-content/uploads/2022/12/2020-05-17-a-chiad-charaid-cho-sheorsach-gus-leigheasadh-ivf-fhaighinn-tro-nhs-na-h-alba-an-duil-ri-leanabh.webp
+image: /images/posts/2020-05-17-a-chiad-charaid-cho-sheorsach-gus-leigheasadh-ivf-fhaighinn-tro-nhs-na-h-alba-an-duil-ri-leanabh.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

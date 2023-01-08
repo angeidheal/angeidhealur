@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=791'
 permalink: /2009-05-25-bbc-alba-deasbad-a-leantainn-mu-mhinistearan-geidh/
-image: /wp-content/uploads/2022/12/2009-05-25-bbc-alba-deasbad-a-leantainn-mu-mhinistearan-geidh.webp
+image: /images/posts/2009-05-25-bbc-alba-deasbad-a-leantainn-mu-mhinistearan-geidh.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

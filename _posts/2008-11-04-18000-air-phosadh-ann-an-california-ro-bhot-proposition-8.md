@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=849'
 permalink: /2008-11-04-18000-air-phosadh-ann-an-california-ro-bhot-proposition-8/
-image: /wp-content/uploads/2022/12/prop-8.webp
+image: /images/posts/prop-8.webp
 categories:
     - 'An t-Saoghal'
     - Lagh

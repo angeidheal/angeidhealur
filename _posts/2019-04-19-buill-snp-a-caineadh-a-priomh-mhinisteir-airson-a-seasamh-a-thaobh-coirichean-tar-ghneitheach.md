@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=451'
 permalink: /2019-04-19-buill-snp-a-caineadh-a-priomh-mhinisteir-airson-a-seasamh-a-thaobh-coirichean-tar-ghneitheach/
-image: /wp-content/uploads/2022/12/2019-04-19-buill-snp-a-caineadh-a-phriomh-mhinisteir-airson-a-seasamh-a-thaobh-coirichean-tar-ghneitheach.webp
+image: /images/posts/2019-04-19-buill-snp-a-caineadh-a-phriomh-mhinisteir-airson-a-seasamh-a-thaobh-coirichean-tar-ghneitheach.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

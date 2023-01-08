@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=232'
 permalink: /2022-08-23-buidheann-feimineach-earra-ghaidheal-a-caineadh-tachartas-draga-prois-obain/
-image: /wp-content/uploads/2022/12/2022-08-23-buidheann-feimineach-earra-ghaidheal-a-caineadh-tachartas-draga-prois-obain.webp
+image: /images/posts/2022-08-23-buidheann-feimineach-earra-ghaidheal-a-caineadh-tachartas-draga-prois-obain.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

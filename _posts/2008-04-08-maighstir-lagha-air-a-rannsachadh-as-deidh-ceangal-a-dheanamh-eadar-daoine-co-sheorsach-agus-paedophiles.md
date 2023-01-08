@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=983'
 permalink: /2008-04-08-maighstir-lagha-air-a-rannsachadh-as-deidh-ceangal-a-dheanamh-eadar-daoine-co-sheorsach-agus-paedophiles/
-image: /wp-content/uploads/2022/12/2008-04-08-maighstir-lagha-air-a-rannsachadh-as-deidh-ceangal-a-dheanamh-eadar-co-ghneithich-agus-paedophiles.webp
+image: /images/posts/2008-04-08-maighstir-lagha-air-a-rannsachadh-as-deidh-ceangal-a-dheanamh-eadar-co-ghneithich-agus-paedophiles.webp
 categories:
     - 'A'' Chuimrigh'
     - 'An Rìoghachd Aonaichte'

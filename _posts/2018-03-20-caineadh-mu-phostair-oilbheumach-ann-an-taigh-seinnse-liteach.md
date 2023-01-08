@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=721'
 permalink: /2018-03-20-caineadh-mu-phostair-oilbheumach-ann-an-taigh-seinnse-liteach/
-image: /wp-content/uploads/2022/12/2018-03-20-caineadh-mu-phostair-oilbheumach-ann-an-taigh-seinnse-liteach.webp
+image: /images/posts/2018-03-20-caineadh-mu-phostair-oilbheumach-ann-an-taigh-seinnse-liteach.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'
@@ -22,9 +22,9 @@ Tha am postair air ainmeachadh Office Banter agus e a’ liostadh diofar abhcaid
 Am-measg na h-abhcaidean, tha eisimpleirean mar:
 
 > “What’s the hardest part of rollerblading? Telling your parents that you are gay.”
-> 
+>
 > “What did Boy George say to Michael Jackson? You Beat It, and I’ll cumma cumma cum.”
-> 
+>
 > “Did you hear about the Chinese couple that had a retarded baby? They named him Sum Ting Wong.”
 
 Ann am post air Facebook sgaoil Kevin Tierney dealbh dhen soidhne comhla ris am brath: “Toilet walls in the office on Easter road… take this racist/sexist/homophobic s\*\*\* down eh..”.

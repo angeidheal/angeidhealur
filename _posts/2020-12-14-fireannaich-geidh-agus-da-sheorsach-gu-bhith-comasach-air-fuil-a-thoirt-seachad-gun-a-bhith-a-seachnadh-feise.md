@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=332'
 permalink: /2020-12-14-fireannaich-geidh-agus-da-sheorsach-gu-bhith-comasach-air-fuil-a-thoirt-seachad-gun-a-bhith-a-seachnadh-feise/
-image: /wp-content/uploads/2022/12/tabhartas-fala.webp
+image: /images/posts/tabhartas-fala.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

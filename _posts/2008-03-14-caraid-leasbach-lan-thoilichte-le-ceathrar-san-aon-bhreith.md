@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1106'
 permalink: /2008-03-14-caraid-leasbach-lan-thoilichte-le-ceathrar-san-aon-bhreith/
-image: /wp-content/uploads/2022/12/2008-03-14-caraid-leasbach-lan-thoilichte-le-ceathrar-san-aon-bhreith.webp
+image: /images/posts/2008-03-14-caraid-leasbach-lan-thoilichte-le-ceathrar-san-aon-bhreith.webp
 categories:
     - 'An t-Saoghal'
 ---

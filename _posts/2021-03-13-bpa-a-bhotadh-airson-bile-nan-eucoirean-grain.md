@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=326'
 permalink: /2021-03-13-bpa-a-bhotadh-airson-bile-nan-eucoirean-grain/
-image: /wp-content/uploads/2022/12/2021-03-13-bpa-a-bhotadh-airson-bile-nan-eucoirean-grain.webp
+image: /images/posts/2021-03-13-bpa-a-bhotadh-airson-bile-nan-eucoirean-grain.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

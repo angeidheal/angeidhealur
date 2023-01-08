@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=261'
 permalink: /2022-03-21-criomagan-naidheachd-21-am-mart-2022/
-image: /wp-content/uploads/2022/12/criomagan.webp
+image: /images/posts/criomagan.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - Poileataigs

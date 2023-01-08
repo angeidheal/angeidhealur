@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=919'
 permalink: /2008-04-30-colin-justin-air-phosadh-ann-an-seirbheis-diomhair/
-image: /wp-content/uploads/2022/12/2008-04-30-colin-justin-air-phosadh-ann-an-seirbheis-diomhair.webp
+image: /images/posts/2008-04-30-colin-justin-air-phosadh-ann-an-seirbheis-diomhair.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

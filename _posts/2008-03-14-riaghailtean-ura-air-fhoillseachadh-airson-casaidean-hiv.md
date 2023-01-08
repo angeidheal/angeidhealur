@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1091'
 permalink: /2008-03-14-riaghailtean-ura-air-fhoillseachadh-airson-casaidean-hiv/
-image: /wp-content/uploads/2022/12/2008-03-14-riaghailtean-ura-air-fhoillseachadh-airson-casaidean-hiv.webp
+image: /images/posts/2008-03-14-riaghailtean-ura-air-fhoillseachadh-airson-casaidean-hiv.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - Lagh

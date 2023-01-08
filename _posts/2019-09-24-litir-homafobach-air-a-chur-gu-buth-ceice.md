@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=410'
 permalink: /2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice/
-image: /wp-content/uploads/2022/12/2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice.webp
+image: /images/posts/2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

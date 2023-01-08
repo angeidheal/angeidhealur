@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=105'
 permalink: /2022-11-30-seanadh-nan-s-a-air-bhotadh-gus-posadh-aon%e2%80%91sheorsach-a-ghleidheadh-ann-an-lagh-feadarail/
-image: /wp-content/uploads/2022/12/2022-11-30-seanadh-nan-s-a-air-bhotadh-gus-posadh-aon-sheorsach-a-ghleidheadh-ann-an-lagh-feadarail.webp
+image: /images/posts/2022-11-30-seanadh-nan-s-a-air-bhotadh-gus-posadh-aon-sheorsach-a-ghleidheadh-ann-an-lagh-feadarail.webp
 categories:
     - 'An t-Saoghal'
     - Lagh

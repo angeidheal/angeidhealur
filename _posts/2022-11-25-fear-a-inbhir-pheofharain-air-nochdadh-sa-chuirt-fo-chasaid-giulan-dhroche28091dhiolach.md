@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=111'
 permalink: /2022-11-25-fear-a-inbhir-pheofharain-air-nochdadh-sa-chuirt-fo-chasaid-giulan-dhroch%e2%80%91dhiolach/
-image: /wp-content/uploads/2022/12/2022-11-25-fear-a-inbhir-pheofharain-air-nochdadh-sa-chuirt-fo-chasaid-giulan-dhroch-dhiolach.webp
+image: /images/posts/2022-11-25-fear-a-inbhir-pheofharain-air-nochdadh-sa-chuirt-fo-chasaid-giulan-dhroch-dhiolach.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

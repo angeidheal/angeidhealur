@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=958'
 permalink: /2008-04-15-bbc-alba-deasbad-mu-dhaoine-geidh-a-toirt-seachad-fala/
-image: /wp-content/uploads/2022/12/tabhartas-fala.webp
+image: /images/posts/tabhartas-fala.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

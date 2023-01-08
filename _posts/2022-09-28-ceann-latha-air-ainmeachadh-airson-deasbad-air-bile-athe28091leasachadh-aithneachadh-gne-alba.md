@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=214'
 permalink: /2022-09-28-ceann%e2%80%91latha-air-ainmeachadh-airson-deasbad-air-bile-ath%e2%80%91leasachadh-aithneachadh-gne-alba/
-image: /wp-content/uploads/2022/12/2022-09-28-ceann-latha-air-ainmeachadh-airson-deasbad-air-bile-ath-leasachadh-aithneachadh-gne-alba.webp
+image: /images/posts/2022-09-28-ceann-latha-air-ainmeachadh-airson-deasbad-air-bile-ath-leasachadh-aithneachadh-gne-alba.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

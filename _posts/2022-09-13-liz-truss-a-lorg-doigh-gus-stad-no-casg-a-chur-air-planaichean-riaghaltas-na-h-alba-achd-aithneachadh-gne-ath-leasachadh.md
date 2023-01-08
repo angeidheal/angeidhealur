@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=223'
 permalink: /2022-09-13-liz-truss-a-lorg-doigh-gus-stad-no-casg-a-chur-air-planaichean-riaghaltas-na-h-alba-achd-aithneachadh-gne-ath-leasachadh/
-image: /wp-content/uploads/2022/12/2022-09-13-vice-liz-truss-a-lorg-doigh-gus-stad-no-casg-a-chur-air-planaichean-riaghaltas-na-h-alba-achd-aithneachadh-gne-ath-leasachadh.webp
+image: /images/posts/2022-09-13-vice-liz-truss-a-lorg-doigh-gus-stad-no-casg-a-chur-air-planaichean-riaghaltas-na-h-alba-achd-aithneachadh-gne-ath-leasachadh.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

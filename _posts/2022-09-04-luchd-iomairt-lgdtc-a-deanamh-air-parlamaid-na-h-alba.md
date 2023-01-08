@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=229'
 permalink: /2022-09-04-luchd-iomairt-lgdtc-a-deanamh-air-parlamaid-na-h-alba/
-image: /wp-content/uploads/2022/12/2022-09-04-luchd-iomairt-a-deanamh-air-parlamaid-na-h-alba.webp
+image: /images/posts/2022-09-04-luchd-iomairt-a-deanamh-air-parlamaid-na-h-alba.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

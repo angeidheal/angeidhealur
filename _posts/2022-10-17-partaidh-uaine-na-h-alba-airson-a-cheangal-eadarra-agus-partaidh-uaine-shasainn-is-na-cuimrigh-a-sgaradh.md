@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=141'
 permalink: /2022-10-17-partaidh-uaine-na-h-alba-airson-a-cheangal-eadarra-agus-partaidh-uaine-shasainn-is-na-cuimrigh-a-sgaradh/
-image: /wp-content/uploads/2022/12/2022-10-17-partaidh-uaine-na-h-alba-airson-a-cheangal-eadarra-agus-partaidh-shasainn-is-na-cuimrigh-a-sgaradh.webp
+image: /images/posts/2022-10-17-partaidh-uaine-na-h-alba-airson-a-cheangal-eadarra-agus-partaidh-shasainn-is-na-cuimrigh-a-sgaradh.webp
 categories:
     - 'A'' Chuimrigh'
     - Alba

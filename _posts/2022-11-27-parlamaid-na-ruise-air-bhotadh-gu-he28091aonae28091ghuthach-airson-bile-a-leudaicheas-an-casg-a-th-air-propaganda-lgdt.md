@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=108'
 permalink: /2022-11-27-parlamaid-na-ruise-air-bhotadh-gu-h%e2%80%91aona%e2%80%91ghuthach-airson-bile-a-leudaicheas-an-casg-a-th-air-propaganda-lgdt/
-image: /wp-content/uploads/2022/12/2022-11-27-parlamaid-na-ruise-air-bhotadh-gu-h-aona-ghuthach-airson-bile-a-leudaicheas-an-casg-a-th-air-propaganda-lgdt.webp
+image: /images/posts/2022-11-27-parlamaid-na-ruise-air-bhotadh-gu-h-aona-ghuthach-airson-bile-a-leudaicheas-an-casg-a-th-air-propaganda-lgdt.webp
 categories:
     - 'An t-Saoghal'
     - Lagh

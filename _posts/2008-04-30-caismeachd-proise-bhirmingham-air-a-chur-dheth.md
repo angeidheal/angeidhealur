@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=922'
 permalink: /2008-04-30-caismeachd-proise-bhirmingham-air-a-chur-dheth/
-image: /wp-content/uploads/2022/12/2008-04-30-caismeachd-proise-bhirmingham-air-a-chur-dheth.webp
+image: /images/posts/2008-04-30-caismeachd-proise-bhirmingham-air-a-chur-dheth.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - Pròis

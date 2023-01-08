@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1132'
 permalink: /2023-01-01-partaidh-uaine-na-h-alba-feumar-casg-a-chur-air-teiripe-iompachaidh-ann-an-2023/
-image: /wp-content/uploads/2022/01/2022-01-30-cha-bu-choir-do-dhalba-feitheamh-gus-casg-a-chur-air-teiripe-iompachaidh.webp
+image: /images/posts/2022-01-30-cha-bu-choir-do-dhalba-feitheamh-gus-casg-a-chur-air-teiripe-iompachaidh.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

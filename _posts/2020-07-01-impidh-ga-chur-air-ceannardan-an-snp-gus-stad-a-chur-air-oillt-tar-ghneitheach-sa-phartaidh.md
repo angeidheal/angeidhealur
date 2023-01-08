@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=352'
 permalink: /2020-07-01-impidh-ga-chur-air-ceannardan-an-snp-gus-stad-a-chur-air-oillt-tar-ghneitheach-sa-phartaidh/
-image: /wp-content/uploads/2022/12/2020-07-01-impidh-ga-chur-air-ceannardan-an-snp-gus-stad-a-chur-air-oillt-tar-ghneitheach-sa-phartaidh.webp
+image: /images/posts/2020-07-01-impidh-ga-chur-air-ceannardan-an-snp-gus-stad-a-chur-air-oillt-tar-ghneitheach-sa-phartaidh.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

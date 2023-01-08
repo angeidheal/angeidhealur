@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=343'
 permalink: /2020-07-21-grain-co-sheorsachd-a-fas-nas-cumanta-an-alba/
-image: /wp-content/uploads/2022/12/2020-07-21-grain-co-sheorsachd-a-fas-nas-cumanta-an-alba.webp
+image: /images/posts/2020-07-21-grain-co-sheorsachd-a-fas-nas-cumanta-an-alba.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

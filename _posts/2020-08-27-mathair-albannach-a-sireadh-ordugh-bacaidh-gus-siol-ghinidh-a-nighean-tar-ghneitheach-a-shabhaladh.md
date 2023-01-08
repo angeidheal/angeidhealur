@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=337'
 permalink: /2020-08-27-mathair-albannach-a-sireadh-ordugh-bacaidh-gus-siol-ghinidh-a-nighean-tar-ghneitheach-a-shabhaladh/
-image: /wp-content/uploads/2022/12/2020-08-27-mathair-albannach-a-sireadh-ordugh-bacaidh-gus-siol-ghinidh-a-nighean-tar-ghneitheach-a-shabhaladh.webp
+image: /images/posts/2020-08-27-mathair-albannach-a-sireadh-ordugh-bacaidh-gus-siol-ghinidh-a-nighean-tar-ghneitheach-a-shabhaladh.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

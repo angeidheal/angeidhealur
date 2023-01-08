@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=673'
 permalink: /2018-06-19-bpa-snp-a-caineadh-bile-nan-eucoirean-feise/
-image: /wp-content/uploads/2022/12/2018-06-19-bpa-snp-a-caineadh-bile-nan-eucoirean-feise.webp
+image: /images/posts/2018-06-19-bpa-snp-a-caineadh-bile-nan-eucoirean-feise.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

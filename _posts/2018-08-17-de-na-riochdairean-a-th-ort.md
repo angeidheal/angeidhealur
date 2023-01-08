@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=628'
 permalink: /2018-08-17-de-na-riochdairean-a-th-ort/
-image: /wp-content/uploads/2022/12/2018-08-17-de-na-riochdairean-a-th-ort.webp
+image: /images/posts/2018-08-17-de-na-riochdairean-a-th-ort.webp
 categories:
     - Gàidhlig
 ---

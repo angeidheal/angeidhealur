@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=302'
 permalink: /2021-12-01-casg-air-daoine-le-hiv-san-arm-ga-thogail/
-image: /wp-content/uploads/2022/12/2021-12-01-casg-air-daoine-le-hiv-san-arm-ga-thogail.webp
+image: /images/posts/2021-12-01-casg-air-daoine-le-hiv-san-arm-ga-thogail.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - Slàinte

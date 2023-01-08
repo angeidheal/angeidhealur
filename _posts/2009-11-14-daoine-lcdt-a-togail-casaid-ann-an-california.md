@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=843'
 permalink: /2009-11-14-daoine-lcdt-a-togail-casaid-ann-an-california/
-image: /wp-content/uploads/2022/12/prop-8.webp
+image: /images/posts/prop-8.webp
 categories:
     - 'An t-Saoghal'
     - Iomairteachd

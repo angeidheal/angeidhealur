@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=783'
 permalink: /2009-07-20-a-chiad-seirbheis-aon-sheorsach-eilean-leodhais-an-diugh/
-image: /wp-content/uploads/2022/12/posadh-aon-sheorsach.webp
+image: /images/posts/posadh-aon-sheorsach.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

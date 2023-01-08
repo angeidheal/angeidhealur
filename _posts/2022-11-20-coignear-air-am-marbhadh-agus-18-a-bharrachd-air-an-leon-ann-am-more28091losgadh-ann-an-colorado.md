@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=123'
 permalink: /2022-11-20-coignear-air-am-marbhadh-agus-18-a-bharrachd-air-an-leon-ann-am-mor%e2%80%91losgadh-ann-an-colorado/
-image: /wp-content/uploads/2022/12/2022-11-20-coignear-air-am-marbhadh-agus-18-a-bharrachd-air-an-leon-ann-an-losgadh-ann-an-colorado.webp
+image: /images/posts/2022-11-20-coignear-air-am-marbhadh-agus-18-a-bharrachd-air-an-leon-ann-an-losgadh-ann-an-colorado.webp
 categories:
     - 'An t-Saoghal'
     - Lagh

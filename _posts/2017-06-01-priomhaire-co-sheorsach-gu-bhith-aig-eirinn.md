@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=750'
 permalink: /2017-06-01-priomhaire-co-sheorsach-gu-bhith-aig-eirinn/
-image: /wp-content/uploads/2022/12/2017-06-01-priomhaire-co-sheorsach-gu-bhith-aig-eirinn.webp
+image: /images/posts/2017-06-01-priomhaire-co-sheorsach-gu-bhith-aig-eirinn.webp
 categories:
     - 'An t-Saoghal'
     - Èirinn

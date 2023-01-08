@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1094'
 permalink: /2008-03-14-lagh-an-aghaidh-grain-co-sheorsachd-a-gluasad-air-adhart/
-image: /wp-content/uploads/2022/12/2008-03-14-lagh-an-aghaidh-grain-co-sheorsachd-a-gluasad-air-adhart.webp
+image: /images/posts/2008-03-14-lagh-an-aghaidh-grain-co-sheorsachd-a-gluasad-air-adhart.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - Lagh

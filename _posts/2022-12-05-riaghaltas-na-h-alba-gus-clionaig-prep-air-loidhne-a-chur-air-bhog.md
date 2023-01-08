@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=98'
 permalink: /2022-12-05-riaghaltas-na-h-alba-gus-clionaig-prep-air-loidhne-a-chur-air-bhog/
-image: /wp-content/uploads/2022/12/2022-12-05-riaghaltas-na-h-alba-gus-clionaig-prep-air-loidhne-a-chur-air-bhog.webp
+image: /images/posts/2022-12-05-riaghaltas-na-h-alba-gus-clionaig-prep-air-loidhne-a-chur-air-bhog.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

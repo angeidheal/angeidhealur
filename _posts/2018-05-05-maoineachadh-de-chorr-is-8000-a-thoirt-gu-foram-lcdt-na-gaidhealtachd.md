@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=703'
 permalink: /2018-05-05-maoineachadh-de-chorr-is-8000-a-thoirt-gu-foram-lcdt-na-gaidhealtachd/
-image: /wp-content/uploads/2022/12/2018-05-05-maoineachadh-de-chorr-is-8000-a-thoirt-gu-foram-lgdt-na-gaidhealtachd.webp
+image: /images/posts/2018-05-05-maoineachadh-de-chorr-is-8000-a-thoirt-gu-foram-lgdt-na-gaidhealtachd.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=279'
 permalink: /2022-02-17-program-sonraichte-de-eorpa-a-coimhead-ri-cuspair-dearbh-aithne-gne/
-image: /wp-content/uploads/2022/02/2022-02-17-program-sonraichte-de-eorpa-a-coimhead-ri-cuspair-dearbh-aithne-gne.webp
+image: /images/posts/2022-02-17-program-sonraichte-de-eorpa-a-coimhead-ri-cuspair-dearbh-aithne-gne.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

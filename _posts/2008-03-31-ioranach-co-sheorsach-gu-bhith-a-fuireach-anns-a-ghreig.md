@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1028'
 permalink: /2008-03-31-ioranach-co-sheorsach-gu-bhith-a-fuireach-anns-a-ghreig/
-image: /wp-content/uploads/2022/12/2008-03-31-ioranach-co-sheorsach-gu-bhith-a-fuireach-anns-a-ghreig.webp
+image: /images/posts/2008-03-31-ioranach-co-sheorsach-gu-bhith-a-fuireach-anns-a-ghreig.webp
 categories:
     - 'An Roinn Eòrpa'
     - 'An t-Saoghal'

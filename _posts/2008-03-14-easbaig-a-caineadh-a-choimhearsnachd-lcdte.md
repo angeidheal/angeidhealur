@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1100'
 permalink: /2008-03-14-easbaig-a-caineadh-a-choimhearsnachd-lcdte/
-image: /wp-content/uploads/2022/12/2008-03-14-easbaig-a-caineadh-a-choimhearsnachd-lcdte.webp
+image: /images/posts/2008-03-14-easbaig-a-caineadh-a-choimhearsnachd-lcdte.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

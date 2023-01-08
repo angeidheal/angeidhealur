@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=811'
 permalink: /2009-03-13-deasbad-mu-dhaoine-co-sheorsach-a-toirt-seachad-fala/
-image: /wp-content/uploads/2022/12/tabhartas-fala.webp
+image: /images/posts/tabhartas-fala.webp
 categories:
     - 'A'' Chuimrigh'
     - Alba

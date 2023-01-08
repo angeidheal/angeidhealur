@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=473'
 permalink: /2019-02-17-a-gluasad-bho-wordpress-gu-jekyll/
-image: /wp-content/uploads/2022/12/2019-02-17-a-gluasad-bho-wordpress-gu-jekyll.webp
+image: /images/posts/2019-02-17-a-gluasad-bho-wordpress-gu-jekyll.webp
 categories:
     - Blog
 ---

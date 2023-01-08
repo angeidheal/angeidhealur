@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=943'
 permalink: /2008-04-22-nhs-anns-a-chuimrigh-airson-seirbheisean-co-ionann-a-thoirt-ris-a-choimhearsnachd-lcdte/
-image: /wp-content/uploads/2022/12/2008-04-22-nhs-anns-a-chuimrigh-airson-seirbheisean-co-ionann-a-thoirt-dhan-a-choimhearsnachd-lcdte.webp
+image: /images/posts/2008-04-22-nhs-anns-a-chuimrigh-airson-seirbheisean-co-ionann-a-thoirt-dhan-a-choimhearsnachd-lcdte.webp
 categories:
     - 'A'' Chuimrigh'
     - 'An Rìoghachd Aonaichte'

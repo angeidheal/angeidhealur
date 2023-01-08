@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1070'
 permalink: /2008-03-18-michael-stipe-air-radh-gu-bheil-e-co-sheorsach/
-image: /wp-content/uploads/2022/12/2008-03-18-michael-stipe-air-radh-gu-bheil-e-co-sheorsach.webp
+image: /images/posts/2008-03-18-michael-stipe-air-radh-gu-bheil-e-co-sheorsach.webp
 categories:
     - Dibhearsan
 ---

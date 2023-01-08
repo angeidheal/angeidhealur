@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=870'
 permalink: /2008-10-02-bile-lcdt-air-gluasad-air-adhart-ann-an-astrailia/
-image: /wp-content/uploads/2022/12/2008-10-02-bile-lcdt-air-gluasad-air-adhart-ann-an-astrailia.webp
+image: /images/posts/2008-10-02-bile-lcdt-air-gluasad-air-adhart-ann-an-astrailia.webp
 categories:
     - 'An t-Saoghal'
 ---

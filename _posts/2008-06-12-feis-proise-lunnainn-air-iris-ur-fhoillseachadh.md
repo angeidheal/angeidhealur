@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=894'
 permalink: /2008-06-12-feis-proise-lunnainn-air-iris-ur-fhoillseachadh/
-image: /wp-content/uploads/2022/12/2008-06-12-feis-proise-lunnainn-air-iris-ur-fhoillseachadh.webp
+image: /images/posts/2008-06-12-feis-proise-lunnainn-air-iris-ur-fhoillseachadh.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - Pròis

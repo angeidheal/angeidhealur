@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=816'
 permalink: /2009-03-02-firinn-is-feise-air-bbc-iplayer/
-image: /wp-content/uploads/2022/12/2009-03-02-firinn-is-feise-air-bbc-iplayer.webp
+image: /images/posts/2009-03-02-firinn-is-feise-air-bbc-iplayer.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

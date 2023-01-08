@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=700'
 permalink: /2018-05-20-apple-a-beachdachadh-air-oifis-ur-fhosgladh-ann-an-carolina-a-tuath-a-dhaindeoin-laghan-san-stait-a-leigeas-lethbhreith-an-aghaidh-luchd-lgdte/
-image: /wp-content/uploads/2022/12/2018-05-20-apple-a-beachdachadh-air-oifis-ur-fhosgladh-ann-an-carolina-a-tuath-a-dh-aindeoin-laghan-san-stait-a-leigeas-leth-bhreith.webp
+image: /images/posts/2018-05-20-apple-a-beachdachadh-air-oifis-ur-fhosgladh-ann-an-carolina-a-tuath-a-dh-aindeoin-laghan-san-stait-a-leigeas-leth-bhreith.webp
 categories:
     - 'An t-Saoghal'
     - Gnìomhachas

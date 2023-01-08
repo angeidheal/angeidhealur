@@ -5,7 +5,7 @@ date: '2022-06-25T18:00:57+00:00'
 author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=244'
-permalink: /2022-06-25-dithis-air-am-marbhadh-agus-21-air-an-leon-ann-an-losgadh-an-oslo/
+image: /images/posts/2022-06-25-dithis-air-am-marbhadh-agus-21-air-an-leon-ann-an-losgadh-an-oslo.webp
 categories:
     - 'An t-Saoghal'
 ---

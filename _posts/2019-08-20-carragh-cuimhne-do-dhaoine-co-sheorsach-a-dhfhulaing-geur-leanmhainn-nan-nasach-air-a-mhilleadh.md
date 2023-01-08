@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=422'
 permalink: /2019-08-20-carragh-cuimhne-do-dhaoine-co-sheorsach-a-dhfhulaing-geur-leanmhainn-nan-nasach-air-a-mhilleadh/
-image: /wp-content/uploads/2022/12/2019-08-20-carragh-cuimhne-do-dhaoine-co-sheorsach-a-dh-fhulaing-geur-leanmhainn-nan-nasach-air-a-mhilleadh-scaled.webp
+image: /images/posts/2019-08-20-carragh-cuimhne-do-dhaoine-co-sheorsach-a-dh-fhulaing-geur-leanmhainn-nan-nasach-air-a-mhilleadh-scaled.webp
 categories:
     - 'An Roinn Eòrpa'
     - 'An t-Saoghal'

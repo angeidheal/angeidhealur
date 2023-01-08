@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=907'
 permalink: /2008-05-08-homosexuality-140-bliadhna-a-dhaois/
-image: /wp-content/uploads/2022/12/2008-05-08-homosexuality-140-bliadhna-a-dhaois.webp
+image: /images/posts/2008-05-08-homosexuality-140-bliadhna-a-dhaois.webp
 categories:
     - 'An t-Saoghal'
 ---

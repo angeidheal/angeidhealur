@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=658'
 permalink: /2018-07-17-luchd-poilitigs-co-sheorsach-airson-reifreann-eile-air-brexit/
-image: /wp-content/uploads/2022/12/2018-07-17-luchd-poilitigs-co-sheorsach-airson-reifreann-eile-air-brexit.webp
+image: /images/posts/2018-07-17-luchd-poilitigs-co-sheorsach-airson-reifreann-eile-air-brexit.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - 'An Roinn Eòrpa'

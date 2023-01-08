@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=299'
 permalink: /2021-12-09-bile-shealainn-nuaidh-a-leigeil-le-daoine-tar-ghneitheach-an-gne-laghail-aca-atharrachadh/
-image: /wp-content/uploads/2022/12/2021-12-09-bile-shealainn-nuaidh-a-leigeil-le-daoine-tar-ghneitheach-an-gne-lagahil-aca-atharrachadh-scaled.webp
+image: /images/posts/2021-12-09-bile-shealainn-nuaidh-a-leigeil-le-daoine-tar-ghneitheach-an-gne-lagahil-aca-atharrachadh-scaled.webp
 categories:
     - 'An t-Saoghal'
 ---

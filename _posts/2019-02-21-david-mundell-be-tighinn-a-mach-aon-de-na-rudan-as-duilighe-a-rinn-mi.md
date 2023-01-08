@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=470'
 permalink: /2019-02-21-david-mundell-be-tighinn-a-mach-aon-de-na-rudan-as-duilighe-a-rinn-mi/
-image: /wp-content/uploads/2022/12/2019-02-21-david-mundell-b-e-tighinn-a-mach-aon-de-na-rudan-as-duilghe-a-rinn-mi-scaled.webp
+image: /images/posts/2019-02-21-david-mundell-b-e-tighinn-a-mach-aon-de-na-rudan-as-duilghe-a-rinn-mi-scaled.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

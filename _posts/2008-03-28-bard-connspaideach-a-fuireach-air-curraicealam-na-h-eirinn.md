@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1058'
 permalink: /2008-03-28-bard-connspaideach-a-fuireach-air-curraicealam-na-h-eirinn/
-image: /wp-content/uploads/2022/12/2008-03-28-bard-connspaideach-a-fuireach-air-curraicealam-na-h-eirinn.webp
+image: /images/posts/2008-03-28-bard-connspaideach-a-fuireach-air-curraicealam-na-h-eirinn.webp
 categories:
     - 'An t-Saoghal'
     - Dibhearsan

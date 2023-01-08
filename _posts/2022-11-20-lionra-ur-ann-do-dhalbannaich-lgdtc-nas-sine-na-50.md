@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=120'
 permalink: /2022-11-20-lionra-ur-ann-do-dhalbannaich-lgdtc-nas-sine-na-50/
-image: /wp-content/uploads/2022/12/2022-11-20-lionra-ur-ann-do-dhalbannaich-lgdtc-nas-sine-na-50.webp
+image: /images/posts/2022-11-20-lionra-ur-ann-do-dhalbannaich-lgdtc-nas-sine-na-50.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1016'
 permalink: /2008-04-02-neach-poileataigs-air-tionndadh-an-aghaidh-pflag/
-image: /wp-content/uploads/2022/12/2008-04-02-neach-poileataigs-air-tionndadh-an-aghaidh-pflag.webp
+image: /images/posts/2008-04-02-neach-poileataigs-air-tionndadh-an-aghaidh-pflag.webp
 categories:
     - 'An t-Saoghal'
     - Iomairteachd

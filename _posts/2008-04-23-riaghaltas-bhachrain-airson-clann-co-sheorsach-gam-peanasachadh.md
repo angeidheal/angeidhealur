@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=934'
 permalink: /2008-04-23-riaghaltas-bhachrain-airson-clann-co-sheorsach-gam-peanasachadh/
-image: /wp-content/uploads/2022/12/2008-04-23-riaghaltas-bhachrain-airson-clann-co-sheorsach-gam-peanasachadh.webp
+image: /images/posts/2008-04-23-riaghaltas-bhachrain-airson-clann-co-sheorsach-gam-peanasachadh.webp
 categories:
     - 'An t-Saoghal'
     - Lagh

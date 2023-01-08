@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=759'
 permalink: /2012-07-17-ceannard-caitligeach-airson-bhotadh-air-posaidhean-aon-sheorsach/
-image: /wp-content/uploads/2022/12/2012-07-17-ceannard-caitligeach-airson-bhotadh-air-posaidhean-aon-sheorsach.webp
+image: /images/posts/2012-07-17-ceannard-caitligeach-airson-bhotadh-air-posaidhean-aon-sheorsach.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

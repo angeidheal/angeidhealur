@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1076'
 permalink: /2008-03-17-nirribhidh-a-deanamh-posaidhean-aon-sheorsach-laghail/
-image: /wp-content/uploads/2022/12/2008-03-17-nirribhidh-a-deanamh-posaidhean-aon-sheorsach-laghail.webp
+image: /images/posts/2008-03-17-nirribhidh-a-deanamh-posaidhean-aon-sheorsach-laghail.webp
 categories:
     - 'An Roinn Eòrpa'
     - 'An t-Saoghal'

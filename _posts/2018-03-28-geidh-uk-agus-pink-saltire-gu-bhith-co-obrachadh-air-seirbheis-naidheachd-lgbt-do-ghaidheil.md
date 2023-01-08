@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=709'
 permalink: /2018-03-28-geidh-uk-agus-pink-saltire-gu-bhith-co-obrachadh-air-seirbheis-naidheachd-lgbt-do-ghaidheil/
-image: /wp-content/uploads/2022/12/2018-03-28-geidh-uk-agus-pink-saltire-gu-bhith-co-obrachadh.webp
+image: /images/posts/2018-03-28-geidh-uk-agus-pink-saltire-gu-bhith-co-obrachadh.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'
@@ -51,7 +51,7 @@ Mar charthannais againn ’s e ar n-amasan a bhith:
 - stòras didseatach a tha a’ cruthachadh dìleab leantainneach de chultar LGBT+ ann an Alba
 - rannsachadh leantainneach a tha a’ measadh bheachdan sòisealta, cùisean breithneachail agus a’ measadh buaidh chultarach agus eaconamach cudromach dhaoine LGBT +
 - prògram a tha ag aithneachadh, a’ toirt urram agus a’ comharrachadh na daoine agus na buidhnean sin a tha a’ strì airson beatha nas fheàrr airson daoine LGBT + ann an Alba.
-    
+
     Tha obair Pink Saltire air a roinn ann an trì sreathan obrach:
 
 - IONNSAICH – far a bheil sinn a’ cleachdadh dhòighean meadhanan ùra gus ar coimhearsnachd agus na beachdan aca a thuigsinn agus an dàta seo a chleachdadh gus ar seirbheis leasachadh agus tuigse nas fhèarr fhaighainn air ar prìomhachasan.

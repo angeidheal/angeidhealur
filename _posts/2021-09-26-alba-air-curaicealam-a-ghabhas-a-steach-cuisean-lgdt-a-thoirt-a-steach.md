@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=307'
 permalink: /2021-09-26-alba-air-curaicealam-a-ghabhas-a-steach-cuisean-lgdt-a-thoirt-a-steach/
-image: /wp-content/uploads/2022/12/2021-09-26-alba-air-curaicealam-a-ghabhas-a-steach-cuisean-lgdt-a-thoirt-a-steach.webp
+image: /images/posts/2021-09-26-alba-air-curaicealam-a-ghabhas-a-steach-cuisean-lgdt-a-thoirt-a-steach.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

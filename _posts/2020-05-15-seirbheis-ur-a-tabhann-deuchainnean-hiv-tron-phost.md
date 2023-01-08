@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=366'
 permalink: /2020-05-15-seirbheis-ur-a-tabhann-deuchainnean-hiv-tron-phost/
-image: /wp-content/uploads/2022/12/2020-05-15-seirbheis-ur-a-tabhann-deuchainnean-hiv-tron-phost.webp
+image: /images/posts/2020-05-15-seirbheis-ur-a-tabhann-deuchainnean-hiv-tron-phost.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

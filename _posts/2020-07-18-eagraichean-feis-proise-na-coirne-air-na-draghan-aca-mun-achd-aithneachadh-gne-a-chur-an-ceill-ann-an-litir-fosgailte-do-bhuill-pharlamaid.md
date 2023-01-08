@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=346'
 permalink: /2020-07-18-eagraichean-feis-proise-na-coirne-air-na-draghan-aca-mun-achd-aithneachadh-gne-a-chur-an-ceill-ann-an-litir-fosgailte-do-bhuill-pharlamaid/
-image: /wp-content/uploads/2022/12/2020-07-18-eagraichean-feis-proise-na-coirne-air-na-draghan-aca-mun-achd-aithneachadh-gne-a-chur-an-ceill-ann-an-litir-fosgailte-do-bhuill-pharlamaid.webp
+image: /images/posts/2020-07-18-eagraichean-feis-proise-na-coirne-air-na-draghan-aca-mun-achd-aithneachadh-gne-a-chur-an-ceill-ann-an-litir-fosgailte-do-bhuill-pharlamaid.webp
 categories:
     - 'An Rìoghachd Aonaichte'
     - Lagh

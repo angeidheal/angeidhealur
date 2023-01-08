@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1037'
 permalink: /2008-03-30-parlamaid-chuba-a-beachdachadh-air-coirichean-lcdte/
-image: /wp-content/uploads/2022/12/2008-03-30-parlamaid-chuba-a-beachdachadh-air-coirichean-lcdte.webp
+image: /images/posts/2008-03-30-parlamaid-chuba-a-beachdachadh-air-coirichean-lcdte.webp
 categories:
     - 'An t-Saoghal'
     - Lagh

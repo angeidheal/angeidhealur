@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1040'
 permalink: /2008-03-30-iosrael-air-bhiosa-a-thorit-ri-palastaineach-co-sheorsach/
-image: /wp-content/uploads/2022/12/2008-03-30-iosrael-air-bhiosa-a-thoirt-ri-palastaineach-co-sheorsach.webp
+image: /images/posts/2008-03-30-iosrael-air-bhiosa-a-thoirt-ri-palastaineach-co-sheorsach.webp
 categories:
     - 'An t-Saoghal'
     - Lagh

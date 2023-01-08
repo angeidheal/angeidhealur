@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=706'
 permalink: /2018-04-19-parlamaid-na-h-alba-a-toirt-taic-ri-lagh-thuring/
-image: /wp-content/uploads/2022/12/2018-04-19-parlamaid-na-h-alba-a-toirt-taic-ri-lagh-thuring.webp
+image: /images/posts/2018-04-19-parlamaid-na-h-alba-a-toirt-taic-ri-lagh-thuring.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

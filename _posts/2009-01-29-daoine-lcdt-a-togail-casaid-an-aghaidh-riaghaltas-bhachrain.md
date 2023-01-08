@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=822'
 permalink: /2009-01-29-daoine-lcdt-a-togail-casaid-an-aghaidh-riaghaltas-bhachrain/
-image: /wp-content/uploads/2022/12/2009-01-29-daoine-lcdt-a-togail-casaid-an-aghaidh-riaghaltas-bharain.webp
+image: /images/posts/2009-01-29-daoine-lcdt-a-togail-casaid-an-aghaidh-riaghaltas-bharain.webp
 categories:
     - 'An t-Saoghal'
     - Iomairteachd

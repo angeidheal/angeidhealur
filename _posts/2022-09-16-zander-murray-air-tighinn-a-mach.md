@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=220'
 permalink: /2022-09-16-zander-murray-air-tighinn-a-mach/
-image: /wp-content/uploads/2022/12/2022-09-16-zander-murray-air-tighinn-a-mach.webp
+image: /images/posts/2022-09-16-zander-murray-air-tighinn-a-mach.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

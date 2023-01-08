@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1143'
 permalink: /2019-10-08-trusadh-bogha-froise/
-image: /wp-content/uploads/2022/12/Highland_Pride.webp
+image: /images/posts/Highland_Pride.webp
 categories:
     - Alba
     - Dibhearsan

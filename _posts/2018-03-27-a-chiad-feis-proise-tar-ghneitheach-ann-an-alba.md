@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=712'
 permalink: /2018-03-27-a-chiad-feis-proise-tar-ghneitheach-ann-an-alba/
-image: /wp-content/uploads/2022/12/2018-03-27-a-chiad-feis-proise-tar-ghneitheach-ann-an-alba.webp
+image: /images/posts/2018-03-27-a-chiad-feis-proise-tar-ghneitheach-ann-an-alba.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

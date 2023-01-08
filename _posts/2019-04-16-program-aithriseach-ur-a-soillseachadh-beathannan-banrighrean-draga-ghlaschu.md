@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=455'
 permalink: /2019-04-16-program-aithriseach-ur-a-soillseachadh-beathannan-banrighrean-draga-ghlaschu/
-image: /wp-content/uploads/2022/12/2019-04-16-program-aithriseach-a-soillseachadh-beathannan-banrighrean-draga-ghlaschu.webp
+image: /images/posts/2019-04-16-program-aithriseach-a-soillseachadh-beathannan-banrighrean-draga-ghlaschu.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

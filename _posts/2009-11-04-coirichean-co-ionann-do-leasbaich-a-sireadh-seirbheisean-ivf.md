@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=780'
 permalink: /2009-11-04-coirichean-co-ionann-do-leasbaich-a-sireadh-seirbheisean-ivf/
-image: /wp-content/uploads/2022/12/2009-11-04-coirichean-co-ionann-do-leasbaich-a-sireadh-seirbheisean-ivf.webp
+image: /images/posts/2009-11-04-coirichean-co-ionann-do-leasbaich-a-sireadh-seirbheisean-ivf.webp
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

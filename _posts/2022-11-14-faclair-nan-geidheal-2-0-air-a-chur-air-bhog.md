@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=1148'
 permalink: /2022-11-14-faclair-nan-geidheal-2-0-air-a-chur-air-bhog/
-image: /wp-content/uploads/2023/01/fnang.webp
+image: /images/posts/fnang.webp
 categories:
     - Blog
     - Gàidhlig

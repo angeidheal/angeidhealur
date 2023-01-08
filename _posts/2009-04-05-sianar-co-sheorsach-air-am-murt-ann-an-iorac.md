@@ -6,7 +6,7 @@ author: angeidheal
 layout: post
 guid: 'https://angeidhealur.scot/?p=799'
 permalink: /2009-04-05-sianar-co-sheorsach-air-am-murt-ann-an-iorac/
-image: /wp-content/uploads/2022/12/2009-04-05-sianar-co-sheorsach-air-am-murt-ann-an-iorac.webp
+image: /images/posts/2009-04-05-sianar-co-sheorsach-air-am-murt-ann-an-iorac.webp
 categories:
     - 'An t-Saoghal'
 ---
