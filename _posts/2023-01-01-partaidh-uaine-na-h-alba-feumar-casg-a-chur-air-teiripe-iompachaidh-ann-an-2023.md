@@ -27,7 +27,3 @@ Ann am [brath-naidheachd a ghabhas a leughadh air an làrach-lìn aca](https://g
 “Tha iad ainneartach, droch-dhìolach agus chan eil àite ann dhaibh ann an comann-sòisealta ùr-fhasanta is adhartach.
 
 “Am-bliadhna bidh sinn ag obair còmhla ri luchd-iomairt agus Riaghaltas na h-Alba gus reachdas a thoirt a steach a chuireas stad air cleachdaidhean iompachaidh gu bràth.”
-
-#### Fàg beachd
-
-Ma tha beachd agad mun sgeulachd seo, faodaidh tu a chur thugam air [Mastodon](https://mastodon.scot/@angeidheal/109615316374874256).
