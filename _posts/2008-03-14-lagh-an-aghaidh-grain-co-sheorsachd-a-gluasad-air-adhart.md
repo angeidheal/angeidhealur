@@ -1,0 +1,24 @@
+---
+id: 1094
+title: 'Lagh an-aghaidh gràin-co-sheòrsachd a’ gluasad air adhart'
+date: '2008-03-14T10:30:29+00:00'
+author: angeidheal
+layout: post
+guid: 'https://angeidhealur.scot/?p=1094'
+permalink: /2008-03-14-lagh-an-aghaidh-grain-co-sheorsachd-a-gluasad-air-adhart/
+image: /wp-content/uploads/2022/12/2008-03-14-lagh-an-aghaidh-grain-co-sheorsachd-a-gluasad-air-adhart.webp
+categories:
+    - 'An Rìoghachd Aonaichte'
+    - Lagh
+    - Poileataigs
+---
+
+Chaidh deasbad a chumail ann an Taigh nam Morairean seachdain seo chaidh mu dheidhinn lagh ùr a bhios a’ ciallachadh gum bi gràin-co-sheòrsachd (*Homophobia*) mì-laghail.
+
+A bharrachd air seo tha an Riaghaltas airson an lagh seo a bhith a’ dèanamh sgaradh eadar co-sheòrsachd (*Homosexuality*) agus *paedophilia*.
+
+Thuirt Morair Thomas à Gresford:
+
+“Tha sinn a’ gabhail gnothach ris am beachd a tha aig a’ BhNP (Partaidh Nàiseanta Bhreatainn) agus daoine eile a tha a’ smaoinntinn gu bheil ceangal ann eadar co-sheòrsachd agus *paedophilia* agus gum feumadh *paedophile* a bhith anns a h-uile duine co-sheòrsach.”
+
+Chaidh an lagh tron ìre chomadaidh ach feumaidh e a-nis a dhol tron ìre iomradh ann an Taigh nam Morairean.

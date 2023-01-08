@@ -1,0 +1,24 @@
+---
+id: 1064
+title: 'Siridheach co-sheòrsach gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte'
+date: '2008-03-19T07:47:34+00:00'
+author: angeidheal
+layout: post
+guid: 'https://angeidhealur.scot/?p=1064'
+permalink: /2008-03-19-siridheach-co-sheorsach-gu-bhith-a-fuadach-a-mach-as-an-rioghachd-aonaichte/
+image: /wp-content/uploads/2022/12/2008-03-19-siridheach-co-sheorsach-gu-bhith-a-fuadach-a-mach-as-an-rioghachd-aonaichte.webp
+categories:
+    - Alba
+    - 'An Rìoghachd Aonaichte'
+    - 'An t-Saoghal'
+    - Lagh
+    - Poileataigs
+---
+
+Tha deugaire Siridheach gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte air sgàth ’s gun do dhiùlt Rùnaire na Dùthcha an iarrtas aige airson tèarmann poileataigeach.
+
+Tha JoJo Jako Yakob ag ràdh gun tèid a mharbhadh nan tèid e air ais gu Siria. Thuirt e gun robh am Poileas a’ bagairt air agus ga bhualadh nuair a bha e ann an Siria, bha e cho dona gun do leig iad peilear ann agus gun robh e ann an còma air sgàth ’s na pronnaidhean.
+
+Tha Riaghaltas Bhreatainn ag ràdh gun do dhiùlt iad an iarrtas aige air sgàth ’s gun robh e a’ cleachdadh cead-siubhail brèige.
+
+Bidh Yakob mu choinneamh cùirt ann an Glaschu 7mh Chèitean gus fhaighinn a-mach dè bhios a’ tachairt dha.
