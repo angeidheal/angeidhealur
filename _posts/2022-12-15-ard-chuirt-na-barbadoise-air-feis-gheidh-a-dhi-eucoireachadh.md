@@ -30,10 +30,6 @@ Ron a sheo, dh’fhaodadh binn priosan fad beatha a chur air duine sam bith a ch
 
 Tha a’ cho-dhùnadh seo a’ leantainn air riaghlaidhean dhen aon t-seòrsa ann an Aintìoga agus Naomh Crìstean is Nibheis na bu tràithe am-bliadhna.
 
-#### Fàg beachd
-
-Ma tha beachd agad mun sgeulachd seo, faodaidh tu a chur thugam air [Mastodon](https://www.mastodon.scot/@angeidheal).
-
 #### Barrachd fhiosrachaidh
 
 Faodaidh tu barrachd leughadh mun sgeulachd seo an-seo:
