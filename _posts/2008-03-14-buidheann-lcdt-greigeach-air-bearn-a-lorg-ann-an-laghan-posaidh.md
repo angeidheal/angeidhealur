@@ -1,15 +1,12 @@
 ---
-id: 1109
-title: 'Buidheann LCDT Grèigeach air beàrn a lorg ann an laghan pòsaidh'
-date: '2008-03-14T09:30:24+00:00'
-author: angeidheal
 layout: post
-guid: 'https://angeidhealur.scot/?p=1109'
-permalink: /2008-03-14-buidheann-lcdt-greigeach-air-bearn-a-lorg-ann-an-laghan-posaidh/
+date: 2008-03-14 09:30
+title: Buidheann LCDT Grèigeach air beàrn a lorg ann an laghan pòsaidh
 image: /images/posts/2008-03-14-buidheann-lcdt-greigeach-air-bearn-a-lorg-ann-an-laghan-posaidh.webp
+author: Crìstean MacMhìcheil  
 categories:
-    - 'An Roinn Eòrpa'
-    - 'An t-Saoghal'
+    - An Roinn Eòrpa
+    - An t-Saoghal
     - Iomairteachd
     - Lagh
     - Poileataigs
