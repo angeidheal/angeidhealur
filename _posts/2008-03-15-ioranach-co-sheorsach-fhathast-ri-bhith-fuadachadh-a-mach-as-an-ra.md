@@ -1,16 +1,13 @@
 ---
-id: 1088
-title: 'Iorànach co-sheòrsach fhathast ri bhith fuadachadh a-mach às an RA'
-date: '2008-03-15T11:17:11+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=1088'
-permalink: /2008-03-15-ioranach-co-sheorsach-fhathast-ri-bhith-fuadachadh-a-mach-as-an-ra/
+date: 2008-03-15 11:17
+title: Iorànach co-sheòrsach fhathast ri bhith fuadachadh a-mach às an RA
 image: /images/posts/2008-03-15-ioranach-co-sheorsach-fhathast-ri-bhith-fuadachadh-a-mach-as-an-ra.webp
+author: Crìstean MacMhìcheil
 categories:
-    - 'An Rìoghachd Aonaichte'
-    - 'An Roinn Eòrpa'
-    - 'An t-Saoghal'
+    - An Rìoghachd Aonaichte
+    - An Roinn Eòrpa
+    - An t-Saoghal
     - Lagh
     - Poileataigs
 ---

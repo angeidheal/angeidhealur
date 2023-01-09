@@ -1,14 +1,11 @@
 ---
-id: 1091
-title: 'Riaghailtean ùra air fhoillseachadh airson casaidean HIV'
-date: '2008-03-14T14:01:24+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=1091'
-permalink: /2008-03-14-riaghailtean-ura-air-fhoillseachadh-airson-casaidean-hiv/
+date: 2008-03-14 14:01
+title: 'Riaghailtean ùra air fhoillseachadh airson casaidean HIV'
 image: /images/posts/2008-03-14-riaghailtean-ura-air-fhoillseachadh-airson-casaidean-hiv.webp
+author: Crìstean MacMhìcheil
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Slàinte
 ---
