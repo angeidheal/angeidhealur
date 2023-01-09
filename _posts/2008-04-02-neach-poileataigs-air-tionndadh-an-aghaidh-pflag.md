@@ -2,7 +2,7 @@
 id: 1016
 title: 'Neach-poileataigs air tionndadh an aghaidh PFLAG'
 date: '2008-04-02T10:59:03+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1016'
 permalink: /2008-04-02-neach-poileataigs-air-tionndadh-an-aghaidh-pflag/

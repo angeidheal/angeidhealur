@@ -2,7 +2,7 @@
 id: 374
 title: 'Derek Ogg air bàsachadh'
 date: '2020-05-04T18:00:23+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=374'
 permalink: /2020-05-04-derek-ogg-air-basachadh/

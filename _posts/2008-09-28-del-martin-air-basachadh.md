@@ -2,7 +2,7 @@
 id: 873
 title: 'Del Martin air bàsachadh'
 date: '2008-09-28T11:45:32+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=873'
 permalink: /2008-09-28-del-martin-air-basachadh/

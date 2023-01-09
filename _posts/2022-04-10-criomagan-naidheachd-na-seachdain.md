@@ -2,7 +2,7 @@
 id: 249
 title: 'Criomagan Naidheachd na Seachdain'
 date: '2022-04-10T18:00:42+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=249'
 permalink: /2022-04-10-criomagan-naidheachd-na-seachdain/

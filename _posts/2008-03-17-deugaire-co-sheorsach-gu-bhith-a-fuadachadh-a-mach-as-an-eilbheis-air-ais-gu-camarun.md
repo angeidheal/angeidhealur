@@ -2,7 +2,7 @@
 id: 1082
 title: 'Deugaire co-sheòrsach gu bhith a’ fuadachadh a-mach às an Èilbheis air ais gu Camarun'
 date: '2008-03-17T18:36:48+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1082'
 permalink: /2008-03-17-deugaire-co-sheorsach-gu-bhith-a-fuadachadh-a-mach-as-an-eilbheis-air-ais-gu-camarun/

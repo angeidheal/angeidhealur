@@ -2,7 +2,7 @@
 id: 386
 title: 'Fireannach fo chasaid ionnsaigh a thoirt air deugair tar-ghnèitheach'
 date: '2020-01-04T18:00:36+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=386'
 permalink: /2020-01-04-fireannach-fo-chasaid-ionnsaigh-a-thoirt-air-deugair-tar-ghneitheach/

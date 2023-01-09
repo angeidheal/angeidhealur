@@ -2,7 +2,7 @@
 id: 305
 title: 'Muinntir na h-Eilbheise air bhòtadh airson pòsadh aon-sheòrsach'
 date: '2021-09-26T20:15:59+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=305'
 permalink: /2021-09-26-muinntir-na-h-eilbheise-air-bhotadh-airson-posadh-aon-sheorsach/

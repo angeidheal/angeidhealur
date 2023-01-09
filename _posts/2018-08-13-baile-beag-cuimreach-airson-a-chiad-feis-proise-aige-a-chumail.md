@@ -2,7 +2,7 @@
 id: 636
 title: 'Baile beag Cuimreach airson a’ chiad fèis-pròise aige a chumail'
 date: '2018-08-13T20:45:52+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=636'
 permalink: /2018-08-13-baile-beag-cuimreach-airson-a-chiad-feis-proise-aige-a-chumail/

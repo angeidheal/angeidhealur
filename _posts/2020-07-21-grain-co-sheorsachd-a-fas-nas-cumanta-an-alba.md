@@ -2,7 +2,7 @@
 id: 343
 title: 'Gràin co-sheòrsachd a&#8217; fàs nas cumanta an Alba'
 date: '2020-07-21T18:00:31+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=343'
 permalink: /2020-07-21-grain-co-sheorsachd-a-fas-nas-cumanta-an-alba/

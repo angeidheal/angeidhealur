@@ -2,7 +2,7 @@
 id: 108
 title: 'Pàrlamaid na Ruise air bhòtadh gu h‑aona‑ghuthach airson bile a leudaicheas an casg a th’ air “propaganda LGDT”'
 date: '2022-11-27T11:47:24+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=108'
 permalink: /2022-11-27-parlamaid-na-ruise-air-bhotadh-gu-h%e2%80%91aona%e2%80%91ghuthach-airson-bile-a-leudaicheas-an-casg-a-th-air-propaganda-lgdt/

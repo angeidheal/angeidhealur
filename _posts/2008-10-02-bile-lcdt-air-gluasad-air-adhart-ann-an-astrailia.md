@@ -2,7 +2,7 @@
 id: 870
 title: 'Bile LCDT air gluasad air adhart ann an Astràilia'
 date: '2008-10-02T22:30:11+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=870'
 permalink: /2008-10-02-bile-lcdt-air-gluasad-air-adhart-ann-an-astrailia/

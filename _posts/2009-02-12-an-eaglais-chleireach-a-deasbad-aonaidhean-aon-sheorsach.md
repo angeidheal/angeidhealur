@@ -2,7 +2,7 @@
 id: 819
 title: 'An Eaglais Chlèireach a’ deasbad aonaidhean aon-sheòrsach'
 date: '2009-02-12T13:34:20+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=819'
 permalink: /2009-02-12-an-eaglais-chleireach-a-deasbad-aonaidhean-aon-sheorsach/

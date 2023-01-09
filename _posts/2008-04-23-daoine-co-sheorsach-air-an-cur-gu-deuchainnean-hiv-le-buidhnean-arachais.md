@@ -2,7 +2,7 @@
 id: 937
 title: 'Daoine co-sheòrsach air an cur gu deuchainnean HIV le buidhnean àrachais'
 date: '2008-04-23T18:33:17+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=937'
 permalink: /2008-04-23-daoine-co-sheorsach-air-an-cur-gu-deuchainnean-hiv-le-buidhnean-arachais/

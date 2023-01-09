@@ -2,7 +2,7 @@
 id: 1031
 title: 'Tidsearan co-sheòrsach ann an Èirinn gu bhith gan cur à dreuchd'
 date: '2008-03-30T10:54:27+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1031'
 permalink: /2008-03-30-tidsearan-co-sheorsach-ann-an-eirinn-gu-bhith-gan-cur-a-dreuchd/

@@ -2,7 +2,7 @@
 id: 296
 title: 'Lagh aithneachadh gnè ùr an Eilbheis'
 date: '2022-01-01T18:00:57+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=296'
 permalink: /2022-01-01-lagh-aithneachadh-gne-ur-an-eilbheis/

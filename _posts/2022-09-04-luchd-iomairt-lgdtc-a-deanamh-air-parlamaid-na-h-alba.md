@@ -2,7 +2,7 @@
 id: 229
 title: 'Luchd-iomairt LGDTC+ a&#8217; dèanamh air Pàrlamaid na h-Alba'
 date: '2022-09-04T18:00:38+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=229'
 permalink: /2022-09-04-luchd-iomairt-lgdtc-a-deanamh-air-parlamaid-na-h-alba/

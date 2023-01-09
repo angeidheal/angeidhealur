@@ -2,7 +2,7 @@
 id: 676
 title: 'Bhidio ùr a’ soilleireachadh an casg a th’ air daoine co-sheòrsach agus dà-sheòrsach bho bhith a’ toirt seachad fala'
 date: '2018-06-08T18:00:04+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=676'
 permalink: /2018-06-08-bhidio-ur-a-soilleireachadh-an-casg-a-th-air-daoine-co-sheorsach-agus-da-sheorsach-bho-bhith-a-toirt-seachad-fala/

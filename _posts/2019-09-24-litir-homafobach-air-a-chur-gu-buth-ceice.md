@@ -2,7 +2,7 @@
 id: 410
 title: 'Litir homafòbach air a chur gu bùth cèice'
 date: '2019-09-24T13:45:08+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=410'
 permalink: /2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice/

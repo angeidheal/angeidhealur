@@ -2,7 +2,7 @@
 id: 644
 title: 'Juice1038 na chiad stèisean rèidio LCDTE ann an Èirinn a Tuath'
 date: '2018-07-24T12:46:49+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=644'
 permalink: /2018-07-24-juice1038-na-chiad-steisean-reidio-lcdte-ann-an-eirinn-a-tuath/

@@ -2,7 +2,7 @@
 id: 780
 title: 'Còirichean co-ionann do leasbaich a’ sireadh seirbheisean IVF'
 date: '2009-11-04T18:45:22+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=780'
 permalink: /2009-11-04-coirichean-co-ionann-do-leasbaich-a-sireadh-seirbheisean-ivf/

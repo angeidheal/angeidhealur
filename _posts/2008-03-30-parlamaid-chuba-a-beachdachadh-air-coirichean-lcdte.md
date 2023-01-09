@@ -2,7 +2,7 @@
 id: 1037
 title: 'Pàrlamaid Chùba a’ beachdachadh air còirichean LCDTE'
 date: '2008-03-30T10:11:53+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1037'
 permalink: /2008-03-30-parlamaid-chuba-a-beachdachadh-air-coirichean-lcdte/

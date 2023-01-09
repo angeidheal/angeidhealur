@@ -2,7 +2,7 @@
 id: 238
 title: 'Èirinn: Tar-bhoireannaich toirmeasgte bho rugbaidh nam ban'
 date: '2022-08-12T18:00:02+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=238'
 permalink: /2022-08-12-eirinn-tar-bhoireannaich-toirmeasgte-bho-rugbaidh-nam-ban/

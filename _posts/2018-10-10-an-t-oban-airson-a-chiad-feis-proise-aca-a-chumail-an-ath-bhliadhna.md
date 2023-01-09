@@ -2,7 +2,7 @@
 id: 596
 title: 'An t-Òban airson a’ chiad fèis-pròise aca a chumail an ath-bhliadhna'
 date: '2018-10-10T13:17:57+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=596'
 permalink: /2018-10-10-an-t-oban-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna/

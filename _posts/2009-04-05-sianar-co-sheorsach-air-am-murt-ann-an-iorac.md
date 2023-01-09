@@ -2,7 +2,7 @@
 id: 799
 title: 'Sianar co-sheòrsach air am murt ann an Ioràc'
 date: '2009-04-05T19:02:07+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=799'
 permalink: /2009-04-05-sianar-co-sheorsach-air-am-murt-ann-an-iorac/

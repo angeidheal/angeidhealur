@@ -2,7 +2,7 @@
 id: 241
 title: 'Sasainn: Tar-bhoireannaich toirmeasgte bho rugbaidh nam ban'
 date: '2022-07-30T18:00:10+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=241'
 permalink: /2022-07-30-sasainn-tar-bhoireannaich-toirmeasgte-bho-rugbaidh-nam-ban/

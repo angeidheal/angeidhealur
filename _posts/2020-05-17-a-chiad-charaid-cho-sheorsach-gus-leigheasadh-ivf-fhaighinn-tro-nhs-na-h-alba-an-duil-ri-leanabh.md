@@ -2,7 +2,7 @@
 id: 363
 title: 'A’ chiad chàraid cho-sheòrsach gus leigheasadh IVF fhaighinn tro NHS na h-Alba an dùil ri leanabh'
 date: '2020-05-17T18:00:07+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=363'
 permalink: /2020-05-17-a-chiad-charaid-cho-sheorsach-gus-leigheasadh-ivf-fhaighinn-tro-nhs-na-h-alba-an-duil-ri-leanabh/

@@ -2,7 +2,7 @@
 id: 682
 title: 'Lìonra ùr stèideachadh gus taic a thoirt ri thidsearan LCDT+'
 date: '2018-06-07T21:30:47+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=682'
 permalink: /2018-06-07-lionra-ur-steideachadh-gus-taic-a-thoirt-ri-thidsearan-lcdt/

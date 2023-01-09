@@ -2,7 +2,7 @@
 id: 458
 title: 'Ionnsaigh ann an Dùn Èideann'
 date: '2019-04-15T19:52:14+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=458'
 permalink: /2019-04-15-ionnsaigh-ann-an-dun-eideann/

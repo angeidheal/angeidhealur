@@ -2,7 +2,7 @@
 id: 840
 title: 'Cha tèid planaichean airson àrd-sgoil LCDT ann an Chicago air adhart'
 date: '2008-11-26T16:37:40+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=840'
 permalink: /2008-11-26-cha-teid-planaichean-airson-ard-sgoil-lcdt-ann-an-chicago-air-adhart/

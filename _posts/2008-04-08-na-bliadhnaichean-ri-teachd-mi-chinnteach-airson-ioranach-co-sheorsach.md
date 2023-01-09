@@ -2,7 +2,7 @@
 id: 980
 title: 'Na bliadhnaichean ri teachd mì-chinnteach airson Iorànach co-sheòrsach'
 date: '2008-04-08T17:36:01+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=980'
 permalink: /2008-04-08-na-bliadhnaichean-ri-teachd-mi-chinnteach-airson-ioranach-co-sheorsach/

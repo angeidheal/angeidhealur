@@ -2,7 +2,7 @@
 id: 1067
 title: 'An Èipheit air a chàineadh airson an iomairt an aghaidh AIDS lagachadh'
 date: '2008-03-19T07:31:34+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1067'
 permalink: /2008-03-19-an-eipheit-air-a-chaineadh-airson-an-iomairt-an-aghaidh-aids-lagachadh/

@@ -2,7 +2,7 @@
 id: 849
 title: '18,000 air phòsadh ann an California ro bhòt Proposition 8'
 date: '2008-11-04T18:13:45+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=849'
 permalink: /2008-11-04-18000-air-phosadh-ann-an-california-ro-bhot-proposition-8/

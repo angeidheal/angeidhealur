@@ -2,7 +2,7 @@
 id: 735
 title: 'Ceann-suidhe an Eaglais Mhormonach air bàsachadh'
 date: '2018-01-06T14:20:12+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=735'
 permalink: /2018-01-06-ceann-suidhe-an-eaglais-mhormonach-air-basachadh/

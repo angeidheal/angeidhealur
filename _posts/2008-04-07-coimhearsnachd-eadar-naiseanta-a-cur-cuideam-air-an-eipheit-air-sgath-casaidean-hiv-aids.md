@@ -2,7 +2,7 @@
 id: 998
 title: 'Coimhearsnachd eadar-nàiseanta a’ cur cuideam air an Èipheit air sgàth casaidean HIV/AIDS'
 date: '2008-04-07T19:55:54+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=998'
 permalink: /2008-04-07-coimhearsnachd-eadar-naiseanta-a-cur-cuideam-air-an-eipheit-air-sgath-casaidean-hiv-aids/

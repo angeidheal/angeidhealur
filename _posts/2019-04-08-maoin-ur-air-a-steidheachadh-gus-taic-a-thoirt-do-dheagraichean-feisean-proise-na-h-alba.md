@@ -2,7 +2,7 @@
 id: 461
 title: 'Maoin ùr air a stèidheachadh gus taic a thoirt do dh&#8217;eagraichean fèisean-pròise na h-Alba'
 date: '2019-04-08T17:20:53+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=461'
 permalink: /2019-04-08-maoin-ur-air-a-steidheachadh-gus-taic-a-thoirt-do-dheagraichean-feisean-proise-na-h-alba/

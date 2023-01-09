@@ -2,7 +2,7 @@
 id: 533
 title: 'Welcome to my Friends Page'
 date: '2022-12-22T19:38:13+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: page
 guid: 'https://angeidhealur.scot/friends/'
 ---

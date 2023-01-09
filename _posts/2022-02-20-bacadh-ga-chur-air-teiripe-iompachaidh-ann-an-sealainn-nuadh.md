@@ -2,7 +2,7 @@
 id: 277
 title: 'Bacadh ga chur air teiripe iompachaidh ann an Sealainn Nuadh'
 date: '2022-02-20T13:40:00+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=277'
 permalink: /2022-02-20-bacadh-ga-chur-air-teiripe-iompachaidh-ann-an-sealainn-nuadh/

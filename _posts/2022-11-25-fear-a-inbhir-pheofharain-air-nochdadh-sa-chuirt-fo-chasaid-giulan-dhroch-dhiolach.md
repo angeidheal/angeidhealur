@@ -2,7 +2,7 @@
 id: 111
 title: 'Fear à Inbhir Pheofharain air nochdadh sa chùirt fo chasaid giùlan dhroch‑dhìolach'
 date: '2022-11-25T06:01:25+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=111'
 permalink: /2022-11-25-fear-a-inbhir-pheofharain-air-nochdadh-sa-chuirt-fo-chasaid-giulan-dhroch%e2%80%91dhiolach/

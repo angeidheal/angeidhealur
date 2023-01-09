@@ -2,7 +2,7 @@
 id: 928
 title: 'Aithisg ùr a’ sealltainn gu bheil sgaradh mhòr thar an Aonadh Eòrpach ann an làimhseachadh de dhaoine tar-ghnèitheach'
 date: '2008-04-30T08:48:28+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=928'
 permalink: /2008-04-30-aithisg-ur-a-sealltainn-gu-bheil-sgaradh-mhor-thar-an-aonadh-eorpach-ann-an-laimhseachadh-de-dhaoine-tar-ghneitheach/

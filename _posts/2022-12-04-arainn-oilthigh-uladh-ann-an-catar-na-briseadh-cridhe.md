@@ -2,7 +2,7 @@
 id: 102
 title: 'Àrainn Oilthigh Uladh ann an Catar na “briseadh‑cridhe”'
 date: '2022-12-04T09:34:20+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=102'
 permalink: /2022-12-04-arainn-oilthigh-uladh-ann-an-catar-na-briseadh%e2%80%91cridhe/

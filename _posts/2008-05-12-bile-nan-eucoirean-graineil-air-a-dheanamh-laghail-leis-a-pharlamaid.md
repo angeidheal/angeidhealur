@@ -2,7 +2,7 @@
 id: 903
 title: 'Bile nan Eucoirean Gràineil air a dhèanamh laghail leis a’ Phàrlamaid'
 date: '2008-05-12T16:31:41+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=903'
 permalink: /2008-05-12-bile-nan-eucoirean-graineil-air-a-dheanamh-laghail-leis-a-pharlamaid/

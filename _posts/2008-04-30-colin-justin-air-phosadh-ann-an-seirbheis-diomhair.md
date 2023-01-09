@@ -2,7 +2,7 @@
 id: 919
 title: 'Colin &#038; Justin air phòsadh ann an seirbheis dìomhair'
 date: '2008-04-30T19:34:14+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=919'
 permalink: /2008-04-30-colin-justin-air-phosadh-ann-an-seirbheis-diomhair/

@@ -2,7 +2,7 @@
 id: 135
 title: 'James Cleverly ga chàineadh airson ràdh gum bu chòir do luchd‑taice ball‑coise LGDT+ urram a thoirt do chultar Qatar'
 date: '2022-10-26T17:28:57+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=135'
 permalink: /2022-10-26-james-cleverly-ga-chaineadh-airson-radh-gum-bu-choir-do-luchd%e2%80%91taice-ball%e2%80%91coise-lgdt-urram-a-thoirt-do-chultar-qatar/

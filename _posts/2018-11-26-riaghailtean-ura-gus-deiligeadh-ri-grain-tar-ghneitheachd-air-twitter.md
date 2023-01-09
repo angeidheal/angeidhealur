@@ -2,7 +2,7 @@
 id: 560
 title: 'Riaghailtean ùra gus dèiligeadh ri gràin-tar-ghnèitheachd air Twitter'
 date: '2018-11-26T12:33:37+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=560'
 permalink: /2018-11-26-riaghailtean-ura-gus-deiligeadh-ri-grain-tar-ghneitheachd-air-twitter/

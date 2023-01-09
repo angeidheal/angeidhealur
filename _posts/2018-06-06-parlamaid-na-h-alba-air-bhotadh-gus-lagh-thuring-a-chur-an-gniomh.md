@@ -2,7 +2,7 @@
 id: 685
 title: 'Pàrlamaid na h-Alba air bhòtadh gus Lagh Thuring a chur an gnìomh'
 date: '2018-06-06T21:02:39+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=685'
 permalink: /2018-06-06-parlamaid-na-h-alba-air-bhotadh-gus-lagh-thuring-a-chur-an-gniomh/

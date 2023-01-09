@@ -2,7 +2,7 @@
 id: 138
 title: 'Peter Tatchell ga chur an grèim'
 date: '2022-10-25T14:50:39+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=138'
 permalink: /2022-10-25-peter-tatchell-ga-chur-an-greim/

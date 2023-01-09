@@ -2,7 +2,7 @@
 id: 845
 title: 'AIR ÙRACHADH: Bhòt California, Florida agus Arizona airson casg a chur air pòsadh aon-sheòrsach'
 date: '2008-11-05T09:11:28+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=845'
 permalink: /2008-11-05-air-urachadh-bhot-california-florida-agus-arizona-airson-casg-a-chur-air-posadh-aon-sheorsach/

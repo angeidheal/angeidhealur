@@ -2,7 +2,7 @@
 id: 1123
 title: 'Eileanan Breatannach na Maighdinn gus reifreann a chumail air pòsadh aon-sheòrsach'
 date: '2022-12-23T19:00:27+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1123'
 permalink: /2022-12-23-eileanan-breatannach-na-maighdinn-gus-reifreann-a-chumail-air-posadh-aon-sheorsach/

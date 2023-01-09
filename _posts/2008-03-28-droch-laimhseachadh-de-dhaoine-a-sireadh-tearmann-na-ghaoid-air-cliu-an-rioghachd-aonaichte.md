@@ -2,7 +2,7 @@
 id: 1055
 title: 'Droch-làimhseachadh de dhaoine a’ sireadh tèarmann na ghaoid air cliù an Rìoghachd Aonaichte'
 date: '2008-03-28T09:09:25+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1055'
 permalink: /2008-03-28-droch-laimhseachadh-de-dhaoine-a-sireadh-tearmann-na-ghaoid-air-cliu-an-rioghachd-aonaichte/

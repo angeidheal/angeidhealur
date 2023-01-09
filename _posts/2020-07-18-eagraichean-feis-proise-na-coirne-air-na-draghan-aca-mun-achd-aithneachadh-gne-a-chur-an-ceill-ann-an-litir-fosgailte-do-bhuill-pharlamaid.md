@@ -2,7 +2,7 @@
 id: 346
 title: 'Eagraichean Fèis-pròise na Còirne air na draghan aca mun Achd Aithneachadh Gnè a chur an cèill ann an litir fosgailte do Bhuill-phàrlamaid'
 date: '2020-07-18T18:00:25+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=346'
 permalink: /2020-07-18-eagraichean-feis-proise-na-coirne-air-na-draghan-aca-mun-achd-aithneachadh-gne-a-chur-an-ceill-ann-an-litir-fosgailte-do-bhuill-pharlamaid/

@@ -2,7 +2,7 @@
 id: 404
 title: 'Proud Ness air ath-ainmeachadh gu Highland Pride'
 date: '2019-10-13T17:40:09+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=404'
 permalink: /2019-10-13-proud-ness-air-ath-ainmeachadh-gu-highland-pride/

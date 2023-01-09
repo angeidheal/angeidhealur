@@ -2,7 +2,7 @@
 id: 393
 title: 'Tagraiche taghaidh Ghleann Rathais air cogadh a ghairm an-aghaidh na coimhearsnachd LCDTQ'
 date: '2019-11-20T18:00:59+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=393'
 permalink: /2019-11-20-tagraiche-taghaidh-ghleann-rathais-air-cogadh-a-ghairm-an-aghaidh-na-coimhearsnachd-lcdtq/

@@ -2,7 +2,7 @@
 id: 729
 title: '42 tagraichean LCDT+ a’ sireadh taghaidh ann an Teagsas am bliadhna'
 date: '2018-01-07T18:02:01+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=729'
 permalink: /2018-01-07-42-tagraichean-lcdt-a-sireadh-taghaidh-ann-an-teagsas-am-bliadhna/

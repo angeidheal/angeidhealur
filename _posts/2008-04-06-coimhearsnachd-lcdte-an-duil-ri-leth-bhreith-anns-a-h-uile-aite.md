@@ -2,7 +2,7 @@
 id: 1001
 title: 'Coimhearsnachd LCDTE an dùil ri leth-bhreith anns a h-uile àite'
 date: '2008-04-06T21:21:20+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1001'
 permalink: /2008-04-06-coimhearsnachd-lcdte-an-duil-ri-leth-bhreith-anns-a-h-uile-aite/

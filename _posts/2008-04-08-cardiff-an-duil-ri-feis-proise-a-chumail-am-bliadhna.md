@@ -2,7 +2,7 @@
 id: 992
 title: 'Cardiff an dùil ri fèis-pròise a chumail am bliadhna'
 date: '2008-04-08T18:10:17+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=992'
 permalink: /2008-04-08-cardiff-an-duil-ri-feis-proise-a-chumail-am-bliadhna/

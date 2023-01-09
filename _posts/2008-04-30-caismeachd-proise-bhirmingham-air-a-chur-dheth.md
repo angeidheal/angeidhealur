@@ -2,7 +2,7 @@
 id: 922
 title: 'Caismeachd-pròise Bhirmingham air a chur dheth'
 date: '2008-04-30T18:52:16+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=922'
 permalink: /2008-04-30-caismeachd-proise-bhirmingham-air-a-chur-dheth/

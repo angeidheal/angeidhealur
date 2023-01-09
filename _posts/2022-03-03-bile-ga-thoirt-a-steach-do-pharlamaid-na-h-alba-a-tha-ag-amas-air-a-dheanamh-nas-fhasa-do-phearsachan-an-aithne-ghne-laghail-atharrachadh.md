@@ -2,7 +2,7 @@
 id: 273
 title: 'Bile ga thoirt a-steach do Phàrlamaid na h-Alba a tha ag amas air a dhèanamh nas fhasa do phearsachan an aithne ghnè laghail atharrachadh'
 date: '2022-03-03T14:00:11+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=273'
 permalink: /2022-03-03-bile-ga-thoirt-a-steach-do-pharlamaid-na-h-alba-a-tha-ag-amas-air-a-dheanamh-nas-fhasa-do-phearsachan-an-aithne-ghne-laghail-atharrachadh/

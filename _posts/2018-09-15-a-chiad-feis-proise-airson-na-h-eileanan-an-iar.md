@@ -2,7 +2,7 @@
 id: 624
 title: 'A’ Chiad Fèis-pròise airson na h-Eileanan an Iar'
 date: '2018-09-15T09:44:18+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=624'
 permalink: /2018-09-15-a-chiad-feis-proise-airson-na-h-eileanan-an-iar/

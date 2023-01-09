@@ -2,7 +2,7 @@
 id: 355
 title: 'Seirbheisean fala a’ beachdachadh air a’ chasg a th’ air fireannaich co-sheòrsach agus dà-sheòrsach a chur às'
 date: '2020-05-28T18:00:53+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=355'
 permalink: /2020-05-28-seirbheisean-fala-a-beachdachadh-air-a-chasg-a-th-air-fireannaich-co-sheorsach-agus-da-sheorsach-a-chur-as/

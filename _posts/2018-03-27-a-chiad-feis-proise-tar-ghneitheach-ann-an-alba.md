@@ -2,7 +2,7 @@
 id: 712
 title: 'A’ Chiad Fèis-pròise Tar-ghnèitheach ann an Alba'
 date: '2018-03-27T19:57:34+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=712'
 permalink: /2018-03-27-a-chiad-feis-proise-tar-ghneitheach-ann-an-alba/

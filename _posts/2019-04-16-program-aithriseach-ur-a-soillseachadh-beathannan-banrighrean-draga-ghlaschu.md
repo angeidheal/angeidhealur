@@ -2,7 +2,7 @@
 id: 455
 title: 'Prògram aithriseach ùr a’ soillseachadh beathannan banrighrean-draga Ghlaschu'
 date: '2019-04-16T14:32:11+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=455'
 permalink: /2019-04-16-program-aithriseach-ur-a-soillseachadh-beathannan-banrighrean-draga-ghlaschu/

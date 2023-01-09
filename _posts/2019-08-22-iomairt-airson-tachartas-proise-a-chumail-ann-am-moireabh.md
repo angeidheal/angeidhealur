@@ -2,7 +2,7 @@
 id: 419
 title: 'Iomairt airson tachartas pròise a chumail ann am Moireabh'
 date: '2019-08-22T20:30:16+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=419'
 permalink: /2019-08-22-iomairt-airson-tachartas-proise-a-chumail-ann-am-moireabh/

@@ -2,7 +2,7 @@
 id: 694
 title: 'A’ Chiad Fèis-pròise na h-Antartaig'
 date: '2018-06-03T15:23:28+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=694'
 permalink: /2018-06-03-a-chiad-feis-proise-na-h-antartaig/

@@ -2,7 +2,7 @@
 id: 1145
 title: Faclair.lgbt
 date: '2022-12-15T17:00:11+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1145'
 permalink: /2022-12-15-faclair-lgbt/

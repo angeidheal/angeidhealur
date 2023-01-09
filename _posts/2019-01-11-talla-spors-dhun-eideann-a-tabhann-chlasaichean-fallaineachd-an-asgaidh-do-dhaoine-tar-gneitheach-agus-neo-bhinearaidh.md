@@ -2,7 +2,7 @@
 id: 482
 title: 'Talla-spors Dhùn Èideann a’ tabhann chlasaichean fallaineachd an-asgaidh do dhaoine tar-gnèitheach agus neo-bhìnearaidh'
 date: '2019-01-11T14:56:26+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=482'
 permalink: /2019-01-11-talla-spors-dhun-eideann-a-tabhann-chlasaichean-fallaineachd-an-asgaidh-do-dhaoine-tar-gneitheach-agus-neo-bhinearaidh/

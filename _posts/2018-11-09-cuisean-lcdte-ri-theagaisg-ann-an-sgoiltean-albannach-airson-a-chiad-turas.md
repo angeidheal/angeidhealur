@@ -2,7 +2,7 @@
 id: 569
 title: 'Cùisean LCDTE ri theagaisg ann an sgoiltean Albannach airson a’ chiad turas'
 date: '2018-11-09T14:36:23+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=569'
 permalink: /2018-11-09-cuisean-lcdte-ri-theagaisg-ann-an-sgoiltean-albannach-airson-a-chiad-turas/

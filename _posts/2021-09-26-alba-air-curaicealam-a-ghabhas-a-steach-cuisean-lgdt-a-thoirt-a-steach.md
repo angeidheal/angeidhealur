@@ -2,7 +2,7 @@
 id: 307
 title: 'Alba air curaicealam a ghabhas a-steach cùisean LGDT+ a thoirt a-steach'
 date: '2021-09-26T12:53:21+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=307'
 permalink: /2021-09-26-alba-air-curaicealam-a-ghabhas-a-steach-cuisean-lgdt-a-thoirt-a-steach/

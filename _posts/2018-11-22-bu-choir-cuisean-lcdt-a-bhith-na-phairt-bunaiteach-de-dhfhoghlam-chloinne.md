@@ -2,7 +2,7 @@
 id: 563
 title: 'Bu chòir cùisean LCDT+ a bhith na phàirt “bunaiteach” de dh’fhoghlam chloinne'
 date: '2018-11-22T17:37:42+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=563'
 permalink: /2018-11-22-bu-choir-cuisean-lcdt-a-bhith-na-phairt-bunaiteach-de-dhfhoghlam-chloinne/

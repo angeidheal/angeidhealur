@@ -2,7 +2,7 @@
 id: 269
 title: 'Thèid gnè bith-eòlasach a shònrachadh do phearsachan neo-bhìnearaidh ann an Cunntas-sluaigh na h-Èireann'
 date: '2022-03-16T18:00:07+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=269'
 permalink: /2022-03-16-theid-gne-bith-eolasach-a-shonrachadh-do-phearsachan-neo-bhinearaidh-ann-an-cunntas-sluaigh-na-h-eireann/

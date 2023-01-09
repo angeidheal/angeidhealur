@@ -2,7 +2,7 @@
 id: 473
 title: 'A&#8217; gluasad bho WordPress gu Jekyll'
 date: '2019-02-17T18:00:31+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=473'
 permalink: /2019-02-17-a-gluasad-bho-wordpress-gu-jekyll/

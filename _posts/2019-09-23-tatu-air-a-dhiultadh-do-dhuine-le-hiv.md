@@ -2,7 +2,7 @@
 id: 416
 title: 'Tatù air a dhiùltadh do dhuine le HIV'
 date: '2019-09-23T06:53:14+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=416'
 permalink: /2019-09-23-tatu-air-a-dhiultadh-do-dhuine-le-hiv/

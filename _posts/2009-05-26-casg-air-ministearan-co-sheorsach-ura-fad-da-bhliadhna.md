@@ -2,7 +2,7 @@
 id: 785
 title: 'Casg air ministearan co-sheòrsach ùra fad dà bhliadhna'
 date: '2009-05-26T19:29:52+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=785'
 permalink: /2009-05-26-casg-air-ministearan-co-sheorsach-ura-fad-da-bhliadhna/

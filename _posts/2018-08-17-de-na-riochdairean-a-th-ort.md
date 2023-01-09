@@ -2,7 +2,7 @@
 id: 628
 title: 'Dè na riochdairean a th’ ort?'
 date: '2018-08-17T08:41:36+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=628'
 permalink: /2018-08-17-de-na-riochdairean-a-th-ort/

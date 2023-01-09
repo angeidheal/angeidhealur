@@ -2,7 +2,7 @@
 id: 281
 title: 'Cha bu chòir do dh’Alba feitheamh gus casg a chur air teiripe iompachaidh'
 date: '2022-01-30T14:45:55+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=281'
 permalink: /2022-01-30-cha-bu-choir-do-dhalba-feitheamh-gus-casg-a-chur-air-teiripe-iompachaidh/

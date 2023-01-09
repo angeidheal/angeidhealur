@@ -2,7 +2,7 @@
 id: 1064
 title: 'Siridheach co-sheòrsach gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte'
 date: '2008-03-19T07:47:34+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1064'
 permalink: /2008-03-19-siridheach-co-sheorsach-gu-bhith-a-fuadach-a-mach-as-an-rioghachd-aonaichte/

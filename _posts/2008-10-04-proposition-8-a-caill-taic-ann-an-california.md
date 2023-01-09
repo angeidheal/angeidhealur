@@ -2,7 +2,7 @@
 id: 860
 title: 'Proposition 8 a’ caill taic ann an California'
 date: '2008-10-04T13:35:27+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=860'
 permalink: /2008-10-04-proposition-8-a-caill-taic-ann-an-california/

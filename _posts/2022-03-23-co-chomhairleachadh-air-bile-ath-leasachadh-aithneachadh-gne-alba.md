@@ -2,7 +2,7 @@
 id: 254
 title: 'Co-chomhairleachadh air Bile Ath-leasachadh Aithneachadh Gnè (Alba)'
 date: '2022-03-23T18:00:23+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=254'
 permalink: /2022-03-23-co-chomhairleachadh-air-bile-ath-leasachadh-aithneachadh-gne-alba/

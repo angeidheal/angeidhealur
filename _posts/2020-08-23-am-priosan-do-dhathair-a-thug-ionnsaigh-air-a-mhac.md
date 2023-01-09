@@ -2,7 +2,7 @@
 id: 340
 title: 'Am prìosan do dh&#8217;athair a thug ionnsaigh air a mhac'
 date: '2020-08-23T18:00:41+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=340'
 permalink: /2020-08-23-am-priosan-do-dhathair-a-thug-ionnsaigh-air-a-mhac/

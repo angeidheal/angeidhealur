@@ -2,7 +2,7 @@
 id: 673
 title: 'BPA SNP a’ càineadh Bile nan Eucoirean Feise'
 date: '2018-06-19T10:52:52+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=673'
 permalink: /2018-06-19-bpa-snp-a-caineadh-bile-nan-eucoirean-feise/

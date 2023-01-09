@@ -2,7 +2,7 @@
 id: 584
 title: 'Jeff Bezos air tabhartas de $10,800 a thoirt gu Seanadair Poblachdach a bhòtas gu cunbhalach an aghaidh còirichean LCDTE+'
 date: '2018-11-01T19:25:29+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=584'
 permalink: /2018-11-01-jeff-bezos-air-tabhartas-de-10800-a-thoirt-gu-seanadair-poblachdach-a-bhotas-gu-cunbhalach-an-aghaidh-coirichean-lcdte/

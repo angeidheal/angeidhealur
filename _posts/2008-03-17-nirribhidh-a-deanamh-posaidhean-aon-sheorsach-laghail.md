@@ -2,7 +2,7 @@
 id: 1076
 title: 'Nirribhidh a’ dèanamh pòsaidhean aon-sheòrsach laghail'
 date: '2008-03-17T11:06:45+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1076'
 permalink: /2008-03-17-nirribhidh-a-deanamh-posaidhean-aon-sheorsach-laghail/

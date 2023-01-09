@@ -2,7 +2,7 @@
 id: 813
 title: 'BPA a’ toirt taic do lagh an-aghaidh eucoirean gràineil'
 date: '2009-03-12T21:06:31+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=813'
 permalink: /2009-03-12-bpa-a-toirt-taic-do-lagh-an-aghaidh-eucoirean-graineil/

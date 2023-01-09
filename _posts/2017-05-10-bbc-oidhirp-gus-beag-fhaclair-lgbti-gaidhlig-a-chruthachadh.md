@@ -2,7 +2,7 @@
 id: 753
 title: 'BBC: Oidhirp gus beag-fhaclair LGBTI Gàidhlig a chruthachadh'
 date: '2017-05-10T16:00:06+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=753'
 permalink: /2017-05-10-bbc-oidhirp-gus-beag-fhaclair-lgbti-gaidhlig-a-chruthachadh/

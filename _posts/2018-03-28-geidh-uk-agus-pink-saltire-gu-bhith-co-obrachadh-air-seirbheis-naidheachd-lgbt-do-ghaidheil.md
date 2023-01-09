@@ -2,7 +2,7 @@
 id: 709
 title: 'Gèidh.uk agus Pink Saltire gu bhith co-obrachadh air sèirbheis-naidheachd LGBT do Ghàidheil'
 date: '2018-03-28T21:36:08+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=709'
 permalink: /2018-03-28-geidh-uk-agus-pink-saltire-gu-bhith-co-obrachadh-air-seirbheis-naidheachd-lgbt-do-ghaidheil/

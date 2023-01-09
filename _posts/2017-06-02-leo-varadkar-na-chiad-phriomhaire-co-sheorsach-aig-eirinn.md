@@ -2,7 +2,7 @@
 id: 747
 title: 'Leo Varadkar na chiad Phrìomhaire co-sheòrsach aig Èirinn'
 date: '2017-06-02T20:27:45+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=747'
 permalink: /2017-06-02-leo-varadkar-na-chiad-phriomhaire-co-sheorsach-aig-eirinn/

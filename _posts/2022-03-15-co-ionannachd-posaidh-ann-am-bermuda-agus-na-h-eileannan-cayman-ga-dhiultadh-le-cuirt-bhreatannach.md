@@ -2,7 +2,7 @@
 id: 271
 title: 'Co-ionannachd pòsaidh ann am Bermuda agus na h-Eileannan Cayman ga dhiùltadh le Cùirt Bhreatannach'
 date: '2022-03-15T18:00:46+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=271'
 permalink: /2022-03-15-co-ionannachd-posaidh-ann-am-bermuda-agus-na-h-eileannan-cayman-ga-dhiultadh-le-cuirt-bhreatannach/

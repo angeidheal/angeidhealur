@@ -2,7 +2,7 @@
 id: 791
 title: 'BBC Alba: Deasbad a’ leantainn mu Mhinistearan gèidh'
 date: '2009-05-25T12:25:43+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=791'
 permalink: /2009-05-25-bbc-alba-deasbad-a-leantainn-mu-mhinistearan-geidh/

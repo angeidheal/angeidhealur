@@ -2,7 +2,7 @@
 id: 718
 title: 'A’ Chiad Fèis-pròise Pheairt'
 date: '2018-03-24T21:24:21+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=718'
 permalink: /2018-03-24-a-chiad-feis-proise-pheairt/

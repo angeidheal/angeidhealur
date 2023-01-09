@@ -2,7 +2,7 @@
 id: 828
 title: 'Athchuinge airson pòsadh aon-sheòrsach air a thoirt gu Pàrlamaid na h-Alba'
 date: '2009-01-16T10:40:37+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=828'
 permalink: /2009-01-16-athchuinge-airson-posadh-aon-sheorsach-air-a-thoirt-gu-parlamaid-na-h-alba/

@@ -2,7 +2,7 @@
 id: 357
 title: 'Roinnidh pod-chraoladh ùr sgeulachdan bho dhaoine LCDT+ nas sìne an Alba'
 date: '2020-05-26T18:00:56+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=357'
 permalink: /2020-05-26-roinnidh-pod-chraoladh-ur-sgeulachdan-bho-dhaoine-lcdt-nas-sine-an-alba/

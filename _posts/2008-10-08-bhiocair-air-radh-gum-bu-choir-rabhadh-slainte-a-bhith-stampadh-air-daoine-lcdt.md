@@ -2,7 +2,7 @@
 id: 857
 title: 'Bhiocair air ràdh gum bu chòir rabhadh slàinte a bhith stampadh air daoine LCDT'
 date: '2008-10-08T19:37:30+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=857'
 permalink: /2008-10-08-bhiocair-air-radh-gum-bu-choir-rabhadh-slainte-a-bhith-stampadh-air-daoine-lcdt/

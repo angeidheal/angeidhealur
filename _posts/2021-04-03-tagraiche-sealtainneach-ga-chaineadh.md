@@ -2,7 +2,7 @@
 id: 323
 title: 'Tagraiche Sealtainneach ga chàineadh'
 date: '2021-04-03T08:51:35+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=323'
 permalink: /2021-04-03-tagraiche-sealtainneach-ga-chaineadh/

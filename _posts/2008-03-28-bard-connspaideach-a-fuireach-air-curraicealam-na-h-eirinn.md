@@ -2,7 +2,7 @@
 id: 1058
 title: 'Bàrd connspaideach a’ fuireach air curraicealam na h-Èirinn'
 date: '2008-03-28T11:48:17+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1058'
 permalink: /2008-03-28-bard-connspaideach-a-fuireach-air-curraicealam-na-h-eirinn/

@@ -2,7 +2,7 @@
 id: 726
 title: 'Riaghaltas na h-Alba airson laghan a thaobh dearbh-aithne ghnèitheach ath-leasachadh'
 date: '2018-01-07T21:30:01+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=726'
 permalink: /2018-01-07-riaghaltas-na-h-alba-airson-laghan-a-thaobh-dearbh-aithne-ghneitheach-ath-leasachadh/

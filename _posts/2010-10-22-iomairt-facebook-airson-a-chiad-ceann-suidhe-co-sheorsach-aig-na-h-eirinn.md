@@ -2,7 +2,7 @@
 id: 771
 title: 'Iomairt Facebook airson a’ chiad ceann-suidhe co-sheòrsach aig na h-Èirinn'
 date: '2010-10-22T10:35:14+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=771'
 permalink: /2010-10-22-iomairt-facebook-airson-a-chiad-ceann-suidhe-co-sheorsach-aig-na-h-eirinn/

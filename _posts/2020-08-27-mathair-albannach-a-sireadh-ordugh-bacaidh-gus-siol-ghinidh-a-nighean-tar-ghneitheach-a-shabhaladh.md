@@ -2,7 +2,7 @@
 id: 337
 title: 'Màthair Albannach a&#8217; sireadh òrdugh-bacaidh gus sìol-ghinidh a nighean tar-ghnèitheach a shàbhaladh'
 date: '2020-08-27T18:00:28+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=337'
 permalink: /2020-08-27-mathair-albannach-a-sireadh-ordugh-bacaidh-gus-siol-ghinidh-a-nighean-tar-ghneitheach-a-shabhaladh/

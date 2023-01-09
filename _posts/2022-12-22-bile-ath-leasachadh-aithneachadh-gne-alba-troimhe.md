@@ -2,7 +2,7 @@
 id: 529
 title: 'Bile Ath-leasachadh Aithneachadh Gnè (Alba) troimhe'
 date: '2022-12-22T19:17:35+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=529'
 permalink: /2022-12-22-bile-ath-leasachadh-aithneachadh-gne-alba-troimhe/

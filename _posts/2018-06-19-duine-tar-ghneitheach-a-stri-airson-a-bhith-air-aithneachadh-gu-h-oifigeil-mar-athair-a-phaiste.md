@@ -2,7 +2,7 @@
 id: 670
 title: 'Duine tar-ghnèitheach a’ strì airson a bhith air aithneachadh gu h-oifigeil mar athair a phàiste'
 date: '2018-06-19T14:28:53+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=670'
 permalink: /2018-06-19-duine-tar-ghneitheach-a-stri-airson-a-bhith-air-aithneachadh-gu-h-oifigeil-mar-athair-a-phaiste/

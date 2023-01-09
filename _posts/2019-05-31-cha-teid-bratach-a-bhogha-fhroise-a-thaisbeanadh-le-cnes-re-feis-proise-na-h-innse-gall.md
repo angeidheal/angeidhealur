@@ -2,7 +2,7 @@
 id: 435
 title: 'Cha tèid bratach a&#8217; bhogha-fhroise a thaisbeanadh le CNES rè Fèis-pròise na h-Innse Gall'
 date: '2019-05-31T16:49:41+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=435'
 permalink: /2019-05-31-cha-teid-bratach-a-bhogha-fhroise-a-thaisbeanadh-le-cnes-re-feis-proise-na-h-innse-gall/

@@ -2,7 +2,7 @@
 id: 762
 title: 'Companasan-catharra air a dhèanamh laghail ann an Èirinn'
 date: '2011-01-03T13:09:24+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=762'
 permalink: /2011-01-03-companasan-catharra-air-a-dheanamh-laghail-ann-an-eirinn/

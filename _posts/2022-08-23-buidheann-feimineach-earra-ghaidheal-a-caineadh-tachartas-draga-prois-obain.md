@@ -2,7 +2,7 @@
 id: 232
 title: 'Buidheann feimineach Earra-Ghàidheal a&#8217; càineadh tachartas draga Pròis Òbain'
 date: '2022-08-23T18:00:36+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=232'
 permalink: /2022-08-23-buidheann-feimineach-earra-ghaidheal-a-caineadh-tachartas-draga-prois-obain/

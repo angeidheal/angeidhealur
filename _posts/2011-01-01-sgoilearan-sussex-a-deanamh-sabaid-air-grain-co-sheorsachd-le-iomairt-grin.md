@@ -2,7 +2,7 @@
 id: 765
 title: 'Sgoilearan Sussex a’ dèanamh sabaid air gràin-co-sheòrsachd le iomairt GRIN'
 date: '2011-01-01T15:45:18+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=765'
 permalink: /2011-01-01-sgoilearan-sussex-a-deanamh-sabaid-air-grain-co-sheorsachd-le-iomairt-grin/

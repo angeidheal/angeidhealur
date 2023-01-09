@@ -2,7 +2,7 @@
 id: 572
 title: 'Aonar anns gach triùir de dhaoine LCD a’ fulang burraidheachd ann an sgoil agus san àite-obrach'
 date: '2018-11-08T10:26:15+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=572'
 permalink: /2018-11-08-aonar-anns-gach-triuir-de-dhaoine-lcd-a-fulang-burraidheachd-ann-an-sgoil-agus-san-aite-obrach/

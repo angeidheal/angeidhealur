@@ -2,7 +2,7 @@
 id: 867
 title: 'Coimisiún na hÉireann um Chearta an Duine agus Comhionannas airson còirichean tar-ghnèitheach leasachadh'
 date: '2008-10-02T20:06:03+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=867'
 permalink: /2008-10-02-coimisiun-na-heireann-um-chearta-an-duine-agus-comhionannas-airson-coirichean-tar-ghneitheach-leasachadh/

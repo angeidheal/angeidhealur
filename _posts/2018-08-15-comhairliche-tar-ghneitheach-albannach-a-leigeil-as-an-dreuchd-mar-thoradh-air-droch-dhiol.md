@@ -2,7 +2,7 @@
 id: 632
 title: 'Comhairliche tar-ghnèitheach Albannach a’ leigeil às an dreuchd mar thoradh air droch dhìol'
 date: '2018-08-15T09:11:08+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=632'
 permalink: /2018-08-15-comhairliche-tar-ghneitheach-albannach-a-leigeil-as-an-dreuchd-mar-thoradh-air-droch-dhiol/

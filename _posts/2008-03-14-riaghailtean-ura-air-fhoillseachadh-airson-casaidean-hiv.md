@@ -2,7 +2,7 @@
 id: 1091
 title: 'Riaghailtean ùra air fhoillseachadh airson casaidean HIV'
 date: '2008-03-14T14:01:24+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1091'
 permalink: /2008-03-14-riaghailtean-ura-air-fhoillseachadh-airson-casaidean-hiv/

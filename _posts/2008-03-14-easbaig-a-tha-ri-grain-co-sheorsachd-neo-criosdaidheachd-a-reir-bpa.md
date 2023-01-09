@@ -1,12 +1,9 @@
 ---
-id: 1097
-title: 'Easbaig a tha ri gràin-co-sheòrsachd neo-criosdaidheachd a rèir BPA'
-date: '2008-03-14T16:58:17+00:00'
-author: angeidheal
 layout: post
-guid: 'https://angeidhealur.scot/?p=1097'
-permalink: /2008-03-14-easbaig-a-tha-ri-grain-co-sheorsachd-neo-criosdaidheachd-a-reir-bpa/
+date: 2008-03-14 16:58
+title: Easbaig a tha ri gràin-co-sheòrsachd neo-criosdaidheachd a rèir BPA
 image: /images/posts/2008-03-14-easbaig-a-tha-ri-grain-co-sheorsachd-neo-criosdaidheachd-a-reir-bpa.webp
+author: Crìstean MacMhìcheil
 categories:
     - Alba
     - 'An Rìoghachd Aonaichte'

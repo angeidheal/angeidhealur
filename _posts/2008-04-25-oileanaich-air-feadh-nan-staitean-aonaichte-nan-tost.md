@@ -2,7 +2,7 @@
 id: 931
 title: 'Oileanaich air feadh nan Stàitean Aonaichte nan tost'
 date: '2008-04-25T11:22:51+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=931'
 permalink: /2008-04-25-oileanaich-air-feadh-nan-staitean-aonaichte-nan-tost/

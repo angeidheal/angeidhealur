@@ -2,7 +2,7 @@
 id: 688
 title: 'Moladh gus leigeil le clann Albannach gnè atharrachadh air an teisteanas breith aca'
 date: '2018-06-04T10:48:39+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=688'
 permalink: /2018-06-04-moladh-gus-leigeil-le-clann-albannach-gne-atharrachadh-air-an-teisteanas-breith-aca/

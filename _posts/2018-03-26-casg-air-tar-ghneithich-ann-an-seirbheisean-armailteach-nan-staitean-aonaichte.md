@@ -2,7 +2,7 @@
 id: 715
 title: 'Casg air tar-ghnèithich ann an seirbheisean armailteach nan Stàitean Aonaichte'
 date: '2018-03-26T20:41:25+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=715'
 permalink: /2018-03-26-casg-air-tar-ghneithich-ann-an-seirbheisean-armailteach-nan-staitean-aonaichte/

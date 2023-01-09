@@ -2,7 +2,7 @@
 id: 141
 title: 'Pàrtaidh Uaine na h-Alba airson a’ cheangal eadarra agus Pàrtaidh Uaine Shasainn is na Cuimrigh a sgaradh'
 date: '2022-10-17T19:39:06+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=141'
 permalink: /2022-10-17-partaidh-uaine-na-h-alba-airson-a-cheangal-eadarra-agus-partaidh-uaine-shasainn-is-na-cuimrigh-a-sgaradh/

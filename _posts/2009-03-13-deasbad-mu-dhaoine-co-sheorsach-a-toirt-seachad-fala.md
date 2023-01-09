@@ -2,7 +2,7 @@
 id: 811
 title: 'Deasbad mu dhaoine co-sheòrsach a’ toirt seachad fala'
 date: '2009-03-13T22:11:56+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=811'
 permalink: /2009-03-13-deasbad-mu-dhaoine-co-sheorsach-a-toirt-seachad-fala/

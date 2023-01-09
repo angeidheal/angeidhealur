@@ -2,7 +2,7 @@
 id: 422
 title: 'Carragh-cuimhne do dhaoine co-sheòrsach a dh’fhulaing geur-leanmhainn nan Nàsach air a mhilleadh'
 date: '2019-08-20T17:17:36+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=422'
 permalink: /2019-08-20-carragh-cuimhne-do-dhaoine-co-sheorsach-a-dhfhulaing-geur-leanmhainn-nan-nasach-air-a-mhilleadh/

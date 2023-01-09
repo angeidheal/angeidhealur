@@ -2,7 +2,7 @@
 id: 851
 title: 'Oileanaich an sas ann an iomairt airson còirichean daonna'
 date: '2008-10-08T19:13:31+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=851'
 permalink: /2008-10-08-oileanaich-an-sas-ann-an-iomairt-airson-coirichean-daonna/

@@ -2,7 +2,7 @@
 id: 352
 title: 'Ìmpidh ga chur air Ceannardan an SNP gus stad a chur air oillt tar-ghneitheach sa phartaidh'
 date: '2020-07-01T18:00:10+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=352'
 permalink: /2020-07-01-impidh-ga-chur-air-ceannardan-an-snp-gus-stad-a-chur-air-oillt-tar-ghneitheach-sa-phartaidh/

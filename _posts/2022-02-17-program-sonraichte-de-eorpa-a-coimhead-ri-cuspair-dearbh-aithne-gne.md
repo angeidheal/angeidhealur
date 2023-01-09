@@ -2,7 +2,7 @@
 id: 279
 title: 'Prògram sònraichte de Eòrpa a’ coimhead ri cuspair dearbh-aithne gnè'
 date: '2022-02-17T08:30:25+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=279'
 permalink: /2022-02-17-program-sonraichte-de-eorpa-a-coimhead-ri-cuspair-dearbh-aithne-gne/

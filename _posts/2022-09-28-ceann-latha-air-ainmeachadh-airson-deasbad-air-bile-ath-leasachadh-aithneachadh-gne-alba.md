@@ -2,7 +2,7 @@
 id: 214
 title: 'Ceann‑latha air ainmeachadh airson deasbad air Bile Ath‑leasachadh Aithneachadh Gnè (Alba)'
 date: '2022-09-28T18:00:37+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=214'
 permalink: /2022-09-28-ceann%e2%80%91latha-air-ainmeachadh-airson-deasbad-air-bile-ath%e2%80%91leasachadh-aithneachadh-gne-alba/

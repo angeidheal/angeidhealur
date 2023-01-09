@@ -2,7 +2,7 @@
 id: 467
 title: 'Eaglais Dhùn Phrìs a&#8217; beachdachadh air taighean LCDT a leasachadh'
 date: '2019-02-24T23:15:32+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=467'
 permalink: /2019-02-24-eaglais-dhun-phris-a-beachdachadh-air-taighean-lcdt-a-leasachadh/

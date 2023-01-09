@@ -2,7 +2,7 @@
 id: 653
 title: 'Luchd-poilitigs Liberalach air a chàineadh airson bhòt cudromach air Brexit a chaill'
 date: '2018-07-18T21:45:08+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=653'
 permalink: /2018-07-18-luchd-poilitigs-liberalach-air-a-chaineadh-airson-bhot-cudromach-air-brexit-a-chaill/

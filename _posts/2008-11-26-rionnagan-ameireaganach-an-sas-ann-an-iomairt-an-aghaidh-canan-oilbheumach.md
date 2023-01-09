@@ -2,7 +2,7 @@
 id: 834
 title: 'Rionnagan Ameireaganach an-sàs ann an iomairt an-aghaidh cànan oilbheumach'
 date: '2008-11-26T16:15:49+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=834'
 permalink: /2008-11-26-rionnagan-ameireaganach-an-sas-ann-an-iomairt-an-aghaidh-canan-oilbheumach/

@@ -2,7 +2,7 @@
 id: 1085
 title: 'Buidheann Irish Queers a’ togail fianais an aghaidh caismeachd Naomh Pàdraig'
 date: '2008-03-17T18:31:44+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1085'
 permalink: /2008-03-17-buidheann-irish-queers-a-togail-fianais-an-aghaidh-caismeachd-naomh-padraig/

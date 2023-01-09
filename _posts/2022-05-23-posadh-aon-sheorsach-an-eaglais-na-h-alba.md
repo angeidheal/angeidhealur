@@ -2,7 +2,7 @@
 id: 246
 title: 'Pòsadh aon-sheòrsach an Eaglais na h-Alba'
 date: '2022-05-23T18:00:27+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=246'
 permalink: /2022-05-23-posadh-aon-sheorsach-an-eaglais-na-h-alba/

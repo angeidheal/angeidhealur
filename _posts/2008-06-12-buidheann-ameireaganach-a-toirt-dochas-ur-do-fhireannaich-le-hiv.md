@@ -2,7 +2,7 @@
 id: 897
 title: 'Buidheann Ameireaganach a’ toirt dòchas ùr do fhireannaich le HIV'
 date: '2008-06-12T14:46:07+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=897'
 permalink: /2008-06-12-buidheann-ameireaganach-a-toirt-dochas-ur-do-fhireannaich-le-hiv/

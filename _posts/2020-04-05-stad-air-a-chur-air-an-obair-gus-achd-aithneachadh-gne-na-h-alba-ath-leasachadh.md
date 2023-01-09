@@ -2,7 +2,7 @@
 id: 377
 title: 'Stad air a chur air an obair gus Achd Aithneachadh Gnè na h-Alba ath-leasachadh'
 date: '2020-04-05T18:00:04+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=377'
 permalink: /2020-04-05-stad-air-a-chur-air-an-obair-gus-achd-aithneachadh-gne-na-h-alba-ath-leasachadh/

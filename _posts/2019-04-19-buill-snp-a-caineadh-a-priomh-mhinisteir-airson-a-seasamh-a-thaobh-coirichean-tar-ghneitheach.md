@@ -2,7 +2,7 @@
 id: 451
 title: 'Buill SNP a’ càineadh a’ Prìomh Mhinisteir airson a seasamh a thaobh còirichean tar-ghnèitheach'
 date: '2019-04-19T17:50:50+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=451'
 permalink: /2019-04-19-buill-snp-a-caineadh-a-priomh-mhinisteir-airson-a-seasamh-a-thaobh-coirichean-tar-ghneitheach/

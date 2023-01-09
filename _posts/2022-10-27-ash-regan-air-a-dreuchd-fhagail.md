@@ -2,7 +2,7 @@
 id: 129
 title: 'Ash Regan air a dreuchd fhàgail'
 date: '2022-10-27T16:17:16+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=129'
 permalink: /2022-10-27-ash-regan-air-a-dreuchd-fhagail/

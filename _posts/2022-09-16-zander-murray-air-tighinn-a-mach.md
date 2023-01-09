@@ -2,7 +2,7 @@
 id: 220
 title: 'Zander Murray air tighinn a-mach'
 date: '2022-09-16T18:00:01+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=220'
 permalink: /2022-09-16-zander-murray-air-tighinn-a-mach/

@@ -2,7 +2,7 @@
 id: 603
 title: 'Comhairle air cead a thoirt seachad airson Fèis-pròise Inbhir Nis a dhol air adhart'
 date: '2018-09-26T13:00:29+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=603'
 permalink: /2018-09-26-comhairle-air-cead-a-thoirt-seachad-airson-feis-proise-inbhir-nis-a-dhol-air-adhart/

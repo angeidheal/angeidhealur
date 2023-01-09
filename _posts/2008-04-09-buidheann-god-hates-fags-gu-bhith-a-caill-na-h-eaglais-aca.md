@@ -2,7 +2,7 @@
 id: 969
 title: 'Buidheann God Hates Fags gu bhith a’ caill na h-eaglais aca'
 date: '2008-04-09T09:08:28+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=969'
 permalink: /2008-04-09-buidheann-god-hates-fags-gu-bhith-a-caill-na-h-eaglais-aca/

@@ -2,7 +2,7 @@
 id: 275
 title: 'Cead ga thoirt do gach neach an gnè fhèin a thaghadh ann an Cunntas-sluaigh na h-Alba'
 date: '2022-02-21T22:00:37+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=275'
 permalink: /2022-02-21-cead-ga-thoirt-do-gach-neach-an-gne-fhein-a-thaghadh-ann-an-cunntas-sluaigh-na-h-alba/

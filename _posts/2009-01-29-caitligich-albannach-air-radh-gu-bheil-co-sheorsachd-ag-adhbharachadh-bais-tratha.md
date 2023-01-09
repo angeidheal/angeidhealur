@@ -2,7 +2,7 @@
 id: 825
 title: 'Caitligich Albannach air ràdh gu bheil co-sheòrsachd ag adhbharachadh bàis tràtha'
 date: '2009-01-29T19:55:35+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=825'
 permalink: /2009-01-29-caitligich-albannach-air-radh-gu-bheil-co-sheorsachd-ag-adhbharachadh-bais-tratha/

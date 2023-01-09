@@ -2,7 +2,7 @@
 id: 1043
 title: 'Neach-poileataigs aig a bheil gràin-co-sheòrsachd a’ coinneachadh le PFLAG'
 date: '2008-03-29T09:58:16+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1043'
 permalink: /2008-03-29-neach-poileataigs-aig-a-bheil-grain-co-sheorsachd-a-coinneachadh-le-pflag/

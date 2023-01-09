@@ -2,7 +2,7 @@
 id: 575
 title: 'Fèis film LCDT+ ri tilleadh a Ghlaschu'
 date: '2018-11-06T17:06:49+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=575'
 permalink: /2018-11-06-feis-film-lcdt-ri-tilleadh-a-ghlaschu/

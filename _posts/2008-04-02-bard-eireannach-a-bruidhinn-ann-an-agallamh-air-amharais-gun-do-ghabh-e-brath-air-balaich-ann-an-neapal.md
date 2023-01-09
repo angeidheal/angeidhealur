@@ -2,7 +2,7 @@
 id: 1022
 title: 'Bàrd Èireannach a’ bruidhinn ann an agallamh air amharais gun do ghabh e brath air balaich ann an Neapàl'
 date: '2008-04-02T10:49:42+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1022'
 permalink: /2008-04-02-bard-eireannach-a-bruidhinn-ann-an-agallamh-air-amharais-gun-do-ghabh-e-brath-air-balaich-ann-an-neapal/

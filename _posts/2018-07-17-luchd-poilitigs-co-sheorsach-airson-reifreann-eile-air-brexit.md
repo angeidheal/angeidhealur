@@ -2,7 +2,7 @@
 id: 658
 title: 'Luchd-poilitigs co-sheòrsach airson reifreann eile air Brexit'
 date: '2018-07-17T20:54:09+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=658'
 permalink: /2018-07-17-luchd-poilitigs-co-sheorsach-airson-reifreann-eile-air-brexit/

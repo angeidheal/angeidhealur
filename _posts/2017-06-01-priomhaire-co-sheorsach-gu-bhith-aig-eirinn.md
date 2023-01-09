@@ -2,7 +2,7 @@
 id: 750
 title: 'Prìomhaire co-sheòrsach gu bhith aig Èirinn?'
 date: '2017-06-01T13:13:34+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=750'
 permalink: /2017-06-01-priomhaire-co-sheorsach-gu-bhith-aig-eirinn/

@@ -2,7 +2,7 @@
 id: 946
 title: 'Iomairt “ex-gay” gu bhith stèidheachadh anns a’ Chuimrigh'
 date: '2008-04-22T16:50:17+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=946'
 permalink: /2008-04-22-iomairt-ex-gay-gu-bhith-steidheachadh-anns-a-chuimrigh/

@@ -2,7 +2,7 @@
 id: 891
 title: 'Bile ùr a’ brosnachadh co-ionannachd do dhaoine LCDT'
 date: '2008-06-22T18:03:09+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=891'
 permalink: /2008-06-22-bile-ur-a-brosnachadh-co-ionannachd-do-dhaoine-lcdt/

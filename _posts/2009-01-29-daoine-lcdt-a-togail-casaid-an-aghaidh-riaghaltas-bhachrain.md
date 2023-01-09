@@ -2,7 +2,7 @@
 id: 822
 title: 'Daoine LCDT a’ togail casaid an-aghaidh Riaghaltas Bhachrain'
 date: '2009-01-29T18:14:17+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=822'
 permalink: /2009-01-29-daoine-lcdt-a-togail-casaid-an-aghaidh-riaghaltas-bhachrain/

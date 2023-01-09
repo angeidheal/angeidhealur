@@ -2,7 +2,7 @@
 id: 1061
 title: 'Duine trom air bruidhinn a-mach an aghaidh Seirbheis Slàinte claon-breitheach'
 date: '2008-03-27T08:52:17+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1061'
 permalink: /2008-03-27-duine-trom-air-bruidhinn-a-mach-an-aghaidh-seirbheis-slainte-claon-breitheach/

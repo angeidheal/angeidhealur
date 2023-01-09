@@ -2,7 +2,7 @@
 id: 691
 title: 'Bun-sgoil Gàidhealach a’ leigeil le balaich is nigheanan a bhith a’ farpais ri chèile ann an rèisean latha-spòrs'
 date: '2018-06-03T19:03:35+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=691'
 permalink: /2018-06-03-bun-sgoil-gaidhealach-a-leigeil-le-balaich-is-nigheanan-a-bhith-a-farpais-ri-cheile-ann-an-reisean-latha-spors/

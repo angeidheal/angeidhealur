@@ -2,7 +2,7 @@
 id: 882
 title: 'Carthannas AIDS airson clann ionnsachadh mu dheidhinn feise co-sheòrsach sna sgoiltean'
 date: '2008-07-25T18:31:03+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=882'
 permalink: /2008-07-25-carthannas-aids-airson-clann-ionnsachadh-mu-dheidhinn-feise-co-sheorsach-sna-sgoiltean/

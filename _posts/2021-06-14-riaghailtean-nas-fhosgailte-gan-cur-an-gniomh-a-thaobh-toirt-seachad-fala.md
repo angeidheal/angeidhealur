@@ -2,7 +2,7 @@
 id: 313
 title: 'Riaghailtean nas fhosgailte gan cur an-gnìomh a-thaobh toirt seachad fala'
 date: '2021-06-14T18:00:56+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=313'
 permalink: /2021-06-14-riaghailtean-nas-fhosgailte-gan-cur-an-gniomh-a-thaobh-toirt-seachad-fala/

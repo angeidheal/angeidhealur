@@ -2,7 +2,7 @@
 id: 783
 title: 'A’ chiad seirbheis aon-sheòrsach Eilean Leòdhais an-diugh'
 date: '2009-07-20T06:55:25+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=783'
 permalink: /2009-07-20-a-chiad-seirbheis-aon-sheorsach-eilean-leodhais-an-diugh/

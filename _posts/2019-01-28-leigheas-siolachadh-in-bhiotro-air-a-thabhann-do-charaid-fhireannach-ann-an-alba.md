@@ -2,7 +2,7 @@
 id: 476
 title: 'Leigheas sìolachadh in-bhiotro air a thabhann do chàraid fhireannach ann an Alba'
 date: '2019-01-28T19:51:12+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=476'
 permalink: /2019-01-28-leigheas-siolachadh-in-bhiotro-air-a-thabhann-do-charaid-fhireannach-ann-an-alba/

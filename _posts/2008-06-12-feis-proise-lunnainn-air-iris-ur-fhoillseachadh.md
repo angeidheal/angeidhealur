@@ -2,7 +2,7 @@
 id: 894
 title: 'Fèis-pròise Lunnainn air iris ùr fhoillseachadh'
 date: '2008-06-12T12:57:57+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=894'
 permalink: /2008-06-12-feis-proise-lunnainn-air-iris-ur-fhoillseachadh/

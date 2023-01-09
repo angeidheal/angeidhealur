@@ -2,7 +2,7 @@
 id: 721
 title: 'Càineadh mu phostair oilbheumach ann an taigh-seinnse Lìteach'
 date: '2018-03-20T20:53:02+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=721'
 permalink: /2018-03-20-caineadh-mu-phostair-oilbheumach-ann-an-taigh-seinnse-liteach/

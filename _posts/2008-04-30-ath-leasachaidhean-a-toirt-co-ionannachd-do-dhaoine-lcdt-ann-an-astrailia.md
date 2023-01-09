@@ -2,7 +2,7 @@
 id: 925
 title: 'Ath-leasachaidhean a’ toirt co-ionannachd do dhaoine LCDT ann an Astràilia'
 date: '2008-04-30T18:15:17+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=925'
 permalink: /2008-04-30-ath-leasachaidhean-a-toirt-co-ionannachd-do-dhaoine-lcdt-ann-an-astrailia/

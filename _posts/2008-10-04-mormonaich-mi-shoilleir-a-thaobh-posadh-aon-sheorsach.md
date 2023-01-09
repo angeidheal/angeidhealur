@@ -2,7 +2,7 @@
 id: 862
 title: 'Mormonaich mì-shoilleir a-thaobh pòsadh aon-sheòrsach'
 date: '2008-10-04T12:27:14+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=862'
 permalink: /2008-10-04-mormonaich-mi-shoilleir-a-thaobh-posadh-aon-sheorsach/

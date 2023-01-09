@@ -2,7 +2,7 @@
 id: 390
 title: 'Tagraiche taghaidh Obar Dheathain air a chur à rèim airson puist an-aghaidh nan Iudhach agus nan co-sheòrsach'
 date: '2019-11-20T18:00:52+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=390'
 permalink: /2019-11-20-tagraiche-taghaidh-obar-dheathain-air-a-chur-a-reim-airson-puist-an-aghaidh-nan-iudhach-agus-nan-co-sheorsach/

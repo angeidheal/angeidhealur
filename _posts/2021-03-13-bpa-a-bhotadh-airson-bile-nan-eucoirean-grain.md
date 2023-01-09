@@ -2,7 +2,7 @@
 id: 326
 title: 'BPA a&#8217; bhòtadh airson Bile nan Eucoirean Gràin'
 date: '2021-03-13T18:00:15+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=326'
 permalink: /2021-03-13-bpa-a-bhotadh-airson-bile-nan-eucoirean-grain/

@@ -2,7 +2,7 @@
 id: 552
 title: 'Buill-phàrlamaid na Spàinne air bhòtadh gus fèin-aithneachadh a cheadachadh'
 date: '2022-12-23T06:20:13+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=552'
 permalink: /2022-12-23-buill-pharlamaid-na-spainne-air-bhotadh-gus-fein-aithneachadh-a-cheadachadh/

@@ -2,7 +2,7 @@
 id: 349
 title: 'Carthannasan tar-ghnèitheach gan toirt air falbh bho dhuilleag taic a’ BhBC'
 date: '2020-07-11T18:00:50+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=349'
 permalink: /2020-07-11-carthannasan-tar-ghneitheach-gan-toirt-air-falbh-bho-dhuilleag-taic-a-bhbc/

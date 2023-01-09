@@ -2,7 +2,7 @@
 id: 876
 title: 'Ceannard LCDT ga mhurt ann am Baghdad'
 date: '2008-09-26T16:25:22+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=876'
 permalink: /2008-09-26-ceannard-lcdt-ga-mhurt-ann-am-baghdad/

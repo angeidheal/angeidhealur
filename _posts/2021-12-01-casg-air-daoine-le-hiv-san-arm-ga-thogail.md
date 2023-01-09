@@ -2,7 +2,7 @@
 id: 302
 title: 'Casg air daoine le HIV san arm ga thogail'
 date: '2021-12-01T18:00:02+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=302'
 permalink: /2021-12-01-casg-air-daoine-le-hiv-san-arm-ga-thogail/

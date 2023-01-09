@@ -2,7 +2,7 @@
 id: 1007
 title: 'Cruinneachadh gus taic a thoirt ri neach-poileataigs a tha dhen bheachd gu bheil a’ choimhearsnachd LCDTE nas miosa na ceannaircich'
 date: '2008-04-05T16:47:54+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1007'
 permalink: /2008-04-05-cruinneachadh-gus-taic-a-thoirt-ri-neach-poileataigs-a-tha-dhen-bheachd-gu-bheil-a-choimhearsnachd-lcdte-nas-miosa-na-ceannaircich/

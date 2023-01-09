@@ -2,7 +2,7 @@
 id: 700
 title: 'Apple a’ beachdachadh air oifis ùr fhosgladh ann an Carolina a Tuath a dh’aindeoin laghan san stàit a leigeas lethbhreith an aghaidh luchd-LGDTE'
 date: '2018-05-20T16:15:29+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=700'
 permalink: /2018-05-20-apple-a-beachdachadh-air-oifis-ur-fhosgladh-ann-an-carolina-a-tuath-a-dhaindeoin-laghan-san-stait-a-leigeas-lethbhreith-an-aghaidh-luchd-lgdte/

@@ -2,7 +2,7 @@
 id: 1115
 title: 'Àrd-chùirt na Barbadoise air feis ghèidh a dhì-eucoireachadh'
 date: '2022-12-15T07:35:06+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1115'
 permalink: /2022-12-15-ard-chuirt-na-barbadoise-air-feis-gheidh-a-dhi-eucoireachadh/

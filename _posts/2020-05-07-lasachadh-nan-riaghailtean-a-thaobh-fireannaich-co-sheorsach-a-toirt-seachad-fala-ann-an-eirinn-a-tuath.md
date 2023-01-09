@@ -2,7 +2,7 @@
 id: 372
 title: 'Lasachadh nan riaghailtean a thaobh fireannaich co-sheòrsach a’ toirt seachad fala ann an Èirinn a Tuath'
 date: '2020-05-07T08:00:36+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=372'
 permalink: /2020-05-07-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-co-sheorsach-a-toirt-seachad-fala-ann-an-eirinn-a-tuath/

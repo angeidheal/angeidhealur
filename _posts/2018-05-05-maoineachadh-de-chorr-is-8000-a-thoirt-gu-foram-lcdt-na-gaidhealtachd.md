@@ -2,7 +2,7 @@
 id: 703
 title: 'Maoineachadh de chòrr is £8000 a thoirt gu Fòram LCDT na Gàidhealtachd'
 date: '2018-05-05T11:31:01+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=703'
 permalink: /2018-05-05-maoineachadh-de-chorr-is-8000-a-thoirt-gu-foram-lcdt-na-gaidhealtachd/

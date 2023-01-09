@@ -2,7 +2,7 @@
 id: 816
 title: '‘Firinn is Feise’ air BBC iPlayer'
 date: '2009-03-02T16:23:28+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=816'
 permalink: /2009-03-02-firinn-is-feise-air-bbc-iplayer/

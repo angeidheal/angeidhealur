@@ -2,7 +2,7 @@
 id: 913
 title: 'Duine co-sheòrsach ga chur an grèim airson pòg a thoirt dhan companach aige'
 date: '2008-05-07T10:10:55+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=913'
 permalink: /2008-05-07-duine-co-sheorsach-ga-chur-an-greim-airson-pog-a-thoirt-dhan-companach-aige/

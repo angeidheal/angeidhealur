@@ -2,7 +2,7 @@
 id: 949
 title: 'Eilean Mhanainn air dreachd bhile a dhèanamh gus còirichean co-ionann a thoirt ri daoine tar-ghnèitheach'
 date: '2008-04-21T14:39:07+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=949'
 permalink: /2008-04-21-eilean-mhanainn-air-dreachd-bhile-a-dheanamh-gus-coirichean-co-ionann-a-thoirt-ri-daoine-tar-ghneitheach/

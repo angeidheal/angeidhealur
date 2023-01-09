@@ -2,7 +2,7 @@
 id: 557
 title: 'Ben Hunte air a chur an dreuchd mar a’ chiad neach-naidheachd LCDT a’ BhBC'
 date: '2018-12-16T21:04:14+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=557'
 permalink: /2018-12-16-ben-hunte-air-a-chur-an-dreuchd-mar-a-chiad-neach-naidheachd-lcdt-a-bhbc/

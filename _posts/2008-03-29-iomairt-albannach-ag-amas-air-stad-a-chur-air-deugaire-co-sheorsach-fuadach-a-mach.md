@@ -2,7 +2,7 @@
 id: 1046
 title: 'Iomairt Albannach ag amas air stad a chur air deugaire co-sheòrsach fuadach a-mach'
 date: '2008-03-29T09:22:19+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1046'
 permalink: /2008-03-29-iomairt-albannach-ag-amas-air-stad-a-chur-air-deugaire-co-sheorsach-fuadach-a-mach/

@@ -2,7 +2,7 @@
 id: 264
 title: 'Fèise-pròise na Gàidhealtachd 2022 ga ainmeachadh'
 date: '2022-03-18T18:00:37+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=264'
 permalink: /2022-03-18-feise-proise-na-gaidhealtachd-2022-ga-ainmeachadh/

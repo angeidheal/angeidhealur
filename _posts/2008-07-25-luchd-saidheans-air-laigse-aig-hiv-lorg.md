@@ -2,7 +2,7 @@
 id: 879
 title: 'Luchd-saidheans air laigse aig HIV lorg'
 date: '2008-07-25T17:49:10+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=879'
 permalink: /2008-07-25-luchd-saidheans-air-laigse-aig-hiv-lorg/

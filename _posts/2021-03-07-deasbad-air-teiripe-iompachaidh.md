@@ -2,7 +2,7 @@
 id: 329
 title: 'Deasbad air teiripe iompachaidh'
 date: '2021-03-07T18:00:05+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=329'
 permalink: /2021-03-07-deasbad-air-teiripe-iompachaidh/

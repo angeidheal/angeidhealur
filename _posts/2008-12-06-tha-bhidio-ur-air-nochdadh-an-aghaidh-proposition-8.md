@@ -2,7 +2,7 @@
 id: 832
 title: 'Tha bhidio ùr air nochdadh an aghaidh Proposition 8'
 date: '2008-12-06T23:11:34+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=832'
 permalink: /2008-12-06-tha-bhidio-ur-air-nochdadh-an-aghaidh-proposition-8/

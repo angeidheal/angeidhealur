@@ -2,7 +2,7 @@
 id: 837
 title: 'Clèir Èireannach air bhido ùr Boyzone a chàineadh'
 date: '2008-11-26T17:13:34+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=837'
 permalink: /2008-11-26-cleir-eireannach-air-bhido-ur-boyzone-a-chaineadh/

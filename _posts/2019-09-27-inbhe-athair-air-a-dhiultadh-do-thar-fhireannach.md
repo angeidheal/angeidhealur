@@ -2,7 +2,7 @@
 id: 407
 title: 'Inbhe athair air a dhiùltadh do thar-fhireannach'
 date: '2019-09-27T16:00:52+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=407'
 permalink: /2019-09-27-inbhe-athair-air-a-dhiultadh-do-thar-fhireannach/

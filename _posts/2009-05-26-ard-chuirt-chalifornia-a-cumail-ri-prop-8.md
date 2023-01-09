@@ -2,7 +2,7 @@
 id: 788
 title: 'Àrd-chùirt Chalifornia a’ cumail ri Prop 8'
 date: '2009-05-26T19:11:45+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=788'
 permalink: /2009-05-26-ard-chuirt-chalifornia-a-cumail-ri-prop-8/

@@ -1,14 +1,11 @@
 ---
-id: 1103
-title: 'Carthannas ag iarraidh banachdaich HPV airson balaich'
-date: '2008-03-14T09:33:59+00:00'
-author: angeidheal
 layout: post
-guid: 'https://angeidhealur.scot/?p=1103'
-permalink: /2008-03-14-carthannas-ag-iarraidh-banachdaich-hpv-airson-balaich/
+date: 2008-03-14 09:33
+title: Carthannas ag iarraidh banachdaich HPV airson balaich
 image: /images/posts/2008-03-14-carthannas-ag-iarraidh-banachdaich-hpv-airson-balaich.webp
+author: Crìstean MacMhìcheil
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Foghlam
     - Slàinte
 ---

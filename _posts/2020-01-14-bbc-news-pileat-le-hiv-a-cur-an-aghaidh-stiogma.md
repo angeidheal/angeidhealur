@@ -2,7 +2,7 @@
 id: 383
 title: 'BBC News: Pìleat le HIV a’ cur an aghaidh stiogma'
 date: '2020-01-14T09:38:43+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=383'
 permalink: /2020-01-14-bbc-news-pileat-le-hiv-a-cur-an-aghaidh-stiogma/

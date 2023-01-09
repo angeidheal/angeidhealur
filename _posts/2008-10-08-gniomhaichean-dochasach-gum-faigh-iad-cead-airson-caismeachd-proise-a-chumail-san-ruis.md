@@ -2,7 +2,7 @@
 id: 854
 title: 'Gnìomhaichean dòchasach gum faigh iad cead airson caismeachd pròise a chumail san Ruis'
 date: '2008-10-08T18:42:41+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=854'
 permalink: /2008-10-08-gniomhaichean-dochasach-gum-faigh-iad-cead-airson-caismeachd-proise-a-chumail-san-ruis/

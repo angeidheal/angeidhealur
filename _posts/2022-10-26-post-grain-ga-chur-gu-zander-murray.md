@@ -2,7 +2,7 @@
 id: 132
 title: 'Post gràin ga chur gu Zander Murray'
 date: '2022-10-26T13:30:48+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=132'
 permalink: /2022-10-26-post-grain-ga-chur-gu-zander-murray/

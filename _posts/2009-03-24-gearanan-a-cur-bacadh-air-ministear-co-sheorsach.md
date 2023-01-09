@@ -2,7 +2,7 @@
 id: 802
 title: 'Gearanan a’ cur bacadh air ministear co-sheòrsach'
 date: '2009-03-24T18:32:58+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=802'
 permalink: /2009-03-24-gearanan-a-cur-bacadh-air-ministear-co-sheorsach/

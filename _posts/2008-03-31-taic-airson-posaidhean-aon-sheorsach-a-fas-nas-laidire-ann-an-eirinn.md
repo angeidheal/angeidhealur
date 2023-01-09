@@ -2,7 +2,7 @@
 id: 1025
 title: 'Taic airson pòsaidhean aon-sheòrsach a’ fàs nas làidire ann an Èirinn'
 date: '2008-03-31T13:25:00+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1025'
 permalink: /2008-03-31-taic-airson-posaidhean-aon-sheorsach-a-fas-nas-laidire-ann-an-eirinn/

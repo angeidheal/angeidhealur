@@ -2,7 +2,7 @@
 id: 609
 title: 'Fèis-pròise Innse Ghall air a chàineadh le Ministear na h-Eaglaise Saoire Leantainnich'
 date: '2018-09-21T19:19:07+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=609'
 permalink: /2018-09-21-feis-proise-innse-ghall-air-a-chaineadh-le-ministear-na-h-eaglaise-saoire-leantainnich/

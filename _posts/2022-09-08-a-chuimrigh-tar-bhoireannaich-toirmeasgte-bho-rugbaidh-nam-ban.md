@@ -2,7 +2,7 @@
 id: 226
 title: 'A&#8217; Chuimrigh: Tar-bhoireannaich toirmeasgte bho rugbaidh nam ban'
 date: '2022-09-08T18:00:40+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=226'
 permalink: /2022-09-08-a-chuimrigh-tar-bhoireannaich-toirmeasgte-bho-rugbaidh-nam-ban/

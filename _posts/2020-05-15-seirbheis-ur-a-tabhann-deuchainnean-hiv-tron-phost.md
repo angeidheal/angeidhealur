@@ -2,7 +2,7 @@
 id: 366
 title: 'Seirbheis ùr a&#8217; tabhann deuchainnean HIV tron phost'
 date: '2020-05-15T18:00:13+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=366'
 permalink: /2020-05-15-seirbheis-ur-a-tabhann-deuchainnean-hiv-tron-phost/

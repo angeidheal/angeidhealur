@@ -2,7 +2,7 @@
 id: 217
 title: 'Cùba air bhòtadh gus pòsadh aon-sheòrsach a dhèanamh laghail'
 date: '2022-09-26T18:00:25+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=217'
 permalink: /2022-09-26-cuba-air-bhotadh-gus-posadh-aon-sheorsach-a-dheanamh-laghail/

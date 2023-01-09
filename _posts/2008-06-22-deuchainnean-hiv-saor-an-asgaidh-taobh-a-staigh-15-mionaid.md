@@ -2,7 +2,7 @@
 id: 888
 title: 'Deuchainnean HIV saor an-asgaidh taobh a-staigh 15 mionaid'
 date: '2008-06-22T19:12:19+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=888'
 permalink: /2008-06-22-deuchainnean-hiv-saor-an-asgaidh-taobh-a-staigh-15-mionaid/

@@ -2,7 +2,7 @@
 id: 470
 title: 'David Mundell &#8211; &#8220;B&#8217;e tighinn a-mach aon de na rudan as duilighe a rinn mi&#8221;'
 date: '2019-02-21T06:30:24+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=470'
 permalink: /2019-02-21-david-mundell-be-tighinn-a-mach-aon-de-na-rudan-as-duilighe-a-rinn-mi/

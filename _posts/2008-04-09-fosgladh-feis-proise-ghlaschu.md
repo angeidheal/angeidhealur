@@ -2,7 +2,7 @@
 id: 966
 title: 'Fosgladh Fèis-pròise Ghlaschu'
 date: '2008-04-09T19:02:39+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=966'
 permalink: /2008-04-09-fosgladh-feis-proise-ghlaschu/

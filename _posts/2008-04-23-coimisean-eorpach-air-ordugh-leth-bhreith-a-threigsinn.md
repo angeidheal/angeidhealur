@@ -2,7 +2,7 @@
 id: 940
 title: 'Coimisean Eòrpach air òrdugh leth-bhreith a thrèigsinn'
 date: '2008-04-23T14:53:15+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=940'
 permalink: /2008-04-23-coimisean-eorpach-air-ordugh-leth-bhreith-a-threigsinn/

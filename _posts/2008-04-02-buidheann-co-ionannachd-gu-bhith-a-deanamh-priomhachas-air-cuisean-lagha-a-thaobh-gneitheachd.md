@@ -2,7 +2,7 @@
 id: 1019
 title: 'Buidheann co-ionannachd gu bhith a’ dèanamh prìomhachas air cùisean-lagha a-thaobh gnèitheachd'
 date: '2008-04-02T10:43:59+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1019'
 permalink: /2008-04-02-buidheann-co-ionannachd-gu-bhith-a-deanamh-priomhachas-air-cuisean-lagha-a-thaobh-gneitheachd/

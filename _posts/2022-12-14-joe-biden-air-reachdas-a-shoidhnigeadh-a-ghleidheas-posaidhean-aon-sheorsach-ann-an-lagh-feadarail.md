@@ -2,7 +2,7 @@
 id: 1128
 title: 'Joe Biden air reachdas a shoidhnigeadh a ghlèidheas pòsaidhean aon-sheòrsach ann an lagh feadarail'
 date: '2022-12-14T13:00:16+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1128'
 permalink: /2022-12-14-joe-biden-air-reachdas-a-shoidhnigeadh-a-ghleidheas-posaidhean-aon-sheorsach-ann-an-lagh-feadarail/

@@ -2,7 +2,7 @@
 id: 805
 title: 'Cha tèid BP Iris Robinson a thoirt gu lagh'
 date: '2009-03-24T18:53:40+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=805'
 permalink: /2009-03-24-cha-teid-bp-iris-robinson-a-thoirt-gu-lagh/

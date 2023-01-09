@@ -2,7 +2,7 @@
 id: 952
 title: 'Ionnsaigh a thoirt air buidheann LCDT ann an Istanbul leis a’ Phoileas'
 date: '2008-04-15T08:35:37+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=952'
 permalink: /2008-04-15-ionnsaigh-a-thoirt-air-buidheann-lcdt-ann-an-istanbul-leis-a-phoileas/

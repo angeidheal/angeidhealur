@@ -2,7 +2,7 @@
 id: 995
 title: 'Eminem gu bhith a’ riochdachadh Elton John ann am film ùr'
 date: '2008-04-07T07:14:08+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=995'
 permalink: /2008-04-07-eminem-gu-bhith-a-riochdachadh-elton-john-ann-am-film-ur/

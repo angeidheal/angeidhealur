@@ -2,7 +2,7 @@
 id: 777
 title: 'Deasbad mu companasan-catharra san Eilean Mhanainn'
 date: '2010-02-22T21:04:02+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=777'
 permalink: /2010-02-22-deasbad-mu-companasan-catharra-san-eilean-mhanainn/

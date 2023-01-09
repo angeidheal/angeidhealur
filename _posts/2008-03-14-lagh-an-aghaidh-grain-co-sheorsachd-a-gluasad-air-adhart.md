@@ -1,14 +1,11 @@
 ---
-id: 1094
-title: 'Lagh an-aghaidh gràin-co-sheòrsachd a’ gluasad air adhart'
-date: '2008-03-14T10:30:29+00:00'
-author: angeidheal
 layout: post
-guid: 'https://angeidhealur.scot/?p=1094'
-permalink: /2008-03-14-lagh-an-aghaidh-grain-co-sheorsachd-a-gluasad-air-adhart/
+date: 2008-03-14 10:30
+title: "Lagh an-aghaidh gràin-co-sheòrsachd a’ gluasad air adhart"
 image: /images/posts/2008-03-14-lagh-an-aghaidh-grain-co-sheorsachd-a-gluasad-air-adhart.webp
+author: Crìstean MacMhìcheil
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
 ---

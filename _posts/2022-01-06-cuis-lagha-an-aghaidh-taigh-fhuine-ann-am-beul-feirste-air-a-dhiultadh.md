@@ -2,7 +2,7 @@
 id: 288
 title: 'Cùis-lagha an-aghaidh taigh-fhuine ann am Beul Feirste air a dhiùltadh'
 date: '2022-01-06T18:00:45+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=288'
 permalink: /2022-01-06-cuis-lagha-an-aghaidh-taigh-fhuine-ann-am-beul-feirste-air-a-dhiultadh/

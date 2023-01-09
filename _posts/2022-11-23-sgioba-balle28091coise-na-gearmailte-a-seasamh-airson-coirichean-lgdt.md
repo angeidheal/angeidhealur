@@ -2,7 +2,7 @@
 id: 114
 title: 'Sgioba ball‑coise na Gearmailte a’ seasamh airson còirichean LGDT+'
 date: '2022-11-23T17:43:27+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=114'
 permalink: /2022-11-23-sgioba-ball%e2%80%91coise-na-gearmailte-a-seasamh-airson-coirichean-lgdt/

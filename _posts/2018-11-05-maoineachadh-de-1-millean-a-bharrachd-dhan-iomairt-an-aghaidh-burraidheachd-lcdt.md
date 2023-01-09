@@ -2,7 +2,7 @@
 id: 578
 title: 'Maoineachadh de £1 millean a bharrachd dhan iomairt an aghaidh burraidheachd LCDT+'
 date: '2018-11-05T19:50:24+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=578'
 permalink: /2018-11-05-maoineachadh-de-1-millean-a-bharrachd-dhan-iomairt-an-aghaidh-burraidheachd-lcdt/

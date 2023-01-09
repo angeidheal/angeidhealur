@@ -2,7 +2,7 @@
 id: 310
 title: 'Emma Roddick ga suidheachadh mar cho-neach-gairm buidheann LGDT+ Taigh an Ròid'
 date: '2021-09-08T18:00:20+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=310'
 permalink: /2021-09-08-emma-roddick-ga-suidheachadh-mar-cho-neach-gairm-buidheann-lgdt-taigh-an-roid/

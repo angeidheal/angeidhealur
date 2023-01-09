@@ -2,7 +2,7 @@
 id: 488
 title: 'Eòlaiche Sgaoileadh-ghalaran air iarraidh air Riaghaltas Innis Tìle crìoch a chur air a’ chasg a tha toirmeasg daoine gèidh bho bhith a’ toirt seachad fala'
 date: '2019-01-06T10:58:36+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=488'
 permalink: /2019-01-06-eolaiche-sgaoileadh-ghalaran-air-iarraidh-air-riaghaltas-innis-tile-crioch-a-chur-air-a-chasg-a-tha-toirmeasg-daoine-geidh-bho-bhith-a-toirt-seachad-fala/

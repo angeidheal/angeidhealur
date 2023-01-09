@@ -2,7 +2,7 @@
 id: 593
 title: 'A’ chiad cead-siubhail neo-ghèitheach air a thoirt a-mach anns na Tìrean Ìsle'
 date: '2018-10-23T21:00:08+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=593'
 permalink: /2018-10-23-a-chiad-cead-siubhail-neo-gheitheach-air-a-thoirt-a-mach-anns-na-tirean-isle/

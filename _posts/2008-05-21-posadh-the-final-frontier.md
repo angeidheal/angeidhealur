@@ -2,7 +2,7 @@
 id: 900
 title: 'Pòsadh… ‘the Final Frontier’'
 date: '2008-05-21T11:19:53+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=900'
 permalink: /2008-05-21-posadh-the-final-frontier/

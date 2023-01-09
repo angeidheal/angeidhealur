@@ -2,7 +2,7 @@
 id: 261
 title: 'Criomagan Naidheachd • 21 Am Màrt 2022'
 date: '2022-03-21T18:00:41+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=261'
 permalink: /2022-03-21-criomagan-naidheachd-21-am-mart-2022/

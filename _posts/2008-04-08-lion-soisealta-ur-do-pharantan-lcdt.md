@@ -2,7 +2,7 @@
 id: 986
 title: 'Lìon-sòisealta ùr do phàrantan LCDT'
 date: '2008-04-08T19:29:17+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=986'
 permalink: /2008-04-08-lion-soisealta-ur-do-pharantan-lcdt/

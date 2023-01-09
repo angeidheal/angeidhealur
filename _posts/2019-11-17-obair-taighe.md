@@ -2,7 +2,7 @@
 id: 398
 title: Obair-taighe
 date: '2019-11-17T12:30:27+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=398'
 permalink: /2019-11-17-obair-taighe/

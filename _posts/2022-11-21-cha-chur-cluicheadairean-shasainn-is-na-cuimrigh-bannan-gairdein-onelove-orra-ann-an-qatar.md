@@ -2,7 +2,7 @@
 id: 117
 title: 'Cha chur cluicheadairean Shasainn is na Cuimrigh bannan‑gàirdein OneLove orra ann an Qatar'
 date: '2022-11-21T13:08:42+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=117'
 permalink: /2022-11-21-cha-chur-cluicheadairean-shasainn-is-na-cuimrigh-bannan%e2%80%91gairdein-onelove-orra-ann-an-qatar/

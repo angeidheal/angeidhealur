@@ -2,7 +2,7 @@
 id: 599
 title: 'Ceannard Fèis-pròise Ghlaschu air a dhreuchd a leigeil dheth'
 date: '2018-10-09T13:34:41+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=599'
 permalink: /2018-10-09-ceannard-feis-proise-ghlaschu-air-a-dhreuchd-a-leigeil-dheth/

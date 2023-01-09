@@ -2,7 +2,7 @@
 id: 732
 title: 'Co-labhairt “An Equal Future?” a’ beachdachadh air na dhìth airson Alba a dhèanamh na dùthaich nas in-ghabhalaiche'
 date: '2018-01-06T16:58:43+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=732'
 permalink: /2018-01-06-co-labhairt-an-equal-future-a-beachdachadh-air-na-dhith-airson-alba-a-dheanamh-na-duthaich-nas-in-ghabhalaiche/

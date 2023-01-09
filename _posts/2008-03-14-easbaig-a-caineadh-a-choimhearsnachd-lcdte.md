@@ -1,15 +1,12 @@
 ---
-id: 1100
-title: 'Easbaig a’ càineadh a’ choimhearsnachd LCDTE'
-date: '2008-03-14T10:19:20+00:00'
-author: angeidheal
 layout: post
-guid: 'https://angeidhealur.scot/?p=1100'
-permalink: /2008-03-14-easbaig-a-caineadh-a-choimhearsnachd-lcdte/
+date: 2008-03-14 10:19
+title: "Easbaig a’ càineadh a’ choimhearsnachd LCDTE"
 image: /images/posts/2008-03-14-easbaig-a-caineadh-a-choimhearsnachd-lcdte.webp
+author: Crìstean MacMhìcheil
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Creideamh
 ---
 

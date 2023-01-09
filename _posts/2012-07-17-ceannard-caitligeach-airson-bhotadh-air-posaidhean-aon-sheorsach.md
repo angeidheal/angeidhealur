@@ -2,7 +2,7 @@
 id: 759
 title: 'Ceannard Caitligeach airson bhòtadh air pòsaidhean aon-sheòrsach'
 date: '2012-07-17T21:08:40+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=759'
 permalink: /2012-07-17-ceannard-caitligeach-airson-bhotadh-air-posaidhean-aon-sheorsach/

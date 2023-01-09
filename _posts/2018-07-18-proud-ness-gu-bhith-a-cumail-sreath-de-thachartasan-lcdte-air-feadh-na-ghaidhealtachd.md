@@ -2,7 +2,7 @@
 id: 650
 title: 'Proud Ness gu bhith a’ cumail sreath de thachartasan LCDTE air feadh na Ghàidhealtachd'
 date: '2018-07-18T20:54:18+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=650'
 permalink: /2018-07-18-proud-ness-gu-bhith-a-cumail-sreath-de-thachartasan-lcdte-air-feadh-na-ghaidhealtachd/

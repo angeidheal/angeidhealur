@@ -2,7 +2,7 @@
 id: 332
 title: 'Fireannaich gèidh agus dà-sheòrsach gu bhith comasach air fuil a thoirt seachad gun a bhith a&#8217; seachnadh feise'
 date: '2020-12-14T18:00:24+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=332'
 permalink: /2020-12-14-fireannaich-geidh-agus-da-sheorsach-gu-bhith-comasach-air-fuil-a-thoirt-seachad-gun-a-bhith-a-seachnadh-feise/

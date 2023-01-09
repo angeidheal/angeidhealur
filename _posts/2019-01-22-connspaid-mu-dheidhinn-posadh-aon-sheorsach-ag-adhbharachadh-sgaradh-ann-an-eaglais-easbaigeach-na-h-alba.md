@@ -2,7 +2,7 @@
 id: 479
 title: 'Connspaid mu dheidhinn pòsadh aon-sheòrsach ag adhbharachadh sgaradh ann an Eaglais Easbaigeach na h-Alba'
 date: '2019-01-22T12:03:26+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=479'
 permalink: /2019-01-22-connspaid-mu-dheidhinn-posadh-aon-sheorsach-ag-adhbharachadh-sgaradh-ann-an-eaglais-easbaigeach-na-h-alba/

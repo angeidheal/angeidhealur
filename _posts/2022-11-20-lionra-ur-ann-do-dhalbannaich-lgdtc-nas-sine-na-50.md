@@ -2,7 +2,7 @@
 id: 120
 title: 'Lìonra ùr ann do dh’Albannaich LGDTC+ nas sìne na 50'
 date: '2022-11-20T17:36:48+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=120'
 permalink: /2022-11-20-lionra-ur-ann-do-dhalbannaich-lgdtc-nas-sine-na-50/

@@ -2,7 +2,7 @@
 id: 223
 title: 'Liz Truss a&#8217; lorg dòigh gus &#8220;stad no casg&#8221; a chur air planaichean Riaghaltas na h-Alba Achd Aithneachadh Gnè ath-leasachadh'
 date: '2022-09-13T18:00:30+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=223'
 permalink: /2022-09-13-liz-truss-a-lorg-doigh-gus-stad-no-casg-a-chur-air-planaichean-riaghaltas-na-h-alba-achd-aithneachadh-gne-ath-leasachadh/

@@ -2,7 +2,7 @@
 id: 283
 title: 'Pàrlamaid na Pòlainne air gabhail ri lagh a chuireas casg air cuspairean LGDTCEN+ ann an sgoiltean'
 date: '2022-01-15T18:00:46+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=283'
 permalink: /2022-01-15-parlamaid-na-polainne-air-gabhail-ri-lagh-a-chuireas-casg-air-cuspairean-lgdtcen-ann-an-sgoiltean/

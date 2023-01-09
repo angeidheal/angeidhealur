@@ -2,7 +2,7 @@
 id: 697
 title: 'Eaglais na h-Alba a’ gluasad nas fhaisge air pòsaidhean aon-sheòrsach'
 date: '2018-05-21T18:22:31+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=697'
 permalink: /2018-05-21-eaglais-na-h-alba-a-gluasad-nas-fhaisge-air-posaidhean-aon-sheorsach/

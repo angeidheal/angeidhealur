@@ -2,7 +2,7 @@
 id: 830
 title: 'Iongnadh mòr air California às deidh baraile bho Attorney General'
 date: '2008-12-23T11:57:08+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=830'
 permalink: /2008-12-23-iongnadh-mor-air-california-as-deidh-baraile-bho-attorney-general/

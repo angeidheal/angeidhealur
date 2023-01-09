@@ -2,7 +2,7 @@
 id: 910
 title: 'Triùir ann an Eilean Lesbos a’ toirt buidheann LCDT gu lagh'
 date: '2008-05-07T09:21:29+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=910'
 permalink: /2008-05-07-triuir-ann-an-eilean-lesbos-a-toirt-buidheann-lcdt-gu-lagh/

@@ -2,7 +2,7 @@
 id: 606
 title: 'Chan fhaigh athair tar-ghnèitheach sochair-chloinne'
 date: '2018-09-22T07:59:17+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=606'
 permalink: /2018-09-22-chan-fhaigh-athair-tar-ghneitheach-sochair-chloinne/

@@ -2,7 +2,7 @@
 id: 907
 title: '“Homosexuality” 140 bliadhna a dh’aois'
 date: '2008-05-08T16:56:29+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=907'
 permalink: /2008-05-08-homosexuality-140-bliadhna-a-dhaois/

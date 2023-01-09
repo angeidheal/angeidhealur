@@ -2,7 +2,7 @@
 id: 865
 title: 'Google an aghaidh a’ chaisg air pòsadh aon-sheòrsach'
 date: '2008-10-02T21:10:11+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=865'
 permalink: /2008-10-02-google-an-aghaidh-a-chaisg-air-posadh-aon-sheorsach/

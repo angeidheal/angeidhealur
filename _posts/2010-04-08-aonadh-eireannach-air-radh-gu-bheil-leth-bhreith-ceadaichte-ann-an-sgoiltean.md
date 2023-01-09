@@ -2,7 +2,7 @@
 id: 774
 title: 'Aonadh Èireannach air ràdh gu bheil leth-bhreith ceadaichte ann an sgoiltean'
 date: '2010-04-08T13:18:54+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=774'
 permalink: /2010-04-08-aonadh-eireannach-air-radh-gu-bheil-leth-bhreith-ceadaichte-ann-an-sgoiltean/

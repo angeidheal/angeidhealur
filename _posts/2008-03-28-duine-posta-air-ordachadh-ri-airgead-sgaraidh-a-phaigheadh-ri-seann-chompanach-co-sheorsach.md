@@ -2,7 +2,7 @@
 id: 1052
 title: 'Duine pòsta air òrdachadh ri airgead-sgaraidh a phàigheadh ri seann chompanach co-sheòrsach'
 date: '2008-03-28T08:30:11+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1052'
 permalink: /2008-03-28-duine-posta-air-ordachadh-ri-airgead-sgaraidh-a-phaigheadh-ri-seann-chompanach-co-sheorsach/

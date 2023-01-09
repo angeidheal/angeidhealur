@@ -2,7 +2,7 @@
 id: 808
 title: 'Bile Gnè Mhanainneach air gluasad air adhart'
 date: '2009-03-14T20:33:33+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=808'
 permalink: /2009-03-14-bile-gne-mhanainneach-air-gluasad-air-adhart/

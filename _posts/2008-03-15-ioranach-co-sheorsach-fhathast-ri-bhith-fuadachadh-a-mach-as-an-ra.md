@@ -2,7 +2,7 @@
 id: 1088
 title: 'Iorànach co-sheòrsach fhathast ri bhith fuadachadh a-mach às an RA'
 date: '2008-03-15T11:17:11+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1088'
 permalink: /2008-03-15-ioranach-co-sheorsach-fhathast-ri-bhith-fuadachadh-a-mach-as-an-ra/

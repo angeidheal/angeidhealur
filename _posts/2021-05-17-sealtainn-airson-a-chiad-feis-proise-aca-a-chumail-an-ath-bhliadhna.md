@@ -2,7 +2,7 @@
 id: 317
 title: 'Sealtainn airson a&#8217; chiad fèis-pròise aca a chumail an ath-bhliadhna'
 date: '2021-05-17T18:00:13+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=317'
 permalink: /2021-05-17-sealtainn-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna/

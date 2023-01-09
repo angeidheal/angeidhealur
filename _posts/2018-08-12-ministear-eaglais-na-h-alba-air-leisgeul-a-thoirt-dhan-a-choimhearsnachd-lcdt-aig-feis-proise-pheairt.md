@@ -2,7 +2,7 @@
 id: 639
 title: 'Ministear Eaglais na h-Alba air leisgeul a thoirt dhan a’ choimhearsnachd LCDT aig Fèis-pròise Pheairt'
 date: '2018-08-12T16:06:09+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=639'
 permalink: /2018-08-12-ministear-eaglais-na-h-alba-air-leisgeul-a-thoirt-dhan-a-choimhearsnachd-lcdt-aig-feis-proise-pheairt/

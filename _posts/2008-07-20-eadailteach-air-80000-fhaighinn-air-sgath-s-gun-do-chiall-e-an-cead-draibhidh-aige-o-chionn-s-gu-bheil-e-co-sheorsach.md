@@ -2,7 +2,7 @@
 id: 885
 title: 'Eadailteach air £80,000 fhaighinn air sgàth ’s gun do chiall e an cead-dràibhidh aige o chionn ’s gu bheil e co-sheòrsach'
 date: '2008-07-20T20:45:49+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=885'
 permalink: /2008-07-20-eadailteach-air-80000-fhaighinn-air-sgath-s-gun-do-chiall-e-an-cead-draibhidh-aige-o-chionn-s-gu-bheil-e-co-sheorsach/

@@ -2,7 +2,7 @@
 id: 797
 title: 'Àrd-chùirt Iowa air bhòtadh gus pòsadh aon-sheòrsach a dhèanamh laghail'
 date: '2009-04-07T11:40:30+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=797'
 permalink: /2009-04-07-ard-chuirt-iowa-air-bhotadh-gus-posadh-aon-sheorsach-a-dheanamh-laghail/

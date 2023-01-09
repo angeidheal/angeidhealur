@@ -2,7 +2,7 @@
 id: 958
 title: 'BBC Alba: Deasbad mu dhaoine gèidh a’ toirt seachad fala'
 date: '2008-04-15T09:45:56+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=958'
 permalink: /2008-04-15-bbc-alba-deasbad-mu-dhaoine-geidh-a-toirt-seachad-fala/

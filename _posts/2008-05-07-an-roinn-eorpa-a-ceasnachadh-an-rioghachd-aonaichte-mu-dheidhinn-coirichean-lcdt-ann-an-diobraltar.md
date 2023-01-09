@@ -2,7 +2,7 @@
 id: 916
 title: 'An Roinn Eòrpa a’ ceasnachadh an Rìoghachd Aonaichte mu dheidhinn còirichean LCDT ann an Diobraltar'
 date: '2008-05-07T08:03:23+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=916'
 permalink: /2008-05-07-an-roinn-eorpa-a-ceasnachadh-an-rioghachd-aonaichte-mu-dheidhinn-coirichean-lcdt-ann-an-diobraltar/

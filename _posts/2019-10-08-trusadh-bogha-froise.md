@@ -2,7 +2,7 @@
 id: 1143
 title: 'Trusadh: &#8220;Bogha-froise&#8221;'
 date: '2019-10-08T18:00:58+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1143'
 permalink: /2019-10-08-trusadh-bogha-froise/

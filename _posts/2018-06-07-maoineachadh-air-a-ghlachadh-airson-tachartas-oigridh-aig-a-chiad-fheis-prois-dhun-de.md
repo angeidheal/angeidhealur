@@ -2,7 +2,7 @@
 id: 679
 title: 'Maoineachadh air a ghlachadh airson tachartas òigridh aig a’ chiad Fhèis Pròis Dhùn Dè'
 date: '2018-06-07T11:38:30+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=679'
 permalink: /2018-06-07-maoineachadh-air-a-ghlachadh-airson-tachartas-oigridh-aig-a-chiad-fheis-prois-dhun-de/

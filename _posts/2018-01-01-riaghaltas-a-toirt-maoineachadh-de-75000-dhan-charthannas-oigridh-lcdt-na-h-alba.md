@@ -2,7 +2,7 @@
 id: 741
 title: 'Riaghaltas a’ toirt maoineachadh de £75,000 dhan charthannas Òigridh LCDT na h-Alba'
 date: '2018-01-01T20:21:52+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=741'
 permalink: /2018-01-01-riaghaltas-a-toirt-maoineachadh-de-75000-dhan-charthannas-oigridh-lcdt-na-h-alba/

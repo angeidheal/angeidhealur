@@ -2,7 +2,7 @@
 id: 425
 title: 'Còrr ‘s 9000 mìle an lathair aig Fèis-pròise Ghlaschu ann am meadhan connspaid ùr'
 date: '2019-08-19T19:40:37+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=425'
 permalink: /2019-08-19-corr-s-9000-mile-an-lathair-aig-feis-proise-ghlaschu-ann-am-meadhan-connspaid-ur/

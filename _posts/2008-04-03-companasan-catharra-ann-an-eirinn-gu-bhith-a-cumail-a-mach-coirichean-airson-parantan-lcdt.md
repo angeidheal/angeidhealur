@@ -2,7 +2,7 @@
 id: 1010
 title: 'Companasan-catharra ann an Èirinn gu bhith a’ cumail a-mach còirichean airson pàrantan LCDT'
 date: '2008-04-03T19:59:43+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1010'
 permalink: /2008-04-03-companasan-catharra-ann-an-eirinn-gu-bhith-a-cumail-a-mach-coirichean-airson-parantan-lcdt/

@@ -2,7 +2,7 @@
 id: 1132
 title: 'Pàrtaidh Uaine na h-Alba: Feumar casg a chur air teiripe iompachaidh ann an 2023'
 date: '2023-01-01T18:11:46+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1132'
 permalink: /2023-01-01-partaidh-uaine-na-h-alba-feumar-casg-a-chur-air-teiripe-iompachaidh-ann-an-2023/

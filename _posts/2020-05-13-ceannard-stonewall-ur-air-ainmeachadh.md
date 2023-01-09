@@ -2,7 +2,7 @@
 id: 369
 title: 'Ceannard Stonewall ùr air ainmeachadh'
 date: '2020-05-13T18:00:51+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=369'
 permalink: /2020-05-13-ceannard-stonewall-ur-air-ainmeachadh/

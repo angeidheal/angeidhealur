@@ -2,7 +2,7 @@
 id: 464
 title: 'Planaichean Fèis-pròise Ghlaschu air a dhiùltadh leis a&#8217; chomhairle'
 date: '2019-04-01T21:30:43+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=464'
 permalink: /2019-04-01-planaichean-feis-proise-ghlaschu-air-a-dhiultadh-leis-a-chomhairle/

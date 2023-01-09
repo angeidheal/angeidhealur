@@ -2,7 +2,7 @@
 id: 244
 title: 'Dithis air am marbhadh agus 21 air an leon ann an losgadh an Oslo'
 date: '2022-06-25T18:00:57+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=244'
 image: /images/posts/2022-06-25-dithis-air-am-marbhadh-agus-21-air-an-leon-ann-an-losgadh-an-oslo.webp

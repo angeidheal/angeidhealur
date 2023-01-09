@@ -2,7 +2,7 @@
 id: 1013
 title: 'Taghadh a’ toirt dòchas do dhaoine co-sheòrsach ann an Sìombabue'
 date: '2008-04-02T10:20:50+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1013'
 permalink: /2008-04-02-taghadh-a-toirt-dochas-do-dhaoine-co-sheorsach-ann-an-siombabue/

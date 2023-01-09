@@ -2,7 +2,7 @@
 id: 943
 title: 'NHS anns a’ Chuimrigh airson seirbheisean co-ionann a thoirt ris a’ choimhearsnachd LCDTE'
 date: '2008-04-22T13:51:15+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=943'
 permalink: /2008-04-22-nhs-anns-a-chuimrigh-airson-seirbheisean-co-ionann-a-thoirt-ris-a-choimhearsnachd-lcdte/

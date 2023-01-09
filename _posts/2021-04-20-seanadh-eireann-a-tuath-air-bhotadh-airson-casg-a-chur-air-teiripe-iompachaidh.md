@@ -2,7 +2,7 @@
 id: 320
 title: 'Seanadh Èireann a Tuath air bhòtadh airson casg a chur air teiripe iompachaidh'
 date: '2021-04-20T18:00:56+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=320'
 permalink: /2021-04-20-seanadh-eireann-a-tuath-air-bhotadh-airson-casg-a-chur-air-teiripe-iompachaidh/

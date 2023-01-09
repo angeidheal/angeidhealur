@@ -2,7 +2,7 @@
 id: 843
 title: 'Daoine LCDT a’ togail casaid ann an California'
 date: '2009-11-14T14:23:29+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=843'
 permalink: /2009-11-14-daoine-lcdt-a-togail-casaid-ann-an-california/

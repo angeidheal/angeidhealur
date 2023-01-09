@@ -2,7 +2,7 @@
 id: 360
 title: 'Daoine tar-ghnèitheach san Ungair gan casg bho bhith ag atharrachadh an gnè laghail aca'
 date: '2020-05-28T18:00:31+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=360'
 permalink: /2020-05-28-daoine-tar-ghneitheach-san-ungair-gan-casg-bho-bhith-ag-atharrachadh-an-gne-laghail-aca/

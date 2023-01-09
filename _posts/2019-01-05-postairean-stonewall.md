@@ -2,7 +2,7 @@
 id: 497
 title: 'Postairean Stonewall'
 date: '2019-01-05T21:50:08+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=497'
 permalink: /2019-01-05-postairean-stonewall/

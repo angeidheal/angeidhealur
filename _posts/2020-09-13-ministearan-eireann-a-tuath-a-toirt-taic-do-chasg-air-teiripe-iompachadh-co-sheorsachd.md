@@ -2,7 +2,7 @@
 id: 334
 title: 'Ministearan Èireann a Tuath a&#8217; toirt taic do chasg air teiripe iompachadh co-sheòrsachd'
 date: '2020-09-13T18:00:10+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=334'
 permalink: /2020-09-13-ministearan-eireann-a-tuath-a-toirt-taic-do-chasg-air-teiripe-iompachadh-co-sheorsachd/

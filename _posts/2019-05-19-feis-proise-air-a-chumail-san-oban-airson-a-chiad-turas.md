@@ -2,7 +2,7 @@
 id: 438
 title: 'Fèis-pròise air a chumail san Òban airson a’ chiad turas'
 date: '2019-05-19T11:05:38+00:00'
-author: angeidheal
+author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=438'
 permalink: /2019-05-19-feis-proise-air-a-chumail-san-oban-airson-a-chiad-turas/
