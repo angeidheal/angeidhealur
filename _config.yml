@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A' toirt thugaibh na naidheachdan LGBTQIA+ as ùire
 
 #baseurl: "/antubhalghort" # the subpath of your site, e.g. /blog
-url: "https://macmhicheil.scot/angeidhealur" # the base hostname & protocol for your site
+url: "https://angeidhealur.scot" # the base hostname & protocol for your site
 
 #footer
 author-name: Crìstean MacMhìcheil
