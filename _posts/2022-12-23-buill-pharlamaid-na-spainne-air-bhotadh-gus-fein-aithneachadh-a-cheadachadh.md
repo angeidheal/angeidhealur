@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=552'
 permalink: /2022-12-23-buill-pharlamaid-na-spainne-air-bhotadh-gus-fein-aithneachadh-a-cheadachadh/
 image: /images/posts/Congress_of_Deputies.jpg
 categories:
-    - 'An Roinn Eòrpa'
+    - An Roinn Eòrpa
     - An t-Saoghal
     - Lagh
     - Poileataigs

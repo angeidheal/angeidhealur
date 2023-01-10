@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=488'
 permalink: /2019-01-06-eolaiche-sgaoileadh-ghalaran-air-iarraidh-air-riaghaltas-innis-tile-crioch-a-chur-air-a-chasg-a-tha-toirmeasg-daoine-geidh-bho-bhith-a-toirt-seachad-fala/
 image: /images/posts/tabhartas-fala.webp
 categories:
-    - 'An Roinn Eòrpa'
+    - An Roinn Eòrpa
     - An t-Saoghal
     - Saidheans
     - Slàinte

@@ -18,7 +18,7 @@ tags:
     - DOMA
     - ioma-chinnidheach
     - 'Joe Biden'
-    - 'Na Stàitean Aonaichte'
+    - Na Stàitean Aonaichte
     - pòsadh
     - 'Prìomh-chùirt nan Stàitean Aonaichte'
     - 'Respect for Marriage Act'
