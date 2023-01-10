@@ -1,12 +1,9 @@
 ---
-id: 1001
-title: 'Coimhearsnachd LCDTE an dùil ri leth-bhreith anns a h-uile àite'
-date: '2008-04-06T21:21:20+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=1001'
-permalink: /2008-04-06-coimhearsnachd-lcdte-an-duil-ri-leth-bhreith-anns-a-h-uile-aite/
+date: 2008-04-06 21:21
+title: Coimhearsnachd LCDTE an dùil ri leth-bhreith anns a h-uile àite
 image: /images/posts/2008-04-06-coimhearsnachd-lcdte-an-duil-ri-leth-bhreith-anns-a-h-uile-a-aite.webp
+author: Crìstean MacMhìcheil
 categories:
     - An Rìoghachd Aonaichte
     - Foghlam

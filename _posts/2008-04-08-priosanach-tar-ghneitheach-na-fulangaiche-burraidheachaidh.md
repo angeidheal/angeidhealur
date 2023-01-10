@@ -1,12 +1,9 @@
 ---
-id: 977
-title: 'Prìosanach tar-ghnèitheach na fulangaiche burraidheachaidh'
-date: '2008-04-08T15:23:59+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=977'
-permalink: /2008-04-08-priosanach-tar-ghneitheach-na-fulangaiche-burraidheachaidh/
+date: 2008-04-08 15:23
+title: Prìosanach tar-ghnèitheach na fulangaiche burraidheachaidh
 image: /images/posts/2008-04-08-priosanach-tar-ghneitheach-na-fulangaiche-burraidheachaidh.webp
+author: Crìstean MacMhìcheil
 categories:
     - An Rìoghachd Aonaichte
     - Lagh

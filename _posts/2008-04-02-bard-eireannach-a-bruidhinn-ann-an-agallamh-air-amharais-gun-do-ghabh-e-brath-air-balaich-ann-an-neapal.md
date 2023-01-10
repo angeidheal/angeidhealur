@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-04-02 10:49
-title: "Bàrd Èireannach a’ bruidhinn ann an agallamh air amharais gun do ghabh e brath air balaich ann an Neapàl"
+title: Bàrd Èireannach a’ bruidhinn ann an agallamh air amharais gun do ghabh e brath air balaich ann an Neapàl
 image: /images/posts/2008-04-02-bard-eireannach-a-bruidhinn-ann-an-agallamh-air-amharais-gun-do-ghabh-e-brath-air-balaich-ann-an-neapal.webp
 author: Crìstean MacMhìcheil
 categories:

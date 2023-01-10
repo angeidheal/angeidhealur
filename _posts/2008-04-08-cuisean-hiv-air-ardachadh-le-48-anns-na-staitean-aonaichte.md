@@ -1,12 +1,9 @@
 ---
-id: 989
-title: 'Cùisean HIV air àrdachadh le 48% anns na Stàitean Aonaichte'
-date: '2008-04-08T18:01:15+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=989'
-permalink: /2008-04-08-cuisean-hiv-air-ardachadh-le-48-anns-na-staitean-aonaichte/
+date: 2008-04-08 18:01
+title: Cùisean HIV air àrdachadh le 48% anns na Stàitean Aonaichte
 image: /images/posts/2008-04-08-cuisean-hiv-air-ardachadh-le-48-anns-na-staitean-aonaichte.webp
+author: Crìstean MacMhìcheil
 categories:
     - An t-Saoghal
     - Slàinte

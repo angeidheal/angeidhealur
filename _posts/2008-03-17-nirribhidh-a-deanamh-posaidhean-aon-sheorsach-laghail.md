@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-03-17 11:06
-title: "Nirribhidh a’ dèanamh pòsaidhean aon-sheòrsach laghail"
+title: Nirribhidh a’ dèanamh pòsaidhean aon-sheòrsach laghail
 image: /images/posts/2008-03-17-nirribhidh-a-deanamh-posaidhean-aon-sheorsach-laghail.webp
 author: Crìstean MacMhìcheil
 categories:

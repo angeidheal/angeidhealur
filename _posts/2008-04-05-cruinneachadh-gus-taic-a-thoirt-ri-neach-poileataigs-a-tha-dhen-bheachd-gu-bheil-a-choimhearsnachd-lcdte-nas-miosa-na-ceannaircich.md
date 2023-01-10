@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-04-05 16:47
-title: "Cruinneachadh gus taic a thoirt ri neach-poileataigs a tha dhen bheachd gu bheil a’ choimhearsnachd LCDTE nas miosa na ceannaircich"
+title: Cruinneachadh gus taic a thoirt ri neach-poileataigs a tha dhen bheachd gu bheil a’ choimhearsnachd LCDTE nas miosa na ceannaircich
 image: /images/posts/2008-04-05-cruinneachadh-gus-taic-a-thoirt-ri-neach-poileataigs-a-tha-dhen-bheachd-gu-bheil-a-choimhearsnachd-lcdte-nas-miosa-na-ceannaircich.webp
 author: Crìstean MacMhìcheil
 categories:

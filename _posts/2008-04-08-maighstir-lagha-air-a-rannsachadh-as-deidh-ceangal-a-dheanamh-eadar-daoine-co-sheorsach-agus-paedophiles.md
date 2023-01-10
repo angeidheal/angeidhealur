@@ -1,12 +1,9 @@
 ---
-id: 983
-title: 'Maighstir lagha air a rannsachadh as dèidh ceangal a dhèanamh eadar daoine co-sheòrsach agus paedophiles'
-date: '2008-04-08T17:21:58+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=983'
-permalink: /2008-04-08-maighstir-lagha-air-a-rannsachadh-as-deidh-ceangal-a-dheanamh-eadar-daoine-co-sheorsach-agus-paedophiles/
+date: 2008-04-08 17:21
+title: Maighstir lagha air a rannsachadh as dèidh ceangal a dhèanamh eadar daoine co-sheòrsach agus paedophiles
 image: /images/posts/2008-04-08-maighstir-lagha-air-a-rannsachadh-as-deidh-ceangal-a-dheanamh-eadar-co-ghneithich-agus-paedophiles.webp
+author: Crìstean MacMhìcheil
 categories:
     - A' Chuimrigh
     - An Rìoghachd Aonaichte

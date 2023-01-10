@@ -1,12 +1,9 @@
 ---
-id: 980
-title: 'Na bliadhnaichean ri teachd mì-chinnteach airson Iorànach co-sheòrsach'
-date: '2008-04-08T17:36:01+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=980'
-permalink: /2008-04-08-na-bliadhnaichean-ri-teachd-mi-chinnteach-airson-ioranach-co-sheorsach/
+date: 2008-04-08 17:36
+title: Na bliadhnaichean ri teachd mì-chinnteach airson Iorànach co-sheòrsach
 image: /images/posts/2008-04-08-na-bliadhnaichean-ri-teachd-mi-chinnteach-airson-ioranach-co-sheorsach.webp
+author: Crìstean MacMhìcheil
 categories:
     - An Rìoghachd Aonaichte
     - An Roinn Eòrpa

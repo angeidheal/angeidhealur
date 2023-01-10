@@ -1,12 +1,9 @@
 ---
-id: 986
-title: 'Lìon-sòisealta ùr do phàrantan LCDT'
-date: '2008-04-08T19:29:17+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=986'
-permalink: /2008-04-08-lion-soisealta-ur-do-pharantan-lcdt/
+date: 2008-04-08 19:29
+title: Lìon-sòisealta ùr do phàrantan LCDT
 image: /images/posts/2008-04-08-lion-soisealta-ur-do-pharantan-lcdt.webp
+author: Crìstean MacMhìcheil
 categories:
     - An Rìoghachd Aonaichte
     - Teicneòlas

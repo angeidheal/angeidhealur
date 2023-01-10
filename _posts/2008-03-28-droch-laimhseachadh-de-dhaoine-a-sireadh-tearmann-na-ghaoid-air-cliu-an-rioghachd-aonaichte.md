@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-03-28 09:09
-title: "Droch-làimhseachadh de dhaoine a’ sireadh tèarmann na ghaoid air cliù an Rìoghachd Aonaichte"
+title: Droch-làimhseachadh de dhaoine a’ sireadh tèarmann na ghaoid air cliù an Rìoghachd Aonaichte
 image: /images/posts/2008-03-28-droch-laimhseachadh-de-dhaoine-a-sireadh-tearmann-na-ghaoid-air-cliu-an-rioghachd-aonaichte.webp
 author: Crìstean MacMhìcheil
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-03-30 10:11
-title: "Pàrlamaid Chùba a’ beachdachadh air còirichean LCDTE"
+title: Pàrlamaid Chùba a’ beachdachadh air còirichean LCDTE
 image: /images/posts/2008-03-30-parlamaid-chuba-a-beachdachadh-air-coirichean-lcdte.webp
 author: Crìstean MacMhìcheil
 categories:

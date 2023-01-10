@@ -1,12 +1,9 @@
 ---
-id: 974
-title: 'Barailean ri gràin-co-sheòrsachd a’ tathaich air gu BP Canadanach'
-date: '2008-04-09T12:51:35+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=974'
-permalink: /2008-04-09-barailean-ri-grain-co-sheorsachd-a-tathaich-air-gu-bp-canadanach/
+date: 2008-04-09 12:51
+title: Barailean ri gràin-co-sheòrsachd a’ tathaich air gu BP Canadanach
 image: /images/posts/2008-04-09-barailean-ri-grain-co-sheorsachd-a-tathaich-air-gu-bp-canadanach.webp
+author: Crìstean MacMhìcheil
 categories:
     - An t-Saoghal
     - Poileataigs

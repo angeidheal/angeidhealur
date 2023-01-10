@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-03-19 07:47
-title: 'Siridheach co-sheòrsach gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte'
+title: Siridheach co-sheòrsach gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte
 image: /images/posts/2008-03-19-siridheach-co-sheorsach-gu-bhith-a-fuadach-a-mach-as-an-rioghachd-aonaichte.webp
 author: Crìstean MacMhìcheil
 categories:

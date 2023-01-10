@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-03-17 18:31
-title: "Buidheann Irish Queers a’ togail fianais an aghaidh caismeachd Naomh Pàdraig"
+title: Buidheann Irish Queers a’ togail fianais an aghaidh caismeachd Naomh Pàdraig
 image: /images/posts/2008-03-17-buidheann-irish-queers-a-togail-fianai-an-aghaidh-caismeachd-naomh-padraig.webp
 author: Crìstean MacMhìcheil
 categories:
