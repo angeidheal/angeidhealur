@@ -9,7 +9,7 @@ permalink: /2019-02-21-david-mundell-be-tighinn-a-mach-aon-de-na-rudan-as-duilig
 image: /images/posts/2019-02-21-david-mundell-b-e-tighinn-a-mach-aon-de-na-rudan-as-duilghe-a-rinn-mi-scaled.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Poileataigs
 ---
 

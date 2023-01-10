@@ -9,7 +9,7 @@ permalink: /2022-02-17-program-sonraichte-de-eorpa-a-coimhead-ri-cuspair-dearbh-
 image: /images/posts/2022-02-17-program-sonraichte-de-eorpa-a-coimhead-ri-cuspair-dearbh-aithne-gne.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Dibhearsan
     - Gàidhlig
 ---

@@ -9,7 +9,7 @@ permalink: /2022-11-20-lionra-ur-ann-do-dhalbannaich-lgdtc-nas-sine-na-50/
 image: /images/posts/2022-11-20-lionra-ur-ann-do-dhalbannaich-lgdtc-nas-sine-na-50.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Poileataigs
 ---
 

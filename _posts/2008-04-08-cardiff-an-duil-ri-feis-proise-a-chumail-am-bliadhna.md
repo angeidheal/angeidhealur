@@ -8,8 +8,8 @@ guid: 'https://angeidhealur.scot/?p=992'
 permalink: /2008-04-08-cardiff-an-duil-ri-feis-proise-a-chumail-am-bliadhna/
 image: /images/posts/2008-04-08-cardiff-an-duil-ri-feis-proise-a-chumail-am-bliadhna.webp
 categories:
-    - 'A'' Chuimrigh'
-    - 'An Rìoghachd Aonaichte'
+    - A' Chuimrigh
+    - An Rìoghachd Aonaichte
     - Pròis
 ---
 

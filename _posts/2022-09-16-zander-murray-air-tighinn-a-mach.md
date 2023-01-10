@@ -9,7 +9,7 @@ permalink: /2022-09-16-zander-murray-air-tighinn-a-mach/
 image: /images/posts/2022-09-16-zander-murray-air-tighinn-a-mach.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Spòrs
 ---
 

@@ -8,9 +8,9 @@ guid: 'https://angeidhealur.scot/?p=980'
 permalink: /2008-04-08-na-bliadhnaichean-ri-teachd-mi-chinnteach-airson-ioranach-co-sheorsach/
 image: /images/posts/2008-04-08-na-bliadhnaichean-ri-teachd-mi-chinnteach-airson-ioranach-co-sheorsach.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - 'An Roinn Eòrpa'
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Lagh
     - Poileataigs
 ---

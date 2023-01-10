@@ -9,7 +9,7 @@ permalink: /2018-06-07-maoineachadh-air-a-ghlachadh-airson-tachartas-oigridh-aig
 image: /images/posts/2018-06-07-maoineachadh-air-a-ghlachadh-airson-tachartas-oigridh-aig-a-chiad-fheis-proise-dhun-de.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Pròis
 ---
 

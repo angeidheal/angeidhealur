@@ -9,7 +9,7 @@ permalink: /2019-04-15-ionnsaigh-ann-an-dun-eideann/
 image: /images/posts/2019-04-15-ionnsaigh-ann-an-dun-eideann.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
 ---
 

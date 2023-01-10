@@ -9,7 +9,7 @@ permalink: /2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice/
 image: /images/posts/2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Gnìomhachas
 ---
 

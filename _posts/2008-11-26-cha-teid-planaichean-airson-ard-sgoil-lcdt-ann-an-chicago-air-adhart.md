@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=840'
 permalink: /2008-11-26-cha-teid-planaichean-airson-ard-sgoil-lcdt-ann-an-chicago-air-adhart/
 image: /images/posts/2008-11-26-cha-teid-planaichean-airson-ard-sgoil-lcdt-ann-an-chicago-air-adhart.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Foghlam
 ---
 

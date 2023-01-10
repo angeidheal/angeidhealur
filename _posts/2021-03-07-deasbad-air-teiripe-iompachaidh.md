@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=329'
 permalink: /2021-03-07-deasbad-air-teiripe-iompachaidh/
 image: /images/posts/2021-03-07-deasbad-air-teiripe-iompachaidh.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
 ---

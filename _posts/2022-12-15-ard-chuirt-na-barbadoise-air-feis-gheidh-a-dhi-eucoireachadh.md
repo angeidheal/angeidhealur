@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=1115'
 permalink: /2022-12-15-ard-chuirt-na-barbadoise-air-feis-gheidh-a-dhi-eucoireachadh/
 image: /images/posts/Brathach-na-Barbadoise-scaled.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Lagh
 tags:
     - Aintìoga

@@ -9,7 +9,7 @@ permalink: /2018-01-01-riaghaltas-a-toirt-maoineachadh-de-75000-dhan-charthannas
 image: /images/posts/2018-01-01-riaghaltas-a-toirt-maoineachadh-de-75000-dhan-charthannas-oigridh-lcdt-na-h-alba.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Poileataigs
 ---
 

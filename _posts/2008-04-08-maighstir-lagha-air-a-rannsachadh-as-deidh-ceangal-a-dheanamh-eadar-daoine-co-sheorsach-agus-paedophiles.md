@@ -8,8 +8,8 @@ guid: 'https://angeidhealur.scot/?p=983'
 permalink: /2008-04-08-maighstir-lagha-air-a-rannsachadh-as-deidh-ceangal-a-dheanamh-eadar-daoine-co-sheorsach-agus-paedophiles/
 image: /images/posts/2008-04-08-maighstir-lagha-air-a-rannsachadh-as-deidh-ceangal-a-dheanamh-eadar-co-ghneithich-agus-paedophiles.webp
 categories:
-    - 'A'' Chuimrigh'
-    - 'An Rìoghachd Aonaichte'
+    - A' Chuimrigh
+    - An Rìoghachd Aonaichte
     - Dibhearsan
     - Lagh
 ---

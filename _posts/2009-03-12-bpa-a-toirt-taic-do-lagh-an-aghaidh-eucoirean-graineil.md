@@ -9,7 +9,7 @@ permalink: /2009-03-12-bpa-a-toirt-taic-do-lagh-an-aghaidh-eucoirean-graineil/
 image: /images/posts/2009-03-12-bpa-a-toirt-taic-do-lagh-an-aghaidh-eucoirean-graineil.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
 ---

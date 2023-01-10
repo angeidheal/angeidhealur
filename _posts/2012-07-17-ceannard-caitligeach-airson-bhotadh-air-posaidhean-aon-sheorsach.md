@@ -9,7 +9,7 @@ permalink: /2012-07-17-ceannard-caitligeach-airson-bhotadh-air-posaidhean-aon-sh
 image: /images/posts/2012-07-17-ceannard-caitligeach-airson-bhotadh-air-posaidhean-aon-sheorsach.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Creideamh
 ---
 

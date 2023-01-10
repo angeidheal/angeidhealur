@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=847'
 permalink: /2008-11-04-muinntir-chalifornia-gu-bhith-a-bhotadh-air-proposition-8-an-diugh/
 image: /images/posts/prop-8.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Lagh
     - Poileataigs
 ---

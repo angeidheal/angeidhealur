@@ -9,7 +9,7 @@ permalink: /2019-04-08-maoin-ur-air-a-steidheachadh-gus-taic-a-thoirt-do-dheagra
 image: /images/posts/2019-04-08-maoin-ur-air-a-steidheachadh-gus-taic-a-thoirt-do-dh-eagraichean-feisean-proise-na-h-alba.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Pròis
 ---
 

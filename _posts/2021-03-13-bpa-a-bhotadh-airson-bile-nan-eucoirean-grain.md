@@ -9,7 +9,7 @@ permalink: /2021-03-13-bpa-a-bhotadh-airson-bile-nan-eucoirean-grain/
 image: /images/posts/2021-03-13-bpa-a-bhotadh-airson-bile-nan-eucoirean-grain.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
 ---

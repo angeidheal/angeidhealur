@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=768'
 permalink: /2010-10-22-paipear-naidheachd-ugandach-air-liosta-de-dhaoine-co-sheorsach-fhoillseachadh/
 image: /images/posts/2010-10-22-paipear-naidheachd-ugandach-air-liosta-de-dhaoine-co-sheorsach-fhoillseachadh.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
 ---
 
 Tha am pàipear-naidheachd Ugandach *Rolling Stone* air liosta de dhaoine co-sheòrsach san dùthaich agus na dealbhan aca fhoillseachadh.

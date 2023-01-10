@@ -9,7 +9,7 @@ permalink: /2022-12-05-riaghaltas-na-h-alba-gus-clionaig-prep-air-loidhne-a-chur
 image: /images/posts/2022-12-05-riaghaltas-na-h-alba-gus-clionaig-prep-air-loidhne-a-chur-air-bhog.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Poileataigs
     - Slàinte
 ---

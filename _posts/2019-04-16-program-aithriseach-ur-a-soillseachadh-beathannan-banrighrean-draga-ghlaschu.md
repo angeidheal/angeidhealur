@@ -9,7 +9,7 @@ permalink: /2019-04-16-program-aithriseach-ur-a-soillseachadh-beathannan-banrigh
 image: /images/posts/2019-04-16-program-aithriseach-a-soillseachadh-beathannan-banrighrean-draga-ghlaschu.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
 ---
 
 Thèid prògram aithriseach ùr a shealltainn air BBC Scotland a-nochd (10f) a bheireas sùil air beathannan triùir banrighrean-draga ann an Glaschu.

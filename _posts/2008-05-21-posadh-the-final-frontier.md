@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=900'
 permalink: /2008-05-21-posadh-the-final-frontier/
 image: /images/posts/2008-05-21-posadh-the-final-frontier.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Dibhearsan
 ---
 

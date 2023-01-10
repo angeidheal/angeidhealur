@@ -9,7 +9,7 @@ permalink: /2019-09-23-tatu-air-a-dhiultadh-do-dhuine-le-hiv/
 image: /images/posts/2019-09-23-tatu-air-a-dhiultadh-do-dhuine-le-hiv.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Gnìomhachas
     - Slàinte
 ---

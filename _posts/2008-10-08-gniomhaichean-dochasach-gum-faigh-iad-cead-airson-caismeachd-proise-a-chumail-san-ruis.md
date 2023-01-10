@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=854'
 permalink: /2008-10-08-gniomhaichean-dochasach-gum-faigh-iad-cead-airson-caismeachd-proise-a-chumail-san-ruis/
 image: /images/posts/2008-10-08-gniomhaichean-dochasach-gum-faigh-iad-cead-airson-caismeachd-proise-a-chumail-san-ruis.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Iomairteachd
     - Pròis
 ---

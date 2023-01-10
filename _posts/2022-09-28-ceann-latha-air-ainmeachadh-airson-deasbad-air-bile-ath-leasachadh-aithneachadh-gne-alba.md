@@ -9,7 +9,7 @@ permalink: /2022-09-28-ceann%e2%80%91latha-air-ainmeachadh-airson-deasbad-air-bi
 image: /images/posts/2022-09-28-ceann-latha-air-ainmeachadh-airson-deasbad-air-bile-ath-leasachadh-aithneachadh-gne-alba.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Poileataigs
 ---
 

@@ -9,7 +9,7 @@ permalink: /2019-10-13-proud-ness-air-ath-ainmeachadh-gu-highland-pride/
 image: /images/posts/RSLocalFile-D189F2AE-C9CF-4DEE-BF00-29258F62F2C0.png
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Pròis
 ---
 

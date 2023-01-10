@@ -9,7 +9,7 @@ permalink: /2022-09-13-liz-truss-a-lorg-doigh-gus-stad-no-casg-a-chur-air-planai
 image: /images/posts/2022-09-13-vice-liz-truss-a-lorg-doigh-gus-stad-no-casg-a-chur-air-planaichean-riaghaltas-na-h-alba-achd-aithneachadh-gne-ath-leasachadh.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Poileataigs
 ---
 

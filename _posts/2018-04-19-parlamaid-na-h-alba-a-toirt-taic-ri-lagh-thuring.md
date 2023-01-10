@@ -9,7 +9,7 @@ permalink: /2018-04-19-parlamaid-na-h-alba-a-toirt-taic-ri-lagh-thuring/
 image: /images/posts/2018-04-19-parlamaid-na-h-alba-a-toirt-taic-ri-lagh-thuring.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
 ---

@@ -9,7 +9,7 @@ permalink: /2022-01-15-parlamaid-na-polainne-air-gabhail-ri-lagh-a-chuireas-casg
 image: /images/posts/2022-01-15-parlamaid-na-polainne-air-gabhail-ri-lagh-a-chuireas-casg-air-cuspairean-lgdtcen-ann-an-sgoiltean.webp
 categories:
     - 'An Roinn Eòrpa'
-    - 'An t-Saoghal'
+    - An t-Saoghal
 tags:
     - 'An Roinn Eòrpa'
 ---

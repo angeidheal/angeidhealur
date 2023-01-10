@@ -9,7 +9,7 @@ permalink: /2019-05-31-cha-teid-bratach-a-bhogha-fhroise-a-thaisbeanadh-le-cnes-
 image: /images/posts/2019-05-31-cha-teid-bratach-a-bhogha-fhroise-a-thaisbeanadh-le-cnes-re-feis-proise-na-h-innse-gall.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Poileataigs
     - Pròis
 ---

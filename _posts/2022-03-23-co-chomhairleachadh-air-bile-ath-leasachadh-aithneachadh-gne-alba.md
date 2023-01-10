@@ -9,7 +9,7 @@ permalink: /2022-03-23-co-chomhairleachadh-air-bile-ath-leasachadh-aithneachadh-
 image: /images/posts/parlamaid-na-h-alba.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Poileataigs
 ---
 

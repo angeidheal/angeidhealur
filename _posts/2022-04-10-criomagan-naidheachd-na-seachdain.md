@@ -8,8 +8,8 @@ guid: 'https://angeidhealur.scot/?p=249'
 permalink: /2022-04-10-criomagan-naidheachd-na-seachdain/
 image: /images/posts/criomagan.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
-    - 'An t-Saoghal'
+    - An Rìoghachd Aonaichte
+    - An t-Saoghal
     - Criomagan
     - Poileataigs
     - Spòrs

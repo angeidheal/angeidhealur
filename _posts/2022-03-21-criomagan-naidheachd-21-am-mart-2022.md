@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=261'
 permalink: /2022-03-21-criomagan-naidheachd-21-am-mart-2022/
 image: /images/posts/criomagan.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Poileataigs
     - Slàinte
 ---

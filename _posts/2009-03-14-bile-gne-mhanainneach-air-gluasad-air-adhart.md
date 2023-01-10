@@ -8,9 +8,9 @@ guid: 'https://angeidhealur.scot/?p=808'
 permalink: /2009-03-14-bile-gne-mhanainneach-air-gluasad-air-adhart/
 image: /images/posts/2009-03-14-bile-gne-mhanainneach-air-gluasad-air-adhart.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
-    - 'An t-Saoghal'
-    - 'Eilean Mhanainn'
+    - An Rìoghachd Aonaichte
+    - An t-Saoghal
+    - Eilean Mhanainn
     - Lagh
     - Poileataigs
 ---

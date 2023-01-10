@@ -9,7 +9,7 @@ permalink: /2009-07-20-a-chiad-seirbheis-aon-sheorsach-eilean-leodhais-an-diugh/
 image: /images/posts/posadh-aon-sheorsach.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
 ---
 
 Thèid a’ chiad seirbheis aon-sheòrsach a chumail ann an Eilean Leòdhais an-diugh nuair a thèid Anndra Robasdan agus Craig Atkins am pòsadh.

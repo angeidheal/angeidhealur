@@ -9,7 +9,7 @@ permalink: /2022-02-21-cead-ga-thoirt-do-gach-neach-an-gne-fhein-a-thaghadh-ann-
 image: /images/posts/2022-02-21-cead-ga-thoirt-do-gach-neach-an-gne-fhein-a-thaghadh-ann-an-cunntas-sluaigh-na-h-alba.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
 ---
 
 Tha britheamh air riaghladh gum faod gach neach an gnè fhèin a thaghadh ann an cunntas-sluaigh na h-Alba gun feum air teisteanas aithneachadh gnè.

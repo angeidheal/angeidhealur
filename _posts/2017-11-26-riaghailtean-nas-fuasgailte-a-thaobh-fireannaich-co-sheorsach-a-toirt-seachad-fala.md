@@ -9,7 +9,7 @@ permalink: /2017-11-26-riaghailtean-nas-fuasgailte-a-thaobh-fireannaich-co-sheor
 image: /images/posts/2017-11-26-riaghailtean-nas-fuasgailte-a-thaobh-fireannaich-co-sheorsach-a-toirt-seachad-fala.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
     - Slàinte

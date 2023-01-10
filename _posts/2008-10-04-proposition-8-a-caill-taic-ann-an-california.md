@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=860'
 permalink: /2008-10-04-proposition-8-a-caill-taic-ann-an-california/
 image: /images/posts/prop-8.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Lagh
     - Poileataigs
 ---

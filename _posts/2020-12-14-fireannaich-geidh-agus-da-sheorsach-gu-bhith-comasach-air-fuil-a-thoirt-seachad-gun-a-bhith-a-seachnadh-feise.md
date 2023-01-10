@@ -9,7 +9,7 @@ permalink: /2020-12-14-fireannaich-geidh-agus-da-sheorsach-gu-bhith-comasach-air
 image: /images/posts/tabhartas-fala.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
 ---
 
 Bidh fireannaich gèidh agus dà-sheòrsach comasach air fuil a thoirt seachad gun a bhith a’ seachnadh feise as dèidh dha ainmeachadh gun tèid na ceistean a thathar a chur air luchd-tabhartais atharrachadh ann an 2021.

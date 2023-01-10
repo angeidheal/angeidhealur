@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=986'
 permalink: /2008-04-08-lion-soisealta-ur-do-pharantan-lcdt/
 image: /images/posts/2008-04-08-lion-soisealta-ur-do-pharantan-lcdt.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Teicneòlas
 ---
 

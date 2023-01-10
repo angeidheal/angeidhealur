@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=682'
 permalink: /2018-06-07-lionra-ur-steideachadh-gus-taic-a-thoirt-ri-thidsearan-lcdt/
 image: /images/posts/2018-06-07-lionra-ur-steideachadh-gus-taic-a-thoirt-ri-thidsearan-lcdt.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Foghlam
 ---
 

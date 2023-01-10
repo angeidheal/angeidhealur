@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=572'
 permalink: /2018-11-08-aonar-anns-gach-triuir-de-dhaoine-lcd-a-fulang-burraidheachd-ann-an-sgoil-agus-san-aite-obrach/
 image: /images/posts/2018-11-08-aonar-anns-gach-triuir-de-dhaoine-lcd-a-fulang-burraidheachd-ann-an-sgoil-agus-san-aite-obrach.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Foghlam
     - Gnìomhachas
 ---

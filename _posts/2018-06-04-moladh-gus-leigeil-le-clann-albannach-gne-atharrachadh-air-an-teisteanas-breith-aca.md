@@ -9,7 +9,7 @@ permalink: /2018-06-04-moladh-gus-leigeil-le-clann-albannach-gne-atharrachadh-ai
 image: /images/posts/2018-06-04-moladh-gus-leigeil-le-clann-albannach-gne-atharrachadh-air-an-teisteanas-breith-aca.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
 ---

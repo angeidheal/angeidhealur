@@ -9,7 +9,7 @@ permalink: /2020-07-01-impidh-ga-chur-air-ceannardan-an-snp-gus-stad-a-chur-air-
 image: /images/posts/2020-07-01-impidh-ga-chur-air-ceannardan-an-snp-gus-stad-a-chur-air-oillt-tar-ghneitheach-sa-phartaidh.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Poileataigs
 ---
 

@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=830'
 permalink: /2008-12-23-iongnadh-mor-air-california-as-deidh-baraile-bho-attorney-general/
 image: /images/posts/prop-8.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Lagh
     - Poileataigs
 ---

@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=557'
 permalink: /2018-12-16-ben-hunte-air-a-chur-an-dreuchd-mar-a-chiad-neach-naidheachd-lcdt-a-bhbc/
 image: /images/posts/2018-12-16-ben-hunte-air-a-chur-an-dreuchd-mar-a-chiad-neach-naidheachd-lcdt-a-bhbc.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
 ---
 
 Tha BBC News air an neach-naidheachd BBC Afraga, Ben Hunte, ainmeachadh mar a’ chiad neach-naidheachd LCDT aca.

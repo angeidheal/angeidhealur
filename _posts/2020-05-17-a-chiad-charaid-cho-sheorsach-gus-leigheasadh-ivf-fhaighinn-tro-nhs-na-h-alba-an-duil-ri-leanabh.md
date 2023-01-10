@@ -9,7 +9,7 @@ permalink: /2020-05-17-a-chiad-charaid-cho-sheorsach-gus-leigheasadh-ivf-fhaighi
 image: /images/posts/2020-05-17-a-chiad-charaid-cho-sheorsach-gus-leigheasadh-ivf-fhaighinn-tro-nhs-na-h-alba-an-duil-ri-leanabh.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Saidheans
     - Slàinte
 ---

@@ -9,7 +9,7 @@ permalink: /2022-01-12-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-geidh-a-t
 image: /images/posts/tabhartas-fala.webp
 categories:
     - 'An Roinn Eòrpa'
-    - 'An t-Saoghal'
+    - An t-Saoghal
 ---
 
 Tha Riaghaltasan na Frainge agus na Grèige air casgan a bh’ air fireannaich gèidh is dà-sheòrsach bho bhith a’ toirt seachad fala a thogail.

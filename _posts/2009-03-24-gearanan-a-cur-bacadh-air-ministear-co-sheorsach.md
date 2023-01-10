@@ -9,7 +9,7 @@ permalink: /2009-03-24-gearanan-a-cur-bacadh-air-ministear-co-sheorsach/
 image: /images/posts/2009-03-24-gearanan-a-cur-bacadh-air-ministear-co-sheorsach.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Creideamh
 ---
 

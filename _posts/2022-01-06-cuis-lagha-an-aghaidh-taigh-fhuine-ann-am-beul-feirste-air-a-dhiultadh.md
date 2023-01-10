@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=288'
 permalink: /2022-01-06-cuis-lagha-an-aghaidh-taigh-fhuine-ann-am-beul-feirste-air-a-dhiultadh/
 image: /images/posts/2022-01-06-cuis-lagha-an-aghaidh-taigh-fhuine-ann-am-beul-feirste-air-a-dhiultadh.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - 'Èirinn a Tuath'
     - Gnìomhachas
     - Lagh

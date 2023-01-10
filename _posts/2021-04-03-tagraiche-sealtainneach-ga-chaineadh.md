@@ -9,7 +9,7 @@ permalink: /2021-04-03-tagraiche-sealtainneach-ga-chaineadh/
 image: /images/posts/2021-04-03-tagraiche-sealtainneach-ga-chaineadh.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Creideamh
     - Poileataigs
 ---

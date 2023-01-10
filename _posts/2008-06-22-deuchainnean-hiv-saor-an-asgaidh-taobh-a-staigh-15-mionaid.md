@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=888'
 permalink: /2008-06-22-deuchainnean-hiv-saor-an-asgaidh-taobh-a-staigh-15-mionaid/
 image: /images/posts/2008-06-22-deuchainnean-hiv-saor-an-asgaidh-taobh-a-staigh-15-mionaid.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Slàinte
 ---
 

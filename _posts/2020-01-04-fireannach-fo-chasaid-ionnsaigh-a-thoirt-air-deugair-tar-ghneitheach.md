@@ -9,7 +9,7 @@ permalink: /2020-01-04-fireannach-fo-chasaid-ionnsaigh-a-thoirt-air-deugair-tar-
 image: /images/posts/2020-01-04-fireannach-fo-chasaid-ionnsaigh-a-thoirt-air-deugair-tar-ghneitheach.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
 ---
 

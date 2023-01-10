@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=989'
 permalink: /2008-04-08-cuisean-hiv-air-ardachadh-le-48-anns-na-staitean-aonaichte/
 image: /images/posts/2008-04-08-cuisean-hiv-air-ardachadh-le-48-anns-na-staitean-aonaichte.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Slàinte
 ---
 

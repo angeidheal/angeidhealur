@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=491'
 permalink: /2019-01-04-riaghaltas-bhreatainn-air-a-chaineadh-airson-droch-laimhseachadh-a-dheanamh-air-coirichean-tar-ghneitheach/
 image: /images/posts/2019-01-04-riaghaltas-bhreatainn-air-a-chaineadh-airson-droch-laimhseachadh-a-dheanamh-air-coirichean-tar-ghneitheach.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Poileataigs
 ---
 

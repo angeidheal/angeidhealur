@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=277'
 permalink: /2022-02-20-bacadh-ga-chur-air-teiripe-iompachaidh-ann-an-sealainn-nuadh/
 image: /images/posts/2022-02-20-bacadh-ga-chur-air-teiripe-iompachaidh-ann-an-sealainn-nuadh-scaled.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
 ---
 
 Tha Pàrlamaid Shealainn Nuadh air gabhail ri lagh ùr a chuireas bacadh air teiripe iompachaidh.

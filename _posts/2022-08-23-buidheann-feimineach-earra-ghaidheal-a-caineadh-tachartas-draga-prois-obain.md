@@ -9,7 +9,7 @@ permalink: /2022-08-23-buidheann-feimineach-earra-ghaidheal-a-caineadh-tachartas
 image: /images/posts/2022-08-23-buidheann-feimineach-earra-ghaidheal-a-caineadh-tachartas-draga-prois-obain.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Pròis
 ---
 

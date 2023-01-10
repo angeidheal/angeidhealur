@@ -9,7 +9,7 @@ permalink: /2019-04-24-draghan-aig-luchd-poilitigs-snp-mu-ath-leasachaidhean-tar
 image: /images/posts/2019-04-24-draghan-aig-luchd-poilitigs-snp-mu-ath-leasachaidhean-tar-ghneitheach.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
 ---

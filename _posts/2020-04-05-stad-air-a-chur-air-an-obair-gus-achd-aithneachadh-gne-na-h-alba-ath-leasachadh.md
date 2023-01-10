@@ -9,7 +9,7 @@ permalink: /2020-04-05-stad-air-a-chur-air-an-obair-gus-achd-aithneachadh-gne-na
 image: /images/posts/2020-04-05-stad-air-a-chur-air-an-obair-gus-achd-aithneachadh-gne-na-h-alba-ath-leasachadh.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
     - Slàinte

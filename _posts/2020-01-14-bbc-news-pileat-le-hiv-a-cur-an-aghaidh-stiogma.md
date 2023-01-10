@@ -9,7 +9,7 @@ permalink: /2020-01-14-bbc-news-pileat-le-hiv-a-cur-an-aghaidh-stiogma/
 image: /images/posts/2020-01-14-bbc-news-pileat-le-hiv-a-cur-an-aghaidh-stiogma.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Gnìomhachas
     - Lagh
     - Slàinte

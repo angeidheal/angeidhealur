@@ -9,7 +9,7 @@ permalink: /2022-05-23-posadh-aon-sheorsach-an-eaglais-na-h-alba/
 image: /images/posts/posadh-aon-sheorsach.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Creideamh
 ---
 

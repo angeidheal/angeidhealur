@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=670'
 permalink: /2018-06-19-duine-tar-ghneitheach-a-stri-airson-a-bhith-air-aithneachadh-gu-h-oifigeil-mar-athair-a-phaiste/
 image: /images/posts/2018-06-19-duine-tar-ghneitheach-a-stri-airson-a-bhith-air-aithneachadh-gu-h-oifigeil-mar-athair-a-phaiste.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
 ---
 

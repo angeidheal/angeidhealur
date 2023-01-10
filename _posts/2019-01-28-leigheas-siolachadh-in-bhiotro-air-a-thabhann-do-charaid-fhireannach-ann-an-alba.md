@@ -9,7 +9,7 @@ permalink: /2019-01-28-leigheas-siolachadh-in-bhiotro-air-a-thabhann-do-charaid-
 image: /images/posts/2019-01-28-leigheas-siolachadh-in-bhiotro-air-a-thabhann-do-charaid-fhireannach-ann-an-alba.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Saidheans
     - Slàinte
 ---

@@ -9,7 +9,7 @@ permalink: /2019-11-20-tagraiche-taghaidh-ghleann-rathais-air-cogadh-a-ghairm-an
 image: /images/posts/2019-11-20-tagraiche-taghaidh-ghleann-rathais-air-cogadh-a-ghairm-an-aghaidh-na-coimhearsnachd-lcdtq.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Creideamh
     - Poileataigs
 ---

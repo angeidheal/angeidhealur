@@ -9,7 +9,7 @@ permalink: /2019-01-06-eolaiche-sgaoileadh-ghalaran-air-iarraidh-air-riaghaltas-
 image: /images/posts/tabhartas-fala.webp
 categories:
     - 'An Roinn Eòrpa'
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Saidheans
     - Slàinte
 ---

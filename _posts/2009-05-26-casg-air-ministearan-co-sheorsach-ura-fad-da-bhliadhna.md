@@ -9,7 +9,7 @@ permalink: /2009-05-26-casg-air-ministearan-co-sheorsach-ura-fad-da-bhliadhna/
 image: /images/posts/2009-05-26-casg-air-ministearan-co-sheorsach-ura-fad-da-bhliadhna.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Creideamh
 ---
 

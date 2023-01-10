@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=937'
 permalink: /2008-04-23-daoine-co-sheorsach-air-an-cur-gu-deuchainnean-hiv-le-buidhnean-arachais/
 image: /images/posts/2008-04-23-daoine-co-sheorsach-air-an-cur-gu-deuchainnean-hiv-le-buidhnean-arachais.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Gnìomhachas
     - Slàinte
 ---

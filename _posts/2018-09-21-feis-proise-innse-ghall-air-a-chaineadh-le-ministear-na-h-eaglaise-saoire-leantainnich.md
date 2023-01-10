@@ -9,7 +9,7 @@ permalink: /2018-09-21-feis-proise-innse-ghall-air-a-chaineadh-le-ministear-na-h
 image: /wp-content/uploads/2022/12/2018-09-21-feis-proise-innse-ghall-air-a-chaineadh-le-ministear-na-h-eaglaise-saoire-leantainnich.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Creideamh
     - Pròis
 ---

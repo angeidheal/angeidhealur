@@ -9,7 +9,7 @@ permalink: /2022-09-04-luchd-iomairt-lgdtc-a-deanamh-air-parlamaid-na-h-alba/
 image: /images/posts/2022-09-04-luchd-iomairt-a-deanamh-air-parlamaid-na-h-alba.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Poileataigs
 ---
 

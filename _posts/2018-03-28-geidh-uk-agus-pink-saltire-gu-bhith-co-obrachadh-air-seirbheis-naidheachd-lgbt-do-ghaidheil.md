@@ -9,7 +9,7 @@ permalink: /2018-03-28-geidh-uk-agus-pink-saltire-gu-bhith-co-obrachadh-air-seir
 image: /images/posts/2018-03-28-geidh-uk-agus-pink-saltire-gu-bhith-co-obrachadh.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Blog
     - Gàidhlig
 ---

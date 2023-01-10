@@ -9,7 +9,7 @@ permalink: /2021-09-26-alba-air-curaicealam-a-ghabhas-a-steach-cuisean-lgdt-a-th
 image: /images/posts/2021-09-26-alba-air-curaicealam-a-ghabhas-a-steach-cuisean-lgdt-a-thoirt-a-steach.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Foghlam
 ---
 

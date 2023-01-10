@@ -9,7 +9,7 @@ permalink: /2019-11-20-tagraiche-taghaidh-obar-dheathain-air-a-chur-a-reim-airso
 image: /images/posts/2019-11-20-tagraiche-taghaidh-obar-dheathain-air-a-chur-a-reim.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Creideamh
     - Poileataigs
 ---

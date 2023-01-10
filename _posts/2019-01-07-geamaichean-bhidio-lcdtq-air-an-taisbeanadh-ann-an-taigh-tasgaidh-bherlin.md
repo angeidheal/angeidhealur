@@ -9,7 +9,7 @@ permalink: /2019-01-07-geamaichean-bhidio-lcdtq-air-an-taisbeanadh-ann-an-taigh-
 image: /images/posts/2019-01-07-geamaichean-bhidio-lcdtq-air-an-taisbeanadh-ann-an-taigh-tasgaidh-bherlin.webp
 categories:
     - 'An Roinn Eòrpa'
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Teicneòlas
 ---
 

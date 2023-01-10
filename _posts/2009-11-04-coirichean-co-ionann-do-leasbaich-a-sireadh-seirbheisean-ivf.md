@@ -9,7 +9,7 @@ permalink: /2009-11-04-coirichean-co-ionann-do-leasbaich-a-sireadh-seirbheisean-
 image: /images/posts/2009-11-04-coirichean-co-ionann-do-leasbaich-a-sireadh-seirbheisean-ivf.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Slàinte
 ---
 

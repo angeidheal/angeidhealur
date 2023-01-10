@@ -13,7 +13,7 @@ mastoshareshare-lastSuccessfullTootURL:
 image: /images/posts/parlamaid-na-h-alba.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
 ---

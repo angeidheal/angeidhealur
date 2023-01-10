@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=334'
 permalink: /2020-09-13-ministearan-eireann-a-tuath-a-toirt-taic-do-chasg-air-teiripe-iompachadh-co-sheorsachd/
 image: /images/posts/2020-09-13-ministearan-eireann-a-tuath-a-toirt-taic-do-chasg-air-teiripe-iompachadh-co-sheorsachd-scaled.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - 'Èirinn a Tuath'
     - Lagh
     - Poileataigs

@@ -9,7 +9,7 @@ permalink: /2018-06-03-bun-sgoil-gaidhealach-a-leigeil-le-balaich-is-nigheanan-a
 image: /images/posts/2018-06-03-bun-sgoil-gaidhealach-a-leigeil-le-balaich-is-nigheanan-a-bhith-a-farpais-ri-cheile-ann-an-reisean-latha-spors.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Foghlam
     - Spòrs
 ---

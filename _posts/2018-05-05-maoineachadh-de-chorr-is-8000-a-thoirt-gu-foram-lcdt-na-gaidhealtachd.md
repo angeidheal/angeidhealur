@@ -9,7 +9,7 @@ permalink: /2018-05-05-maoineachadh-de-chorr-is-8000-a-thoirt-gu-foram-lcdt-na-g
 image: /images/posts/2018-05-05-maoineachadh-de-chorr-is-8000-a-thoirt-gu-foram-lgdt-na-gaidhealtachd.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Pròis
 ---
 

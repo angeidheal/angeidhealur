@@ -9,7 +9,7 @@ permalink: /2008-04-23-coimisean-eorpach-air-ordugh-leth-bhreith-a-threigsinn/
 image: /images/posts/2008-04-23-coimisean-eorpach-air-ordugh-leth-bhreith-a-threigsinn.webp
 categories:
     - 'An Roinn Eòrpa'
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Lagh
     - Poileataigs
 ---

@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=977'
 permalink: /2008-04-08-priosanach-tar-ghneitheach-na-fulangaiche-burraidheachaidh/
 image: /images/posts/2008-04-08-priosanach-tar-ghneitheach-na-fulangaiche-burraidheachaidh.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
 ---
 

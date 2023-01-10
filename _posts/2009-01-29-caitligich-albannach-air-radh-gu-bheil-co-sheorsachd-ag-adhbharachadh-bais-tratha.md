@@ -9,7 +9,7 @@ permalink: /2009-01-29-caitligich-albannach-air-radh-gu-bheil-co-sheorsachd-ag-a
 image: /images/posts/2009-01-29-caitligich-albannach-air-radh-gu-bheil-co-sheorsachd-ag-adhbharachadh-bais-tratha.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Creideamh
 ---
 

@@ -9,7 +9,7 @@ permalink: /2020-08-27-mathair-albannach-a-sireadh-ordugh-bacaidh-gus-siol-ghini
 image: /images/posts/2020-08-27-mathair-albannach-a-sireadh-ordugh-bacaidh-gus-siol-ghinidh-a-nighean-tar-ghneitheach-a-shabhaladh.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Slàinte
 ---

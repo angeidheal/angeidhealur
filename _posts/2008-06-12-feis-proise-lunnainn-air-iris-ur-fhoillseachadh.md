@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=894'
 permalink: /2008-06-12-feis-proise-lunnainn-air-iris-ur-fhoillseachadh/
 image: /images/posts/2008-06-12-feis-proise-lunnainn-air-iris-ur-fhoillseachadh.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Pròis
     - Sasainn
 ---

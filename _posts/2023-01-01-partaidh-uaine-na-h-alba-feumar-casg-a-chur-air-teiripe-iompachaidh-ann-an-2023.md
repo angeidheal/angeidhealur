@@ -9,7 +9,7 @@ permalink: /2023-01-01-partaidh-uaine-na-h-alba-feumar-casg-a-chur-air-teiripe-i
 image: /images/posts/2022-01-30-cha-bu-choir-do-dhalba-feitheamh-gus-casg-a-chur-air-teiripe-iompachaidh.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Iomairteachd
     - Lagh
     - Poileataigs

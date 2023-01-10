@@ -8,8 +8,8 @@ guid: 'https://angeidhealur.scot/?p=135'
 permalink: /2022-10-26-james-cleverly-ga-chaineadh-airson-radh-gum-bu-choir-do-luchd%e2%80%91taice-ball%e2%80%91coise-lgdt-urram-a-thoirt-do-chultar-qatar/
 image: /images/posts/2022-10-26-james-cleverly-ga-chaineadh.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
-    - 'An t-Saoghal'
+    - An Rìoghachd Aonaichte
+    - An t-Saoghal
     - Spòrs
 ---
 

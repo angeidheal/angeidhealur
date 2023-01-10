@@ -8,8 +8,8 @@ guid: 'https://angeidhealur.scot/?p=946'
 permalink: /2008-04-22-iomairt-ex-gay-gu-bhith-steidheachadh-anns-a-chuimrigh/
 image: /images/posts/2008-04-22-iomairt-ex-gay-gu-bhith-steidheachadh-anns-a-chuimrigh.webp
 categories:
-    - 'A'' Chuimrigh'
-    - 'An Rìoghachd Aonaichte'
+    - A' Chuimrigh
+    - An Rìoghachd Aonaichte
     - Creideamh
 ---
 

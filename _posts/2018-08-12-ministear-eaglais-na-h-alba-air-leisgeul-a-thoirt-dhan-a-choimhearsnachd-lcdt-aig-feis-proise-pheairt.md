@@ -9,7 +9,7 @@ permalink: /2018-08-12-ministear-eaglais-na-h-alba-air-leisgeul-a-thoirt-dhan-a-
 image: /images/posts/2018-08-12-ministear-eaglais-na-h-alba-air-leisgeul-a-thoirt-dhan-a-choimhearsnachd-lcdt-aig-feis-proise-pheairt.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Creideamh
     - Pròis
 ---

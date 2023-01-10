@@ -9,7 +9,7 @@ permalink: /2020-07-21-grain-co-sheorsachd-a-fas-nas-cumanta-an-alba/
 image: /images/posts/2020-07-21-grain-co-sheorsachd-a-fas-nas-cumanta-an-alba.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
 ---
 

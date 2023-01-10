@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=885'
 permalink: /2008-07-20-eadailteach-air-80000-fhaighinn-air-sgath-s-gun-do-chiall-e-an-cead-draibhidh-aige-o-chionn-s-gu-bheil-e-co-sheorsach/
 image: /images/posts/2008-07-20-eadailteach-air-80000-fhaighinn-air-sgath-s-gun-do-chiall-e-an-cead-draibhidh-aige-o-chionn-s-gu-bheil-e-co-sheorsach.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Lagh
     - Poileataigs
 ---

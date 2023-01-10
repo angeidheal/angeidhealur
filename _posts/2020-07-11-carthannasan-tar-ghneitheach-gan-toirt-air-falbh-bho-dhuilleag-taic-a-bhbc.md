@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=349'
 permalink: /2020-07-11-carthannasan-tar-ghneitheach-gan-toirt-air-falbh-bho-dhuilleag-taic-a-bhbc/
 image: /images/posts/2020-07-11-carthannasan-tar-ghneitheach-gan-toirt-air-falbh-bho-dhuilleag-taic-a-bhbc.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Slàinte
 ---
 

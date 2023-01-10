@@ -9,7 +9,7 @@ permalink: /2021-09-08-emma-roddick-ga-suidheachadh-mar-cho-neach-gairm-buidhean
 image: /images/posts/2021-09-08-emma-roddick-ga-suidheachadh-mar-cho-neach-gairm-buidheann-lgdt-taigh-an-roid.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Poileataigs
 ---
 

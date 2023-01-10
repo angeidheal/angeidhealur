@@ -9,7 +9,7 @@ permalink: /2019-01-22-connspaid-mu-dheidhinn-posadh-aon-sheorsach-ag-adhbharach
 image: /images/posts/2019-01-22-connspaid-mu-dheidhinn-posadh-aon-sheorsach-ag-adhbharachadh-sgaradh-ann-an-eaglais-easbaigeach-na-h-alba.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Creideamh
 ---
 

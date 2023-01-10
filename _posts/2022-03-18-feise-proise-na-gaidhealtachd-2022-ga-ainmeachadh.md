@@ -9,7 +9,7 @@ permalink: /2022-03-18-feise-proise-na-gaidhealtachd-2022-ga-ainmeachadh/
 image: /images/posts/Highland_Pride.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Pròis
 ---
 

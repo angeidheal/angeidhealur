@@ -9,7 +9,7 @@ permalink: /2018-05-21-eaglais-na-h-alba-a-gluasad-nas-fhaisge-air-posaidhean-ao
 image: /images/posts/2018-05-21-eaglais-na-h-alba-a-gluasad-nas-fhaisge-air-posaidhean-aon-sheorsach.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Creideamh
 ---
 

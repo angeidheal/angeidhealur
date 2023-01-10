@@ -9,7 +9,7 @@ permalink: /2018-07-15-nicola-sturgeon-na-h-ard-mharasgal-na-caismeachd-aig-feis
 image: /images/posts/2018-07-15-nicola-sturgeon-na-h-ard-mharasgal-na-caismeachd-aig-feis-proise-ghlaschu.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Poileataigs
     - Pròis
 ---

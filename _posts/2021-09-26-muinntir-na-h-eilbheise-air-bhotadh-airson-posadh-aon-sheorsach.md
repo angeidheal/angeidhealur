@@ -9,7 +9,7 @@ permalink: /2021-09-26-muinntir-na-h-eilbheise-air-bhotadh-airson-posadh-aon-she
 image: /images/posts/posadh-aon-sheorsach.webp
 categories:
     - 'An Roinn Eòrpa'
-    - 'An t-Saoghal'
+    - An t-Saoghal
 ---
 
 Tha cha mhòr dà thrian de luchd-bhòtaidh anns an Eilbheis air bhòtadh airson pòsadh aon-sheòrsach a dhèanamh laghail san dùthaich.

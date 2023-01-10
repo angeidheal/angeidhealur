@@ -9,7 +9,7 @@ permalink: /2017-05-10-bbc-oidhirp-gus-beag-fhaclair-lgbti-gaidhlig-a-chruthacha
 image: /images/posts/2017-05-10-bbc-oidhirp-gus-beag-fhaclair-lgbti-gaidhlig-a-chruthachadh.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Gàidhlig
 ---
 

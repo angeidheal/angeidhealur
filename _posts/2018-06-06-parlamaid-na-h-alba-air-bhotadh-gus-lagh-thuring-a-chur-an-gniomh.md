@@ -9,7 +9,7 @@ permalink: /2018-06-06-parlamaid-na-h-alba-air-bhotadh-gus-lagh-thuring-a-chur-a
 image: /images/posts/2018-06-06-parlamaid-na-h-alba-air-bhotadh-gus-lagh-thuring-a-chur-an-gniomh.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
 ---

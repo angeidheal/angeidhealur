@@ -9,7 +9,7 @@ permalink: /2009-01-16-athchuinge-airson-posadh-aon-sheorsach-air-a-thoirt-gu-pa
 image: /images/posts/posadh-aon-sheorsach.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
 ---

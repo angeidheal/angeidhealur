@@ -9,7 +9,7 @@ permalink: /2018-06-19-bpa-snp-a-caineadh-bile-nan-eucoirean-feise/
 image: /images/posts/2018-06-19-bpa-snp-a-caineadh-bile-nan-eucoirean-feise.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
 ---

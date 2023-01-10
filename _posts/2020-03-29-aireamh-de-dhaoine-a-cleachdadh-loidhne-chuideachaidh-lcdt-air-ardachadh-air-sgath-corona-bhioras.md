@@ -9,7 +9,7 @@ permalink: /2020-03-29-aireamh-de-dhaoine-a-cleachdadh-loidhne-chuideachaidh-lcd
 image: /images/posts/2020-03-29-aireamh-de-dhaoine-a-cleachdadh-loidhne-chuideachaidh-lcdt-air-ardachadh-air-sgath-corona-bhioras-scaled.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Slàinte
 ---
 

@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=805'
 permalink: /2009-03-24-cha-teid-bp-iris-robinson-a-thoirt-gu-lagh/
 image: /images/posts/2009-03-24-cha-teid-bp-iris-robinson-a-thoirt-gu-lagh.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Poileataigs
 ---
 

@@ -9,7 +9,7 @@ permalink: /2018-03-20-caineadh-mu-phostair-oilbheumach-ann-an-taigh-seinnse-lit
 image: /images/posts/2018-03-20-caineadh-mu-phostair-oilbheumach-ann-an-taigh-seinnse-liteach.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Gnìomhachas
 ---
 

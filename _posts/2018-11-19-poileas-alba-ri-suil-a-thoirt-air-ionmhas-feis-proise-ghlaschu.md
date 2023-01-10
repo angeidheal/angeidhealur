@@ -9,7 +9,7 @@ permalink: /2018-11-19-poileas-alba-ri-suil-a-thoirt-air-ionmhas-feis-proise-ghl
 image: /images/posts/2018-11-19-poileas-alba-ri-suil-a-thoirt-air-ionmhas-feis-proise-ghlaschu.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Pròis
 ---

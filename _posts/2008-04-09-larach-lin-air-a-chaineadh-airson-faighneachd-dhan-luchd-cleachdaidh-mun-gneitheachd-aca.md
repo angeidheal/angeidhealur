@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=963'
 permalink: /2008-04-09-larach-lin-air-a-chaineadh-airson-faighneachd-dhan-luchd-cleachdaidh-mun-gneitheachd-aca/
 image: /images/posts/2008-04-09-larach-lin-air-a-chaineadh-airson-faighneachd-dhan-luchd-cleachdaidh-mun-gneitheachd-aca.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Gnìomhachas
     - Lagh
     - Teicneòlas

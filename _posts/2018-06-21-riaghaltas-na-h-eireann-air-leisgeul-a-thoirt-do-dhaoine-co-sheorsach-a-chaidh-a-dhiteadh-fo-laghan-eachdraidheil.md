@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=667'
 permalink: /2018-06-21-riaghaltas-na-h-eireann-air-leisgeul-a-thoirt-do-dhaoine-co-sheorsach-a-chaidh-a-dhiteadh-fo-laghan-eachdraidheil/
 image: /images/posts/2018-06-21-riaghaltas-na-h-eireann-air-leisgeul-a-thoirt-do-dhaoine-co-sheorsach-a-chaidh-a-dhiteadh-fo-laghan-eachdraidheil.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Èirinn
     - Lagh
     - Poileataigs

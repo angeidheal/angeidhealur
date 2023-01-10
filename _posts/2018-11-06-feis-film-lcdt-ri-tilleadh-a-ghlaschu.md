@@ -9,7 +9,7 @@ permalink: /2018-11-06-feis-film-lcdt-ri-tilleadh-a-ghlaschu/
 image: /images/posts/2018-11-06-feis-film-lcdt-ri-tilleadh-a-ghlaschu.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Dibhearsan
 ---
 

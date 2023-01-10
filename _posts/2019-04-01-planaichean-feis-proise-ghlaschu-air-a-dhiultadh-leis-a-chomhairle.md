@@ -9,7 +9,7 @@ permalink: /2019-04-01-planaichean-feis-proise-ghlaschu-air-a-dhiultadh-leis-a-c
 image: /images/posts/2019-04-01-planaichean-feis-proise-ghlaschu-air-a-dhiultadh-leis-a-chomhairle.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Pròis
 ---
 

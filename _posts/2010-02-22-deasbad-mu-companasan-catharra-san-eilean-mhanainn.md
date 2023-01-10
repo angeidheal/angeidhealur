@@ -8,9 +8,9 @@ guid: 'https://angeidhealur.scot/?p=777'
 permalink: /2010-02-22-deasbad-mu-companasan-catharra-san-eilean-mhanainn/
 image: /images/posts/2010-02-22-deasbad-mu-companasan-catharra-san-eilean-mhanainn.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
-    - 'An t-Saoghal'
-    - 'Eilean Mhanainn'
+    - An Rìoghachd Aonaichte
+    - An t-Saoghal
+    - Eilean Mhanainn
     - Lagh
     - Poileataigs
 ---

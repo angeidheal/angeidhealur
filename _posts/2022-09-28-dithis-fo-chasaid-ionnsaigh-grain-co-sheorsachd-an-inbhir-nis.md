@@ -9,7 +9,7 @@ permalink: /2022-09-28-dithis-fo-chasaid-ionnsaigh-grain-co%e2%80%91sheorsachd-a
 image: /images/posts/2022-09-28-dithis-fo-chasaid-ionnsaigh-grain-co-sheorsachd-an-inbhir-nis.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
 ---
 

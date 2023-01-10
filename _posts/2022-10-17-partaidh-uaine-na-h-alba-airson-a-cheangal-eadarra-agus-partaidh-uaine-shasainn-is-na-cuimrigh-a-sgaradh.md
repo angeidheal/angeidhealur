@@ -8,9 +8,9 @@ guid: 'https://angeidhealur.scot/?p=141'
 permalink: /2022-10-17-partaidh-uaine-na-h-alba-airson-a-cheangal-eadarra-agus-partaidh-uaine-shasainn-is-na-cuimrigh-a-sgaradh/
 image: /images/posts/2022-10-17-partaidh-uaine-na-h-alba-airson-a-cheangal-eadarra-agus-partaidh-shasainn-is-na-cuimrigh-a-sgaradh.webp
 categories:
-    - 'A'' Chuimrigh'
+    - A' Chuimrigh
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Poileataigs
     - Sasainn
 ---

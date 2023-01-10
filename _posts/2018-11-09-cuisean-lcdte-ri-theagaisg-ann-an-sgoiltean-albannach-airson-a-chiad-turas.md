@@ -9,7 +9,7 @@ permalink: /2018-11-09-cuisean-lcdte-ri-theagaisg-ann-an-sgoiltean-albannach-air
 image: /images/posts/2018-11-09-cuisean-lcdte-ri-theagaisg-ann-an-sgoiltean-albannach-airson-a-chiad-turas.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Foghlam
 ---
 

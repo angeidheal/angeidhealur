@@ -9,7 +9,7 @@ permalink: /2009-05-25-bbc-alba-deasbad-a-leantainn-mu-mhinistearan-geidh/
 image: /images/posts/2009-05-25-bbc-alba-deasbad-a-leantainn-mu-mhinistearan-geidh.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Creideamh
 ---
 

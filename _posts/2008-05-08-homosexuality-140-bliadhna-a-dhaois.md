@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=907'
 permalink: /2008-05-08-homosexuality-140-bliadhna-a-dhaois/
 image: /images/posts/2008-05-08-homosexuality-140-bliadhna-a-dhaois.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
 ---
 
 B’ ann air an 6mh den Chèitean 1868 a thàinig am facal “homosexuality” gu bith.

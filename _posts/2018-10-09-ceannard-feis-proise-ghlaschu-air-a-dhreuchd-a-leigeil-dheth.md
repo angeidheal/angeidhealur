@@ -9,7 +9,7 @@ permalink: /2018-10-09-ceannard-feis-proise-ghlaschu-air-a-dhreuchd-a-leigeil-dh
 image: /images/posts/2018-10-09-ceannard-feis-proise-ghlaschu-air-a-dhreuchd-a-leigeil-dheth.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Pròis
 ---
 

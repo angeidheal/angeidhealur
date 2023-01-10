@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=241'
 permalink: /2022-07-30-sasainn-tar-bhoireannaich-toirmeasgte-bho-rugbaidh-nam-ban/
 image: /images/posts/2022-07-30-sasainn-tar-bhoireannaich-toirmeasgte-bho-rugbaidh-nam-ban.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Sasainn
     - Spòrs
 ---

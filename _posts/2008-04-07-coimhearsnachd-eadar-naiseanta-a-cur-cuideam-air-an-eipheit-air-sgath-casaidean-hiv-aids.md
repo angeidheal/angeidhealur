@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=998'
 permalink: /2008-04-07-coimhearsnachd-eadar-naiseanta-a-cur-cuideam-air-an-eipheit-air-sgath-casaidean-hiv-aids/
 image: /images/posts/2008-04-07-coimhearsnachd-eadar-naiseanta-a-cur-cuideam-air-an-eipheit-air-sgsth-s-casaidean-hiv-aids.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Iomairteachd
     - Lagh
     - Poileataigs

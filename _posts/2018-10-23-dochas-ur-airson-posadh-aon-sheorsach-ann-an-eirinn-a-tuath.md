@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=590'
 permalink: /2018-10-23-dochas-ur-airson-posadh-aon-sheorsach-ann-an-eirinn-a-tuath/
 image: /images/posts/posadh-aon-sheorsach.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - 'Èirinn a Tuath'
     - Lagh
     - Poileataigs

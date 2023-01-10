@@ -9,7 +9,7 @@ permalink: /2022-10-27-ash-regan-air-a-dreuchd-fhagail/
 image: /images/posts/2022-10-27-ash-regan-air-a-dreuchd-fhagail.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Poileataigs
 ---
 

@@ -9,7 +9,7 @@ permalink: /2022-01-01-lagh-aithneachadh-gne-ur-an-eilbheis/
 image: /images/posts/2022-01-01-lagh-aithneachadh-gne-ur-an-eilbheis.webp
 categories:
     - 'An Roinn Eòrpa'
-    - 'An t-Saoghal'
+    - An t-Saoghal
 ---
 
 Chaidh lagh ùr a chur an-gnìomh an Eilbheis an-diugh a leigeas le pearsachan an gnè aca atharrachadh gu sìmplidh.

@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=217'
 permalink: /2022-09-26-cuba-air-bhotadh-gus-posadh-aon-sheorsach-a-dheanamh-laghail/
 image: /images/posts/2022-09-26-cuba-air-bhotadh-gus-posadh-aon-sheorsach-a-dheanamh-laghail.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Poileataigs
 ---
 

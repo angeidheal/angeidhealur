@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=873'
 permalink: /2008-09-28-del-martin-air-basachadh/
 image: /images/posts/2008-09-28-del-martin-air-basachadh.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Iomairteachd
 ---
 

@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=1001'
 permalink: /2008-04-06-coimhearsnachd-lcdte-an-duil-ri-leth-bhreith-anns-a-h-uile-aite/
 image: /images/posts/2008-04-06-coimhearsnachd-lcdte-an-duil-ri-leth-bhreith-anns-a-h-uile-a-aite.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Foghlam
     - Gnìomhachas
     - Poileataigs

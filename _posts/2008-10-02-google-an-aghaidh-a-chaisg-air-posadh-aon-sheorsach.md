@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=865'
 permalink: /2008-10-02-google-an-aghaidh-a-chaisg-air-posadh-aon-sheorsach/
 image: /images/posts/prop-8.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Gnìomhachas
     - Lagh
     - Poileataigs

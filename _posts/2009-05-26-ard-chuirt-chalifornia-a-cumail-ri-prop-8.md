@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=788'
 permalink: /2009-05-26-ard-chuirt-chalifornia-a-cumail-ri-prop-8/
 image: /images/posts/prop-8.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Lagh
     - Poileataigs
 ---

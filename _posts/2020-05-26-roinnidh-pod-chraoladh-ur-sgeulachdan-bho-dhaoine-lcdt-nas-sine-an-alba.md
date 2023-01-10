@@ -9,7 +9,7 @@ permalink: /2020-05-26-roinnidh-pod-chraoladh-ur-sgeulachdan-bho-dhaoine-lcdt-na
 image: /images/posts/2020-05-26-roinnidh-pod-chraoladh-ur-sgeulachdan-bho-dhaoine-lcdt-nas-sine-an-alba.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
 ---
 
 Is e pod-chraoladh ùr a th’ ann an *50 Years of Activism* a bhios a’ toirt sùil air beathannan daoine LCDT+ nas sìne na 50 bliadhna a dh’aois ann an Alba.

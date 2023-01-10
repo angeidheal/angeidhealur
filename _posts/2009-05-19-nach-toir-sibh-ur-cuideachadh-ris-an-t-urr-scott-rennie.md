@@ -9,7 +9,7 @@ permalink: /2009-05-19-nach-toir-sibh-ur-cuideachadh-ris-an-t-urr-scott-rennie/
 image: /images/posts/2009-05-19-nach-toir-sibh-ur-cuideachadh-ris-an-t-urr-scott-rennie.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Creideamh
 ---
 

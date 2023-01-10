@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=369'
 permalink: /2020-05-13-ceannard-stonewall-ur-air-ainmeachadh/
 image: /images/posts/2020-05-13-ceannard-stonewall-ur-air-ainmeachadh.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
 ---
 
 Chaidh [ainmeachadh](https://www.stonewall.org.uk/about-us/news/stonewall-welcomes-nancy-kelley-new-ceo) Dimàirt gur e Nancy Kelley ceannard ùr a’ charthannais LGBT+ Stonewall.

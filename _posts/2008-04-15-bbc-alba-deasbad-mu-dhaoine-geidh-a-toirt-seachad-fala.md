@@ -9,7 +9,7 @@ permalink: /2008-04-15-bbc-alba-deasbad-mu-dhaoine-geidh-a-toirt-seachad-fala/
 image: /images/posts/tabhartas-fala.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Iomairteachd
     - Lagh
     - Poileataigs

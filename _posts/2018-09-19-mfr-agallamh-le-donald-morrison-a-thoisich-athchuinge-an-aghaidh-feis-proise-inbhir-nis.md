@@ -11,7 +11,7 @@ enclosure:
 image: /wp-content/uploads/2022/12/2018-09-19-mfr-agallamh-le-donald-morrison-a-thoisich-athchuinge-an-aghaidh-feis-proise-inbhir-nis.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Creideamh
     - Pròis
 ---

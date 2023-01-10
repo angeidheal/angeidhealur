@@ -9,7 +9,7 @@ permalink: /2008-04-30-colin-justin-air-phosadh-ann-an-seirbheis-diomhair/
 image: /images/posts/2008-04-30-colin-justin-air-phosadh-ann-an-seirbheis-diomhair.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Dibhearsan
 ---
 

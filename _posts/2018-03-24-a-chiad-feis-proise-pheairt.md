@@ -9,7 +9,7 @@ permalink: /2018-03-24-a-chiad-feis-proise-pheairt/
 image: /images/posts/2018-03-24-a-chiad-feis-proise-pheairt.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Pròis
 ---
 

@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=735'
 permalink: /2018-01-06-ceann-suidhe-an-eaglais-mhormonach-air-basachadh/
 image: /images/posts/2018-01-06-ceann-suidhe-an-eaglais-mhormonach-air-basachadh.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Creideamh
 ---
 

@@ -8,9 +8,9 @@ guid: 'https://angeidhealur.scot/?p=355'
 permalink: /2020-05-28-seirbheisean-fala-a-beachdachadh-air-a-chasg-a-th-air-fireannaich-co-sheorsach-agus-da-sheorsach-a-chur-as/
 image: /images/posts/tabhartas-fala.webp
 categories:
-    - 'A'' Chuimrigh'
+    - A' Chuimrigh
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - 'Èirinn a Tuath'
     - Sasainn
     - Slàinte

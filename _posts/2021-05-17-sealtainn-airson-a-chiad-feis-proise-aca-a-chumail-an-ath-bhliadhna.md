@@ -9,7 +9,7 @@ permalink: /2021-05-17-sealtainn-airson-a-chiad-feis-proise-aca-a-chumail-an-ath
 image: /images/posts/2021-05-17-sealtainn-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Pròis
 ---
 

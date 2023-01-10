@@ -8,9 +8,9 @@ guid: 'https://angeidhealur.scot/?p=313'
 permalink: /2021-06-14-riaghailtean-nas-fhosgailte-gan-cur-an-gniomh-a-thaobh-toirt-seachad-fala/
 image: /images/posts/tabhartas-fala.webp
 categories:
-    - 'A'' Chuimrigh'
+    - A' Chuimrigh
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - 'Èirinn a Tuath'
     - Slàinte
 ---

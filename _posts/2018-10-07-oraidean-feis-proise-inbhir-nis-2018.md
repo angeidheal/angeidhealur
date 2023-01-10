@@ -9,7 +9,7 @@ permalink: /2018-10-07-oraidean-feis-proise-inbhir-nis-2018/
 image: /images/posts/Highland_Pride.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Pròis
 ---
 

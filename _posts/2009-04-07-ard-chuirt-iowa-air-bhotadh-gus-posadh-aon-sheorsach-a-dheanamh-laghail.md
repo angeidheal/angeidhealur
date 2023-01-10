@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=797'
 permalink: /2009-04-07-ard-chuirt-iowa-air-bhotadh-gus-posadh-aon-sheorsach-a-dheanamh-laghail/
 image: /images/posts/posadh-aon-sheorsach.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Lagh
     - Poileataigs
 ---

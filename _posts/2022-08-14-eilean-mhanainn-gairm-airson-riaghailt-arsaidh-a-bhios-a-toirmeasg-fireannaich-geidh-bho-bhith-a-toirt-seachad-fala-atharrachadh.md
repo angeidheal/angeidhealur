@@ -8,8 +8,8 @@ guid: 'https://angeidhealur.scot/?p=235'
 permalink: /2022-08-14-eilean-mhanainn-gairm-airson-riaghailt-arsaidh-a-bhios-a-toirmeasg-fireannaich-geidh-bho-bhith-a-toirt-seachad-fala-atharrachadh/
 image: /images/posts/2022-08-14-eilean-mhanainn-gairm-airson-riaghailt-arsaidh-a-bhios-a-toirmeasg-fireannaich-geidh-bho-bhith-a-toirt-seachad-fala-atharrachadh.webp
 categories:
-    - 'An t-Saoghal'
-    - 'Eilean Mhanainn'
+    - An t-Saoghal
+    - Eilean Mhanainn
     - Poileataigs
     - Pròis
     - Slàinte

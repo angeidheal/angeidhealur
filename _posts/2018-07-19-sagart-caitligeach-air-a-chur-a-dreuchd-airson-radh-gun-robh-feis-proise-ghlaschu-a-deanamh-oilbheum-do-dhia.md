@@ -9,7 +9,7 @@ permalink: /2018-07-19-sagart-caitligeach-air-a-chur-a-dreuchd-airson-radh-gun-r
 image: /images/posts/2018-07-19-sagart-caitligeach-air-a-chur-a-dreuchd-airson-radh-gun-robh-feis-proise-ghlaschu-a-deanamh-oilbheum-do-dhia.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Creideamh
     - Pròis
 ---

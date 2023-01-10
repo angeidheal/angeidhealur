@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=581'
 permalink: /2018-11-02-corr-is-3000-air-a-thogail-airson-leabhraichean-cloinne-lcdt-a-thoirt-ri-leabharlann-ameireaganach/
 image: /images/posts/2018-11-02-corr-is-3000-air-a-thogail-airson-leabhraichean-cloinne-lcdt-a-thoirt-ri-leabharlann-ameireaganach.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
 ---
 
 Tha an t-eadar-lìon air còrr is $3000 a thogail gus leabhraichean cloinne LCDT+ ùra a cheannach dhan leabharlann ann am Baile Orainds, Iowa.

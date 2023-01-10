@@ -9,7 +9,7 @@ permalink: /2019-04-19-buill-snp-a-caineadh-a-priomh-mhinisteir-airson-a-seasamh
 image: /images/posts/2019-04-19-buill-snp-a-caineadh-a-phriomh-mhinisteir-airson-a-seasamh-a-thaobh-coirichean-tar-ghneitheach.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
 ---

@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=922'
 permalink: /2008-04-30-caismeachd-proise-bhirmingham-air-a-chur-dheth/
 image: /images/posts/2008-04-30-caismeachd-proise-bhirmingham-air-a-chur-dheth.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Pròis
     - Sasainn
 ---

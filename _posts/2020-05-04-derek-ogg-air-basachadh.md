@@ -9,7 +9,7 @@ permalink: /2020-05-04-derek-ogg-air-basachadh/
 image: /images/posts/2020-05-04-derek-ogg-air-basachadh.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
 ---

@@ -8,8 +8,8 @@ guid: 'https://angeidhealur.scot/?p=226'
 permalink: /2022-09-08-a-chuimrigh-tar-bhoireannaich-toirmeasgte-bho-rugbaidh-nam-ban/
 image: /images/posts/2022-09-08-a-chuimrigh-tar-bhoireannaich-toirmeasgte-bho-rugbaidh-nam-ban.webp
 categories:
-    - 'A'' Chuimrigh'
-    - 'An Rìoghachd Aonaichte'
+    - A' Chuimrigh
+    - An Rìoghachd Aonaichte
     - Spòrs
 ---
 

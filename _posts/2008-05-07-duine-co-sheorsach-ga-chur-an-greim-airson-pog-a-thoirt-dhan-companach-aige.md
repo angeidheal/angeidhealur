@@ -8,8 +8,8 @@ guid: 'https://angeidhealur.scot/?p=913'
 permalink: /2008-05-07-duine-co-sheorsach-ga-chur-an-greim-airson-pog-a-thoirt-dhan-companach-aige/
 image: /images/posts/2008-05-07-duine-co-sheorsach-ga-chur-an-greim-airson-pog-a-thoirt-dhan-companach-aige.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
-    - 'An t-Saoghal'
+    - An Rìoghachd Aonaichte
+    - An t-Saoghal
     - Lagh
 ---
 

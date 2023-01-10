@@ -9,7 +9,7 @@ permalink: /2008-04-09-fosgladh-feis-proise-ghlaschu/
 image: /images/posts/2008-04-09-fosgladh-pride-glaschu.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Pròis
 ---
 

@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=407'
 permalink: /2019-09-27-inbhe-athair-air-a-dhiultadh-do-thar-fhireannach/
 image: /images/posts/2019-09-27-inbhe-athair-air-a-dhiultadh-do-thar-fhireannach.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
 ---
 

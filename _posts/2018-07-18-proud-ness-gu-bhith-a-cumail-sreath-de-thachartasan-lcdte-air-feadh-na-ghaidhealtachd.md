@@ -9,7 +9,7 @@ permalink: /2018-07-18-proud-ness-gu-bhith-a-cumail-sreath-de-thachartasan-lcdte
 image: /images/posts/2018-07-18-proud-ness-gu-bhith-a-cumail-sreath-de-thachartasan-lcdte-air-feadh-na-ghaidhealtachd.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Pròis
 ---
 

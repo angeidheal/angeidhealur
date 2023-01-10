@@ -9,7 +9,7 @@ permalink: /2018-09-26-comhairle-air-cead-a-thoirt-seachad-airson-feis-proise-in
 image: /images/posts/2018-09-26-comhairle-air-cead-a-thoirt-seachad-airson-feis-proise-inbhir-nis-a-dhol-air-adhart.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
 ---
 
 Chaidh a dhearbhadh madainn Dimàirt gum faod Fèis-pròise Inbhir Nis dol air adhart 6mh Dàmhair.

@@ -9,7 +9,7 @@ permalink: /2020-05-15-seirbheis-ur-a-tabhann-deuchainnean-hiv-tron-phost/
 image: /images/posts/2020-05-15-seirbheis-ur-a-tabhann-deuchainnean-hiv-tron-phost.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Slàinte
 ---
 

@@ -9,7 +9,7 @@ permalink: /2018-01-07-riaghaltas-na-h-alba-airson-laghan-a-thaobh-dearbh-aithne
 image: /images/posts/parlamaid-na-h-alba.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
 ---

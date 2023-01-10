@@ -9,7 +9,7 @@ permalink: /2022-11-25-fear-a-inbhir-pheofharain-air-nochdadh-sa-chuirt-fo-chasa
 image: /images/posts/2022-11-25-fear-a-inbhir-pheofharain-air-nochdadh-sa-chuirt-fo-chasaid-giulan-dhroch-dhiolach.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
 ---
 

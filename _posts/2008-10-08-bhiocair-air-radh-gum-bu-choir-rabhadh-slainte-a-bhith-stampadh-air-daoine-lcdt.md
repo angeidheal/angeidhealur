@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=857'
 permalink: /2008-10-08-bhiocair-air-radh-gum-bu-choir-rabhadh-slainte-a-bhith-stampadh-air-daoine-lcdt/
 image: /images/posts/2008-10-08-bhiocair-air-radh-gum-bu-choir-rabhadh-slainte-a-bhith-stampadh-air-daoine-lcdt.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Creideamh
     - Sasainn
 ---

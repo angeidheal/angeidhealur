@@ -9,7 +9,7 @@ permalink: /2019-08-22-iomairt-airson-tachartas-proise-a-chumail-ann-am-moireabh
 image: /images/posts/2019-08-22-iomairt-airson-tachartas-proise-a-chumail-ann-am-moireabh.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Pròis
 ---
 

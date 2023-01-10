@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=960'
 permalink: /2008-04-09-mathraichean-leasbach-a-sabaid-airson-coirichean-laghail-ann-an-iosrael/
 image: /images/posts/2008-04-09-mathraichean-leasbach-a-sabaid-airson-coirichean-laghail-ann-iosrael.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Lagh
     - Poileataigs
 ---

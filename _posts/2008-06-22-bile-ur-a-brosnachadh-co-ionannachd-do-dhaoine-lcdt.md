@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=891'
 permalink: /2008-06-22-bile-ur-a-brosnachadh-co-ionannachd-do-dhaoine-lcdt/
 image: /images/posts/2008-06-22-bile-ur-a-brosnachadh-co-ionannachd-do-dhaoine-lcdt.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
 ---

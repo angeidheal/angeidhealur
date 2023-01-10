@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=694'
 permalink: /2018-06-03-a-chiad-feis-proise-na-h-antartaig/
 image: /images/posts/2018-06-03-a-chiad-feis-proise-na-h-antartaig.webp
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Pròis
 ---
 

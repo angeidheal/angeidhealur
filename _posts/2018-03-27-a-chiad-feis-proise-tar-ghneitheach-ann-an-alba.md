@@ -9,7 +9,7 @@ permalink: /2018-03-27-a-chiad-feis-proise-tar-ghneitheach-ann-an-alba/
 image: /images/posts/2018-03-27-a-chiad-feis-proise-tar-ghneitheach-ann-an-alba.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Pròis
 ---
 

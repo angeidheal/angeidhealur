@@ -9,7 +9,7 @@ permalink: /2018-08-15-comhairliche-tar-ghneitheach-albannach-a-leigeil-as-an-dr
 image: /images/posts/2018-08-15-comhairliche-tar-ghneitheach-albannach-a-leigeil-as-an-dreuchd-mar-thoradh-air-droch-dhiol.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Poileataigs
 ---
 

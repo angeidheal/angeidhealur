@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=882'
 permalink: /2008-07-25-carthannas-aids-airson-clann-ionnsachadh-mu-dheidhinn-feise-co-sheorsach-sna-sgoiltean/
 image: /images/posts/2008-07-25-carthannas-aids-airson-clann-ionnsachadh-mu-dheidhinn-feise-co-sheorsach-sna-sgoiltean.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Foghlam
     - Slàinte
 ---

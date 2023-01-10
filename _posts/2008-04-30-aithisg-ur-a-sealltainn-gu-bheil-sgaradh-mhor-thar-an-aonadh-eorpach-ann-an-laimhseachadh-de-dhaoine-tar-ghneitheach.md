@@ -9,7 +9,7 @@ permalink: /2008-04-30-aithisg-ur-a-sealltainn-gu-bheil-sgaradh-mhor-thar-an-aon
 image: /images/posts/2008-04-30-aithisg-ur-a-sealltainn-gu-bheil-sgaradh-mhor-thar-an-aonadh-eorpach-ann-an-laimhseachadh-de-dhaoine-tar-ghneitheach.webp
 categories:
     - 'An Roinn Eòrpa'
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Lagh
     - Poileataigs
 ---

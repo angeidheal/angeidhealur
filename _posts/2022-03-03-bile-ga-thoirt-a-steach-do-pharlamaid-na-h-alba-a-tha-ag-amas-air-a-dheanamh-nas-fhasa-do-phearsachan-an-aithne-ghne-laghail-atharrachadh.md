@@ -9,7 +9,7 @@ permalink: /2022-03-03-bile-ga-thoirt-a-steach-do-pharlamaid-na-h-alba-a-tha-ag-
 image: /images/posts/parlamaid-na-h-alba.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
 ---

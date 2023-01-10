@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=340'
 permalink: /2020-08-23-am-priosan-do-dhathair-a-thug-ionnsaigh-air-a-mhac/
 image: /images/posts/2020-08-23-am-priosan-do-dh-athair-a-thug-ionnsaigh-air-a-mhac-scaled.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
 ---
 

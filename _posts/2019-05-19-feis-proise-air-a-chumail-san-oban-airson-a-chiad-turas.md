@@ -9,7 +9,7 @@ permalink: /2019-05-19-feis-proise-air-a-chumail-san-oban-airson-a-chiad-turas/
 image: /images/posts/2019-05-19-feis-proise-air-a-chumail-san-oban-airson-a-chiad-turas.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Pròis
 ---
 

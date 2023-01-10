@@ -9,7 +9,7 @@ permalink: /2019-02-24-eaglais-dhun-phris-a-beachdachadh-air-taighean-lcdt-a-lea
 image: /images/posts/2019-02-24-eaglais-dhun-phris-a-beachdachadh-air-taighean-lgbt-a-leasachadh.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Creideamh
 ---
 

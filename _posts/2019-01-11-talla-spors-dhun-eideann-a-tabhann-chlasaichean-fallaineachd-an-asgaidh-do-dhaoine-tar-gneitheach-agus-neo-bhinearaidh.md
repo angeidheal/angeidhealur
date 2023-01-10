@@ -9,7 +9,7 @@ permalink: /2019-01-11-talla-spors-dhun-eideann-a-tabhann-chlasaichean-fallainea
 image: /images/posts/2019-01-11-talla-spors-dhun-eideann-a-tabhann-chlasaichean-fallaineachd-an-asgaidh-do-dhaoine-tar-gneitheach-agus-neo-bhinearaidh.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Spòrs
 ---
 

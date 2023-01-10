@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=563'
 permalink: /2018-11-22-bu-choir-cuisean-lcdt-a-bhith-na-phairt-bunaiteach-de-dhfhoghlam-chloinne/
 image: /images/posts/2018-11-22-bu-choir-cuisean-lcdt-a-bhith-na-phairt-bunaiteach-de-dhfhoghlam-chloinne.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Foghlam
 ---
 

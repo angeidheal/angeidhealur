@@ -9,7 +9,7 @@ permalink: /2018-01-06-co-labhairt-an-equal-future-a-beachdachadh-air-na-dhith-a
 image: /images/posts/2018-01-06-co-labhairt-an-equal-future-a-beachdachadh-air-na-dhith-airson-alba-a-dheanamh-na-duthaich-nas-in-ghabhalaiche.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Foghlam
 ---
 

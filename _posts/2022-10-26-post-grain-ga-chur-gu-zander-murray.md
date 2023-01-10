@@ -9,7 +9,7 @@ permalink: /2022-10-26-post-grain-ga-chur-gu-zander-murray/
 image: /images/posts/2022-10-26-post-grain-ga-chur-gu-zander-murray.webp
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Spòrs
 ---
 

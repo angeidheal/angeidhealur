@@ -8,9 +8,9 @@ guid: 'https://angeidhealur.scot/?p=903'
 permalink: /2008-05-12-bile-nan-eucoirean-graineil-air-a-dheanamh-laghail-leis-a-pharlamaid/
 image: /images/posts/2008-05-12-bile-nan-eucoirean-graineil-air-a-dheanamh-laghail-leis-a-pharlamaid.webp
 categories:
-    - 'A'' Chuimrigh'
+    - A' Chuimrigh
     - Alba
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - 'Èirinn a Tuath'
     - Sasainn
 ---

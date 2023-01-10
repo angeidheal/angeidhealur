@@ -8,9 +8,9 @@ guid: 'https://angeidhealur.scot/?p=916'
 permalink: /2008-05-07-an-roinn-eorpa-a-ceasnachadh-an-rioghachd-aonaichte-mu-dheidhinn-coirichean-lcdt-ann-an-diobraltar/
 image: /images/posts/2008-05-07-an-roinn-eorpa-a-ceasnachadh-an-rioghachd-aonaichte-mu-dheidhinn-coraichean-lcdt-ann-an-diobraltar.webp
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - 'An Roinn Eòrpa'
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Lagh
     - Poileataigs
 ---
