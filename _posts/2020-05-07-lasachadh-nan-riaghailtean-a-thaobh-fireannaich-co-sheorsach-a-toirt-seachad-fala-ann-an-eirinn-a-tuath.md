@@ -9,7 +9,7 @@ permalink: /2020-05-07-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-co-sheors
 image: /images/posts/tabhartas-fala.webp
 categories:
     - An Rìoghachd Aonaichte
-    - 'Èirinn a Tuath'
+    - Èirinn a Tuath
     - Slàinte
 ---
 

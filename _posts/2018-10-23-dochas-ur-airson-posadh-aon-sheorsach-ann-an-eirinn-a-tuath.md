@@ -9,7 +9,7 @@ permalink: /2018-10-23-dochas-ur-airson-posadh-aon-sheorsach-ann-an-eirinn-a-tua
 image: /images/posts/posadh-aon-sheorsach.webp
 categories:
     - An Rìoghachd Aonaichte
-    - 'Èirinn a Tuath'
+    - Èirinn a Tuath
     - Lagh
     - Poileataigs
 ---

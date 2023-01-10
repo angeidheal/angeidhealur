@@ -10,7 +10,7 @@ image: /images/posts/2022-12-04-arainn-oilthigh-uladh-ann-an-catar-na-briseadh-c
 categories:
     - An Rìoghachd Aonaichte
     - An t-Saoghal
-    - 'Èirinn a Tuath'
+    - Èirinn a Tuath
     - Foghlam
 ---
 

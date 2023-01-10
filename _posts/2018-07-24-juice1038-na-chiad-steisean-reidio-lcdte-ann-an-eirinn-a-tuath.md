@@ -10,7 +10,7 @@ image: /images/posts/2018-07-24-juice1038-na-chiad-steisean-reidio-lcdte-ann-an-
 categories:
     - An Rìoghachd Aonaichte
     - Dibhearsan
-    - 'Èirinn a Tuath'
+    - Èirinn a Tuath
 ---
 
 Tòisichidh [Juice1038](http://juicebelfast.com/) a’ craoladh bho phrìomh-bhaile Èirinn a Tuath air 4mh An Lùnastal, an aon latha ri Fèis-pròise Bheul Feirste.

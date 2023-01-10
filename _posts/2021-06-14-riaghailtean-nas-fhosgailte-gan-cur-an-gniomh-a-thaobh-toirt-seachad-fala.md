@@ -11,7 +11,7 @@ categories:
     - A' Chuimrigh
     - Alba
     - An Rìoghachd Aonaichte
-    - 'Èirinn a Tuath'
+    - Èirinn a Tuath
     - Slàinte
 ---
 

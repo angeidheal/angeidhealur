@@ -9,7 +9,7 @@ permalink: /2020-09-13-ministearan-eireann-a-tuath-a-toirt-taic-do-chasg-air-tei
 image: /images/posts/2020-09-13-ministearan-eireann-a-tuath-a-toirt-taic-do-chasg-air-teiripe-iompachadh-co-sheorsachd-scaled.webp
 categories:
     - An Rìoghachd Aonaichte
-    - 'Èirinn a Tuath'
+    - Èirinn a Tuath
     - Lagh
     - Poileataigs
 ---
