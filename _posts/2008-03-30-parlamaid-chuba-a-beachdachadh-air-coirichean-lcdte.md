@@ -1,14 +1,11 @@
 ---
-id: 1037
-title: 'Pàrlamaid Chùba a’ beachdachadh air còirichean LCDTE'
-date: '2008-03-30T10:11:53+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=1037'
-permalink: /2008-03-30-parlamaid-chuba-a-beachdachadh-air-coirichean-lcdte/
+date: 2008-03-30 10:11
+title: "Pàrlamaid Chùba a’ beachdachadh air còirichean LCDTE"
 image: /images/posts/2008-03-30-parlamaid-chuba-a-beachdachadh-air-coirichean-lcdte.webp
+author: Crìstean MacMhìcheil
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Lagh
     - Poileataigs
 ---

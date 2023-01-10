@@ -1,16 +1,13 @@
 ---
-id: 1046
-title: 'Iomairt Albannach ag amas air stad a chur air deugaire co-sheòrsach fuadach a-mach'
-date: '2008-03-29T09:22:19+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=1046'
-permalink: /2008-03-29-iomairt-albannach-ag-amas-air-stad-a-chur-air-deugaire-co-sheorsach-fuadach-a-mach/
+date: 2008-03-29 09:22
+title: Iomairt Albannach ag amas air stad a chur air deugaire co-sheòrsach fuadach a-mach
 image: /images/posts/2008-03-29-iomairt-albannach-ag-amas-air-stad-a-chur-air-deugaire-co-sheorsach-fuadach-a-mach.webp
+author: Crìstean MacMhìcheil
 categories:
     - Alba
-    - 'An Rìoghachd Aonaichte'
-    - 'An t-Saoghal'
+    - An Rìoghachd Aonaichte
+    - An t-Saoghal
     - Iomairteachd
     - Lagh
     - Poileataigs

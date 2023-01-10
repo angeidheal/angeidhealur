@@ -1,14 +1,11 @@
 ---
-id: 1040
-title: 'Iosrael air bhìosa a thorit ri Palastaineach co-sheòrsach'
-date: '2008-03-30T11:24:15+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=1040'
-permalink: /2008-03-30-iosrael-air-bhiosa-a-thorit-ri-palastaineach-co-sheorsach/
+date: 2008-03-30 11:24
+title: Iosrael air bhìosa a thorit ri Palastaineach co-sheòrsach
 image: /images/posts/2008-03-30-iosrael-air-bhiosa-a-thoirt-ri-palastaineach-co-sheorsach.webp
+author: Crìstean MacMhìcheil
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Lagh
     - Poileataigs
 ---

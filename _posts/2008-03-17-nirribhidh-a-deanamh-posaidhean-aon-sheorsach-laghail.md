@@ -1,15 +1,12 @@
 ---
-id: 1076
-title: 'Nirribhidh a’ dèanamh pòsaidhean aon-sheòrsach laghail'
-date: '2008-03-17T11:06:45+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=1076'
-permalink: /2008-03-17-nirribhidh-a-deanamh-posaidhean-aon-sheorsach-laghail/
+date: 2008-03-17 11:06
+title: "Nirribhidh a’ dèanamh pòsaidhean aon-sheòrsach laghail"
 image: /images/posts/2008-03-17-nirribhidh-a-deanamh-posaidhean-aon-sheorsach-laghail.webp
+author: Crìstean MacMhìcheil
 categories:
-    - 'An Roinn Eòrpa'
-    - 'An t-Saoghal'
+    - An Roinn Eòrpa
+    - An t-Saoghal
     - Lagh
     - Poileataigs
 ---

@@ -1,14 +1,11 @@
 ---
-id: 1034
-title: 'Reachd Ameireaganach ag ràdh gu bheil ainm pòsta co-sheòrsach mì-laghail'
-date: '2008-03-30T10:26:49+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=1034'
-permalink: /2008-03-30-reachd-ameireaganach-ag-radh-gu-bheil-ainm-posta-co-sheorsach-mi-laghail/
+date: 2008-03-30 10:26
+title: Reachd Ameireaganach ag ràdh gu bheil ainm pòsta co-sheòrsach mì-laghail
 image: /images/posts/2008-03-30-reachd-ameireaganach-ag-radh-gu-bheil-ainm-posta-co-sheorsach-mi-laghail.webp
+author: Crìstean MacMhìcheil
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Lagh
     - Poileataigs
 ---

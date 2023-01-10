@@ -1,14 +1,11 @@
 ---
-id: 1073
-title: 'Co-dhùnadh uchd-mhacachaidh mar eisimpleir ann an Iosrael'
-date: '2008-03-18T16:20:44+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=1073'
-permalink: /2008-03-18-co-dhunadh-uchd-mhacachaidh-mar-eisimpleir-ann-an-iosrael/
+date: 2008-03-18 16:20
+title: Co-dhùnadh uchd-mhacachaidh mar eisimpleir ann an Iosrael
 image: /images/posts/2008-03-18-co-dhunadh-uchd-mhacachaidh-mar-eisimpleir-ann-an-iosrael.webp
+author: Crìstean MacMhìcheil
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Lagh
 ---
 

@@ -1,12 +1,9 @@
 ---
-id: 1070
-title: 'Michael Stipe air ràdh gu bheil e co-sheòrsach'
-date: '2008-03-18T16:55:38+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=1070'
-permalink: /2008-03-18-michael-stipe-air-radh-gu-bheil-e-co-sheorsach/
+date: 2008-03-18 16:55
+title: Michael Stipe air ràdh gu bheil e co-sheòrsach
 image: /images/posts/2008-03-18-michael-stipe-air-radh-gu-bheil-e-co-sheorsach.webp
+author: Crìstean MacMhìcheil
 categories:
     - Dibhearsan
 ---

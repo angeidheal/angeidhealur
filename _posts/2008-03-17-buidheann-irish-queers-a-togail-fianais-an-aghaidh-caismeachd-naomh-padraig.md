@@ -1,14 +1,11 @@
 ---
-id: 1085
-title: 'Buidheann Irish Queers a’ togail fianais an aghaidh caismeachd Naomh Pàdraig'
-date: '2008-03-17T18:31:44+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=1085'
-permalink: /2008-03-17-buidheann-irish-queers-a-togail-fianais-an-aghaidh-caismeachd-naomh-padraig/
+date: 2008-03-17 18:31
+title: "Buidheann Irish Queers a’ togail fianais an aghaidh caismeachd Naomh Pàdraig"
 image: /images/posts/2008-03-17-buidheann-irish-queers-a-togail-fianai-an-aghaidh-caismeachd-naomh-padraig.webp
+author: Crìstean MacMhìcheil
 categories:
-    - 'An t-Saoghal'
+    - An t-Saoghal
     - Creideamh
     - Iomairteachd
 ---

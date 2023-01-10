@@ -1,15 +1,12 @@
 ---
-id: 1028
-title: 'Iorànach co-sheòrsach gu bhith a’ fuireach anns a’ Ghrèig'
-date: '2008-03-31T13:09:55+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=1028'
-permalink: /2008-03-31-ioranach-co-sheorsach-gu-bhith-a-fuireach-anns-a-ghreig/
+date: 2008-03-31 13:09
+title: "Iorànach co-sheòrsach gu bhith a’ fuireach anns a’ Ghrèig"
 image: /images/posts/2008-03-31-ioranach-co-sheorsach-gu-bhith-a-fuireach-anns-a-ghreig.webp
+author: Crìstean MacMhìcheil
 categories:
-    - 'An Roinn Eòrpa'
-    - 'An t-Saoghal'
+    - An Roinn Eòrpa
+    - An t-Saoghal
     - Lagh
     - Poileataigs
 ---

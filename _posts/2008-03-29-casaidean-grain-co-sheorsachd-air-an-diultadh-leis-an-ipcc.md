@@ -1,14 +1,11 @@
 ---
-id: 1049
-title: 'Casaidean gràin-co-sheòrsachd air an diùltadh leis an IPCC'
-date: '2008-03-29T10:30:13+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=1049'
-permalink: /2008-03-29-casaidean-grain-co-sheorsachd-air-an-diultadh-leis-an-ipcc/
+date: 2008-03-29 10:30
+title: Casaidean gràin-co-sheòrsachd air an diùltadh leis an IPCC
 image: /images/posts/2008-03-29-casaidean-grain-co-sheorsachd-air-an-diultadh-leis-an-ipcc.webp
+author: Crìstean MacMhìcheil
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Lagh
 ---
 

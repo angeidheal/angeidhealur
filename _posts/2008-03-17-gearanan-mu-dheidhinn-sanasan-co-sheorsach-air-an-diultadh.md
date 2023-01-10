@@ -1,14 +1,11 @@
 ---
-id: 1079
-title: 'Gearanan mu dheidhinn sanasan co-sheòrsach air an diùltadh'
-date: '2008-03-17T11:56:31+00:00'
-author: Crìstean MacMhìcheil
 layout: post
-guid: 'https://angeidhealur.scot/?p=1079'
-permalink: /2008-03-17-gearanan-mu-dheidhinn-sanasan-co-sheorsach-air-an-diultadh/
+date: 2008-03-17 11:56
+title: Gearanan mu dheidhinn sanasan co-sheòrsach air an diùltadh
 image: /images/posts/2008-03-17-gearanan-mu-dheidhinn-sanasan-co-sheorsach-air-an-diultadh.webp
+author: Crìstean MacMhìcheil
 categories:
-    - 'An Rìoghachd Aonaichte'
+    - An Rìoghachd Aonaichte
     - Foghlam
     - Iomairteachd
 ---
