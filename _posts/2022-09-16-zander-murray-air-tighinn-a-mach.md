@@ -1,0 +1,22 @@
+---
+id: 220
+title: 'Zander Murray air tighinn a-mach'
+date: '2022-09-16T18:00:01+00:00'
+author: Crìstean MacMhìcheil
+layout: post
+guid: 'https://angeidhealur.scot/?p=220'
+permalink: /2022-09-16-zander-murray-air-tighinn-a-mach/
+image: /images/posts/2022-09-16-zander-murray-air-tighinn-a-mach.webp
+categories:
+    - Alba
+    - 'An Rìoghachd Aonaichte'
+    - Spòrs
+---
+
+Tha Zander Murray, adhartaiche airson Gala Fairydean Rovers, air ainmeachadh gu bheil e gèidh.
+
+’S e a’ chiad chluicheadair ball-coise proifeiseanta Albannach a tha air tighinn a-mach gu poblach.
+
+Thuirt Murray ann an agallamh air làrach-lìn na sgioba gu bheil e airson cluicheadairean gèidh eile a tha a’ strì ri bhith gèidh a chuideachadh.
+
+Tha e a’ leantainn Jake Daniels, adhartaiche airson Blackpool, a thàinig a-mach sa Chèitean, ga dhèanamh na chiad chluicheadair ball-coise proifeiseanta Sasannach gus tighinn a-mach o chionn Justin Fashanu ann an 1990.
