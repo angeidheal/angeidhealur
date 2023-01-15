@@ -6,7 +6,7 @@ date: 2023-01-09 16:53
 
 title: Dh’fhaodadh gum bi Teisteanasan Aithneachadh Gnè Albannach mì‑dhligheach anns a’ chòrr den Rìoghachd Aonaichte
 
-image: /images/posts/2022-01-09-dh-fhaodadh-gum-bi-teisteanasan-aithneachadh-gne-albannach-mi-dhligheach-anns-a-chorr-den-rioghachd-aonaichte.webp
+image: /images/posts/2023-01-09-dh-fhaodadh-gum-bi-teisteanasan-aithneachadh-gne-albannach-mi-dhligheach-anns-a-chorr-den-rioghachd-aonaichte.webp
 
 author: Crìstean MacMhìcheil
 
