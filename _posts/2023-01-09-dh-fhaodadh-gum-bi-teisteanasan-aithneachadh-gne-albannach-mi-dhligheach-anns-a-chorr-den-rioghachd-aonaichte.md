@@ -20,7 +20,7 @@ categories:
 
 Tha am Ministear airson Boireannaich agus Co‑ionnannachd, Kemi Badenoch, air ainmeachadh gun nithear ath‑sgrùdadh air liosta nan dùthchannan às a bhios an Rìoghachd Aonaichte ag aithneachadh Teisteanasan Aithneachadh Gnè (Gender Recognition Certificates) gus dèanamh cinnteach gu bheil pròiseasan aca a tha cho mionaideach sa tha am pròiseas a th’ aig an Rìoghachd Aonaichte an‑dràsta.
 
-Fo Achd Aithneachadh Gnè (2004), faodaidh cuideigin teisteanas aithneachadh gnè fhaighinn ma tha iad air breithneachadh meidigeach de neo‑shastachd gnè (gender dysphoria) fhaighinn agus ma tha iad air a bhith beò anns an gnè a ghabh iad fad trì bliadhna.
+Fo Achd Aithneachadh Gnè (2004), faodaidh cuideigin teisteanas aithneachadh gnè fhaighinn ma tha iad air breithneachadh meidigeach de neo‑shastachd gnè (gender dysphoria) fhaighinn agus ma tha iad air a bhith beò anns an gnè a ghabh iad fad dà bhliadhna.
 
 Bhòt Pàrlamaid na h‑Alba san Dùbhlachd gus an achd seo ath‑leasachadh ’s a‑measg nan atharrachaidhean thèid an riatanas airson breithneachadh meidigeach a chur às.
 
