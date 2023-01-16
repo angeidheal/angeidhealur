@@ -24,4 +24,10 @@ Thuirt am Prìomhaire gu bheil Riaghaltas an RA a’ leantainn an cleachdadh àb
 
 Cha do dhearbh e ge-tà nan cuireadh Westminster bacadh air an reachdas.
 
-<iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/news/av-embeds/64260502/vpid/p0dw5cs9"></iframe>
+#### Tùsan
+
+BBC News: [Rishi Sunak has concerns about impact of gender reforms](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-64260502)
+
+The National: [Rishi Sunak waiting on 'final advice' over Scotland's gender reform](https://www.thenational.scot/news/23248168.rishi-sunak-waiting-final-advice-scotlands-gender-reform/)
+
+Pink News: [Rishi Sunak says he’s ‘concerned’ about impact Scotland’s gender bill on rest of UK](https://www.thepinknews.com/2023/01/13/rishi-sunak-scotland-gender-bill/)
