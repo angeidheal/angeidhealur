@@ -24,4 +24,4 @@ Thuirt am Prìomhaire gu bheil Riaghaltas an RA a’ leantainn an cleachdadh àb
 
 Cha do dhearbh e ge-tà nan cuireadh Westminster bacadh air an reachdas.
 
-<iframe width="100%" height="100%" frameborder="0" src="https://www.bbc.co.uk/news/av-embeds/64260502/vpid/p0dw5cs9"></iframe>
+<iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/news/av-embeds/64260502/vpid/p0dw5cs9"></iframe>
