@@ -16,6 +16,8 @@ categories:
   - Lagh
   - Poileataigs
 
+mastodon: https://mastodon.scot/@angeidhealur/109700453425621855
+
 ---
 
 Tha Riaghaltas na Rìoghachd Aonaichte air dearbhadh gun cur iad bacadh air Bile Ath-leasachadh Aithneachadh Gnè (Alba).
