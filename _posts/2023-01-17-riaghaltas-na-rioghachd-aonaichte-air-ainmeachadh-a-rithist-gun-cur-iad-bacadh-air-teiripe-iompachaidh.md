@@ -17,6 +17,8 @@ categories:
   - Lagh
   - Poileataigs
 
+mastodon: https://mastodon.scot/@angeidhealur/109706498224874068
+
 ---
 
 Thuirt Michelle Donelan, Ministear airson Cultar, an-diugh gum foillsich an Riaghaltas dreachd reachdais a dh’aithghearr gus bacadh a chur air teiripe iompachaidh ann an Sasainn agus sa Chuimrigh.
