@@ -6,7 +6,7 @@ date: 2023-01-17 19:00
 
 title: Riaghaltas na Rìoghachd Aonaichte air ainmeachadh a-rithist gun cur iad bacadh air teiripe iompachaidh
 
-image: /images/posts/_drafts/2023-01-17-riaghaltas-na-rioghachd-aonaichte-air-ainmeachadh-a-rithist-gun-cur-iad-bacadh-air-teiripe-iompachaidh.webp
+image: /images/posts/2023-01-17-riaghaltas-na-rioghachd-aonaichte-air-ainmeachadh-a-rithist-gun-cur-iad-bacadh-air-teiripe-iompachaidh.webp
 
 author: Crìstean MacMhìcheil
 
