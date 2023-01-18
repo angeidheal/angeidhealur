@@ -26,3 +26,5 @@ Ma tha sibh gu bhith faisg air Dùn Èideann Diardaoin 19mh den Fhaoilleach, cru
 #### Ùrachadh (18mh den Fhaoilleach @ 5:55m)
 
 Mura bhios sibh faisg air Dùn Èideann, bidh togail-fianais 1f aig Castlegate, Obar Dheathain cuideachd.
+
+![](/images/posts/2023-01-18-rally-for-trans-equality-02.webp)
