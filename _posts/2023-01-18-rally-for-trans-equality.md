@@ -17,6 +17,8 @@ categories:
   - Lagh
   - Poileataigs
 
+mastodon: https://mastodon.scot/@angeidhealur/109708520061823430
+
 ---
 
 Ma tha sibh gu bhith faisg air Dùn Èideann Diardaoin 19mh den Fhaoilleach, cruinnichidh luchd-iomairt 1.30f taobh a-muigh Queen Elizabeth House gus fianais a thogail an-aghaidh Riaghaltas na Rìoghachd Aonaichte airson bacadh a chur air Bile Ath-leasachadh Aithneachadh Gnè (Alba).
