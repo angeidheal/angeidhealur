@@ -14,7 +14,7 @@ categories:
   - Alba
   - Pròis
 
-mastodon:
+mastodon: https://mastodon.scot/@angeidhealur/109807634310972468
 
 ---
 Dh’ ainmich eagraichean Highland Pride Dihaoine gun tèid tachartas pròise a chumail Disathairne an 22mh latha dhen t-Iùchar ann an Inbhir Nis.
