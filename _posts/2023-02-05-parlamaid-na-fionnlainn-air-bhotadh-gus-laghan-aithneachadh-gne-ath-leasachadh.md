@@ -16,6 +16,8 @@ categories:
   - Lagh
   - Poileataigs
 
+mastodon: https://mastodon.scot/@angeidhealur/109812582132364476
+
 ---
 
 Tha Pàrlamaid na Fionnlainn air gabhail ri achd a dhèanas e nas fhasa do dh’inbhich tar-ghnèitheach an gnè laghail atharrachadh.
