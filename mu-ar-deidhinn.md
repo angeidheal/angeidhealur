@@ -28,7 +28,7 @@ Tha An Gèidheal Ùr an comain nan daoine a tha a’ toirt taic dhan obair again
 
 Is urrainn dhuibh ar cuideachadh le bhith:
 
-- a’ sgaoileadh na sgrìobheas sinn air na meadhan-sòisealta agaibh;
+- a’ sgaoileadh na sgrìobhas sinn air na meadhan-sòisealta agaibh;
 - a’ ceannach rudeigin snasail bhon [a’ bhùth-bhathair againn](https://angeidhealur.myspreadshop.co.uk/);
 - air neo a’ toirt tabhartas fa leth no tabhartas cunbhalach a’ cleachdadh [PayPal](https://www.paypal.com/donate/?hosted_button_id=33K2N9HRBJ4QS).
 
