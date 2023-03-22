@@ -2,7 +2,7 @@
 
 layout: post
 
-date: 2022-03-22
+date: 2023-03-22
 
 title: Riaghaltas na h-Uganda air gabhail ri bile a dhèanas dearbh-aithnean LGDT+ mì-laghail
 
