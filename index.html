@@ -6,7 +6,7 @@ title: Postaichean as ùire
   {% for post in paginator.posts %}
   <div class="row">
     <div class="col-md-3">
-      <p style="font-size: 14px">
+      <p>
         {% assign m = post.date | date: "%-m" %}
         {{ post.date | date: "%d" }}
         {% case m %}
