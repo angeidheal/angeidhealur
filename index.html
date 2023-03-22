@@ -5,7 +5,7 @@ title: Postaichean as ùire
 
   {% for post in paginator.posts %}
   <div class="row">
-    <div class="col-md-3">
+    <div class="col-md-4">
       <p>
         {% assign m = post.date | date: "%-m" %}
         {{ post.date | date: "%d" }}
@@ -26,8 +26,8 @@ title: Postaichean as ùire
         {{ post.date | date: "%Y" }}
       </p>
     </div>
-    <div class="col-md-9">
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+    <div class="col-md-8">
+      <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
     </div>
   </div>
   {% endfor %}
