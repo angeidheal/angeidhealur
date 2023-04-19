@@ -25,7 +25,7 @@ layout: page
         {% endcase %}
         {{ post.date | date: "%Y" }}
       </p>
-      {{ post.image }}
+      <img src="{{ site.baseurl }}{{ post.image }}" class="post-image">
       {{ post.content }}
     </div>
   </div>
