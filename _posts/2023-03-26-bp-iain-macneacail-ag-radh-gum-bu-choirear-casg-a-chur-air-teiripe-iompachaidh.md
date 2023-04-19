@@ -6,8 +6,6 @@ date: 2023-03-26 13:34
 
 title: BP Iain MacNeacail ag ràdh gum bu chòirear casg a chur air teiripe iompachaidh
 
-image: /images/posts/
-
 author: Crìstean MacMhìcheil
 
 categories:
