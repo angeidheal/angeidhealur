@@ -34,7 +34,7 @@ SimpleJekyllSearch({
 <ul>
 
   {% for category in site.data.categories | sort %}
-    <li><a name="{{ category.url }}">{{ category }}</a>
+    <li><a href="{{ category.url }}">{{ category.title }}</a>
       <ul>
       {% for post in category.last limit:3 %}
         <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
