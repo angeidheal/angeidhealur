@@ -3,7 +3,9 @@ layout: page
 ---
 
   {% for post in paginator.posts %}
+  
   <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+  
   <p>
     {% assign m = post.date | date: "%-m" %}
     {{ post.date | date: "%d" }}
@@ -23,8 +25,13 @@ layout: page
     {% endcase %}
     {{ post.date | date: "%Y" }}
   </p>
-  <img src="{{ site.baseurl }}{{ post.image }}" class="post-image">
+
+  {% if page.image %}
+    <img src="{{ site.baseurl }}{{ page.image }}" class="post-image">
+  {% endif %}
+
   {{ post.content }}
+  
   <h1 style="text-align: center">• • •</h1>
   {% endfor %}
 
