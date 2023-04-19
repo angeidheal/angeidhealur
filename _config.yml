@@ -10,7 +10,7 @@ title: An Gèidheal Ùr
 description: > # this means to ignore newlines until "baseurl:"
   A' toirt thugaibh na naidheachdan LGBTQIA+ as ùire
 
-#baseurl: "/antubhalghort" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://angeidheal.github.io/angeidhealur" # the base hostname & protocol for your site
 
 #footer
