@@ -26,7 +26,8 @@ layout: page
   <img src="{{ site.baseurl }}{{ post.image }}" class="post-image">
   {{ post.content }}
   {% endfor %}
-  <br/>
+
+  <div style="margin-top: 28px">
   {% if paginator.total_pages > 1 %}
   <ul class="pagination justify-content-center">
     {% if paginator.next_page %}
@@ -48,7 +49,7 @@ layout: page
         <span class="page-link">Nas ùire <i class="fa fa-arrow-circle-right"></i></span>
       </li>
     {% endif %}
-
     </ul>
   {% endif %}
+  </div>
 
