@@ -60,7 +60,7 @@ img {
 }
 
 a {
-  color: #747593;
+  color: $brand-color;
   font-weight: bold;
 }
 
@@ -72,7 +72,12 @@ a:hover {
 code {
   color: $text-color;
   border-left: 3px solid $brand-color;
-  padding-left: 10px;
+  padding-left: 8px;
+}
+
+blockquote {
+  border-left: 3px solid $brand-color;
+  padding-left: 8px;
 }
 
 /* Navbar */
@@ -123,17 +128,6 @@ code {
 
 article.post {
   margin-bottom: 28px;
-}
-
-.post-title {
-  font-family: "Lemonada";
-  font-size: 18px;
-  padding-top: 50px;
-}
-
-blockquote {
-  border-left: solid 4px #393a65;
-  padding-left: 8px;
 }
 
 /* Post Media */
