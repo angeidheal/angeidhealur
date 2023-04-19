@@ -10,7 +10,15 @@ layout: compress
     {% include navigation.html %}
 
     <div class="container content-area">
-      {{ content }}
+      <div class="col-md-7">
+        {{ content }}
+      </div>
+      <div>
+        <p>Roinnean-seòrsa</p>
+        {% for category in site.data.categories | sort %}
+          <li><a href="{{ category.url }}">{{ category.title }}</li>
+        {% endfor %}
+      </div>
     </div>
 
     {% include footer.html %}
