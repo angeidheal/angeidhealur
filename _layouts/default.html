@@ -10,14 +10,16 @@ layout: compress
     {% include navigation.html %}
 
     <div class="container content-area">
-      <div class="col-md-7">
-        {{ content }}
-      </div>
-      <div class="col-md-4 offset-md-1">
-        <p>Roinnean-seòrsa</p>
-        {% for category in site.data.categories | sort %}
-          <li><a href="{{ category.url }}">{{ category.title }}</li>
-        {% endfor %}
+      <div class="row">
+        <div class="col-md-7">
+          {{ content }}
+        </div>
+        <div class="col-md-4 offset-md-1">
+          <p>Roinnean-seòrsa</p>
+          {% for category in site.data.categories | sort %}
+            <li><a href="{{ category.url }}">{{ category.title }}</li>
+          {% endfor %}
+        </div>
       </div>
     </div>
 
