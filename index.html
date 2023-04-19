@@ -4,7 +4,7 @@ layout: page
 
   
   <div class="row">
-    <div class="col-md-8">
+    <div class="col-md-7">
       {% for post in paginator.posts %}
       <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
       <p>
@@ -30,7 +30,7 @@ layout: page
       {{ post.content }}
       {% endfor %}
     </div>
-    <div class="col-md-4">
+    <div class="col-md-4 offset-md-1">
       <p>Roinnean-seòrsa</p>
       {% for category in site.categories %}
         <li><a href="{{ site.baseurl }}{{ category.url }}">{{ category|first }}</a></li>
