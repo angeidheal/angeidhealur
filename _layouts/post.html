@@ -2,9 +2,8 @@
 layout: default
 ---
 
-  <h1>
-    {{ page.title }}
-  </h1>
+  <h1><strong>{{ page.title }}</strong></h1>
+
   <p class="post-meta">
     {% assign m = page.date | date: "%-m" %}
     {{ page.date | date: "%d" }}
@@ -31,7 +30,9 @@ layout: default
   {% if page.image %}
     <img src="{{ site.baseurl }}{{ page.image }}" class="post-image">
   {% endif %}
+
   {{ content }}
+  
   <h4>Fàg beachd</h4>
   {% if page.mastodon %}
     <p>Ma tha beachd agad mun a' phost seo, faodaidh tu a chur thugam air <a href="{{ page.mastodon }}">Mastodon</a>.</p>
