@@ -2,9 +2,10 @@
 layout: page
 ---
 
-  {% for post in paginator.posts %}
+  
   <div class="row">
     <div class="col-md-8">
+      {% for post in paginator.posts %}
       <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
       <p>
         {% assign m = post.date | date: "%-m" %}
@@ -27,6 +28,7 @@ layout: page
       </p>
       <img src="{{ site.baseurl }}{{ post.image }}" class="post-image">
       {{ post.content }}
+      {% endfor %}
     </div>
     <div class="col-md-4">
       <p>Roinnean-seòrsa</p>
@@ -35,7 +37,7 @@ layout: page
       {% endfor %}
     </div>
   </div>
-  {% endfor %}
+  
 
   <div class="row">
     <div class="col-md-12">
