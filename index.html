@@ -33,7 +33,7 @@ layout: page
     <div class="col-md-4">
       <p>Roinnean-seòrsa</p>
       {% for category in site.categories %}
-        <li><a href="{{category.url}}"><strong>{{category|first}}</strong></a></li>
+        <li><a href="{{ site.baseurl }}{{ category.url }}">{{ category|first }}</a></li>
       {% endfor %}
     </div>
   </div>
