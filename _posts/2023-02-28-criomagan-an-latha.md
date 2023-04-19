@@ -6,8 +6,6 @@ date: 2023-02-28 20:00
 
 title: Criomagan an Latha
 
-image: 
-
 author: Crìstean MacMhìcheil
 
 categories:
