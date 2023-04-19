@@ -24,4 +24,4 @@ mastodon:
 
 Tha BP Iain MacNeacail air mìneachadh ann am [bhideo airson Pink News](https://www.thepinknews.com/2023/03/22/snp-john-nicolson-conversion-therapy/) carson a bu chòir teiripe iompachaidh a bhith air a dhèanamh mì-laghail.
 
-<iframe class=".youtube-wrapper" width="560" height="315" src="https://www.youtube-nocookie.com/embed/ilfR96ya43E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youtube-wrapper" width="560" height="315" src="https://www.youtube-nocookie.com/embed/ilfR96ya43E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
