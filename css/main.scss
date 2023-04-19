@@ -67,11 +67,14 @@ img {
 a {
   color: $text-color;
   font-weight: bold;
-  text-decoration: underline;
 }
 
 a:hover {
   color: #6062a5;
+}
+
+p a {
+  text-decoration: underline;
 }
 
 code {
