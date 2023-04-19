@@ -65,8 +65,12 @@ a {
 }
 
 a:hover {
-  color: $text-color;
+  color: #6062a5;
   text-decoration: underline;
+}
+
+p a {
+  color: #6062a5;
 }
 
 code {
