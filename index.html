@@ -25,9 +25,8 @@ layout: page
   </p>
   <img src="{{ site.baseurl }}{{ post.image }}" class="post-image">
   {{ post.content }}
-  <br/>
   {% endfor %}
-
+  <br/>
   {% if paginator.total_pages > 1 %}
   <ul class="pagination justify-content-center">
     {% if paginator.next_page %}
