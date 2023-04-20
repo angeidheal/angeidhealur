@@ -1,29 +1,99 @@
 ---
-id: 40
-title: Ceanglaichean
-date: '2022-12-11T17:55:06+00:00'
-author: Crìstean MacMhìcheil
+
 layout: page
-guid: 'https://angeidhealur.scot/?page_id=40'
+
+title: Ceanglaichean
+
+permalink: /ceanglaichean/
+
 ---
+
+## Loidhnichean-teasairginn
+* 999 • Seirbheisean Èiginn (Suidheachaidhean-èiginn)
+* 101 • Police Alba (Mura h-eil e èiginneach)
+* 111 • NHS 24 (Mura h-eil e èiginneach)
+
+## Loidhnichean-cuideachaidh
+
+Ma tha thu airson bruidhinn ri cuideigin mu cheist no duilgheadas a th’ agad, mholamaid gun cur thu fios gu aon de na seirbheisean na leanas:-
+
+### Childline
+
+Bidh ChildLine a’ toirt comhairle do chlann agus daoine òga fo aois 19 san Rìoghachd Aonaichte.
+
+Comhairliche air loidhne: Faodaidh sibh bruidhinn gu dìomhair le comhairliche air loidhne an-seo
+
+Fòn: 0800 1111
+
+### LGBT Health & Wellbeing
+
+(Tuairisgeul an seo)
+
+Post-d: admin@lgbthealth.org.uk
+
+Fòn: 0131 523 1100
+
+### LGBT Helpline
+
+(Tuairisgeul an seo)
+
+Post-d: helpline@lgbthealth.org.uk
+
+Fòn: 0300 123 2523 (Dim/Dic 12f gu 9f)
+
+### LGBT Switchboard
+
+(Tuairisgeul an seo)
+
+Post-d: chris@switchboard.lgbt
+
+Fòn: 0300 330 0630
+
+### LGBT Youth Scotland
+
+(Tuairisgeul an seo)
+
+Fòn: 0131 555 3940 / 0141 552 7425
+
+### Samh
+
+(Tuairisgeul an seo)
+
+Fòn: 0141 530 1000
+
+### Scottish Transgender Alliance
+
+(Tuairisgeul an seo)
+
+Fòn: 0131 467 6039
+
+### Stonewall Scotland
+
+Bidh Stonewall Scotland ag iomairt airson còirichean LCDT+ air feadh na h-Alba. Cuideachd tha oifisean roinneil aca ann an Lunainn (Stonewall) agus Caerdydd (Stonewall Cymru) a bhios ag iomairt anns an Rìoghachd Aonaichte agus a’ Chuimrigh.
+
+Post-d: info@stonewallscotland.org.uk
+
+Fòn: 0131 474 8019
+
+## Ceanglaichean eile
 
 Gu h-ìosal tha liosta de cheanglaichean eile a dh’fhaodadh a bhith feumail no inntinneach dhuibh. Leigibh fios thugainn air [Twitter](https://www.twitter.com/AnGeidhealUr/) ma tha sibh airson gun cuir sinn ceangal ris an liosta.
 
-#### Blogaichean
+### Blogaichean
 
 - [ Transponderings: An aimless, unprincipled blog by Anna Nicholson ](https://transponderings.blog/)
 
-#### Boireannaich
+### Boireannaich
 
 - [Highland Hearts](http://www.highlandhearts.net/)
 - [Shakti Women’s Aid](http://shaktiedinburgh.co.uk/lgbti/)
 
-#### Buidhnean Iomairt
+### Buidhnean Iomairt
 
 - [Equality Network](https://www.equality-network.org)
 - [Stonewall Scotland](http://www.stonewallscotland.org.uk/)
 
-#### Buidhnean Ionadail
+### Buidhnean Ionadail
 
 - [Dumfries &amp; Galloway LGBT Plus](https://lgbtplus.org.uk)
 - [Four Pillar](https://www.fourpillarsuk.org)
@@ -31,7 +101,7 @@ Gu h-ìosal tha liosta de cheanglaichean eile a dh’fhaodadh a bhith feumail no
 - [Just Be Yourself](https://justbeyourself.org.uk/welcome/)
 - [Perth TG Group](https://www.facebook.com/groups/perthtggroup/)
 
-#### Buidhnean Òigridh
+### Buidhnean Òigridh
 
 - [Pillar LGBT Youth Group, Inverness](https://www.lgbtyouth.org.uk/highland.html)
 - [LGBT Youth Scotland](https://www.lgbtyouth.org.uk/)
@@ -42,7 +112,7 @@ Gu h-ìosal tha liosta de cheanglaichean eile a dh’fhaodadh a bhith feumail no
 - [Pace Yourself LGBT](https://paceyourselfuk.weebly.com/)
 - [Zone Youth, Aberdeen](http://www.facebook.com/zoneyouthlgbt)
 
-#### Buidhnean Sòisealta
+### Buidhnean Sòisealta
 
 - [Highland LGBT Forum](http://www.highlandlgbtforum.scot/)
 - [Highland Rainbow Folk](http://www.spanglefish.com/highlandrainbowfolk/)
@@ -52,7 +122,7 @@ Gu h-ìosal tha liosta de cheanglaichean eile a dh’fhaodadh a bhith feumail no
 - [Out Out West](https://www.facebook.com/groups/121156511258070/)
 - [Shetland LGBT](https://www.facebook.com/groups/shetlandlgbt/)
 
-#### Comhairle
+### Comhairle
 
 - [LGBT Foundation](https://lgbt.foundation)
 - [LGBT Health &amp; Wellbeing](http://www.lgbthealth.org.uk/)
@@ -62,27 +132,27 @@ Gu h-ìosal tha liosta de cheanglaichean eile a dh’fhaodadh a bhith feumail no
 - [Samh](https://www.samh.org.uk/)/
 - [Stonewall Scotland](http:/tonewallscotland.org.uk/)
 
-#### Creideamh
+### Creideamh
 
 - [Affirmation Scotland](http://www.affirmationscotland.org.uk/)
 - [Metropolitan Community Church](http://www.mccinglasgow.moonfruit.com/welcome/4522982118)
 - [Pagan Federation (Scotland)](http://www.scottishpf.org)
 
-#### Cùltar &amp; Ealain
+### Cùltar &amp; Ealain
 
 - [The Lesbian Archive](https://womenslibrary.org.uk/explore-the-library-and-archive/the-archive-collection/the-lesbian-archive/)
 - [OurStory Scotland](https://www.ourstoryscotland.org.uk)
 
-#### Gàidhlig
+### Gàidhlig
 
 - [ Transponderings: An aimless, unprincipled blog by Anna Nicholson ](https://transponderings.blog/)
 
-#### Iùl-lannan
+### Iùl-lannan
 
 - [LGBT.scot](http://www.lgbt.scot/)
 - [iGàidhlig](http://www.igaidhlig.net/gd/)
 
-#### Naidheachdan &amp; Irisean
+### Naidheachdan &amp; Irisean
 
 - [BBC LGBT News](https://www.bbc.co.uk/news/topics/cp7r8vgln2wt/lgbt)
 - [Gay Star News](https://www.gaystarnews.com/)
@@ -90,11 +160,11 @@ Gu h-ìosal tha liosta de cheanglaichean eile a dh’fhaodadh a bhith feumail no
 - [Pink Saltire](https://pinksaltire.com/)
 - [ScotsGay Magazine](http://www.scotsgay.co.uk/)
 
-#### Neo-bhìnearaidh
+### Neo-bhìnearaidh
 
 - [Non-binary Scotland](http://www.nonbinaryscotland.org/)
 
-#### Pàrantan
+### Pàrantan
 
 - [Equality Network: Parenting](https://www.equality-network.org/your-rights/parenting/)
 - [Foster Care Associates Scotland](http://www.fcascotland.co.uk/)
@@ -103,9 +173,8 @@ Gu h-ìosal tha liosta de cheanglaichean eile a dh’fhaodadh a bhith feumail no
 - [Parenting Across Scotland](http://www.parentingacrossscotland.org/)
 - [Parents Enquiry Scotland](http://www.parentsenquiryscotland.org/)
 - [Rainbow Families](https://www.lgbthealth.org.uk/services-support/rainbow-families-lgbt-parents-and-families/)
-- \[\]()
 
-#### Slàinte
+### Slàinte
 
 - [Gay Mens Health](http://www.gmh.org.uk/)
 - [HIV Scotland](http://www.hivscotland.com/)
@@ -119,7 +188,7 @@ Gu h-ìosal tha liosta de cheanglaichean eile a dh’fhaodadh a bhith feumail no
 - [Wave Highland](http://wavehighland.com/)
 - [Waverley Care](http://www.waverleycare.org)
 
-#### Tar-ghnèitheach
+### Tar-ghnèitheach
 
 - [Beyond Gender](https://www.facebook.com/beyondgenderyouth)
 - [Edinburgh Trans Women](http://www.edinburghtranswomen.org.uk)
