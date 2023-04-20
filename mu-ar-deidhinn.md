@@ -1,10 +1,11 @@
 ---
-id: 151
-title: 'Mu ar deidhinn'
-date: '2022-12-11T17:15:25+00:00'
-author: Crìstean MacMhìcheil
+
 layout: page
-guid: 'https://angeidhealur.scot/?page_id=13'
+
+title: Mu ar deidhinn
+
+permalink: /mu-ar-deidhinn/
+
 ---
 
 Bidh An Gèidheal Ùr a’ toirt thugaibh na naidheachdan LGDTCEN+ as ùire.
