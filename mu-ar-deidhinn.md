@@ -19,11 +19,24 @@ Chaidh a stèidheachadh (mar Naidheachdan Pinc) ann an 2008 le Crìstean MacMhì
 - a’ brosnachadh co-ionnanachd agus iomadachd;
 - a’ lughdachadh iomallachd sa choimhearsnachd LGDTCEN+ Gàidhealach le bhith a’ cruthachadh cheanglaichean brìoghmhor agus luachmhor.
 
-#### Cuir fios
+## Fo-sgriobh
+
+**RSS.** [https://angeidhealur.scot/feed](https://angeidhealur.scot/feed)
+
+**Mastodon.** [https://mastodon.scot/@angeidhealur](https://mastodon.scot/@angeidhealur)
+
+## Cuir fios
+
+**Mastodon.** [https://mastodon.scot/@angeidhealur](https://mastodon.scot/@angeidhealur)
+
+**Post-d.** [fios@angeidhealur.scot](mailto:fios@angeidhealur.scot)
+
+
+## Cuir fios
 
 ‘S urrainnear fios a chur gu Crìstean air [post‑d](mailto:fios@angeidhealur.scot) no [Mastodon](https://mastodon.scot/@angeidheal).
 
-#### Cuir taic
+## Cuir taic
 
 Tha An Gèidheal Ùr an comain nan daoine a tha a’ toirt taic dhan obair againn agus le ur taic-se bidh sinn comasach air barrachd a dhèanamh.
 
