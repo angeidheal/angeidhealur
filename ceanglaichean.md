@@ -21,7 +21,7 @@ Ma tha thu airson bruidhinn ri cuideigin mu cheist no duilgheadas a th’ agad, 
 
 Bidh ChildLine a’ toirt comhairle do chlann agus daoine òga fo aois 19 san Rìoghachd Aonaichte.
 
-Comhairliche air loidhne: Faodaidh sibh bruidhinn gu dìomhair le comhairliche air loidhne an-seo
+Comhairliche air loidhne: Faodaidh sibh bruidhinn gu dìomhair le comhairliche air loidhne [an-seo](https://www.childline.org.uk/get-support/1-2-1-counsellor-chat/).
 
 Fòn: 0800 1111
 
@@ -29,7 +29,7 @@ Fòn: 0800 1111
 
 (Tuairisgeul an seo)
 
-Post-d: admin@lgbthealth.org.uk
+Post-d: [admin@lgbthealth.org.uk](mailto:admin@lgbthealth.org.uk)
 
 Fòn: 0131 523 1100
 
@@ -37,7 +37,7 @@ Fòn: 0131 523 1100
 
 (Tuairisgeul an seo)
 
-Post-d: helpline@lgbthealth.org.uk
+Post-d: [helpline@lgbthealth.org.uk](mailto:helpline@lgbthealth.org.uk)
 
 Fòn: 0300 123 2523 (Dim/Dic 12f gu 9f)
 
@@ -45,7 +45,7 @@ Fòn: 0300 123 2523 (Dim/Dic 12f gu 9f)
 
 (Tuairisgeul an seo)
 
-Post-d: chris@switchboard.lgbt
+Post-d: [chris@switchboard.lgbt](mailto:chris@switchboard.lgbt)
 
 Fòn: 0300 330 0630
 
@@ -71,7 +71,7 @@ Fòn: 0131 467 6039
 
 Bidh Stonewall Scotland ag iomairt airson còirichean LCDT+ air feadh na h-Alba. Cuideachd tha oifisean roinneil aca ann an Lunainn (Stonewall) agus Caerdydd (Stonewall Cymru) a bhios ag iomairt anns an Rìoghachd Aonaichte agus a’ Chuimrigh.
 
-Post-d: info@stonewallscotland.org.uk
+Post-d: [info@stonewallscotland.org.uk](mailto:info@stonewallscotland.org.uk)
 
 Fòn: 0131 474 8019
 
