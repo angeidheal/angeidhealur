@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=865'
 permalink: /2008-10-02-google-an-aghaidh-a-chaisg-air-posadh-aon-sheorsach/
-image: /images/posts/prop-8.webp
+image: /images/posts/2008-10-02-google-an-aghaidh-a-chaisg-air-posadh-aon-sheorsach.webp
 categories:
     - An t-Saoghal
     - Gnìomhachas
