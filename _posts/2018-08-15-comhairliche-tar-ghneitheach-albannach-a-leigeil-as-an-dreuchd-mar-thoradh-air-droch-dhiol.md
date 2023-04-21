@@ -21,7 +21,7 @@ Dh’ainmich Comhairliche Gregor Murray air Facebook gum biodh iad\* a’ leigei
 
 Ann an litir gu Ceannard na Comhairle, John Alexander, thug Murray iomradh air an droch dhìol a dh’fhuiling iad thairis air na mìosan a dh’fhalbh agus thuirt iad gur e seo an co-dhùnadh as fheàrr airson an slàinte-inntinn a tha air tuiteam fon ìre far am bu chòir dha bhith.
 
-![](/wp-content/uploads/2022/12/2018-08-15-comhairliche-tar-ghneitheach-albannach-a-leigeil-as-an-dreuchd-mar-thoradh-air-droch-dhiol-02.webp)
+![]({{ site.baseurl }}/2018-08-15-comhairliche-tar-ghneitheach-albannach-a-leigeil-as-an-dreuchd-mar-thoradh-air-droch-dhiol-02.webp)
 
 Chaidh Comhairliche Murray a chàineadh airson cànan a chleachd iad ann am brathan air-loidhne le buidhnean boireannaich.
 
@@ -40,13 +40,3 @@ A dh’aindeoin sin thuirt Mgr Alexander gun robh Murray aon dhe na comhairliche
 Ann an co-dhùnadh thuirt e:
 
 “Aig an àm seo, tha mi a’ smaoineachadh gu bheil e cudromach gu bheil Gregor a’ toirt ùine a bhith a’ beachdachadh air na tha air tachairt bho chionn ghoirid, a bhith a’ dèanamh fòcas air an slàinte, agus gu bheil iad a’ faighinn taic tron ùine seo.”
-
-#### Tùsan
-
-Facebook: <http://www.facebook.com/CllrGregorMurray/>
-
-PinkNews: [Scotland’s only transgender councillor leaves roles after death threats](https://www.pinknews.co.uk/2018/08/13/scotland-transgender-councillor-death-threats/)
-
-The Courier: [Children’s convener resigns following row over expletive-laden social media outbursts](https://www.thecourier.co.uk/fp/news/local/dundee/703892/childrens-convener-resigns-following-row-over-expletive-laden-social-media-outbursts/)
-
-BBC: [Trans councillor leaves roles after ‘threats to life’](https://www.bbc.co.uk/news/uk-scotland-tayside-central-45151228)
