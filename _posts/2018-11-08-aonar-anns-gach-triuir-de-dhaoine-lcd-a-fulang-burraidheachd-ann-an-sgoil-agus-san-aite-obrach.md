@@ -28,9 +28,3 @@ Thuirt [Dr Nick Drydakis](https://www.anglia.ac.uk/lord-ashcroft-international-b
 ‘S e co-dhùnadh an sgrùdadh gu bheil burraidheachd aois sgoile ag adhbharachadh ìrean nas àirde de throm-inntinn, uallach agus iomagain agus ìre fèin-mheasaidh nas ìsle. Mar thoradh air sin tha an àireamh de dhaoine LCD a’ dol air adhart gu foghlam aig àrd-ìre nas ìsle agus tha seo a’ ciallachadh gu bheil nas lugha de dhaoine LCD, gu h-àraid fireannaich co-sheòrsach agus dà-sheòrsach a’ faighinn obair ann an dreuchdan *white-collar*.
 
 Gus dèiligeadh ris an duilgheadas seo tha an sgrùdadh a’ moladh ro-innleachdan a chur an gnìomh ann an sgoiltean agus àiteachan-obrach an aghaidh burraidheachd agus e ag ràdh gu bheil buidhnean LCDT+ na chuideachadh do dhaoine LCDT+ san àite-obrach.
-
-#### Tùsan
-
-Cambridge Network: [Bullying ‘follows’ LGB people from school to work](https://www.cambridgenetwork.co.uk/news/bullying-follows-lgb-people-from-school-to-work/)
-
-Gay Star News: [Bullied in school due to your sexuality? It may not get better at work](https://www.gaystarnews.com/article/bullied-school-work/)
