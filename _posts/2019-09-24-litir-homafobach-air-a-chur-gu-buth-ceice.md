@@ -15,7 +15,7 @@ categories:
 
 Bha iongnadh air luchd-obrach aig bùth cèice ann am Baile Udain Diardaoin as dèidh dhaibh litir homafòbach fhaighinn tron phost.
 
-Chaidh an litir, a ghabhas a leughadh gu h-ìseal, a chur gun ainm dhan bhùth \[[https://specialdayscakes.com/\](Special](https://specialdayscakes.com/](Special) Days Cakes).
+Chaidh an litir, a ghabhas a leughadh gu h-ìseal, a chur gun ainm dhan bhùth [Special Days Cakes](https://specialdayscakes.com/).
 
 ![]({{ site.baseurl}}/images/posts/2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice-02.webp)
 
