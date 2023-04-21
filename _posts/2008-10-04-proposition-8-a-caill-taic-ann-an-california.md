@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=860'
 permalink: /2008-10-04-proposition-8-a-caill-taic-ann-an-california/
-image: /images/posts/prop-8.webp
+image: /images/posts/2008-10-04-proposition-8-a-caill-taic-ann-an-california.webp
 categories:
     - An t-Saoghal
     - Lagh
