@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=612'
 permalink: /2018-09-19-mfr-agallamh-le-donald-morrison-a-thoisich-athchuinge-an-aghaidh-feis-proise-inbhir-nis/
 enclosure:
     - "https://angeidhealur.scot/wp-content/uploads/2018/09/mfr-donald-morrison-interview.mp4\n7402236\nvideo/mp4\n"
-image: /wp-content/uploads/2022/12/2018-09-19-mfr-agallamh-le-donald-morrison-a-thoisich-athchuinge-an-aghaidh-feis-proise-inbhir-nis.webp
+image: /images/posts/2018-09-19-mfr-agallamh-le-donald-morrison-a-thoisich-athchuinge-an-aghaidh-feis-proise-inbhir-nis.webp
 categories:
     - Alba
     - An Rìoghachd Aonaichte
@@ -26,4 +26,4 @@ Thuirt Mgr Morrison: “they thrust lewdness in the faces of men, women and chil
 
 Tha còrr ’s 700 duine air na h-ainmean aca a chur ri athchuinge Mgr Morrison ’s tha iad ag iarraidh air a’ Chomhairle cead a dhiùltadh airson an tachartas a dhol air adhart.
 
-<video controls="" width="100%"><source src="https://angeidhealur.scot/wp-content/uploads/2018/09/mfr-donald-morrison-interview.mp4" type="video/mp4"></source></video>
+<video controls="" width="100%"><source src="{{ site.baseurl }}/images/posts/mfr-donald-morrison-interview.mp4" type="video/mp4"></source></video>
