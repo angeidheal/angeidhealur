@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=269'
 permalink: /2022-03-16-theid-gne-bith-eolasach-a-shonrachadh-do-phearsachan-neo-bhinearaidh-ann-an-cunntas-sluaigh-na-h-eireann/
-image: /images/posts/daonaireamh_2022.webp
+image: /images/posts/2022-03-16-theid-gne-bith-eolasach-a-shonrachadh-do-phearsachan-neo-bhinearaidh-ann-an-cunntas-sluaigh-na-h-eireann.webp
 categories:
     - An t-Saoghal
     - Èirinn
