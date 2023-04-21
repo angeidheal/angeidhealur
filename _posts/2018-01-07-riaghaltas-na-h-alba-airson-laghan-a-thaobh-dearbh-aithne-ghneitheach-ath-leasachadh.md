@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=726'
 permalink: /2018-01-07-riaghaltas-na-h-alba-airson-laghan-a-thaobh-dearbh-aithne-ghneitheach-ath-leasachadh/
-image: /images/posts/parlamaid-na-h-alba.webp
+image: /images/posts/2018-01-07-riaghaltas-na-h-alba-airson-laghan-a-thaobh-dearbh-aithne-ghneitheach-ath-leasachadh.webp
 categories:
     - Alba
     - An Rìoghachd Aonaichte
