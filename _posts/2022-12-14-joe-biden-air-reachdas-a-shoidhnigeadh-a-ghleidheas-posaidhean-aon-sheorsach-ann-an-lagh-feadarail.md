@@ -35,13 +35,3 @@ Tha dragh air a bhith a’ fàs anns na Stàitean Aonaichte gun cur a’ Phrìom
 Ma thachras sin, bidh gach stàit fa leth comasach air reachdas pòsaidh a chur an gnìomh agus dh’fhaodadh iad cead pòsaidh a dhiùltadh do chàraidean aon-sheòrsach taobh a-staigh an stàit aca fhèin.
 
 Fon reachdas seo ge-tà, feumaidh an Riaghaltas Feadaraileach, a h-uile stàit agus ranntairean a tha nam phàirt de na Stàitean Aonaichte pòsaidhean aon-sheòrsach agus ioma-chinnidheach aithneachadh ma tha iad dligheach ann am pàirt eile de na Stàitean.
-
-#### Barrachd fhiosrachaidh
-
-Faodaidh tu barrachd leughadh mun sgeulachd seo an-seo:
-
-Gay Times: [“A blow against hate”: Joe Biden signs law protecting same-sex marriage](https://www.gaytimes.co.uk/life/a-blow-against-hate-joe-biden-signs-law-protecting-same-sex-marriage/)
-
-Openly News: [Biden signs marriage equality act to tune of Cyndi Lauper’s ‘True Colors’](https://www.openlynews.com/i/?id=ebdbae46-1ead-40c6-bf11-21af9090e551)
-
-Pink News: [Joe Biden’s powerful warning to bigots as he signs Respect for Marriage Act](https://www.thepinknews.com/2022/12/14/respect-for-marriage-act-joe-biden-signs/)
