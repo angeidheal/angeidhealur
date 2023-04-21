@@ -26,9 +26,3 @@ Tha e air tighinn as dèidh gun deach dùbhlan laghail a thogail an aghaidh na R
 An dràsta tha an lagh ag ràdh nach fhaod ach boireannach agus fireannach a phòsadh.
 
 Cha deach ceann-latha an reifreinn a thaghadh fhathast.
-
-#### Barrachd fhiosrachaidh
-
-Faodaidh tu barrachd leughadh mun sgeulachd seo an-seo:
-
-Pink News: [British Virgin Islands to hold same-sex marriage referendum after gay couple launch legal challenge](https://www.thepinknews.com/2022/12/23/british-virgin-same-sex-marriage-referendum/)
