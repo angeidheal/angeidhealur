@@ -14,8 +14,6 @@ Bu tòigh le Fèis-pròise Ghlaschu fàilte a chur air a h-uile duine a bhios ai
 
 30mh den Ghiblean aig 7f aig an t-ionad LCDT, 84 Bell Street, Glaschu G1 1LQ
 
-Ma tha sibh airson dol cuiribh fios ro-làimh le bhith a’ clàradh aig [www.prideglasgow.co.uk/register](http://www.prideglasgow.co.uk/register "Làrach-lìn Pride Glaschu").
+Ma tha sibh airson dol cuiribh fios ro-làimh le bhith a’ clàradh aig [www.prideglasgow.co.uk/register](http://www.prideglasgow.co.uk/register "Làrach-lìn Pride Glaschu") no le bhith a' cur post-d gu [pride@prideglasgow.co.uk](mailto:pride@prideglasgow.co.uk "Cuir post-d ri Pride Glaschu").
 
-[pride@prideglasgow.co.uk](mailto:pride@prideglasgow.co.uk "Cuir post-d ri Pride Glaschu")
-
-![](/wp-content/uploads/2008/04/2008-04-09-fosgladh-pride-glaschu-02.webp)
+![]({{ site.baseurl }}/images/posts/2008-04-09-fosgladh-pride-glaschu-02.webp)
