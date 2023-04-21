@@ -18,7 +18,7 @@ Tha tagraiche taghaidh ann an Gleann Rathais air taic a’ Phàrtaidh Bhrexit a 
 
 Thàinig beachdan Victor Farrell am follais Diluain nuair a sgaoil BPA SNP, Jenny Gilruth, dealbhan-sgrìn de phuist a sgrìobh Farrell air Facebook ann an 2017 agus a tha fhathast rim faicinn air a’ phròifil phoblach aige.
 
-![Facebook Post le Victor Farrell](/wp-content/uploads/2022/12/2019-11-20-victor-farrell-post-1.webp)
+![Facebook Post le Victor Farrell](/images/posts/2019-11-20-victor-farrell-post-1.webp)
 
 Ann an aon phost sgrìobh Farrell gun robh e a’ gairm cogadh an-aghaidh na coimhearsnachd LCDTQ air fad.
 
@@ -28,4 +28,4 @@ Dhearbh neach-labhairt a’ Phàrtaidh Bhrexit ris [The Courier](https://www.the
 
 Tha Farrell a-nis gu bhith na sheasamh mar thagraiche neo-eisimeileach ach tha e air na beachdan aige ath-dhearbhadh ann am post Facebook an-dè anns an tug e iomradh air muinntir LCDTQ Fìobha mar “choimhearsnachd pheacail”.
 
-![Facebook Post le Victor Farrell](/wp-content/uploads/2022/12/2019-11-20-victor-farrell-post-2.webp)
+![Facebook Post le Victor Farrell](/images/posts/2019-11-20-victor-farrell-post-2.webp)
