@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=590'
 permalink: /2018-10-23-dochas-ur-airson-posadh-aon-sheorsach-ann-an-eirinn-a-tuath/
-image: /images/posts/posadh-aon-sheorsach.webp
+image: /images/posts/2018-10-23-dochas-ur-airson-posadh-aon-sheorsach-ann-an-eirinn-a-tuath.webp
 categories:
     - An Rìoghachd Aonaichte
     - Èirinn a Tuath
