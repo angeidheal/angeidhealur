@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=624'
 permalink: /2018-09-15-a-chiad-feis-proise-airson-na-h-eileanan-an-iar/
-image: /wp-content/uploads/2022/12/2018-09-15-a-chiad-feis-proise-airson-na-h-eileanan-an-iar.webp
+image: /images/posts/2018-09-15-a-chiad-feis-proise-airson-na-h-eileanan-an-iar.webp
 categories:
     - Alba
     - An Rìoghachd Aonaichte
