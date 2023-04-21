@@ -26,9 +26,3 @@ Bha na h‑oifigearan a’ feuchainn ris a chuideachadh nuair a thòisich e droc
 Chaidh a ghluasad dhan stéisean‑poilis air Rathad Burnett far an dh’fhuair e leigheas meadaigeach ach thòisich e a’ tilgeil smugaid air na h‑oifigearan.
 
 Chur an Siorram Sara Matheson dàil air a bhith a’ cur binn air gus an tèid aithisgean ullachadh.
-
-#### Tùsan
-
-Press &amp; Journal: [Drunk man abused and spat at police officers who helped him to his feet after falling](https://www.pressandjournal.co.uk/fp/news/crime-courts/5071243/police-spat-on-and-abused-by-drunk-man-cornelius-stevenson-who-they-helped-after-falling/)
-
-Ross‑shire Journal: [Dingwall man who hurled homophobic abuse and spat at police appears in court](https://www.ross-shirejournal.co.uk/news/court-dingwall-man-hurled-homophobic-abuse-and-spat-at-poli-294341/)
