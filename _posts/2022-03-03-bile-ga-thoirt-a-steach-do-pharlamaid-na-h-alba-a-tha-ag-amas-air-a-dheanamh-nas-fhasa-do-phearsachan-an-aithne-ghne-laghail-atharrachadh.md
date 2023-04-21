@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=273'
 permalink: /2022-03-03-bile-ga-thoirt-a-steach-do-pharlamaid-na-h-alba-a-tha-ag-amas-air-a-dheanamh-nas-fhasa-do-phearsachan-an-aithne-ghne-laghail-atharrachadh/
-image: /images/posts/parlamaid-na-h-alba.webp
+image: /images/posts/2022-03-03-bile-ga-thoirt-a-steach-do-pharlamaid-na-h-alba-a-tha-ag-amas-air-a-dheanamh-nas-fhasa-do-phearsachan-an-aithne-ghne-laghail-atharrachadh.webp
 categories:
     - Alba
     - An Rìoghachd Aonaichte
