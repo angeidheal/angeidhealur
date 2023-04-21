@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=286'
 permalink: /2022-01-12-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-geidh-a-toirt-seachad-fala-san-fhraing-agus-sa-ghreig/
-image: /images/posts/tabhartas-fala.webp
+image: /images/posts/2022-01-12-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-geidh-a-toirt-seachad-fala-san-fhraing-agus-sa-ghreig.webp
 categories:
     - An Roinn Eòrpa
     - An t-Saoghal
