@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=444'
 permalink: /2018-10-07-oraidean-feis-proise-inbhir-nis-2018/
-image: /images/posts/Highland_Pride.webp
+image: /images/posts/2018-10-07-oraidean-feis-proise-inbhir-nis-2018.webp
 categories:
     - Alba
     - An Rìoghachd Aonaichte
