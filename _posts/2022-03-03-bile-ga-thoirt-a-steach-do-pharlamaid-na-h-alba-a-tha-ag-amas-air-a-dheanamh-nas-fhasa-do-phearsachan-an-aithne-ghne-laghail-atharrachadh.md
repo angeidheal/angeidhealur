@@ -19,9 +19,6 @@ Thèid bile ùr a thoirt a-steach do Phàrlamaid na h-Alba feasgar an-diugh a th
 Is e sin teisteanas a bhios a’ toirt aithne laghail dhan “gnè fhaighte” a th’ aig neach tar-ghnèitheach.
 
 Tha am bile a’ moladh na h-atharrachaidhean na leanas:
-
 • ìsleachadh na h-aoise as lugha bho 18 gu 16;
-
 • lùghdachadh san ùine a dh’fheumas neach tar-ghnèitheach a bhith a’ fuireach san gnè fhaighte aca bho 2 bhliadhna gu 6 mìos;
-
 • agus cur às dhan fheum a th’ aig neach tar-ghnèitheach air breithneachadh meidigeach a thathar a’ dearbhadh gu bheil neo-shàstachd gnè orra.
