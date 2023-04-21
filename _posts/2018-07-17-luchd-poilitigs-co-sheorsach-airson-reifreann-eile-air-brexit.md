@@ -22,7 +22,7 @@ Sgrìobh i anns *The Times* gu bheil trì roghainnean ann: cùmhnant a’ Phrìo
 
 agus tha i dhen bheachd gum bu chòir do reifreann eile a bhith ann gus an tèid co-aontachd a ruighinn.
 
-![](/wp-content/uploads/2022/12/2018-07-17-luchd-poilitigs-co-sheorsach-airson-reifreann-eile-air-brexit-02.webp)
+![]({{ site.baseurl }}/images/posts/2018-07-17-luchd-poilitigs-co-sheorsach-airson-reifreann-eile-air-brexit-02.webp)
 
 Tha Michael Cashman na Mhorair Làbarach agus sgrìobh e ann an artaigeil airson GSN (Gay Star News) o chionn ghoirid:
 
