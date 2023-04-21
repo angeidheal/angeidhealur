@@ -25,11 +25,3 @@ Chaidh Bryson a dhìteadh Dimàirt seo chaidh airson dithis bhoireannach èignea
 Dh’atharraich Bryson a gnè fhad s’ a bha i a’ feitheamh ris a’ chùis-lagha tòiseachadh.
 
 Bha i air a cumail an grèim ann an Cornton Vale fhad 's a bha i a' feitheamh ri dìteadh mus deach a gluasad gu HMP Dhùn Èideann Diardaoin.
-
-#### Barrachd fhiosrachaidh
-
-Openly: [Scotland introduces new measures as transgender prisoner policy reviewed](https://www.openlynews.com/i/?id=d0f529b5-04b6-4351-8104-cfb4aa755942)
-
-Pink News: [Trans prisoners with history of violence blocked from entering women’s prisons in Scotland](https://www.thepinknews.com/2023/01/30/scotland-trans-prisoners-womens-prisons-isla-bryson/)
-
-Sky News: [Scotland pauses movement of all transgender prisoners while rules reviewed](https://news.sky.com/story/scotland-pauses-movement-of-all-transgender-prisoners-while-rules-reviewed-12798620)
