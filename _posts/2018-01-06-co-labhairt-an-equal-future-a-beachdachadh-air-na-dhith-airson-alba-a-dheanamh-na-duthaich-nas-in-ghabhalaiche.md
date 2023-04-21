@@ -31,17 +31,3 @@ Bidh iomadh taisbeanaidhean, deasbadan agus bùthan-obrach ann a’ toirt a-stea
 Tha am prògram slàn ri leughadh [an seo](https://childreninscotland.org.uk/wp-content/uploads/2017/12/An-equal-future-%E2%80%93-draft-programme-%E2%80%93-12-December-2017.pdf).
 
 Airson barrachd fhiosrachaidh tadhalaibh air an làrach-lìn aig [Clann ann an Alba](https://childreninscotland.org.uk/an-equal-future/) no [cuiribh post-d thuca](mailto:events@childreninscotland.org.uk).
-
-#### Tùsan
-
-Òigridh LGDT na h-Alba
-
-[AN EQUAL FUTURE? SCOTLAND’S NEXT STEPS FOR INCLUDING LGBT CHILDREN AND YOUNG PEOPLE](https://www.lgbtyouth.org.uk/news/an-equal-future-scotland-s-next-steps-for-including-lgbt-children-and-young-people)
-
-Twitter: [@LGBTYS](https://twitter.com/LGBTYS)
-
-Clann ann an Alba
-
-[An equal future? Scotland’s next steps for including LGBT children and young people](https://childreninscotland.org.uk/an-equal-future/)
-
-Twitter: [@CiSweb](https://twitter.com/cisweb)
