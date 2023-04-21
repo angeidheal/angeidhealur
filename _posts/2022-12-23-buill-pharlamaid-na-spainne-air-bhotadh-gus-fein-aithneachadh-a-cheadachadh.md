@@ -1,29 +1,36 @@
 ---
-id: 552
-title: 'Buill-phàrlamaid na Spàinne air bhòtadh gus fèin-aithneachadh a cheadachadh'
-date: '2022-12-23T06:20:13+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=552'
-permalink: /2022-12-23-buill-pharlamaid-na-spainne-air-bhotadh-gus-fein-aithneachadh-a-cheadachadh/
-image: /images/posts/Congress_of_Deputies.jpg
+
+date: 2022-12-23 06:20
+
+title: Buill-phàrlamaid na Spàinne air bhòtadh gus fèin-aithneachadh a cheadachadh
+
+image: /images/posts/2022-12-23-buill-pharlamaid-na-spainne-air-bhotadh-gus-fein-aithneachadh-a-cheadachadh.webp
+
+author: Crìstean MacMhìcheil
+
 categories:
     - An Roinn Eòrpa
     - An t-Saoghal
     - Lagh
     - Poileataigs
+
 tags:
-    - 'Aithneachadh Gnè'
-    - 'An Spàinn'
+    - Aithneachadh Gnè
+    - An Spàinn
     - Fèin-aithneachadh
     - gender
-    - 'Gender Recognition'
+    - Gender Recognition
     - gnè
     - Self-identification
     - Spain
     - Tar-ghnèitheach
     - Trans
     - Transgender
+
+mastodon:
+
 ---
 
 Tha Buill-phàrlamaid na Spàinne air bhòtadh airson fèin-aithneachadh laghail a cheadachadh san dùthaich.
