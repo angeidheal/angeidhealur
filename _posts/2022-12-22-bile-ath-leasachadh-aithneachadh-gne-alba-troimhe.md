@@ -1,21 +1,23 @@
 ---
-id: 529
-title: 'Bile Ath-leasachadh Aithneachadh Gnè (Alba) troimhe'
-date: '2022-12-22T19:17:35+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=529'
-permalink: /2022-12-22-bile-ath-leasachadh-aithneachadh-gne-alba-troimhe/
-mastoshare-post-status:
-    - 'off'
-mastoshareshare-lastSuccessfullTootURL:
-    - 'https://mastodon.scot/@angeidheal/109559095152722027'
-image: /images/posts/parlamaid-na-h-alba.webp
+
+date: 2022-12-22 19:17
+
+title: Bile Ath-leasachadh Aithneachadh Gnè (Alba) troimhe
+
+image: /images/posts/2022-12-22-bile-ath-leasachadh-aithneachadh-gne-alba-troimhe.webp
+
+author: Crìstean MacMhìcheil
+
 categories:
     - Alba
     - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
+
+mastodon:
+
 ---
 
 Bhòt Pàrlamaid na h-Alba an-diugh airson Achd Aithneachadh Gnè ath-leasachadh gus a dhèanamh nas fhasa do dhaoine tar-ghnèitheach an gnè laghail aca atharrachadh.
