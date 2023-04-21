@@ -22,11 +22,3 @@ Chan eil e gu diofar ma tha e air loidhne, anns na meadhanan no ma s’ e tachar
 Dh’fhaodadh càin suas ri 400,000 rùbal a bhith air daoine no 5m rùbal air buidhnean laghail agus dh’fhaodadh coigrich binn phrìosain 15 latha fhaighinn mus tèid an cur a‑mach às an dùthaich.
 
 Feumaidh am bile a‑nis dol gu àrd‑thaigh na pàrlamaid airson ath‑sgrùdadh agus feumar a shoidhneachadh le Vladimir Putin as dèidh sin mus tèid a dhèanamh na lagh.
-
-#### Tùsan
-
-BBC News: [Russia passes ‘Answer to Blinken’ gay propaganda law](https://www.bbc.co.uk/news/world-europe-63747732)
-
-Pink News: [Russia approves terrifying all-ages ‘LGBTQ+ propaganda’ ban](https://www.pinknews.co.uk/2022/11/24/lgbtq-propaganda-approved-by-parliament/)
-
-Reutars: [Russia’s parliament passes law banning ‘LGBT propaganda’ among adults](https://www.openlynews.com/i/?id=4525aecd-135a-43d1-b3a2-8cfcddbf5407)
