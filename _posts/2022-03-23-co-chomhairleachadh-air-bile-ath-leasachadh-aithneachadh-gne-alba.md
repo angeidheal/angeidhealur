@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=254'
 permalink: /2022-03-23-co-chomhairleachadh-air-bile-ath-leasachadh-aithneachadh-gne-alba/
-image: /images/posts/parlamaid-na-h-alba.webp
+image: /images/posts/2022-03-23-co-chomhairleachadh-air-bile-ath-leasachadh-aithneachadh-gne-alba.webp
 categories:
     - Alba
     - An Rìoghachd Aonaichte
