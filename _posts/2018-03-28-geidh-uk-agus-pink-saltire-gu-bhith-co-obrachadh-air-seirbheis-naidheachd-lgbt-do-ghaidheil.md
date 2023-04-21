@@ -30,20 +30,20 @@ Tha sinn cuideachd ag aithneachadh gu bheil an sgeulachd agus eòlas aig a h-uil
 
 Mar charthannais againn ’s e ar n-amasan a bhith:
 
-* adhartachadh saoranachd agus leasachadh coimhearsnachd taobh a-staigh coimhearsnachd LGBT+ na h-Alba,
-* brosnachadh co-ionannachd agus iomadachd,
+* adhartachadh saoranachd agus leasachadh coimhearsnachd taobh a-staigh coimhearsnachd LGBT+ na h-Alba;
+* brosnachadh co-ionannachd agus iomadachd;
 * adhartachadh ealain, dualchas agus cultar LGBT+ na h-Alba.
 
 A-rèir na h-Urrasairean againn ’s e ar n-amasan a bhith:
 
-* lughdachadh iomallachd sa choimhearsnachd le bhith a’ cruthachadh cheanglaichean brìoghmhor agus luachmhor
-* cleachdadh mheadhanan ùra agus a’ tuigsinn ar coimhearsnachd nas èifeachdaiche
-* aithneachadh deagh eisimpleirean agus brosnachadh dhaoine eile gus na h-amasan aca a choileanadh
+* lughdachadh iomallachd sa choimhearsnachd le bhith a’ cruthachadh cheanglaichean brìoghmhor agus luachmhor;
+* cleachdadh mheadhanan ùra agus a’ tuigsinn ar coimhearsnachd nas èifeachdaiche;
+* aithneachadh deagh eisimpleirean agus brosnachadh dhaoine eile gus na h-amasan aca a choileanadh.
 
 Tha ar bun-stèidh ag innse gum bi sinn a’ coileanadh nan amasan sin tro dhòighean a dh’fhaodadh a bhith a’ gabhail a-steach:
 
-* stòras didseatach a tha a’ cruthachadh dìleab leantainneach de chultar LGBT+ ann an Alba
-* rannsachadh leantainneach a tha a’ measadh bheachdan sòisealta, cùisean breithneachail agus a’ measadh buaidh chultarach agus eaconamach cudromach dhaoine LGBT +
+* stòras didseatach a tha a’ cruthachadh dìleab leantainneach de chultar LGBT+ ann an Alba;
+* rannsachadh leantainneach a tha a’ measadh bheachdan sòisealta, cùisean breithneachail agus a’ measadh buaidh chultarach agus eaconamach cudromach dhaoine LGBT+;
 * prògram a tha ag aithneachadh, a’ toirt urram agus a’ comharrachadh na daoine agus na buidhnean sin a tha a’ strì airson beatha nas fheàrr airson daoine LGBT + ann an Alba.
 
 Tha obair Pink Saltire air a roinn ann an trì sreathan obrach:
