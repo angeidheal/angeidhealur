@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=828'
 permalink: /2009-01-16-athchuinge-airson-posadh-aon-sheorsach-air-a-thoirt-gu-parlamaid-na-h-alba/
-image: /images/posts/posadh-aon-sheorsach.webp
+image: /images/posts/2009-01-16-athchuinge-airson-posadh-aon-sheorsach-air-a-thoirt-gu-parlamaid-na-h-alba.webp
 categories:
     - Alba
     - An Rìoghachd Aonaichte
