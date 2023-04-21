@@ -29,6 +29,4 @@ Tha Alba air a bhith a’ faicinn àrdachadh mòr ann an tachartasan LGDT san fh
 
 Na bu tràithe sa bhliadhna chaidh a’ chiad Fèis Pròise Tar-ghèitheach a chumail ann an Dùn Èideann agus chaidh tachartasan ùra ainmeachadh airson Siorrachd Pheairt, Dùn Dè, Grampian, Dùn Phris is Gall-Ghàidhealaibh, Lodainn an Ear agus Eilean Bhòid agus tha seo a bharrachd air tachartasan stèidhichte mar-thà ann an Fìobha, Lodainn an Iar, Dùn Èideann agus Glaschu.
 
-‘S urrainn dhuibh cumail suas leis na tha am Fòram a’ dèanamh air an
-
-[làrach-lìn aca](http://www.highlandlgbtforum.scot/) no air [Facebook](https://www.facebook.com/highland.lgbt).
+‘S urrainn dhuibh cumail suas leis na tha am Fòram a’ dèanamh air an [làrach-lìn aca](http://www.highlandlgbtforum.scot/) no air [Facebook](https://www.facebook.com/highland.lgbt).
