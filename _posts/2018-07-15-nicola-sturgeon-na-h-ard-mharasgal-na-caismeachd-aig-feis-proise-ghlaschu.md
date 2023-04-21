@@ -24,7 +24,7 @@ Air thoiseach air an tachartas, thuirt Ms Sturgeon:
 
 “Tha mi toilichte a bhith air ainmeachadh mar a’ chiad Àrd-Mharasgal urramach a-riamh aig Fèis-pròise Ghlaschu agus tha mi a’ coimhead air adhart ri bhith a’ gabhail pàirt anns a’ chaismeachd leis na daoine òga LCDTE gus Bliadhna Òigridh na h-Alba a chomharrachadh.”
 
-![](/wp-content/uploads/2022/12/2018-07-15-nicola-sturgeon-na-h-ard-mharasgal-na-caismeachd-aig-feis-proise-ghlaschu-02.webp)
+![]({{ site.baseurl }}/images/posts//2018-07-15-nicola-sturgeon-na-h-ard-mharasgal-na-caismeachd-aig-feis-proise-ghlaschu-02.webp)
 
 Ann an aithris ris na luchd-frithealaidh, thuirt i:
 
@@ -40,7 +40,7 @@ Cuideachd mhol i Blair Wilson, duine à Baile Nèill, Siorrachd Rinn Friù an Ea
 
 “Ach an àite a bhith a’ falachadh, bhruidhinn e a-mach agus leig dhomh seo a ràdh; ’s e na prionnsabalan agus na luachan de dh’urram, mhisneachd agus thruas a chaidh a thaisbeanadh leis an duine òg sin a bu chòir a bhith a’ mìneachadh ar dùthcha. Agus mar sin Blair, tha sinn uile a’ seasamh còmhla riut.”
 
-![](/wp-content/uploads/2022/12/2018-07-15-nicola-sturgeon-na-h-ard-mharasgal-na-caismeachd-aig-feis-proise-ghlaschu-03.webp)
+![]({{ site.baseurl }}/images/posts/2018-07-15-nicola-sturgeon-na-h-ard-mharasgal-na-caismeachd-aig-feis-proise-ghlaschu-03.webp)
 
 Thuirt Alastair Mac a’ Ghobhainn, Àrd-oifigear Fèis-pròise Ghlaschu:
 
