@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=1143'
 permalink: /2019-10-08-trusadh-bogha-froise/
-image: /images/posts/Highland_Pride.webp
+image: /images/posts/2019-10-08-trusadh-bogha-froise.webp
 categories:
     - Alba
     - Dibhearsan
