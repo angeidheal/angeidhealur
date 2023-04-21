@@ -1,25 +1,32 @@
 ---
-id: 1115
-title: 'Àrd-chùirt na Barbadoise air feis ghèidh a dhì-eucoireachadh'
-date: '2022-12-15T07:35:06+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=1115'
-permalink: /2022-12-15-ard-chuirt-na-barbadoise-air-feis-gheidh-a-dhi-eucoireachadh/
-image: /images/posts/Brathach-na-Barbadoise-scaled.webp
+
+date: 2022-12-15 07:35
+
+title: Àrd-chùirt na Barbadoise air feis ghèidh a dhì-eucoireachadh
+
+image: /images/posts/2022-12-15-ard-chuirt-na-barbadoise-air-feis-gheidh-a-dhi-eucoireachadh.webp
+
+author: Crìstean MacMhìcheil
+
 categories:
     - An t-Saoghal
     - Lagh
+
 tags:
     - Aintìoga
-    - 'An Roinn Charaibeach'
-    - 'Àrd-chùirt na Barbadoise'
+    - An Roinn Charaibeach
+    - Àrd-chùirt na Barbadoise
     - Barbados
-    - 'Dale Marshall'
+    - Dale Marshall
     - dì-eucoireachadh
-    - 'feis ghèidh'
-    - 'Michelle Weekes'
-    - 'Naomh Crìstean is Nibheis'
+    - feis ghèidh
+    - Michelle Weekes
+    - Naomh Crìstean is Nibheis
+
+mastodon:
+
 ---
 
 Tha Àrd-chùirt na Barbadoise air co-dhùnadh gu bheil e neo-bhun-reachdail feis ghèidh eucoireachadh.
