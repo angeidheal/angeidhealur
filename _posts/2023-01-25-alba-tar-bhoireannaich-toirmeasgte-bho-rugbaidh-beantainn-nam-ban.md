@@ -21,11 +21,3 @@ Dh’ainmich Aonadh Rugbaidh na h-Alba (SRU) Dimàirt gun cur iad casg air boire
 Faodaidh fireannaich tar-ghnèitheach fhathast cluich ann am farpaisean fireannach, ach feumaidh an club aca measadh cunnairt a dhèanamh agus an toradh a chur a-steach dhan SRU.
 
 Thèid am poileasaidh ùr a chur an gnìomh Diciadain 1d latha den Ghearran agus thèid ath-sgrùdadh a dhèanamh air gach bliadhna agus nuair a bhios dàta saidheansail is rannsachadh ùr ri fhaighinn.
-
-#### Barrachd fhiosrachaidh
-
-The National: [Scottish rugby world reacts as trans women banned from contact game](https://www.thenational.scot/news/23276249.scottish-rugby-world-reacts-trans-women-banned-contact-game/)
-
-Openly: [Transgender women banned from female contact rugby in Scotland](https://www.openlynews.com/i/?id=2fbb3117-87d8-4476-8bb9-655825a375be)
-
-Pink News: [Scottish Rugby sparks backlash after banning trans women from contact rugby: ‘This is wrong’](https://www.thepinknews.com/2023/01/25/scottish-rugby-ban-trans-women/)
