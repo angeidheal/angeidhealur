@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=832'
 permalink: /2008-12-06-tha-bhidio-ur-air-nochdadh-an-aghaidh-proposition-8/
-image: /images/posts/prop-8.webp
+image: /images/posts/2008-12-06-tha-bhidio-ur-air-nochdadh-an-aghaidh-proposition-8.webp
 categories:
     - An t-Saoghal
     - Lagh
