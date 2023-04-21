@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=355'
 permalink: /2020-05-28-seirbheisean-fala-a-beachdachadh-air-a-chasg-a-th-air-fireannaich-co-sheorsach-agus-da-sheorsach-a-chur-as/
-image: /images/posts/tabhartas-fala.webp
+image: /images/posts/2020-05-28-seirbheisean-fala-a-beachdachadh-air-a-chasg-a-th-air-fireannaich-co-sheorsach-agus-da-sheorsach-a-chur-as.webp
 categories:
     - A' Chuimrigh
     - Alba
