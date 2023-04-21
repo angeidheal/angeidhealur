@@ -1,16 +1,22 @@
 ---
-id: 246
-title: 'Pòsadh aon-sheòrsach an Eaglais na h-Alba'
-date: '2022-05-23T18:00:27+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=246'
-permalink: /2022-05-23-posadh-aon-sheorsach-an-eaglais-na-h-alba/
-image: /images/posts/posadh-aon-sheorsach.webp
+
+date: 2022-05-23 18:00
+
+title: Pòsadh aon-sheòrsach an Eaglais na h-Alba
+
+image: /images/posts/2022-05-23-posadh-aon-sheorsach-an-eaglais-na-h-alba.webp
+
+author: Crìstean MacMhìcheil
+
 categories:
     - Alba
     - An Rìoghachd Aonaichte
     - Creideamh
+
+mastodon:
+
 ---
 
 Bhòt Àrd-sheanadh Eaglais na h-Alba ann an Dùn Èideann an-diugh airson pòsaidhean aon-sheòrsach a cheadachadh.
