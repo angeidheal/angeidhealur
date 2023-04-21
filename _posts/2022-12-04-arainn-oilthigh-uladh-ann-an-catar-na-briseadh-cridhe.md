@@ -29,11 +29,3 @@ Thuirt Hannah McCullough ris a’ phrògram Good Morning Ulster air BBC Radio Ul
 Tha co‑sheòrsachd mì‑laghail ann an Catar agus faodar a pheanasachadh le binn‑prìosain no fiù ’s binn‑bàis do Mhuslamaich a thèid a dhìteadh fo Lagh Sharia.
 
 Thuirt neach‑labhairt an oilthighe ris a’ BhBC gu bheil “còirichean LGBT+ aig cridhe an dealais a th’ aig Oilthigh Uladh do cho‑ionannachd, iomadachd agus ion‑ghabhalachd, a ghabhas a‑steach lìonra luchd‑obrach LGBT+ gnìomhach a bhios a’ brosnachadh co‑ionannachd dha na h‑uile, ge bith gnè no feisealachd.”
-
-#### Tùsan
-
-Belfast Telegraph: [Ulster University’s plan to open campus in Qatar ‘heartbreaking’ says chair of institution’s LGBT Society](https://www.belfasttelegraph.co.uk/news/northern-ireland/ulster-universitys-plan-to-open-campus-in-qatar-heartbreaking-says-chair-of-institutions-lgbt-society-42190294.html)
-
-BBC News: Qatar: [‘Heartbreak’ at Ulster University’s campus plan](https://www.bbc.co.uk/news/uk-northern-ireland-63828310)
-
-The Irish News: [UU says LGBT+ rights ‘central’ to its ‘commitment to equality, diversity and inclusion’ after Qatar plans criticised](https://www.irishnews.com/news/northernirelandnews/2022/12/03/news/uu_says_lgbt_rights_central_to_its_commitment_to_equality_diversity_and_inclusion_after_qatar_plans_criticised-2926558/)
