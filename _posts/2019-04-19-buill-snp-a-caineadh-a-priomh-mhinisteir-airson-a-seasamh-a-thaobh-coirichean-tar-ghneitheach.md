@@ -16,7 +16,7 @@ categories:
 
 Chaidh teachdaireachdan a fhoillseachadh air loidhne anns a bheil triùir BPA SNP a’ càineadh seasamh a’ Phrìomh Mhinistear, Nicola Sturgeon, a thaobh còirichean tar-ghnèitheach agus ath-leasachaidhean air an Achd Aithne Gnè.
 
-Chaidh na teachdaireachdan a lorg ann an còmhradh prìobhaideach air Twitter le seann neach-obrach an SNP a chur air adhart iad ri [Phink Saltire](https://pinksaltire.com/2019/04/17/leaks-reveal-critics-of-first-ministers-trans-rights-stance/).
+Chaidh na teachdaireachdan a lorg ann an còmhradh prìobhaideach air Twitter le seann neach-obrach an SNP a chur air adhart iad ri [Phink Saltire](https://pinksaltire.com/2019/04/17/leaks-reveal-critics-of-first-ministers-trans-rights-stance/){: .post-image }.
 
 Anns na teachdaireachdan, a ghabhas a leughadh gu h-ìseal, tha Ash Denham, Ruth Maguire agus Gillian Martin a’ deasbad ma tha Nicola Sturgeon a’ dol an-aghaidh faireachdainn a’ phàrtaidh a-thaobh ath-leasachaidhean gnè as dèidh i ràdh nach eil i a’ faicinn barrachd aithneachadh air còirichean tar-ghnèitheach mar chunnart dhi mar bhoireannach neo mar fheimineach.
 
