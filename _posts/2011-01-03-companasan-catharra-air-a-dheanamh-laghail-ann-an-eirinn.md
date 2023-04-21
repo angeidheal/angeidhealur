@@ -18,7 +18,7 @@ Chaidh laghan ùra a chur an gnìomh ann an Èirinn Disathairne gus companasan-c
 
 A dh’aindeoin seo tha cuid anns a’ choimhearsnachd LCDT Èireannach air an achd a chàineadh air sgàth ’s gum feumar gach càraid tagradh a chur a-steach co-dhiù trì mìos ro-làimh ma bhios iad airson cead fhaighinn bhon Riaghaltas agus air sgàth ’s nach eil an achd a’ toirt còirichean co-ionann do phàrantan co-sheòrsach.
 
-Tha am buidheann [LGBT Noise](http://www.lgbtnoise.ie/ "lgbtNoise | Gay Civil Marriage Now!") a’ càineadh an achd ùr air sgàth ’s nach eil e a’ toirt cead pòsaidh do chàraidean aon-sheòrsach.
+Tha am buidheann [LGBT Noise](http://www.lgbtnoise.ie/) a’ càineadh an achd ùr air sgàth ’s nach eil e a’ toirt cead pòsaidh do chàraidean aon-sheòrsach.
 
 Thuirt neach-labhairt a’ bhuidhinn ris an Irish Times:
 
