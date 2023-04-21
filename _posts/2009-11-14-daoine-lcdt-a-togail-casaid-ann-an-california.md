@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=843'
 permalink: /2009-11-14-daoine-lcdt-a-togail-casaid-ann-an-california/
-image: /images/posts/prop-8.webp
+image: /images/posts/2009-11-14-daoine-lcdt-a-togail-casaid-ann-an-california.webp
 categories:
     - An t-Saoghal
     - Iomairteachd
