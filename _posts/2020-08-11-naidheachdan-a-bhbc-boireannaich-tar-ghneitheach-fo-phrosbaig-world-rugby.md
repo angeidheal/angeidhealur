@@ -6,7 +6,7 @@ date: 2020-08-11 19:00
 
 title: "Naidheachdan a' BhBC: 'Boireannaich tar-ghnèitheach fo phrosbaig World Rugby'"
 
-image: /images/posts/
+image:
 
 author: Crìstean MacMhìcheil
 
