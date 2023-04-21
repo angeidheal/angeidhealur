@@ -16,11 +16,11 @@ categories:
 
 Chaidh teachdaireachdan a fhoillseachadh air loidhne anns a bheil triùir BPA SNP a’ càineadh seasamh a’ Phrìomh Mhinistear, Nicola Sturgeon, a thaobh còirichean tar-ghnèitheach agus ath-leasachaidhean air an Achd Aithne Gnè.
 
-Chaidh na teachdaireachdan a lorg a lorg ann an còmhradh prìobhaideach air Twitter le seann neach-obrach an SNP a chur air adhart iad ri Phink Saltire. \[1\]
+Chaidh na teachdaireachdan a lorg ann an còmhradh prìobhaideach air Twitter le seann neach-obrach an SNP a chur air adhart iad ri [Phink Saltire](https://pinksaltire.com/2019/04/17/leaks-reveal-critics-of-first-ministers-trans-rights-stance/).
 
 Anns na teachdaireachdan, a ghabhas a leughadh gu h-ìseal, tha Ash Denham, Ruth Maguire agus Gillian Martin a’ deasbad ma tha Nicola Sturgeon a’ dol an-aghaidh faireachdainn a’ phàrtaidh a-thaobh ath-leasachaidhean gnè as dèidh i ràdh nach eil i a’ faicinn barrachd aithneachadh air còirichean tar-ghnèitheach mar chunnart dhi mar bhoireannach neo mar fheimineach.
 
-![](/wp-content/uploads/2022/12/2019-04-19-buill-snp-a-caineadh-a-phriomh-mhinisteir-airson-a-seasamh-a-thaobh-coirichean-tar-ghneitheach-02.webp)
+![]({{ site.baseurl }}/images/posts/2019-04-19-buill-snp-a-caineadh-a-phriomh-mhinisteir-airson-a-seasamh-a-thaobh-coirichean-tar-ghneitheach-02.webp)
 
 ‘S e Ruth Maguire BPA airson Coineagan a Deas agus ‘s i Neach-gairm Comataidh Co-ionannachd is Còireachan Daonna ann am Pàrlamaid na h-Alba. Bhiodh uallach oirre sgrùdadh èifeachdach agus cothromach air atharrachaidhean sam bith a mhol an Riaghaltas dhan Achd Aithne Gnè.
 
@@ -49,5 +49,3 @@ Mar fhreagairt air na teachdaireachdan thuirt neach-labhairt an SNP:
 Bho chaidh na teachdaireachdan a fhoillseachadh air loidhne tha buill eile an SNP, a leithid Mhairi Black, Stewart MacDonald agus Angela Crawley, air an taic aca do chòireachan tar-ghnèitheach a dhearbhadh air Twitter.
 
 Dh’ iarr Pink Saltire air Ash Denham, Ruth Maguire agus Gillian Martin aithris a dhèanamh ach cha d’fhuair iad freagairt.
-
-\[1\] Pink Saltire: [Leaks reveal critics of First Minister’s trans rights stance](https://pinksaltire.com/2019/04/17/leaks-reveal-critics-of-first-ministers-trans-rights-stance/)
