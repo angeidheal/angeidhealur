@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=847'
 permalink: /2008-11-04-muinntir-chalifornia-gu-bhith-a-bhotadh-air-proposition-8-an-diugh/
-image: /images/posts/prop-8.webp
+image: /images/posts/2008-11-04-muinntir-chalifornia-gu-bhith-a-bhotadh-air-proposition-8-an-diugh.webp
 categories:
     - An t-Saoghal
     - Lagh
