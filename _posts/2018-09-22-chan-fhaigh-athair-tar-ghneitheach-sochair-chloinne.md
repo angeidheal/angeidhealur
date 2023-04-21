@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=606'
 permalink: /2018-09-22-chan-fhaigh-athair-tar-ghneitheach-sochair-chloinne/
-image: /wp-content/uploads/2022/12/2018-09-22-chan-fhaigh-athair-tar-ghneitheach-sochair-chloinne.webp
+image: /images/posts/2018-09-22-chan-fhaigh-athair-tar-ghneitheach-sochair-chloinne.webp
 categories:
     - An Rìoghachd Aonaichte
     - Lagh
