@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=609'
 permalink: /2018-09-21-feis-proise-innse-ghall-air-a-chaineadh-le-ministear-na-h-eaglaise-saoire-leantainnich/
-image: /wp-content/uploads/2022/12/2018-09-21-feis-proise-innse-ghall-air-a-chaineadh-le-ministear-na-h-eaglaise-saoire-leantainnich.webp
+image: /images/posts/2018-09-21-feis-proise-innse-ghall-air-a-chaineadh-le-ministear-na-h-eaglaise-saoire-leantainnich.webp
 categories:
     - Alba
     - An Rìoghachd Aonaichte
