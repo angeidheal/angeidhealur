@@ -42,11 +42,3 @@ Tha e a’ ciallachadh gum bi neach sam bith nas sìne na 16 bliadhna a dh’aoi
 An uair sin bidh aig tagraichean ris an t-iarrtas aca a dhearbhadh trì mìosan às deidh dhaibh an tagradh aca a chur a-steach mus tèid an t-atharrachadh a dhèanamh dligheach.
 
 Feumaidh an t-Seanadh aontachadh ri fhathast, ach thathar an dùil gun tèid a dhèanamh na lagh an ceann grunn sheachdainnean.
-
-#### Tùsan
-
-The Local: [Spain approves trans law that allows easy gender change on ID  ](https://www.thelocal.es/20221222/confirmed-spain-approves-trans-rights-law/)
-
-Pink News: [Spain passes landmark trans rights law to make gender recognition simpler](https://www.thepinknews.com/2022/12/22/spain-passes-trans-right-law-to-make-gender-recognition-simpler/)
-
-Reuters: [Spanish lawmakers approve transgender rights bill](https://www.reuters.com/world/europe/spanish-lawmakers-approve-transgender-rights-bill-2022-12-22/)
