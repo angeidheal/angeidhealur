@@ -17,7 +17,7 @@ Bha iongnadh air luchd-obrach aig bùth cèice ann am Baile Udain Diardaoin as d
 
 Chaidh an litir, a ghabhas a leughadh gu h-ìseal, a chur gun ainm dhan bhùth \[[https://specialdayscakes.com/\](Special](https://specialdayscakes.com/](Special) Days Cakes).
 
-![](/wp-content/uploads/2019/09/2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice-02.webp)
+![]({{ site.baseurl}}/images/posts/2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice-02.webp)
 
 ‘S ann le Mìcheal Burns agus Steafan Whyteside a tha am bùth.
 
