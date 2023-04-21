@@ -21,7 +21,7 @@ Dh’ainmich Comhairliche Gregor Murray air Facebook gum biodh iad\* a’ leigei
 
 Ann an litir gu Ceannard na Comhairle, John Alexander, thug Murray iomradh air an droch dhìol a dh’fhuiling iad thairis air na mìosan a dh’fhalbh agus thuirt iad gur e seo an co-dhùnadh as fheàrr airson an slàinte-inntinn a tha air tuiteam fon ìre far am bu chòir dha bhith.
 
-![]({{ site.baseurl }}/2018-08-15-comhairliche-tar-ghneitheach-albannach-a-leigeil-as-an-dreuchd-mar-thoradh-air-droch-dhiol-02.webp)
+![]({{ site.baseurl }}/images/posts/2018-08-15-comhairliche-tar-ghneitheach-albannach-a-leigeil-as-an-dreuchd-mar-thoradh-air-droch-dhiol-02.webp)
 
 Chaidh Comhairliche Murray a chàineadh airson cànan a chleachd iad ann am brathan air-loidhne le buidhnean boireannaich.
 
