@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=271'
 permalink: /2022-03-15-co-ionannachd-posaidh-ann-am-bermuda-agus-na-h-eileannan-cayman-ga-dhiultadh-le-cuirt-bhreatannach/
-image: /images/posts/posadh-aon-sheorsach.webp
+image: /images/posts/2022-03-15-co-ionannachd-posaidh-ann-am-bermuda-agus-na-h-eileannan-cayman-ga-dhiultadh-le-cuirt-bhreatannach.webp
 categories:
     - An Rìoghachd Aonaichte
     - An t-Saoghal
