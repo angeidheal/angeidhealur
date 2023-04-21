@@ -37,9 +37,3 @@ Leigheas Ro‑chasgach Iar‑ghabhalach: Post‑Exposure Prophylaxis (PEP)
 Bìoras Easbhaidh Ion‑dhìon Daonna: Human Immunodeficiency Virus (HIV)
 
 Sionndram Easbhaidh Ion‑dhìon Togte: Acquired Immunodeficiency Syndrome (AIDS)
-
-#### Tùsan
-
-The National: [World AIDS Day: Scotland launches world’s first online PrEP clinic](https://www.thenational.scot/news/23164043.world-aids-day-scotland-launches-worlds-first-online-prep-clinic/?ref=rss)
-
-Riaghaltas na h-Alba: [World’s first online HIV prevention service](https://www.gov.scot/news/worlds-first-online-hiv-prevention-service/)
