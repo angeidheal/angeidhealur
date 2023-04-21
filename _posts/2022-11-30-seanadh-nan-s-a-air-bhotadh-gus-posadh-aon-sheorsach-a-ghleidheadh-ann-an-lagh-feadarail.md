@@ -26,11 +26,3 @@ San Ògmhios am bliadhna, chuir a’ Phrìomh‑chùirt car dhen a’ chùis‑l
 Ma thachras sin, bidh gach stàit fa leth comasach air reachdas pòsaidh a chur an gnìomh agus ged a bhios e riatanach fon bhile seo gun aithnich iad pòsaidhean dligheach bho stàitean eile dh’fhaodadh iad cead pòsaidh a dhiùltadh do chàraidean aon-sheòrsach taobh a-staigh an stàit aca fhèin.
 
 Feumaidh Taigh nan Riochdairean bhòtadh air a’ bhile a‑nis. Ma ghabhas iad rithe, mar a thathar an dùil, thèid i an uair sin gu Ceann‑suidhe Biden airson soidhnigeadh na lagh.
-
-#### Tùsan
-
-BBC News: [Respect for Marriage Act: Senate passes same-sex marriage bill](https://www.bbc.co.uk/news/world-us-canada-63656492)
-
-Gay Times: [US Senate passes bill protecting same-sex and interracial marriages](https://www.gaytimes.co.uk/life/us-senate-passes-bill-protecting-same-sex-and-interracial-marriages/)
-
-Pink News: [US Senate passes Respect for Marriage Act – but activists say bill is a ‘huge mess’](https://www.thepinknews.com/2022/11/30/us-senate-passes-respect-for-marriage-act/)
