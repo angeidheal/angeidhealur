@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=313'
 permalink: /2021-06-14-riaghailtean-nas-fhosgailte-gan-cur-an-gniomh-a-thaobh-toirt-seachad-fala/
-image: /images/posts/tabhartas-fala.webp
+image: /images/posts/2021-06-14-riaghailtean-nas-fhosgailte-gan-cur-an-gniomh-a-thaobh-toirt-seachad-fala.webp
 categories:
     - A' Chuimrigh
     - Alba
