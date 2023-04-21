@@ -29,13 +29,3 @@ Dh’ainmich Àrd-neach-tagraidh na Barbadoise, Dale Marshall, Dimàirt gun do r
 Ron a sheo, dh’fhaodadh binn priosan fad beatha a chur air duine sam bith a chaidh a dhìteadh.
 
 Tha a’ cho-dhùnadh seo a’ leantainn air riaghlaidhean dhen aon t-seòrsa ann an Aintìoga agus Naomh Crìstean is Nibheis na bu tràithe am-bliadhna.
-
-#### Barrachd fhiosrachaidh
-
-Faodaidh tu barrachd leughadh mun sgeulachd seo an-seo:
-
-Openly News: [Barbados’s top court strikes down laws criminalizing gay sex](https://www.openlynews.com/i/?id=08f14db2-2194-4e92-9dca-e170ebafce49)
-
-Pink News: [Barbados scraps ‘buggery’ and ‘serious indecency’ laws in ‘resounding victory’ for LGBTQ+ people](https://www.thepinknews.com/2022/12/13/barbados-ends-buggery-and-indecency-laws/)
-
-Them: [Barbados Has Decriminalized Gay Sex](https://www.them.us/story/barbados-gay-sex-decriminalized)
