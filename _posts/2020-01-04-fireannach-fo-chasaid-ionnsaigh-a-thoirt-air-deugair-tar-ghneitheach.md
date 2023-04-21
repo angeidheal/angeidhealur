@@ -18,7 +18,3 @@ Tha fireannach, 18, fo chasaid ionnsaigh a thoirt air deugair tar-ghnèitheach a
 Tha casaid an aghaidh Todd Caimbeul gun do ghabh e greim air gàirdean agus amhach an fhulangaiche agus gun d’ thug e iomradh orra ann dòigh a bha claon-bhreitheach an aghaidh daoine tar-ghnèitheach.
 
 Tha dùil gun nochd Caimbeul aig Cùirt an t-Siorraidh ann an Cille Mheàrnaig anns a’ Chèitean.
-
-## Tùsan
-
-The Sun: [Ayrshire teen, 18, ‘seized victim by arm and throat’ in ‘transgender hate attack’ at takeaway](https://www.thescottishsun.co.uk/news/5126411/ayrshire-ardrossan-transgender-hate-attack/)
