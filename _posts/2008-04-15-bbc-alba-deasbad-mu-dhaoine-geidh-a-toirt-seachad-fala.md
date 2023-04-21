@@ -6,7 +6,7 @@ author: Crìstean MacMhìcheil
 layout: post
 guid: 'https://angeidhealur.scot/?p=958'
 permalink: /2008-04-15-bbc-alba-deasbad-mu-dhaoine-geidh-a-toirt-seachad-fala/
-image: /images/posts2008-04-15-bbc-alba-deasbad-mu-dhaoine-geidh-a-toirt-seachad-fala.webp
+image: /images/posts/2008-04-15-bbc-alba-deasbad-mu-dhaoine-geidh-a-toirt-seachad-fala.webp
 categories:
     - Alba
     - An Rìoghachd Aonaichte
