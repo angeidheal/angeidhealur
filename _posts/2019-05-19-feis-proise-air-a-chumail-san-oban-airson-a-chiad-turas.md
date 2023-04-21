@@ -19,10 +19,10 @@ Bha an caismeachd aig teas-mheadhan sreath de thachartasan pròise thairis an de
 
 Nam measg bha Ministear airson Co-ionannachd, BPA Christina McKelvie agus Rùnaire a’ Chaibineit, BPA Mìcheal Russell.
 
-![BPA Christina McKelvie & BPA Mìcheal Russell aig Feise-proise an Òbain 2019](/wp-content/uploads/2019/05/2019-05-19-bpa-aig-feis-proise-an-obain-2019.webp)
+![BPA Christina McKelvie & BPA Mìcheal Russell aig Feise-proise an Òbain 2019]({{ site.baseurl }}/images/posts/2019-05-19-bpa-aig-feis-proise-an-obain-2019.webp)
 
 A bharrachd air an caismeachd, chaidh bàl a chumail oidhche Shathairne anns an robh cuirm-cluich leis a’ bhanrigh-draga Venus Guytrap agus chaidh Tùr MhicCaig a shoillseachadh ann an dathan bratach a’ bhoga-fhrois.
 
-![Tùr MhicCaig air a shoillseachadh ann an dathan bractach a’ bhogha-frois](/wp-content/uploads/2019/05/2019-05-19-tur-mhiccaig.webp)
+![Tùr MhicCaig air a shoillseachadh ann an dathan bractach a’ bhogha-frois]({{ site.baseurl }}/images/posts/2019-05-19-tur-mhiccaig.webp)
 
 Thig an tachartas gu crìoch le sgrìonadh sònraichte dhen fhilm, *The Adventures of Priscilla, Queen of the Desert*, oidhche Dhòmhnaich.
