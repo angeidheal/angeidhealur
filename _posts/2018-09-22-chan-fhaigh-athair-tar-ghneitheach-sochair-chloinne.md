@@ -21,9 +21,3 @@ Tha e a-nis air dùbhlan laghail a chur a-steach an-aghaidh na riaghailtean a dh
 Tha ùghdarrasan a-nis air innse dha nach eil e comasach air sochair-chloinne fhaighinn air sgàth ’s nach eil teisteanas breith aig an leanabh.
 
 Tha *The Times* ag aithris nach tèid co-dhùnadh a dhèanamh air a’ chùis airson grunn mìosan.
-
-### Tùsan
-
-The Times: [Trans man who gave birth denied child benefits](https://www.thetimes.co.uk/article/trans-man-who-gave-birth-denied-childbenefits-lnd2lbjfj "Trans man who gave birth denied child benefits")
-
-PinkNews: [Transgender man ‘denied child benefit’ for baby he gave birth to](https://www.pinknews.co.uk/2018/09/19/trans-man-denied-child-benefit-baby-high-court/)
