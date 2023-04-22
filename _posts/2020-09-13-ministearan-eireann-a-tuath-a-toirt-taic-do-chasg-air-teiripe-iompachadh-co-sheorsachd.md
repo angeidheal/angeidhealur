@@ -1,17 +1,23 @@
 ---
-id: 334
-title: 'Ministearan Èireann a Tuath a&#8217; toirt taic do chasg air teiripe iompachadh co-sheòrsachd'
-date: '2020-09-13T18:00:10+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=334'
-permalink: /2020-09-13-ministearan-eireann-a-tuath-a-toirt-taic-do-chasg-air-teiripe-iompachadh-co-sheorsachd/
-image: /images/posts/2020-09-13-ministearan-eireann-a-tuath-a-toirt-taic-do-chasg-air-teiripe-iompachadh-co-sheorsachd-scaled.webp
+
+date: 2020-09-13 18:00
+
+title: Ministearan Èireann a Tuath a' toirt taic do chasg air teiripe iompachadh co-sheòrsachd
+
+image: /images/posts/2020-09-13-ministearan-eireann-a-tuath-a-toirt-taic-do-chasg-air-teiripe-iompachadh-co-sheorsachd.webp
+
+author: Crìstean MacMhìcheil
+
 categories:
     - An Rìoghachd Aonaichte
     - Èirinn a Tuath
     - Lagh
     - Poileataigs
+
+mastodon:
+
 ---
 
 Tha ministearan ann an Èirinn a Tuath air dearbhadh gu bheil iad airson casg a chur air teiripe iompachadh co-sheòrsachd.
