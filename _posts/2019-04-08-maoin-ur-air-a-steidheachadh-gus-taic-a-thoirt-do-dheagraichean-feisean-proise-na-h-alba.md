@@ -1,6 +1,6 @@
 ---
 id: 461
-title: 'Maoin ùr air a stèidheachadh gus taic a thoirt do dh&#8217;eagraichean fèisean-pròise na h-Alba'
+title: Maoin ùr air a stèidheachadh gus taic a thoirt do dh'eagraichean fèisean-pròise na h-Alba
 date: '2019-04-08T17:20:53+00:00'
 author: Crìstean MacMhìcheil
 layout: post
