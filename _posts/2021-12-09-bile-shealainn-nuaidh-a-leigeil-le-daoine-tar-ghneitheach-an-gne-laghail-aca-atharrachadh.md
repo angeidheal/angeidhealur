@@ -1,14 +1,20 @@
 ---
-id: 299
-title: 'Bile  Shealainn Nuaidh a&#8217; leigeil le daoine tar-ghnèitheach an gnè laghail aca atharrachadh'
-date: '2021-12-09T18:00:45+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=299'
-permalink: /2021-12-09-bile-shealainn-nuaidh-a-leigeil-le-daoine-tar-ghneitheach-an-gne-laghail-aca-atharrachadh/
+
+date: 2021-12-09 18:00
+
+title: Bile  Shealainn Nuaidh a' leigeil le daoine tar-ghnèitheach an gnè laghail aca atharrachadh
+
 image: /images/posts/2021-12-09-bile-shealainn-nuaidh-a-leigeil-le-daoine-tar-ghneitheach-an-gne-lagahil-aca-atharrachadh-scaled.webp
+
+author: Crìstean MacMhìcheil
+
 categories:
     - An t-Saoghal
+
+mastodon:
+
 ---
 
 Tha Pàrlamaid Shealainn Nuaidh air gabhail ri bile a leigeas le daoine an gnè atharrachadh air an teisteanas breith aca gun a bhith a’ dol gu cùirt no a’ foillseachadh fiosrachadh meidigeach prìobhaideachd.
