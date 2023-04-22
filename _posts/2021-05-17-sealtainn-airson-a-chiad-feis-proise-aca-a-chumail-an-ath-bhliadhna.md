@@ -1,16 +1,22 @@
 ---
-id: 317
-title: 'Sealtainn airson a&#8217; chiad fèis-pròise aca a chumail an ath-bhliadhna'
-date: '2021-05-17T18:00:13+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=317'
-permalink: /2021-05-17-sealtainn-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna/
+
+date: 2021-05-17 18:00
+
+title: Sealtainn airson a' chiad fèis-pròise aca a chumail an ath-bhliadhna
+
 image: /images/posts/2021-05-17-sealtainn-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna.webp
+
+author: Crìstean MacMhìcheil
+
 categories:
     - Alba
     - An Rìoghachd Aonaichte
     - Pròis
+
+mastodon:
+
 ---
 
 Chaidh ainmeachadh gun tèid a’ chiad fèis-pròise a-riamh ann an Sealtainn a chumail san Ògmhios 2022.
