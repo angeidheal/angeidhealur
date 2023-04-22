@@ -1,6 +1,6 @@
 ---
 id: 343
-title: 'Gràin co-sheòrsachd a&#8217; fàs nas cumanta an Alba'
+title: Gràin co-sheòrsachd a' fàs nas cumanta an Alba
 date: '2020-07-21T18:00:31+00:00'
 author: Crìstean MacMhìcheil
 layout: post
