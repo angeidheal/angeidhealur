@@ -1,17 +1,23 @@
 ---
-id: 326
-title: 'BPA a&#8217; bhòtadh airson Bile nan Eucoirean Gràin'
-date: '2021-03-13T18:00:15+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=326'
-permalink: /2021-03-13-bpa-a-bhotadh-airson-bile-nan-eucoirean-grain/
+
+date: 2021-03-13 18:00
+
+title: BPA a' bhòtadh airson Bile nan Eucoirean Gràin
+
 image: /images/posts/2021-03-13-bpa-a-bhotadh-airson-bile-nan-eucoirean-grain.webp
+
+author: Crìstean MacMhìcheil
+
 categories:
     - Alba
     - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
+
+mastodon:
+
 ---
 
 Bhòt Buill Pàrlamaid na h-Alba Diardaoin airson gabhail ri Bile nan Eucoirean Gràin.
