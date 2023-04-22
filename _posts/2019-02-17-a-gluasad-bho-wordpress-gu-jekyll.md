@@ -1,14 +1,20 @@
 ---
-id: 473
-title: 'A&#8217; gluasad bho WordPress gu Jekyll'
-date: '2019-02-17T18:00:31+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=473'
-permalink: /2019-02-17-a-gluasad-bho-wordpress-gu-jekyll/
+
+date: 2019-02-17 18:00
+
+title: A' gluasad bho WordPress gu Jekyll
+
 image: /images/posts/2019-02-17-a-gluasad-bho-wordpress-gu-jekyll.webp
+
+author: Crìstean MacMhìcheil
+
 categories:
     - Blog
+
+mastodon:
+
 ---
 
 O chionn 2008 tha An Gèidheal Ùr air a bhith na bhlog WordPress (a’ ruith grunn plugain treas-phàrtaidh) a tha mi air a bhith ag òstaireachd agus a’ cumail suas leam fhèin.
@@ -19,7 +25,7 @@ Tha mi air feuchainn ri buaidh a’ ghluasaid a lùghdachadh – bu chòir a’ 
 
 Dh’fhaodadh gum bi bug no dhà ann fhathast is mar sin bhithinn fada nur comain ma chuireas sibh fios thugam air Twitter ma lorgas sibh fear.
 
-#### Dè th’ ann an Jekyll?
+## Dè th’ ann an Jekyll?
 
 ‘S e gineadair làrach-lìn a th’ ann an Jekyll a bhios a’ toirt faidhlichean teacsa (a’ toirt a-steach faidhlichean Markdown) gus làraichean-lìn stadaigeach a chruthachadh a dh’fhaodar a luchdachadh.
 
