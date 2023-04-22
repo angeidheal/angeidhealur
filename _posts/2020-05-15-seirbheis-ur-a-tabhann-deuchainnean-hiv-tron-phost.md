@@ -1,6 +1,6 @@
 ---
 id: 366
-title: 'Seirbheis ùr a&#8217; tabhann deuchainnean HIV tron phost'
+title: Seirbheis ùr a' tabhann deuchainnean HIV tron phost
 date: '2020-05-15T18:00:13+00:00'
 author: Crìstean MacMhìcheil
 layout: post
