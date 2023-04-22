@@ -1,6 +1,6 @@
 ---
 id: 1143
-title: 'Trusadh: &#8220;Bogha-froise&#8221;'
+title: "Trusadh: \"Bogha-froise\""
 date: '2019-10-08T18:00:58+00:00'
 author: Crìstean MacMhìcheil
 layout: post
