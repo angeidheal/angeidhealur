@@ -1,6 +1,6 @@
 ---
 id: 380
-title: 'Àireamh de dhaoine a&#8217; cleachdadh loidhne-chuideachaidh LCDT+ air àrdachadh air sgàth Coròna-bhìoras'
+title: Àireamh de dhaoine a' cleachdadh loidhne-chuideachaidh LCDT+ air àrdachadh air sgàth Coròna-bhìoras
 date: '2020-03-29T18:00:41+00:00'
 author: Crìstean MacMhìcheil
 layout: post
