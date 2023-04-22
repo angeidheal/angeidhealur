@@ -1,6 +1,6 @@
 ---
 id: 467
-title: 'Eaglais Dhùn Phrìs a' beachdachadh air taighean LCDT a leasachadh'
+title: Eaglais Dhùn Phrìs a' beachdachadh air taighean LCDT a leasachadh
 date: '2019-02-24T23:15:32+00:00'
 author: Crìstean MacMhìcheil
 layout: post
