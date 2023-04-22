@@ -1,6 +1,6 @@
 ---
 id: 340
-title: 'Am prìosan do dh&#8217;athair a thug ionnsaigh air a mhac'
+title: Am prìosan do dh'athair a thug ionnsaigh air a mhac
 date: '2020-08-23T18:00:41+00:00'
 author: Crìstean MacMhìcheil
 layout: post
