@@ -31,11 +31,6 @@ Chaidh a stèidheachadh (mar Naidheachdan Pinc) ann an 2008 le Crìstean MacMhì
 
 **Post-d.** [fios@angeidhealur.scot](mailto:fios@angeidhealur.scot)
 
-
-## Cuir fios
-
-Is urrainn dhuibh fios a chur gu Crìstean air [post‑d](mailto:fios@angeidhealur.scot) no [Mastodon](https://mastodon.scot/@angeidheal).
-
 ## Cuir taic
 
 Tha An Gèidheal Ùr an comain nan daoine a tha a’ toirt taic dhan obair againn agus le ur taic-se bidh sinn comasach air barrachd a dhèanamh.
