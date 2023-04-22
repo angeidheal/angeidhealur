@@ -1,6 +1,6 @@
 ---
 id: 337
-title: 'Màthair Albannach a&#8217; sireadh òrdugh-bacaidh gus sìol-ghinidh a nighean tar-ghnèitheach a shàbhaladh'
+title: Màthair Albannach a' sireadh òrdugh-bacaidh gus sìol-ghinidh a nighean tar-ghnèitheach a shàbhaladh
 date: '2020-08-27T18:00:28+00:00'
 author: Crìstean MacMhìcheil
 layout: post
