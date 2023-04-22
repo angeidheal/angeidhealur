@@ -1,16 +1,22 @@
 ---
-id: 470
-title: 'David Mundell &#8211; &#8220;B&#8217;e tighinn a-mach aon de na rudan as duilighe a rinn mi&#8221;'
-date: '2019-02-21T06:30:24+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=470'
-permalink: /2019-02-21-david-mundell-be-tighinn-a-mach-aon-de-na-rudan-as-duilighe-a-rinn-mi/
+
+date: 2019-02-21 06:30
+
+title: "David Mundell: \"B'e tighinn a-mach aon de na rudan as duilighe a rinn mi\""
+
 image: /images/posts/2019-02-21-david-mundell-b-e-tighinn-a-mach-aon-de-na-rudan-as-duilghe-a-rinn-mi-scaled.webp
+
+author: Crìstean MacMhìcheil
+
 categories:
     - Alba
     - An Rìoghachd Aonaichte
     - Poileataigs
+
+mastodon:
+
 ---
 
 Tha David Mundelll BP, air ràdh gum b’ e tighinn a-mach aon de na rudan as duilghe a rinn e.
