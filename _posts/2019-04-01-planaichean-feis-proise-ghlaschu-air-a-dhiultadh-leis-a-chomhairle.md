@@ -1,6 +1,6 @@
 ---
 id: 464
-title: 'Planaichean Fèis-pròise Ghlaschu air a dhiùltadh leis a&#8217; chomhairle'
+title: Planaichean Fèis-pròise Ghlaschu air a dhiùltadh leis a' chomhairle
 date: '2019-04-01T21:30:43+00:00'
 author: Crìstean MacMhìcheil
 layout: post
