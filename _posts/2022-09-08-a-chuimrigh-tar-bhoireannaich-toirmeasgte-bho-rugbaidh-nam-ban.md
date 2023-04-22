@@ -1,16 +1,22 @@
 ---
-id: 226
-title: 'A&#8217; Chuimrigh: Tar-bhoireannaich toirmeasgte bho rugbaidh nam ban'
-date: '2022-09-08T18:00:40+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=226'
-permalink: /2022-09-08-a-chuimrigh-tar-bhoireannaich-toirmeasgte-bho-rugbaidh-nam-ban/
+
+date: 2022-09-08 18:00
+
+title: "A' Chuimrigh: Tar-bhoireannaich toirmeasgte bho rugbaidh nam ban"
+
 image: /images/posts/2022-09-08-a-chuimrigh-tar-bhoireannaich-toirmeasgte-bho-rugbaidh-nam-ban.webp
+
+author: Crìstean MacMhìcheil
+
 categories:
     - A' Chuimrigh
     - An Rìoghachd Aonaichte
     - Spòrs
+
+mastodon:
+
 ---
 
 Tha Aonadh Rugbaidh na Cuimrigh (WRU) air casg a chur air tar-bhoireannaich bho bhith a’ cluich rugbaidh nam ban.
