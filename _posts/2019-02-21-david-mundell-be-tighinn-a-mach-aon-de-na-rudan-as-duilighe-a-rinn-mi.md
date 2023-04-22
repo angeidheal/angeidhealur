@@ -19,7 +19,7 @@ mastodon:
 
 ---
 
-Tha David Mundelll BP, air ràdh gum b’ e tighinn a-mach aon de na rudan as duilghe a rinn e.
+Tha David Mundell BP, air ràdh gum b’ e tighinn a-mach aon de na rudan as duilghe a rinn e.
 
 “B’ e tighinn a-mach aon de na rudan as duilghe a rinn mi, ach aon de na rudan as cudromaiche cuideachd. Chuir na fhuair mi de thaic bho càirdean, teaghlach agus co-obraichean iongnadh orm.”
 
