@@ -26,10 +26,10 @@ paginate_path: /duilleag-:num/
 #social
 mastodon: https://www.mastodon.scot/@angeidheal
 twitter:
-instagram:
+instagram: https://www.instagram.com/angeidheal
 facebook:
 github: https://github.com/angeidheal
-email: chris@macmhicheil.scot
+email: fios@angeidhealur.scot
 
 # Sass style
 # sass:
