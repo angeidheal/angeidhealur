@@ -8,6 +8,8 @@ permalink: /mu-ar-deidhinn/
 
 ---
 
+<img class="avatar" src="/images/icons/AGU_Logo_2022.jpg"
+
 Bidh An Gèidheal Ùr a’ toirt thugaibh na naidheachdan LGDTCEN+ as ùire.
 
 Chaidh a stèidheachadh (mar Naidheachdan Pinc) ann an 2008 le Crìstean MacMhìcheil nuair a bha e na oileanach aig Sabhal Mòr Ostaig.
