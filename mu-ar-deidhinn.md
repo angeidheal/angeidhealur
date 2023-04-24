@@ -8,7 +8,7 @@ permalink: /mu-ar-deidhinn/
 
 ---
 
-<img class="avatar" src="/images/icons/AGU_Logo_2022.jpg"
+<img class="avatar" src="/images/icons/AGU_Logo_2022.jpg" />
 
 Bidh An Gèidheal Ùr a’ toirt thugaibh na naidheachdan LGDTCEN+ as ùire.
 
