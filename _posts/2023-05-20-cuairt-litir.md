@@ -20,13 +20,13 @@ categories:
   
 ---
 
-**Rugbaidh nam Bàn**
+## Rugbaidh nam Bàn
 
 Tha cluicheadair rugbaidh tar-ghnèitheach air mìltean a thogail gus cùis laghail a thoirt an-aghaidh an RFU (Aonadh Ball-coise Rugbaidh) airson casg a chur air tar-bhoireannaich bho fharpaisean nam ban.
 
 Thuirt Julie-Anne Curtiss ri ESPN san t-Sultain 2022 gu bheil an casg a' toirt buaidh mhòr air an slàinte-inntinn aice agus aig cluicheadairean tar-ghnèitheach eile agus i a-nis air maoineachadh de £6,585 a thogail air an làrach-lìn Crowd Justice gus cùis-lagha a thoirt 'na aghaidh.
 
-**Balach-sgoile air a dhroch leòn an Èirinn**
+## Balach-sgoile air a dhroch leòn an Èirinn
 
 Tha na Gardí ann an Navan, Contae na Mí, air dearbhadh gun deach còignear deugaire a chaidh a chur an grèim as dèidh ionnsaigh air balach-sgoile gèidh, 14 bliadhna a dh'aois, an saoradh gun chasaid.
 
@@ -38,7 +38,7 @@ Thuirt na Gardí gu bheil iad fhathast a' rannsachadh na h-ionnsaigh 's iad ag i
 
 Tha Bile Eucoirean Gràin a' dol tro Phàrlamaid na h-Èireann an-dràsta, ach cha deach a dhèanamh na lagh fhathast.
 
-**Ceadan-siubhail neo-bhìnearaidh gan toirt a-mach ann am Meagsago**
+## Ceadan-siubhail neo-bhìnearaidh gan toirt a-mach ann am Meagsago
 
 Tha Meagsago air a' chiad cead-siubhail neo-bhìnearaidh a thoirt a-mach.
 
@@ -46,7 +46,7 @@ Fon phoileasaidh ùr faodaidh do dhaoine neo-bhìnearaidh an gnè a chlàradh ma
 
 Tha a' ciallachadh gu bheil Meagsago air tighinn na siathamh dùthaich deug san t-saoghal gus aithneachadh laghail a thoirt do dhaoine neo-bhìnearaidh.
 
-**Cùis-lagha an-aghaidh sgìre-sgoile Florida**
+## Cùis-lagha an-aghaidh sgìre-sgoile Florida
 
 Tha buidheann, a tha air a dhèanamh suas le Penguin Random House, ùghdarran, pàrantan agus buidheann saor-labhairt, air cùis-lagha a thogail an-aghaidh sgìre-sgoile ann am Florida a tha air casg a chur air leabhraichean co-cheangailte ri cuspairean cinnidh agus LGBTQ+.
 
