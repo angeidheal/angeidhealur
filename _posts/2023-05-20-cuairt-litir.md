@@ -28,7 +28,7 @@ Thuirt Julie-Anne Curtiss ri ESPN san t-Sultain 2022 gu bheil an casg a' toirt b
 
 **Balach-sgoile air a dhroch leòn an Èirinn**
 
-Tha na Gardí ann an Navan, Contae na Míi, air dearbhadh gun deach còignear deugaire a chaidh a chur an grèim as dèidh ionnsaigh air balach-sgoile gèidh, 14 bliadhna a dh'aois, an saoradh gun chasaid.
+Tha na Gardí ann an Navan, Contae na Mí, air dearbhadh gun deach còignear deugaire a chaidh a chur an grèim as dèidh ionnsaigh air balach-sgoile gèidh, 14 bliadhna a dh'aois, an saoradh gun chasaid.
 
 Chaidh bhideo den ionnsaigh a cho-roinneadh fad is farsaing air Twitter.
 
