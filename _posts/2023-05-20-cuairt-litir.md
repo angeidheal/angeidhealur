@@ -11,7 +11,12 @@ image:
 author: Crìstean MacMhìcheil
 
 categories:
-  - 
+  - Èirinn
+  - Sasainn
+  - Spòrs
+  - An t-Saoghal
+  - Lagh
+  - Poilitigs
   
 ---
 
