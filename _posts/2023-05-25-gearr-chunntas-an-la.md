@@ -11,7 +11,13 @@ image:
 author: Crìstean MacMhìcheil
 
 categories:
-  - 
+  - An t-Saoghal
+  - An Roinn Eòrpa
+  - Fèisteas
+  - Foghlam
+  - Lagh
+  - Poileataigs
+  - Slàinte
   
 ---
 
