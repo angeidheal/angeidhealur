@@ -43,7 +43,7 @@ Thuirt Seanadair Fred Mills gu bheil e a' cur earbsa ann an dotairean an co-dhù
 
 ## Montana
 
-Tha Riaghladair Mhontana, Greg Gianforte, air bile a shoighneachadh a mhìneachas "gnè" gu laghail mar bhìnearaidh eadar boireannach no fireannach 's a dhùineas a-mach daoine neo-bhìnearaidh 's tar-ghnèitheach.
+Tha Riaghladair Mhontana, Greg Gianforte, air bile a shoidhnigeadh a mhìneachas "gnè" gu laghail mar bhìnearaidh eadar boireannach no fireannach 's a dhùineas a-mach daoine neo-bhìnearaidh 's tar-ghnèitheach.
 
 ## A' Phòlainn
 
