@@ -2,7 +2,7 @@
 
 layout: post
 
-date: 2023-06-07 20:35
+date: 2023-06-07
 
 title: Drag Queen Story Time
 
