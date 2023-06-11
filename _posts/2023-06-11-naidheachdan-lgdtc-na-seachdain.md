@@ -4,7 +4,7 @@ layout: post
 
 date: 2023-06-11 20:30
 
-title: Naidheachdan LGDTC+ na seachdain
+title: "Naidheachdan LGDTC+ na seachdain"
 
 image:
 
