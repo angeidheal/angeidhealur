@@ -2,11 +2,11 @@
 
 layout: post
 
-date: 2023-06-11 20:30
+date: 2023-06-11
 
 title: "Naidheachdan LGDTC+ na seachdain"
 
-image:
+image: 
 
 author: Crìstean MacMhìcheil
 
@@ -23,8 +23,6 @@ categories:
 ---
 
 Geàrr-chunntas sgrìobhte de naidheachdan LGDTC+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
-
-<!--more-->
 
 ## Texas
 
