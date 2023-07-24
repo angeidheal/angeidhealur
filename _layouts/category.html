@@ -11,9 +11,10 @@ layout: page
 
 {% for post in site.categories[page.category] %}
 
-  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+  <!--<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>-->
   
   <p>
+	<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></br>
     {% assign m = post.date | date: "%-m" %}
     {{ post.date | date: "%d" }}
     {% case m %}
@@ -33,10 +34,10 @@ layout: page
     {{ post.date | date: "%Y" }}
   </p>
 
-  {% if post.image %}
+  <!--{% if post.image %}
     <img src="{{ site.baseurl }}{{ post.image }}" class="post-image">
   {% endif %}
   
-  {{ post.content }}
+  {{ post.content }}-->
 
 {% endfor %}
