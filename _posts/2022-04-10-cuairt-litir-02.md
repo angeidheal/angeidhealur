@@ -1,16 +1,16 @@
 ---
-id: 249
-title: "Cuairt-litir #02"
-date: '2022-04-10T18:00:42+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=249'
-permalink: /2022-04-10-criomagan-naidheachd-na-seachdain/
-image: /images/posts/criomagan.webp
+
+date: 2022-04-10 18:00
+
+title: "Cuairt-litir #02"
+
+author: Crìstean MacMhìcheil
+
 categories:
     - An Rìoghachd Aonaichte
     - An t-Saoghal
-    - Criomagan
 	- Cuairt-litir
     - Poileataigs
     - Spòrs
