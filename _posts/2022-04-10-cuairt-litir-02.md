@@ -6,15 +6,17 @@ date: 2022-04-10 18:00
 
 title: "Cuairt-litir #02"
 
+image: 
+
 author: Crìstean MacMhìcheil
 
 categories:
-    - An Rìoghachd Aonaichte
-    - An t-Saoghal
-	- Cuairt-litir
-    - Poileataigs
-    - Spòrs
-	
+  - An Rìoghachd Aonaichte
+  - An t-Saoghal
+  - Cuairt-litir
+  - Poileataigs
+  - Spòrs
+  
 ---
 
 Geàrr-chunntas sgrìobhte air cinn-naidheachd na seachdain.
