@@ -11,32 +11,37 @@ layout: page
 
 {% for post in site.categories[page.category] %}
 
-  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-  
-  <p>
-    {% assign m = post.date | date: "%-m" %}
-    {{ post.date | date: "%d" }}
-    {% case m %}
-      {% when '1' %}Am Faoilleach
-      {% when '2' %}An Gearran
-      {% when '3' %}Am Màrt
-      {% when '4' %}An Giblean
-      {% when '5' %}An Cèitean
-      {% when '6' %}An t-Ògmhios
-      {% when '7' %}An t-Iuchar
-      {% when '8' %}An Lùnastal
-      {% when '9' %}An t-Sultain
-      {% when '10' %}An Dàmhair
-      {% when '11' %}An t-Samhain
-      {% when '12' %}An Dùbhlachd
-    {% endcase %}
-    {{ post.date | date: "%Y" }}
-  </p>
+	<div col-md-4>
+	  <p>
+	    {% assign m = post.date | date: "%-m" %}
+	    {{ post.date | date: "%d" }}
+	    {% case m %}
+	      {% when '1' %}Am Faoilleach
+	      {% when '2' %}An Gearran
+	      {% when '3' %}Am Màrt
+	      {% when '4' %}An Giblean
+	      {% when '5' %}An Cèitean
+	      {% when '6' %}An t-Ògmhios
+	      {% when '7' %}An t-Iuchar
+	      {% when '8' %}An Lùnastal
+	      {% when '9' %}An t-Sultain
+	      {% when '10' %}An Dàmhair
+	      {% when '11' %}An t-Samhain
+	      {% when '12' %}An Dùbhlachd
+	    {% endcase %}
+	    {{ post.date | date: "%Y" }}
+	  </p>
+	</div>
 
-  {% if post.image %}
+	<div col-md-8>
+ 	   <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+ 	</div>
+
+
+  <!-- >{% if post.image %}
     <img src="{{ site.baseurl }}{{ post.image }}" class="post-image">
   {% endif %}
   
-  {{ post.content }}
+  {{ post.content }}-->
 
 {% endfor %}
