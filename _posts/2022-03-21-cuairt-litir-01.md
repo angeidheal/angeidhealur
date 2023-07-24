@@ -1,12 +1,13 @@
 ---
-id: 261
-title: "Cuairt-litir #01"
-date: '2022-03-21T18:00:41+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=261'
-permalink: /2022-03-21-criomagan-naidheachd-21-am-mart-2022/
-image: /images/posts/criomagan.webp
+
+date: 2022-03-21 18:00
+
+title: "Cuairt-litir #01"
+
+author: Crìstean MacMhìcheil
+
 categories:
     - An Rìoghachd Aonaichte
 	- Cuairt-litir
