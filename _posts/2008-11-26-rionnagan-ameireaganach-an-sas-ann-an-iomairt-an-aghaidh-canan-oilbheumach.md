@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=834'
 permalink: /2008-11-26-rionnagan-ameireaganach-an-sas-ann-an-iomairt-an-aghaidh-canan-oilbheumach/
 image: /images/posts/2008-11-26-rionnagan-ameireaganach-an-sas-ann-an-iomairt-an-aghaidh-canan-oilbheumach.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Cultar
     - Foghlam
 ---
