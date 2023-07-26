@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=296'
 permalink: /2022-01-01-lagh-aithneachadh-gne-ur-an-eilbheis/
 image: /images/posts/2022-01-01-lagh-aithneachadh-gne-ur-an-eilbheis.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
 ---
 
 Chaidh lagh ùr a chur an-gnìomh an Eilbheis an-diugh a leigeas le pearsachan an gnè aca atharrachadh gu sìmplidh.
