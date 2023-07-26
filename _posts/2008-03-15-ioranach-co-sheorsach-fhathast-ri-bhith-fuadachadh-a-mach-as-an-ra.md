@@ -6,7 +6,7 @@ image: /images/posts/2008-03-15-ioranach-co-sheorsach-fhathast-ri-bhith-fuadacha
 author: Crìstean MacMhìcheil
 categories:
     - An Rìoghachd Aonaichte
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
     - Poileataigs
 ---
