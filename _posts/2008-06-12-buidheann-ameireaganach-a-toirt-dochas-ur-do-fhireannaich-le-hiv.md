@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=897'
 permalink: /2008-06-12-buidheann-ameireaganach-a-toirt-dochas-ur-do-fhireannaich-le-hiv/
 image: /images/posts/2008-06-12-buidheann-ameireaganach-a-toirt-dochas-ur-do-fireannaich-le-hiv.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Saidheans
     - Slàinte
 ---
