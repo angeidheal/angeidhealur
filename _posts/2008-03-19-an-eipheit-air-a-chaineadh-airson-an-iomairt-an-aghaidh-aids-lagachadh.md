@@ -5,7 +5,7 @@ title: An Èipheit air a chàineadh airson an iomairt an aghaidh AIDS lagachadh
 image: /images/posts/2008-03-19-an-eipheit-air-a-chaineadh-airson-an-iomairt-an-aghaidh-aids-lagachadh.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Poileataigs
     - Saidheans
     - Slàinte
