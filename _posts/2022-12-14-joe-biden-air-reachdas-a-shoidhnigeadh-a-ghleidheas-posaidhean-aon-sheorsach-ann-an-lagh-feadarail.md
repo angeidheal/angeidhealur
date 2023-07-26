@@ -15,20 +15,6 @@ categories:
     - Lagh
     - Poileataigs
 
-tags:
-    - Aimeireaga
-    - aon-sheòrsach
-    - Defence of Marriage Act
-    - DOMA
-    - ioma-chinnidheach
-    - Joe Biden
-    - Na Stàitean Aonaichte
-    - pòsadh
-    - Prìomh-chùirt nan Stàitean Aonaichte
-    - Respect for Marriage Act
-    - RFMA
-    - United States Supreme Court
-
 mastodon:
 
 ---
