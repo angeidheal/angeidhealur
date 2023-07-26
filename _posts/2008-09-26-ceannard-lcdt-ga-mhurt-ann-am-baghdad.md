@@ -9,7 +9,6 @@ permalink: /2008-09-26-ceannard-lcdt-ga-mhurt-ann-am-baghdad/
 image: /images/posts/2008-09-26-ceannard-lcdt-ga-mhurt-ann-am-baghdad.webp
 categories:
     - An t-Saoghal
-    - Iomairteachd
     - Lagh
 ---
 
