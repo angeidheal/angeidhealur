@@ -5,7 +5,7 @@ title: Dùthaich nan Tàidh a’ gabhail ris a’ chasg air daoine co-sheòrsach
 image: /images/posts/2008-04-05-duthaich-nan-taidh-a-gabhail-ris-a-chasg-air-daoine-co-sheorsach-agus-da-sheorsach-bho-bhith-a-toirt-seachad-fala.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
     - Poileataigs
     - Saidheans
