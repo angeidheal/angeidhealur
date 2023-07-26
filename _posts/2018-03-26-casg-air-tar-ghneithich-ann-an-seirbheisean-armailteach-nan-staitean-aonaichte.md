@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=715'
 permalink: /2018-03-26-casg-air-tar-ghneithich-ann-an-seirbheisean-armailteach-nan-staitean-aonaichte/
 image: /images/posts/2018-03-26-casg-air-tar-ghneithich-ann-an-seirbheisean-armailteach-nan-staitean-aonaichte.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
     - Poileataigs
 ---
