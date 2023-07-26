@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Dibhearsan
-category: Dibhearsan
-permalink: /roinn-seorsa/dibhearsan/
+title: Cultar
+category: Cultar
+permalink: /roinn-seorsa/cultar/
 ---
