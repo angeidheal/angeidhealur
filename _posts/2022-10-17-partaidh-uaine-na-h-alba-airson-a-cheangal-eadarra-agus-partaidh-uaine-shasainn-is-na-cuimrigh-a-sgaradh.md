@@ -8,11 +8,9 @@ guid: 'https://angeidhealur.scot/?p=141'
 permalink: /2022-10-17-partaidh-uaine-na-h-alba-airson-a-cheangal-eadarra-agus-partaidh-uaine-shasainn-is-na-cuimrigh-a-sgaradh/
 image: /images/posts/2022-10-17-partaidh-uaine-na-h-alba-airson-a-cheangal-eadarra-agus-partaidh-shasainn-is-na-cuimrigh-a-sgaradh.webp
 categories:
-    - A' Chuimrigh
     - Alba
     - An Rìoghachd Aonaichte
     - Poileataigs
-    - Sasainn
 ---
 
 Tha Pàrtaidh Uaine na h‑Alba air bhòtadh gus a’ cheangal eadarra agus Pàrtaidh Uaine Shasainn is na Cuimrigh a sgaradh air sgàth draghan mu oillt thar‑ghnèitheach.
