@@ -9,7 +9,6 @@ permalink: /2022-07-30-sasainn-tar-bhoireannaich-toirmeasgte-bho-rugbaidh-nam-ba
 image: /images/posts/2022-07-30-sasainn-tar-bhoireannaich-toirmeasgte-bho-rugbaidh-nam-ban.webp
 categories:
     - An Rìoghachd Aonaichte
-    - Sasainn
     - Spòrs
 ---
 
