@@ -5,7 +5,7 @@ title: Coimhearsnachd eadar-nàiseanta a’ cur cuideam air an Èipheit air sgà
 image: /images/posts/2008-04-07-coimhearsnachd-eadar-naiseanta-a-cur-cuideam-air-an-eipheit-air-sgsth-s-casaidean-hiv-aids.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
     - Poileataigs
     - Slàinte
