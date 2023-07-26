@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=862'
 permalink: /2008-10-04-mormonaich-mi-shoilleir-a-thaobh-posadh-aon-sheorsach/
 image: /images/posts/2008-10-04-mormonaich-mi-shoilleir-a-thaobh-posadh-aon-sheorsach.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Creideamh
 ---
 
