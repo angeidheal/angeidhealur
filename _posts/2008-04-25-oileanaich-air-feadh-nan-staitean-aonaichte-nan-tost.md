@@ -9,7 +9,7 @@ permalink: /2008-04-25-oileanaich-air-feadh-nan-staitean-aonaichte-nan-tost/
 image: /images/posts/2008-04-25-oileanaich-air-feadh-nan-staitean-aonaichte-nan-tost.webp
 categories:
     - An Rìoghachd Aonaichte
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Foghlam
 ---
 
