@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=952'
 permalink: /2008-04-15-ionnsaigh-a-thoirt-air-buidheann-lcdt-ann-an-istanbul-leis-a-phoileas/
 image: /images/posts/2008-04-15-ionnsaigh-a-thoirt-air-buidheann-lcdt-ann-an-istanbul-leis-a-phoileas.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
 ---
 
