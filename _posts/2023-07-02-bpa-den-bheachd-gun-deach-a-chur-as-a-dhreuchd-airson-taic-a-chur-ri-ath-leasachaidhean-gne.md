@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=2112'
 permalink: /2023-07-02-bpa-den-bheachd-gun-deach-a-chur-as-a-dhreuchd-airson-taic-a-chur-ri-ath-leasachaidhean-gne/
 classic-editor-remember:
     - classic-editor
-image: /wp-content/uploads/2023/07/MSP-Jamie-Green-1200x800.jpg
+image: /images/posts/MSP-Jamie-Green.jpg
 categories:
     - Alba
     - Naidheachdan
