@@ -1,12 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-03-28 08:30
-title: Duine pòsta air òrdachadh ri airgead-sgaraidh a phàigheadh ri seann chompanach co-sheòrsach
+
+title: "Duine pòsta air òrdachadh ri airgead-sgaraidh a phàigheadh ri seann chompanach co-sheòrsach"
+
 image: /images/posts/2008-03-28-duine-posta-air-ordughachadh-ri-airgead-sgaraidh-a-phaigheadh-ri-seann-chompanach-co-sheorsach.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - Eadar-nàiseanta
-    - Lagh
+
+categories: [Eadar-nàiseanta, Lagh]
+
 ---
 
 Tha cùirt ann am Braisil air ràdh gum feum duine airgead-sgaraidh a phàigheadh ri seann chompanach co-sheòrsach aige.

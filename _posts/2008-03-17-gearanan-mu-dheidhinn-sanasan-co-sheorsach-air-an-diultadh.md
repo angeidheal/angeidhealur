@@ -1,12 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-03-17 11:56
-title: Gearanan mu dheidhinn sanasan co-sheòrsach air an diùltadh
+
+title: "Gearanan mu dheidhinn sanasan co-sheòrsach air an diùltadh"
+
 image: /images/posts/2008-03-17-gearanan-mu-dheidhinn-sanasan-co-sheorsach-air-an-diultadh.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - An Rìoghachd Aonaichte
-    - Foghlam
+
+categories: [An Rìoghachd Aonaichte, Foghlam]
+
 ---
 
 Tha an ASA (Advertising Standards Authority) ag ràdh nach eil iomairt sanasachaidh a’ bhuidheann Stonewall a’ dol an-aghaidh an còd aca.

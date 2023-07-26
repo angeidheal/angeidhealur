@@ -1,12 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-03-27 08:52
-title: Duine trom air bruidhinn a-mach an aghaidh Seirbheis Slàinte claon-breitheach
+
+title: "Duine trom air bruidhinn a-mach an aghaidh Seirbheis Slàinte claon-breitheach"
+
 image: /images/posts/2008-03-27-duine-trom-air-bruidhinn-a-mach-an-aghaidh-seirbheis-slainte-claon-breitheach.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - Eadar-nàiseanta
-    - Slàinte
+
+categories: [Eadar-nàiseanta, Slàinte]
+	
 ---
 
 Tha duine tar-ghnèitheach à Portland, Oregon air ràdh anns a’ cholbh aige anns an iris co-sheòrsach *The Advocate* gu bheil e trom.

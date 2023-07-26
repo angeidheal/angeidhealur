@@ -1,13 +1,16 @@
 ---
+
 layout: post
+
 date: 2008-03-14 14:01
-title: Riaghailtean ùra air fhoillseachadh airson casaidean HIV
+
+title: "Riaghailtean ùra air fhoillseachadh airson casaidean HIV"
+
 image: /images/posts/2008-03-14-riaghailtean-ura-air-fhoillseachadh-airson-casaidean-hiv.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Slàinte
+
+categories: [An Rìoghachd Aonaichte, Lagh, Slàinte]
 ---
 
 Chaidh riaghailtean ùra fhoillseachadh le Seirbheis Casaid a’ Chrùin an-diugh airson stiùireadh a thoirt do luchd-casaid a’ dèiligeadh ri cùisean-lagha far a bheil daoine air HIV a sgaoileadh a dh’aona-ghnothach.

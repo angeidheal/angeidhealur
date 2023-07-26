@@ -1,12 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-03-29 09:58
-title: Neach-poileataigs aig a bheil gràin-co-sheòrsachd a’ coinneachadh le PFLAG
+
+title: "Neach-poileataigs aig a bheil gràin-co-sheòrsachd a’ coinneachadh le PFLAG"
+
 image: /images/posts/2008-03-29-neach-poileataigs-aig-a-bheil-grain-co-sheorsachd-a-coinneachadh-le-pflag.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - Eadar-nàiseanta
-    - Poileataigs
+
+categories: [Eadar-nàiseanta, Poileataigs]
+
 ---
 
 Tha neach-poileataigs à Oklahoma, a tha ainmeil airson ag ràdh gu bheil daoine co-sheòrsach nan bagairtean nas motha ris na Stàitean Aonaichte na tha ceannaircich, air a bhith a’ coinneachadh le buidheann PFLAG (*Parents &amp; Friends of Lesbians &amp; Gays*).

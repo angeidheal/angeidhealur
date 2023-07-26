@@ -1,13 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-03-17 18:36
-title: Deugaire co-sheòrsach gu bhith a’ fuadachadh a-mach às an Èilbheis air ais gu Camarun
+
+title: "Deugaire co-sheòrsach gu bhith a’ fuadachadh a-mach às an Èilbheis air ais gu Camarun"
+
 image: /images/posts/2008-03-17-deugaire-co-sheorsach-gu-bhith-a-fuadachadh-a-mach-as-an-eilbheis-air-ais-gu-camarun.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
+
+categories: [Eadar-nàiseanta, Lagh, Poileataigs]
+	
 ---
 
 Tha deugaire co-sheòrsach gu bhith a’ fuadachadh a-mach às an Eilbheis air ais gu Camarun far am b’ urrainn dha a bhith ga chur an greim agus ga dhìteadh gu peanas corparra.

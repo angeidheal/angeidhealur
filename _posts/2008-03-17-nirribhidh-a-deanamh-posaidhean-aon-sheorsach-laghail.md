@@ -1,13 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-03-17 11:06
-title: Nirribhidh a’ dèanamh pòsaidhean aon-sheòrsach laghail
+
+title: "Nirribhidh a’ dèanamh pòsaidhean aon-sheòrsach laghail"
+
 image: /images/posts/2008-03-17-nirribhidh-a-deanamh-posaidhean-aon-sheorsach-laghail.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
+
+categories: [Eadar-nàiseanta, Lagh, Poileataigs]
+
 ---
 
 Chaidh reachdas ùr a chur ri chèile ann an Nirribhidh a bhios a’ toirt cead pòsaidh do càraidean aon-sheòrsach a bharrachd air còirichean co-ionann a-thaobh cùram air clann.

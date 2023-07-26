@@ -1,14 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-03-15 11:17
-title: Iorànach co-sheòrsach fhathast ri bhith fuadachadh a-mach às an RA
+
+title: "Iorànach co-sheòrsach fhathast ri bhith fuadachadh a-mach às an RA"
+
 image: /images/posts/2008-03-15-ioranach-co-sheorsach-fhathast-ri-bhith-fuadachadh-a-mach-as-an-ra.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - An Rìoghachd Aonaichte
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
+
+categories: [An Rìoghachd Aonaichte, Eadar-nàiseanta, Lagh, Poileataigs]
+
 ---
 
 Tha gnìomhaichean LCDTE ag ràdh gum bu chòir do Riaghaltas Bhreatainn ath-sgrùdadh a dhèanamh air cùisean-lagha aig Iorànach co-sheòrsach eile as dèidh do chùis Medhi Kazemi allsachadh.

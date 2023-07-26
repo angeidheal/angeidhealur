@@ -1,12 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-03-18 16:20
-title: Co-dhùnadh uchd-mhacachaidh mar eisimpleir ann an Iosrael
+
+title: "Co-dhùnadh uchd-mhacachaidh mar eisimpleir ann an Iosrael"
+
 image: /images/posts/2008-03-18-co-dhunadh-uchd-mhacachaidh-mar-eisimpleir-ann-an-iosrael.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - Eadar-nàiseanta
-    - Lagh
+
+categories: [Eadar-nàiseanta, Lagh]
+
 ---
 
 Tha cùirt ann an Iosrael air co-dhùnadh a dhèanamh gun urrainn do càraid co-sheòrsach a chlàradh mar athraichean an uchd-mhac.

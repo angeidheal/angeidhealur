@@ -1,13 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-03-14 10:19
-title: Easbaig a’ càineadh a’ choimhearsnachd LCDTE
+
+title: "Easbaig a’ càineadh a’ choimhearsnachd LCDTE"
+
 image: /images/posts/2008-03-14-easbaig-a-caineadh-a-choimhearsnachd-lcdte.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Creideamh
+
+categories: [Alba, An Rìoghachd Aonaichte, Creideamh]
+
 ---
 
 Tha Easbaig Caitligeach a’ tagradh gu bheil daoine co-sheòrsach a’ dèanamh co-fheall an aghaidh dualchas Crìosdaidheachd.

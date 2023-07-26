@@ -1,13 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-03-30 10:26
-title: Reachd Ameireaganach ag ràdh gu bheil ainm pòsta co-sheòrsach mì-laghail
+
+title: "Reachd Ameireaganach ag ràdh gu bheil ainm pòsta co-sheòrsach mì-laghail"
+
 image: /images/posts/2008-03-30-reachd-ameireaganach-ag-radh-gu-bheil-ainm-posta-co-sheorsach-mi-laghail.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
+
+categories: [Eadar-nàiseanta, Lagh, Poileataigs]
+
 ---
 
 Tha Roinn Stàit nan Stàitean Aonaichte ag ràdh nach urrainn gnìomhaiche AIDS cead-siubhail ùr fhaighinn air sgàth ’s gu bheil an ainm pòsta aige mì-laghail.

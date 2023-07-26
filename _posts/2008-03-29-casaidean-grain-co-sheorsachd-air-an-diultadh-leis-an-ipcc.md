@@ -1,12 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-03-29 10:30
-title: Casaidean gràin-co-sheòrsachd air an diùltadh leis an IPCC
+
+title: "Casaidean gràin-co-sheòrsachd air an diùltadh leis an IPCC"
+
 image: /images/posts/2008-03-29-casaidean-grain-co-sheorsachd-air-an-diultadh-leis-an-ipcc.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - An Rìoghachd Aonaichte
-    - Lagh
+
+categories: [An Rìoghachd Aonaichte, Lagh]
+
 ---
 
 Tha an IPCC (Independent Police Complaints Commission) a’ diùltadh casaidean gràin-co-sheòrsachd an aghaidh ochd oifigearan ann an Duibhe agus a’ Chòrn.
