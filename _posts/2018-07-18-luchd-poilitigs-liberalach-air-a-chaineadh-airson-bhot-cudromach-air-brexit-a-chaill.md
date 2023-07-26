@@ -9,7 +9,6 @@ permalink: /2018-07-18-luchd-poilitigs-liberalach-air-a-chaineadh-airson-bhot-cu
 image: /images/posts/2018-07-18-luchd-poilitigs-liberalach-air-a-chaineadh-airson-bhot-cudromach-air-brexit-a-chaill.webp
 categories:
     - An Rìoghachd Aonaichte
-    - An Roinn Eòrpa
     - An t-Saoghal
     - Poileataigs
 ---
