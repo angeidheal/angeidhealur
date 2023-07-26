@@ -8,10 +8,8 @@ guid: 'https://angeidhealur.scot/?p=811'
 permalink: /2009-03-13-deasbad-mu-dhaoine-co-sheorsach-a-toirt-seachad-fala/
 image: /images/posts/2009-03-13-deasbad-mu-dhaoine-co-sheorsach-a-toirt-seachad-fala.webp
 categories:
-    - A' Chuimrigh
     - Alba
     - An Rìoghachd Aonaichte
-    - Èirinn a Tuath
     - Lagh
     - Poileataigs
     - Slàinte
