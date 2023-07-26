@@ -5,7 +5,7 @@ title: Iorànach co-sheòrsach gu bhith a’ fuireach anns a’ Ghrèig
 image: /images/posts/2008-03-31-ioranach-co-sheorsach-gu-bhith-a-fuireach-anns-a-ghreig.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
     - Poileataigs
 ---
