@@ -10,7 +10,7 @@ image: /images/posts/TDOV.webp
 author: Crìstean MacMhìcheil
 
 categories:
-    - Iomairteachd
+    - Blog
 
 mastodon:
 
