@@ -15,7 +15,6 @@ categories:
     - Cuairt-litir
     - Foghlam
     - Lagh
-    - Naidheachdan
     - Poileataigs
     - Saidheans
 
