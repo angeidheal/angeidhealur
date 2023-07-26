@@ -5,7 +5,7 @@ title: Buidheann LCDT Grèigeach air beàrn a lorg ann an laghan pòsaidh
 image: /images/posts/2008-03-14-buidheann-lcdt-greigeach-air-bearn-a-lorg-ann-an-laghan-posaidh.webp
 author: Crìstean MacMhìcheil  
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
     - Poileataigs
 ---
