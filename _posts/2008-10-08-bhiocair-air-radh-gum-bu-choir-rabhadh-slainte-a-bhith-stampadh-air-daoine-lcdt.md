@@ -10,7 +10,6 @@ image: /images/posts/2008-10-08-bhiocair-air-radh-gum-bu-choir-rabhadh-slainte-a
 categories:
     - An Rìoghachd Aonaichte
     - Creideamh
-    - Sasainn
 ---
 
 Tha bhiocair anns An Eaglais Shasannach air ràdh air a’ bhlòg aige gum bu chòir rabhadh slàinte a bhith air stampadh air daoine LCDT.
