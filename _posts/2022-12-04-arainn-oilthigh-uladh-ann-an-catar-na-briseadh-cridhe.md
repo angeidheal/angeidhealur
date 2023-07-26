@@ -9,7 +9,7 @@ permalink: /2022-12-04-arainn-oilthigh-uladh-ann-an-catar-na-briseadh%e2%80%91cr
 image: /images/posts/2022-12-04-arainn-oilthigh-uladh-ann-an-catar-na-briseadh-cridhe.webp
 categories:
     - An Rìoghachd Aonaichte
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Foghlam
 ---
 
