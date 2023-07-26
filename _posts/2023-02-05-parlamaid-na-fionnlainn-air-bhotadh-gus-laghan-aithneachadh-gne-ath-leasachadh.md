@@ -11,7 +11,6 @@ image: /images/posts/2023-02-05-parlamaid-na-fionnlainn-air-bhotadh-gus-laghan-a
 author: Crìstean MacMhìcheil
 
 categories:
-  - An Roinn Eòrpa
   - An t-Saoghal
   - Lagh
   - Poileataigs
