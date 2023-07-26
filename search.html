@@ -31,7 +31,7 @@ SimpleJekyllSearch({
 
 <h2>Roinnean-seòrsa</h2>
 
-{% for category in data.categories | sort %}
+{% for category in site.data.categories | sort %}
 	<div class="categories-title"><a href="{{ category.url }}">{{ category | first }}</a></div>
 {% endfor %}
 
