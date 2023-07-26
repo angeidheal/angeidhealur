@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=305'
 permalink: /2021-09-26-muinntir-na-h-eilbheise-air-bhotadh-airson-posadh-aon-sheorsach/
 image: /images/posts/2021-09-26-muinntir-na-h-eilbheise-air-bhotadh-airson-posadh-aon-sheorsach.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
 ---
 
 Tha cha mhòr dà thrian de luchd-bhòtaidh anns an Eilbheis air bhòtadh airson pòsadh aon-sheòrsach a dhèanamh laghail san dùthaich.
