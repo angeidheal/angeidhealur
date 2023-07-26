@@ -5,7 +5,7 @@ title: Co-dhùnadh uchd-mhacachaidh mar eisimpleir ann an Iosrael
 image: /images/posts/2008-03-18-co-dhunadh-uchd-mhacachaidh-mar-eisimpleir-ann-an-iosrael.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
 ---
 
