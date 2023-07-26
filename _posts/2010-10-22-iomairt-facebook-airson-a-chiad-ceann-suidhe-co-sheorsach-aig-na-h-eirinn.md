@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=771'
 permalink: /2010-10-22-iomairt-facebook-airson-a-chiad-ceann-suidhe-co-sheorsach-aig-na-h-eirinn/
 image: /images/posts/2010-10-22-iomairt-facebook-airson-a-chiad-ceann-suidhe-co-sheorsach-aig-na-h-eirinn.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Èirinn
     - Poileataigs
 ---
