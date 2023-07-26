@@ -10,9 +10,7 @@ image: /images/posts/Swim-England.jpg
 
 author: Crìstean MacMhìcheil
 
-categories:
-	- "An Rìoghachd Aonaichte"
-	- "Spòrs"
+categories: [An Rìoghachd Aonaichte, Spòrs]
 
 ---
 
