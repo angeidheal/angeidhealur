@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=2119'
 permalink: /2023-07-06-cuis-lagha-sweet-cakes-gus-tilleadh-dhan-chuirt-uachdarach/
 classic-editor-remember:
     - block-editor
-image: /wp-content/uploads/2023/07/Sweet-Cakes-by-Melissa-1200x800.jpg
+image: /images/posts/Sweet-Cakes-by-Melissa.jpg
 categories:
     - 'An t-Saoghal'
     - Creideamh
