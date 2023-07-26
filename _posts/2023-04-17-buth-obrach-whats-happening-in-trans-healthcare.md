@@ -13,20 +13,6 @@ author: Crìstean MacMhìcheil
 
 categories:
     - Slàinte
-    - Tachartasan
-
-tags:
-    - bùth-obrach
-    - cùram-slàinte
-    - healthcare
-    - Inbhir Nis
-    - Inverness
-    - Scottish Trans
-    - slàinte
-    - tar-ghnèitheach
-    - trans
-    - transgender
-    - workshop
 
 mastodon:
 
