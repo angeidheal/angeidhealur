@@ -13,9 +13,6 @@ author: Crìstean MacMhìcheil
 categories:
 	- An Rìoghachd Aonaichte
 	- Spòrs
-
-mastodon:
-
 ---
 
 Tha Swim England air ainmeachadh gun tèid casg a chur air boireannaich tar-ghnèitheach bho fharpaisean snàimh nam ban.
