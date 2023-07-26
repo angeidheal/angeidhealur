@@ -8,7 +8,6 @@ guid: 'https://angeidhealur.scot/?p=910'
 permalink: /2008-05-07-triuir-ann-an-eilean-lesbos-a-toirt-buidheann-lcdt-gu-lagh/
 image: /images/posts/2008-05-07-triuir-ann-an-eilean-lesbos-a-toirt-buidheann-lcdt-gu-lagh.webp
 categories:
-    - An Roinn Eòrpa
     - An t-Saoghal
     - Lagh
 ---
