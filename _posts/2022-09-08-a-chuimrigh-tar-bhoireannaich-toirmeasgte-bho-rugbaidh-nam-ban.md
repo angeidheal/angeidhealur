@@ -11,7 +11,6 @@ image: /images/posts/2022-09-08-a-chuimrigh-tar-bhoireannaich-toirmeasgte-bho-ru
 author: Crìstean MacMhìcheil
 
 categories:
-    - A' Chuimrigh
     - An Rìoghachd Aonaichte
     - Spòrs
 
