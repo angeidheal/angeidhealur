@@ -6,7 +6,7 @@ image: /images/posts/2008-03-28-bard-connspaideach-a-fuireach-air-curraicealam-n
 author: Crìstean MacMhìcheil
 categories:
     - An t-Saoghal
-    - Dibhearsan
+    - Cultar
     - Èirinn
     - Foghlam
     - Lagh
