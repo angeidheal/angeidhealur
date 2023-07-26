@@ -4,7 +4,7 @@ layout: post
 
 date: 2008-05-12 16:31:41
 
-title: Bile nan Eucoirean Gràineil air a dhèanamh laghail leis a’ Phàrlamaid
+title: "Bile nan Eucoirean Gràineil air a dhèanamh laghail leis a’ Phàrlamaid"
 
 image: /images/posts/2008-05-12-bile-nan-eucoirean-graineil-air-a-dheanamh-laghail-leis-a-pharlamaid.webp
 
