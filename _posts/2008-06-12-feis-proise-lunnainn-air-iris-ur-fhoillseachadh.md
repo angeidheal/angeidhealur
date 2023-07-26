@@ -10,7 +10,6 @@ image: /images/posts/2008-06-12-feis-proise-lunnainn-air-iris-ur-fhoillseachadh.
 categories:
     - An Rìoghachd Aonaichte
     - Pròis
-    - Sasainn
 ---
 
 Tha [Fèis-pròise Lunnainn](https://prideinlondon.org/) air iris ùr fhoillseachadh an còis an caismeachd fhèin leis an dùil barrachd daoine a tharraing ris an tachartas am-bliadhna.
