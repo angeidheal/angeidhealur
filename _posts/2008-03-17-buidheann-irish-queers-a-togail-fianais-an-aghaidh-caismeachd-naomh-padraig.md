@@ -7,7 +7,6 @@ author: Crìstean MacMhìcheil
 categories:
     - An t-Saoghal
     - Creideamh
-    - Iomairteachd
 ---
 
 Bha am buidheann *Irish Queers* a’ togail fianais an aghaidh caismeachd Naomh Pàdraig ann an Nuadh Eabhrac an-diugh.
