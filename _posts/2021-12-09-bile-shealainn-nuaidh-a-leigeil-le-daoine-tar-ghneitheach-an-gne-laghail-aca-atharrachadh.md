@@ -11,7 +11,7 @@ image: /images/posts/2021-12-09-bile-shealainn-nuaidh-a-leigeil-le-daoine-tar-gh
 author: Crìstean MacMhìcheil
 
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
 
 mastodon:
 
