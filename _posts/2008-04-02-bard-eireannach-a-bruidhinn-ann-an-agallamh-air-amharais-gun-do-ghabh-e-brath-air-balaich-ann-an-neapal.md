@@ -6,7 +6,7 @@ image: /images/posts/2008-04-02-bard-eireannach-a-bruidhinn-ann-an-agallamh-air-
 author: Crìstean MacMhìcheil
 categories:
     - An t-Saoghal
-    - Dibhearsan
+    - Cultar
     - Èirinn
     - Lagh
 ---
