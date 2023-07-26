@@ -9,7 +9,6 @@ permalink: /2018-10-30-feis-proise-iur-cinn-tra-gu-bhith-a-toirt-aoigheachd-dha-
 image: /images/posts/2018-10-30-feis-proise-iur-cinn-tra-gu-bhith-a-toirt-aoigheachd-dha-fheis-proise-an-rioghachd-aonaichte-2019.webp
 categories:
     - An Rìoghachd Aonaichte
-    - Èirinn a Tuath
     - Pròis
 ---
 
