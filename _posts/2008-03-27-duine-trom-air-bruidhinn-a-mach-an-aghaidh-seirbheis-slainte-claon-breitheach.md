@@ -11,7 +11,7 @@ image: /images/posts/2008-03-27-duine-trom-air-bruidhinn-a-mach-an-aghaidh-seirb
 author: Crìstean MacMhìcheil
 
 categories: [Eadar-nàiseanta, Slàinte]
-	
+
 ---
 
 Tha duine tar-ghnèitheach à Portland, Oregon air ràdh anns a’ cholbh aige anns an iris co-sheòrsach *The Advocate* gu bheil e trom.
