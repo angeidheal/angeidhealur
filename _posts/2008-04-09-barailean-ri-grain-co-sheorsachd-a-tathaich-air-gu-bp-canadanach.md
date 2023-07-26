@@ -5,7 +5,7 @@ title: Barailean ri gràin-co-sheòrsachd a’ tathaich air gu BP Canadanach
 image: /images/posts/2008-04-09-barailean-ri-grain-co-sheorsachd-a-tathaich-air-gu-bp-canadanach.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Poileataigs
 ---
 
