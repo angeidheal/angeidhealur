@@ -7,7 +7,7 @@ layout: post
 guid: 'https://angeidhealur.scot/?p=244'
 image: /images/posts/2022-06-25-dithis-air-am-marbhadh-agus-21-air-an-leon-ann-an-losgadh-an-oslo.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
 ---
 
 Bha dithis air am marbhadh agus 21 air an leòn as dèidh mar a chaidh losgadh orra ann an ionnsaigh faisg air taigh-seinnse LGDT+ ann an Oslo tràth Disathairne.
