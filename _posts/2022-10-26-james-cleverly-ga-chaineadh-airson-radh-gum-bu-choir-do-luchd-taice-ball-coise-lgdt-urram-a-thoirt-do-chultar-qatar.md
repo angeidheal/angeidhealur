@@ -9,7 +9,7 @@ permalink: /2022-10-26-james-cleverly-ga-chaineadh-airson-radh-gum-bu-choir-do-l
 image: /images/posts/2022-10-26-james-cleverly-ga-chaineadh.webp
 categories:
     - An Rìoghachd Aonaichte
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Spòrs
 ---
 
