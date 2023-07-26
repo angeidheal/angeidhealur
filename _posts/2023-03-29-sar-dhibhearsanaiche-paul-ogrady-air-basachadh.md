@@ -12,7 +12,7 @@ author: Crìstean MacMhìcheil
 
 categories:
     - An Rìoghachd Aonaichte
-    - Dibhearsan
+    - Cultar
 
 tags:
     - Lily Savage
