@@ -1,16 +1,20 @@
 ---
-id: 903
-title: 'Bile nan Eucoirean Gràineil air a dhèanamh laghail leis a’ Phàrlamaid'
-date: '2008-05-12T16:31:41+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=903'
-permalink: /2008-05-12-bile-nan-eucoirean-graineil-air-a-dheanamh-laghail-leis-a-pharlamaid/
+
+date: 2008-05-12 16:31:41
+
+title: Bile nan Eucoirean Gràineil air a dhèanamh laghail leis a’ Phàrlamaid
+
 image: /images/posts/2008-05-12-bile-nan-eucoirean-graineil-air-a-dheanamh-laghail-leis-a-pharlamaid.webp
+
+author: Crìstean MacMhìcheil
+
 categories:
 	- An Rìoghachd Aonaichte
 	- Lagh
 	- Poileataigs
+
 ---
 
 Tha Taigh nam Morairean air *the Criminal Justice and Immigration Bill* a dhèanamh na lagh a’ ciallachadh gum bi eucoirean gràineil an-aghaidh daoine LCDT mì-laghail.
