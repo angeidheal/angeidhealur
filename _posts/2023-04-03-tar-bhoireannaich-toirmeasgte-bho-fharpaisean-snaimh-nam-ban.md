@@ -11,17 +11,8 @@ image: /images/posts/Swim-England.jpg
 author: Crìstean MacMhìcheil
 
 categories:
-    - Sasainn
-    - Spòrs
-    
-tags:
-    - snàmh
-    - Swim England
-    - tar-bhoireannaich
-    - tar-ghnèitheach
-    - trans
-    - transgender
-    - transwomen
+	- An Rìoghachd Aonaichte
+	- Spòrs
 
 mastodon:
 
