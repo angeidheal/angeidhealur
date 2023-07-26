@@ -25,11 +25,13 @@ Chaidh a stèidheachadh (mar Naidheachdan Pinc) ann an 2008 le Crìstean MacMhì
 
 **RSS.** [https://angeidhealur.scot/feed](https://angeidhealur.scot/feed)
 
+**Threads.** [https://threads.net/@angeidhealur](https://threads.net/@angeidhealur)
+
 **Mastodon.** [https://mastodon.scot/@angeidhealur](https://mastodon.scot/@angeidhealur)
 
 ## Cuir fios
 
-**Mastodon.** [https://mastodon.scot/@angeidhealur](https://mastodon.scot/@angeidhealur)
+**Threads.** [https://threads.net/@angeidhealur](https://threads.net/@angeidhealur)
 
 **Post-d.** [fios@angeidhealur.scot](mailto:fios@angeidhealur.scot)
 
