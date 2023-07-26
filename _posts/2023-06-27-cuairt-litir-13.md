@@ -14,7 +14,6 @@ categories:
     - 'An t-Saoghal'
     - Cuairt-litir
     - Lagh
-    - Naidheachdan
     - Poileataigs
     - Pròis
 
