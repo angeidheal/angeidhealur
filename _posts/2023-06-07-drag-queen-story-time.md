@@ -12,7 +12,7 @@ author: Crìstean MacMhìcheil
 
 categories:
   - Alba
-  - Pròise
+  - Pròis
   - Foghlam
   - Poileataigs
 
