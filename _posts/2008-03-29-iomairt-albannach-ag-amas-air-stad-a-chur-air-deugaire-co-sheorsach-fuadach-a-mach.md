@@ -7,7 +7,7 @@ author: Crìstean MacMhìcheil
 categories:
     - Alba
     - An Rìoghachd Aonaichte
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
     - Poileataigs
 ---
