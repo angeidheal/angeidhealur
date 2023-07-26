@@ -9,7 +9,7 @@ permalink: /2022-03-15-co-ionannachd-posaidh-ann-am-bermuda-agus-na-h-eileannan-
 image: /images/posts/2022-03-15-co-ionannachd-posaidh-ann-am-bermuda-agus-na-h-eileannan-cayman-ga-dhiultadh-le-cuirt-bhreatannach.webp
 categories:
     - An Rìoghachd Aonaichte
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Poileataigs
 ---
 
