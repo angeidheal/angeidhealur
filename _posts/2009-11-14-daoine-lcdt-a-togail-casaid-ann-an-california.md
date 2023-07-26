@@ -9,7 +9,6 @@ permalink: /2009-11-14-daoine-lcdt-a-togail-casaid-ann-an-california/
 image: /images/posts/2009-11-14-daoine-lcdt-a-togail-casaid-ann-an-california.webp
 categories:
     - An t-Saoghal
-    - Iomairteachd
     - Lagh
     - Poileataigs
 ---
