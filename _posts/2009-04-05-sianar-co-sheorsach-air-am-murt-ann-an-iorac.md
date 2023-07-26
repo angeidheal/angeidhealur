@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=799'
 permalink: /2009-04-05-sianar-co-sheorsach-air-am-murt-ann-an-iorac/
 image: /images/posts/2009-04-05-sianar-co-sheorsach-air-am-murt-ann-an-iorac.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
 ---
 
 Tha dithis marbh ann an Sadr City, roinn Shiite dhe Bhaghdad, air sgàth ’s clèir ionadail a dhìt co-sheòrsachd.
