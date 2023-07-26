@@ -14,7 +14,6 @@ categories:
     - 'An t-Saoghal'
     - Èirinn
     - Lagh
-    - Naidheachdan
     - Poileataigs
 
 ---
