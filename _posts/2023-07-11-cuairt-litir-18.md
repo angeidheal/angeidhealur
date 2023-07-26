@@ -13,9 +13,7 @@ categories:
     - 'An t-Saoghal'
     - Cuairt-litir
     - Èirinn
-    - 'Èirinn a Tuath'
     - Lagh
-    - Naidheachdan
     - Poileataigs
     - Pròis
     - Spòrs
