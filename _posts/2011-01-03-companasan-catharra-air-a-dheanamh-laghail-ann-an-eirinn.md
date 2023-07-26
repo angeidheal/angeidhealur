@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=762'
 permalink: /2011-01-03-companasan-catharra-air-a-dheanamh-laghail-ann-an-eirinn/
 image: /images/posts/2011-01-03-companasan-catharra-air-a-dheanamh-laghail-ann-an-eirinn.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Èirinn
     - Lagh
     - Poileataigs
