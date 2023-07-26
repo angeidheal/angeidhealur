@@ -5,7 +5,7 @@ title: Buidheann God Hates Fags gu bhith a’ caill na h-eaglais aca
 image: /images/posts/2008-04-09-buidheann-god-hates-fags-gu-bhith-a-caill-na-h-eaglais-aca.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Creideamh
     - Lagh
 ---
