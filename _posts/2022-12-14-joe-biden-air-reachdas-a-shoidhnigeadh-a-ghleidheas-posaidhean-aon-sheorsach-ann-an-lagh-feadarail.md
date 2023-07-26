@@ -11,7 +11,7 @@ author: Crìstean MacMhìcheil
 image: /images/posts/2022-12-14-joe-biden-air-reachdas-a-shoidhnigeadh-a-ghleidheas-posaidhean-aon-sheorsach-ann-an-lagh-feadarail.webp
 
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
     - Poileataigs
 
