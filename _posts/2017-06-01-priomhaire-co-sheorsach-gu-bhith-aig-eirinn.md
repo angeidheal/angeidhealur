@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=750'
 permalink: /2017-06-01-priomhaire-co-sheorsach-gu-bhith-aig-eirinn/
 image: /images/posts/2017-06-01-priomhaire-co-sheorsach-gu-bhith-aig-eirinn.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Èirinn
     - Poileataigs
 ---
