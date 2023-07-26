@@ -6,7 +6,6 @@ image: /images/posts/2008-03-19-an-eipheit-air-a-chaineadh-airson-an-iomairt-an-
 author: Crìstean MacMhìcheil
 categories:
     - An t-Saoghal
-    - Iomairteachd
     - Poileataigs
     - Saidheans
     - Slàinte
