@@ -9,7 +9,6 @@ permalink: /2009-01-29-daoine-lcdt-a-togail-casaid-an-aghaidh-riaghaltas-bhachra
 image: /images/posts/2009-01-29-daoine-lcdt-a-togail-casaid-an-aghaidh-riaghaltas-bharain.webp
 categories:
     - An t-Saoghal
-    - Iomairteachd
     - Poileataigs
 ---
 
