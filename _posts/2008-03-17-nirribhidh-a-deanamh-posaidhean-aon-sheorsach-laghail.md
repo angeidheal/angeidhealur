@@ -5,7 +5,7 @@ title: Nirribhidh a’ dèanamh pòsaidhean aon-sheòrsach laghail
 image: /images/posts/2008-03-17-nirribhidh-a-deanamh-posaidhean-aon-sheorsach-laghail.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
     - Poileataigs
 ---
