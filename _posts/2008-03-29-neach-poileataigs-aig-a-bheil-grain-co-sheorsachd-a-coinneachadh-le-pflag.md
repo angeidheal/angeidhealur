@@ -5,7 +5,7 @@ title: Neach-poileataigs aig a bheil gràin-co-sheòrsachd a’ coinneachadh le 
 image: /images/posts/2008-03-29-neach-poileataigs-aig-a-bheil-grain-co-sheorsachd-a-coinneachadh-le-pflag.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Poileataigs
 ---
 
