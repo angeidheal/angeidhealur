@@ -12,7 +12,7 @@ author: 'Crìstean MacMhìcheil'
 
 categories:
     - 'An Rìoghachd Aonaichte'
-    - 'An t-Saoghal'
+    - Eadar-nàiseanta
     - Creideamh
     - Poileataigs
     - Pròis
