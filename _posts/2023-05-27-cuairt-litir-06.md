@@ -4,7 +4,7 @@ layout: post
 
 date: 2023-05-27
 
-title: "Cuairt-litir #06"
+title: "Cuairt-litir #6"
 
 image: 
 
