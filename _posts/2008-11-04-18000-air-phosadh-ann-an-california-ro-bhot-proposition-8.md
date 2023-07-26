@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=849'
 permalink: /2008-11-04-18000-air-phosadh-ann-an-california-ro-bhot-proposition-8/
 image: /images/posts/2008-11-04-18000-air-phosadh-ann-an-california-ro-bhot-proposition-8.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
     - Poileataigs
 ---
