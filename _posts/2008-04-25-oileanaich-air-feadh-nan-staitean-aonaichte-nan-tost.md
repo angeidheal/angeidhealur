@@ -11,7 +11,6 @@ categories:
     - An Rìoghachd Aonaichte
     - An t-Saoghal
     - Foghlam
-    - Iomairteachd
 ---
 
 Bidh mìltean de dh’oileanaich nan tost anns na Stàitean Aonaichte an-diugh gus gràin-co-sheòrsachd ann an sgoiltean shoillseachadh.
