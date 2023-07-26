@@ -1,14 +1,15 @@
 ---
-id: 2105
-title: 'Cùirt Uachdarach nan SA air leth-bhreith an-aghaidh luchd LGDTC+ a cheadachadh'
-date: '2023-07-01T13:41:22+00:00'
-author: 'Crìstean MacMhìcheil'
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=2105'
-permalink: /2023-07-01-cuirt-uachdarach-nan-sa-air-leth-bhreith-an-aghaidh-luchd-lgdtc-a-cheadachadh/
-classic-editor-remember:
-    - classic-editor
+
+date: 2023-07-01 13:41:22
+
+title: 'Cùirt Uachdarach nan SA air leth-bhreith an-aghaidh luchd LGDTC+ a cheadachadh'
+
 image: /images/posts/SCOTUS.jpg
+
+author: 'Crìstean MacMhìcheil'
+
 categories:
     - 'An t-Saoghal'
     - Creideamh
@@ -16,6 +17,7 @@ categories:
     - Lagh
     - Naidheachdan
     - Poileataigs
+
 ---
 
 Riaghail Cùirt Uachdarach nan Stàitean Aonaichte Dihaoine gum faod dealbhaiche-lìn ann an Denver, Colorado leth-bhreith a dhèanamh air càraidean LGDTC+.
