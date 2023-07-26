@@ -1,21 +1,9 @@
-- title: A' Chuimrigh
-  url: /roinn-seorsa/a-chuimrigh
-  description:
-
 - title: Alba
   url: /roinn-seorsa/alba
   description:
 
-- title: An Roinn Eòrpa
-  url: /roinn-seorsa/an-roinn-eorpa
-  description:
-
 - title: An Rìoghachd Aonaichte
   url: /roinn-seorsa/an-rioghachd-aonaichte
-  description:
-
-- title: An t-Saoghal
-  url: /roinn-seorsa/an-t-saoghal
   description:
 
 - title: Blog
@@ -26,8 +14,16 @@
   url: /roinn-seorsa/creideamh
   description:
 
-- title: Criomagan
-  url: /roinn-seorsa/criomagan
+- title: Cuairt-litir
+  url: /roinn-seorsa/cuairt-litir
+  description:
+
+- title: Cultar
+  url: /roinn-seorsa/cultar
+  description:
+	  
+- title: Eadar-nàiseanta
+  url: /roinn-seorsa/eadar-naiseanta
   description:
 
 - title: Eilean Mhanainn
@@ -36,10 +32,6 @@
 
 - title: Èirinn
   url: /roinn-seorsa/eirinn
-  description:
-
-- title: Èirinn a Tuath
-  url: /roinn-seorsa/eirinn-a-tuath
   description:
 
 - title: Foghlam
@@ -52,10 +44,6 @@
 
 - title: Gnìomhachas
   url: /roinn-seorsa/gniomhachas
-  description:
-
-- title: Iomairteachd
-  url: /roinn-seorsa/iomairteachd
   description:
 
 - title: Lagh
