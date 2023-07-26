@@ -12,8 +12,7 @@ author: Crìstean MacMhìcheil
 
 categories:
   - An Rìoghachd Aonaichte
-  - An Roinn Eòrpa
-  - Na Stàitean Aonaichte
+  - An t-Saoghal
   - Cuairt-litir
   - Lagh
   - Poileataigs
