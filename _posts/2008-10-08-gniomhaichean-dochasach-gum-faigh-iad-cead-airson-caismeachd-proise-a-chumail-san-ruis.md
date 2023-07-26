@@ -9,7 +9,6 @@ permalink: /2008-10-08-gniomhaichean-dochasach-gum-faigh-iad-cead-airson-caismea
 image: /images/posts/2008-10-08-gniomhaichean-dochasach-gum-faigh-iad-cead-airson-caismeachd-proise-a-chumail-san-ruis.webp
 categories:
     - An t-Saoghal
-    - Iomairteachd
     - Pròis
 ---
 
