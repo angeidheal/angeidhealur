@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=267'
 permalink: /2022-03-17-buill-pharlamaid-chosobho-air-reachdas-a-dheanadh-posadh-aon-sheorsach-laghail-a-dhiultadh/
 image: /images/posts/2022-03-17-buill-pharlamaid-chosobho-air-reachdas-a-dheanadh-posadh-aon-sheorsach-laghail-a-dhiultadh.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Poileataigs
 ---
 
