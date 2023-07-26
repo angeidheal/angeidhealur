@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=251'
 permalink: /2022-03-29-riaghailtean-nas-fhosgailte-a-thaobh-fala-a-thoirt-seachad-an-eirinn/
 image: /images/posts/2022-03-29-riaghailtean-nas-fhosgailte-a-thaobh-fala-a-thoirt-seachad-an-eirinn.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Èirinn
     - Slàinte
 ---
