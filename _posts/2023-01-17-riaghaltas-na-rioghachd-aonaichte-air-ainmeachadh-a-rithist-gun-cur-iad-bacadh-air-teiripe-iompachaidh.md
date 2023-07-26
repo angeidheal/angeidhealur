@@ -12,8 +12,6 @@ author: Crìstean MacMhìcheil
 
 categories:
   - An Rìoghachd Aonaichte
-  - A' Chuimrigh
-  - Sasainn
   - Lagh
   - Poileataigs
 
