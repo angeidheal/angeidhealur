@@ -8,7 +8,6 @@ categories:
     - Alba
     - An Rìoghachd Aonaichte
     - An t-Saoghal
-    - Iomairteachd
     - Lagh
     - Poileataigs
 ---
