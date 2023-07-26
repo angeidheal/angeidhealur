@@ -10,7 +10,6 @@ image: /images/posts/2008-10-08-oileanaich-an-sas-ann-an-iomairt-airson-coiriche
 categories:
     - An Rìoghachd Aonaichte
     - An t-Saoghal
-    - Iomairteachd
     - Poileataigs
 ---
 
