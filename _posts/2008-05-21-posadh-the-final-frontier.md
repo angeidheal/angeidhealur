@@ -9,7 +9,7 @@ permalink: /2008-05-21-posadh-the-final-frontier/
 image: /images/posts/2008-05-21-posadh-the-final-frontier.webp
 categories:
     - An t-Saoghal
-    - Dibhearsan
+    - Cultar
 ---
 
 Tha George Takei air fhoillseachadh air an làrach-lìn aige gu bheil e an dùil a chompanach, Brad Altman, a phòsadh.
