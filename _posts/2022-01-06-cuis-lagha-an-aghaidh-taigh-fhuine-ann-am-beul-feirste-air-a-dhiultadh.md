@@ -9,7 +9,6 @@ permalink: /2022-01-06-cuis-lagha-an-aghaidh-taigh-fhuine-ann-am-beul-feirste-ai
 image: /images/posts/2022-01-06-cuis-lagha-an-aghaidh-taigh-fhuine-ann-am-beul-feirste-air-a-dhiultadh.webp
 categories:
     - An Rìoghachd Aonaichte
-    - Èirinn a Tuath
     - Gnìomhachas
     - Lagh
 ---
