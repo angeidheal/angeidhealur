@@ -14,7 +14,7 @@ categories:
     - Alba
     - An Roinn Eòrpa
     - An t-Saoghal
-    - Dibhearsan
+    - Cultar
 
 mastodon:
 
