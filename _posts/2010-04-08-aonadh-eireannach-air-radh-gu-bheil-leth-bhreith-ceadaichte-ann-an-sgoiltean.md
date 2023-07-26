@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=774'
 permalink: /2010-04-08-aonadh-eireannach-air-radh-gu-bheil-leth-bhreith-ceadaichte-ann-an-sgoiltean/
 image: /images/posts/2010-04-08-aonadh-eireannach-air-radh-gu-bheil-leth-bhreith-ceadaichte-ann-an-sgoiltean.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Èirinn
     - Foghlam
     - Lagh
