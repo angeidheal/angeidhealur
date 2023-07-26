@@ -11,7 +11,7 @@ image: /images/posts/Brod.jpeg
 author: 'Crìstean MacMhìcheil'
 
 categories:
-    - 'An t-Saoghal'
+    - Eadar-nàiseanta
     - Èirinn
     - Lagh
     - Poileataigs
