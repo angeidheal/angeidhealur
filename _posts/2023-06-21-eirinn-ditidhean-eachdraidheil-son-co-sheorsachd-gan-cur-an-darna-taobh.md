@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=2065'
 permalink: /2023-06-21-eirinn-ditidhean-eachdraidheil-son-co-sheorsachd-gan-cur-an-darna-taobh/
 classic-editor-remember:
     - classic-editor
-image: /wp-content/uploads/2023/06/Brod-1200x750.jpeg
+image: /images/posts/Brod.jpeg
 categories:
     - 'An t-Saoghal'
     - Èirinn
