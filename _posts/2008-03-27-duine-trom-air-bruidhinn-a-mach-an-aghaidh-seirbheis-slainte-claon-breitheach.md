@@ -5,7 +5,7 @@ title: Duine trom air bruidhinn a-mach an aghaidh Seirbheis Slàinte claon-breit
 image: /images/posts/2008-03-27-duine-trom-air-bruidhinn-a-mach-an-aghaidh-seirbheis-slainte-claon-breitheach.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Slàinte
 ---
 
