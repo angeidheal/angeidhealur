@@ -9,14 +9,12 @@ title: 'Cuairt-litir #17'
 author: 'Crìstean MacMhìcheil'
 
 categories:
-    - 'A'' Chuimrigh'
     - 'An Rìoghachd Aonaichte'
     - 'An t-Saoghal'
     - Cuairt-litir
     - Èirinn
     - Foghlam
     - Lagh
-    - Naidheachdan
     - Poileataigs
     - Pròis
     - Slàinte
