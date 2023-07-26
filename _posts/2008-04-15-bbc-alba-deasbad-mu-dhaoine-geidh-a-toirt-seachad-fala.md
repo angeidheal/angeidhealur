@@ -10,7 +10,6 @@ image: /images/posts/2008-04-15-bbc-alba-deasbad-mu-dhaoine-geidh-a-toirt-seacha
 categories:
     - Alba
     - An Rìoghachd Aonaichte
-    - Iomairteachd
     - Lagh
     - Poileataigs
     - Saidheans
