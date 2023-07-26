@@ -10,7 +10,6 @@ image: /images/posts/2011-01-01-sgoilearan-sussex-a-deanamh-sabaid-air-grain-co-
 categories:
     - An Rìoghachd Aonaichte
     - Foghlam
-    - Iomairteachd
 ---
 
 Tha sgoilearan aig Sgoil Bhedales, faisg air Petersfield air iomairt a chur air bhonn gus sabaid a’ dèanamh air gràin air deugairean co-sheòrsach.
