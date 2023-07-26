@@ -5,7 +5,7 @@ title: Neach-poileataigs air tionndadh an aghaidh PFLAG
 image: /images/posts/2008-04-02-neach-poileataigs-air-tionndadh-an-aghaidh-pflag.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Poileataigs
 ---
 
