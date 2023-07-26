@@ -12,7 +12,6 @@ author: Crìstean MacMhìcheil
 
 categories:
     - Alba
-    - An Roinn Eòrpa
     - An t-Saoghal
     - Cultar
 
