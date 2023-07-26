@@ -5,7 +5,7 @@ title: Reachd Ameireaganach ag ràdh gu bheil ainm pòsta co-sheòrsach mì-lagh
 image: /images/posts/2008-03-30-reachd-ameireaganach-ag-radh-gu-bheil-ainm-posta-co-sheorsach-mi-laghail.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
     - Poileataigs
 ---
