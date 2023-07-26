@@ -9,7 +9,7 @@ permalink: /2009-03-14-bile-gne-mhanainneach-air-gluasad-air-adhart/
 image: /images/posts/2009-03-14-bile-gne-mhanainneach-air-gluasad-air-adhart.webp
 categories:
     - An Rìoghachd Aonaichte
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Eilean Mhanainn
     - Lagh
     - Poileataigs
