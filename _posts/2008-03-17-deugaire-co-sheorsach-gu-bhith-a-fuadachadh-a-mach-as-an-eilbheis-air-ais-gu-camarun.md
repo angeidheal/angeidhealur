@@ -5,7 +5,6 @@ title: Deugaire co-sheòrsach gu bhith a’ fuadachadh a-mach às an Èilbheis a
 image: /images/posts/2008-03-17-deugaire-co-sheorsach-gu-bhith-a-fuadachadh-a-mach-as-an-eilbheis-air-ais-gu-camarun.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An Roinn Eòrpa
     - An t-Saoghal
     - Lagh
     - Poileataigs
