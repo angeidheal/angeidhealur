@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=114'
 permalink: /2022-11-23-sgioba-ball%e2%80%91coise-na-gearmailte-a-seasamh-airson-coirichean-lgdt/
 image: /images/posts/2022-11-23-sgioba-ball-coise-na-gearmailte-a-seasamh-airson-coirichean-lgdt.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Poileataigs
     - Spòrs
 ---
