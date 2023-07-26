@@ -11,7 +11,6 @@ image:
 author: Crìstean MacMhìcheil
 
 categories:
-  - Sasainn
   - An t-Saoghal
   - Cuairt-litir
   - Cultar
