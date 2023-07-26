@@ -11,7 +11,7 @@ image: /images/posts/Sweet-Cakes-by-Melissa.jpg
 author: 'Crìstean MacMhìcheil'
 
 categories:
-    - 'An t-Saoghal'
+    - Eadar-nàiseanta
     - Creideamh
     - Gnìomhachas
     - Lagh
