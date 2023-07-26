@@ -5,7 +5,7 @@ title: Cùisean HIV air àrdachadh le 48% anns na Stàitean Aonaichte
 image: /images/posts/2008-04-08-cuisean-hiv-air-ardachadh-le-48-anns-na-staitean-aonaichte.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Slàinte
 ---
 
