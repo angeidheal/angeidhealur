@@ -10,7 +10,7 @@ image: /images/posts/2008-04-30-colin-justin-air-phosadh-ann-an-seirbheis-diomha
 categories:
     - Alba
     - An Rìoghachd Aonaichte
-    - Dibhearsan
+    - Cultar
 ---
 
 Tha Colin McAllister agus Justin Ryan air phòsadh ann an seirbheis dìomhair aig an Oifis Chlàraidh Chelsea ann an Glaschu.
