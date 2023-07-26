@@ -5,7 +5,7 @@ title: Michael Stipe air ràdh gu bheil e co-sheòrsach
 image: /images/posts/2008-03-18-michael-stipe-air-radh-gu-bheil-e-co-sheorsach.webp
 author: Crìstean MacMhìcheil
 categories:
-    - Dibhearsan
+    - Cultar
 ---
 
 Tha Michael Stipe, seinneadair anns a’ chòmhlan-ciùil R.E.M. air ràdh gu bheil e co-sheòrsach.
