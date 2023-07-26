@@ -14,7 +14,6 @@ categories:
     - Creideamh
     - Cuairt-litir
     - Lagh
-    - Naidheachdan
     - Poileataigs
     - Slàinte
 
