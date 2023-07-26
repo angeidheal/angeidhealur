@@ -10,7 +10,7 @@ author: 'Crìstean MacMhìcheil'
 
 categories:
     - 'An Rìoghachd Aonaichte'
-    - 'An t-Saoghal'
+    - Eadar-nàiseanta
     - Cuairt-litir
     - Lagh
     - Poileataigs
