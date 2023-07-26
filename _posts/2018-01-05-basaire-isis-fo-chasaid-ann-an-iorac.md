@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=738'
 permalink: /2018-01-05-basaire-isis-fo-chasaid-ann-an-iorac/
 image: /images/posts/2018-01-05-basaire-isis-fo-chasaid-ann-an-iorac.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
 ---
 
