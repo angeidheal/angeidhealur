@@ -15,7 +15,6 @@ categories:
     - Cultar
     - Foghlam
     - Lagh
-    - Naidheachdan
     - Poileataigs
     - Pròis
     - Spòrs
