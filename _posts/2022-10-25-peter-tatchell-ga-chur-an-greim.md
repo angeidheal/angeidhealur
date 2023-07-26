@@ -9,7 +9,7 @@ permalink: /2022-10-25-peter-tatchell-ga-chur-an-greim/
 image: /images/posts/2022-10-25-peter-tatchell-ga-chur-an-greim.webp
 categories:
     - An Rìoghachd Aonaichte
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
     - Spòrs
 ---
