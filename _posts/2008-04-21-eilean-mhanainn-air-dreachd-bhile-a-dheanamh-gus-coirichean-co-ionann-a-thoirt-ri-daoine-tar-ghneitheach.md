@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=949'
 permalink: /2008-04-21-eilean-mhanainn-air-dreachd-bhile-a-dheanamh-gus-coirichean-co-ionann-a-thoirt-ri-daoine-tar-ghneitheach/
 image: /images/posts/2008-04-21-eilean-mhanainn-air-dreachd-bhile-a-dheanamh-gus-coirichean-co-ionann-a-thoirt-ri-tar-ghneithich.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Eilean Mhanainn
     - Lagh
     - Poileataigs
