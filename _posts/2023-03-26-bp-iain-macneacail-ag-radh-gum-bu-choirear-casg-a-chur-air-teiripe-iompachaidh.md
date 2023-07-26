@@ -14,7 +14,6 @@ categories:
     - Alba
     - An Rìoghachd Aonaichte
     - Creideamh
-    - Iomairteachd
     - Lagh
     - Poileataigs
  
