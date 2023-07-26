@@ -9,7 +9,6 @@ permalink: /2018-07-17-luchd-poilitigs-co-sheorsach-airson-reifreann-eile-air-br
 image: /images/posts/2018-07-17-luchd-poilitigs-co-sheorsach-airson-reifreann-eile-air-brexit.webp
 categories:
     - An Rìoghachd Aonaichte
-    - An Roinn Eòrpa
     - An t-Saoghal
     - Poileataigs
 ---
