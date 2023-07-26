@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=238'
 permalink: /2022-08-12-eirinn-tar-bhoireannaich-toirmeasgte-bho-rugbaidh-nam-ban/
 image: /images/posts/2022-08-12-eirinn-tar-bhoireannaich-toirmeasgte-bho-rugbaidh-nam-ban.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Èirinn
     - Spòrs
 ---
