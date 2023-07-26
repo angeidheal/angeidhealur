@@ -10,7 +10,7 @@ image: /images/posts/2008-11-26-cleir-eireannach-air-bhido-ur-boyzone-a-chainead
 categories:
     - An t-Saoghal
     - Creideamh
-    - Dibhearsan
+    - Cultar
     - Èirinn
 ---
 
