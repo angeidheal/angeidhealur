@@ -12,7 +12,6 @@ author: Crìstean MacMhìcheil
 
 categories:
     - An Rìoghachd Aonaichte
-    - Èirinn a Tuath
     - Lagh
     - Poileataigs
 
