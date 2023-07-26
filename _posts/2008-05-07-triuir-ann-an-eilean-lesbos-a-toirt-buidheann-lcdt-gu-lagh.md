@@ -10,7 +10,6 @@ image: /images/posts/2008-05-07-triuir-ann-an-eilean-lesbos-a-toirt-buidheann-lc
 categories:
     - An Roinn Eòrpa
     - An t-Saoghal
-    - Iomairteachd
     - Lagh
 ---
 
