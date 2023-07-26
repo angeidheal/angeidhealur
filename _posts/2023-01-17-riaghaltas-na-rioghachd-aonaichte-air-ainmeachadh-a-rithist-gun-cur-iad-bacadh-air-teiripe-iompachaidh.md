@@ -11,7 +11,7 @@ image: /images/posts/2023-01-17-riaghaltas-na-rioghachd-aonaichte-air-ainmeachad
 author: Crìstean MacMhìcheil
 
 categories:
-  - An Rìoghachd aonaichte
+  - An Rìoghachd Aonaichte
   - A' Chuimrigh
   - Sasainn
   - Lagh
