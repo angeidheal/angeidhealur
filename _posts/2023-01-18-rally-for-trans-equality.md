@@ -13,7 +13,6 @@ author: Crìstean MacMhìcheil
 categories:
   - Alba
   - An Rìoghachd Aonaichte
-  - Iomairteachd
   - Lagh
   - Poileataigs
 
