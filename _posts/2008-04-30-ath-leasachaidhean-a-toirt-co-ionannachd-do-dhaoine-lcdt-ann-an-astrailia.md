@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=925'
 permalink: /2008-04-30-ath-leasachaidhean-a-toirt-co-ionannachd-do-dhaoine-lcdt-ann-an-astrailia/
 image: /images/posts/2008-04-30-ath-leasachaidhean-a-toirt-co-ionannachd-do-dhaoine-lcdt-ann-an-astrailia.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
     - Poileataigs
 ---
