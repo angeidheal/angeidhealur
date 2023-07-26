@@ -9,7 +9,6 @@ permalink: /2008-04-15-ionnsaigh-a-thoirt-air-buidheann-lcdt-ann-an-istanbul-lei
 image: /images/posts/2008-04-15-ionnsaigh-a-thoirt-air-buidheann-lcdt-ann-an-istanbul-leis-a-phoileas.webp
 categories:
     - An t-Saoghal
-    - Iomairteachd
     - Lagh
 ---
 
