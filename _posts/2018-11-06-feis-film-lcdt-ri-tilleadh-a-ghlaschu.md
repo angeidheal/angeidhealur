@@ -10,7 +10,7 @@ image: /images/posts/2018-11-06-feis-film-lcdt-ri-tilleadh-a-ghlaschu.webp
 categories:
     - Alba
     - An Rìoghachd Aonaichte
-    - Dibhearsan
+    - Cultar
 ---
 
 Thèid an ceathramh *[Scottish Queer International Film Festival (SQIFF)](http://www.sqiff.org/)* a thilleadh a Ghlaschu 5mh – 9mh An Dùbhlachd.
