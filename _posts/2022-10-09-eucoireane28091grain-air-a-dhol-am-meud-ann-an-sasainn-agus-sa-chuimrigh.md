@@ -8,7 +8,6 @@ guid: 'https://angeidhealur.scot/?p=144'
 permalink: /2022-10-09-eucoirean%e2%80%91grain-air-a-dhol-am-meud-ann-an-sasainn-agus-sa-chuimrigh/
 image: /images/posts/2022-10-09-eucoirean-grain-air-a-dhol-am-meud-ann-an-sasainn-agus-sa-chuimrigh.webp
 categories:
-    - A' Chuimrigh
     - An Rìoghachd Aonaichte
     - Lagh
 ---
