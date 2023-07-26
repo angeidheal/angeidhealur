@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=2486'
 permalink: /2023-07-18-comhairliche-ga-chur-as-a-dhreuchd-re-uine/
 classic-editor-remember:
     - classic-editor
-image: /wp-content/uploads/2023/07/King-Lawal-1200x800.jpg
+image: /images/posts/King-Lawal.jpg
 categories:
     - 'An Rìoghachd Aonaichte'
     - 'An t-Saoghal'
