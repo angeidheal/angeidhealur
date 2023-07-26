@@ -7,7 +7,6 @@ author: Crìstean MacMhìcheil
 categories:
     - An Rìoghachd Aonaichte
     - Foghlam
-    - Iomairteachd
 ---
 
 Tha an ASA (Advertising Standards Authority) ag ràdh nach eil iomairt sanasachaidh a’ bhuidheann Stonewall a’ dol an-aghaidh an còd aca.
