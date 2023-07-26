@@ -15,7 +15,6 @@ categories:
     - Creideamh
     - Gnìomhachas
     - Lagh
-    - Naidheachdan
 
 ---
 
