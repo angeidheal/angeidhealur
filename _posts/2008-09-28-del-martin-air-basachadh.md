@@ -9,7 +9,6 @@ permalink: /2008-09-28-del-martin-air-basachadh/
 image: /images/posts/2008-09-28-del-martin-air-basachadh.webp
 categories:
     - An t-Saoghal
-    - Iomairteachd
 ---
 
 Chaochail Del Martin, gnìomhaiche leasbach air leth cudromach, aois 87, ann an San Francisco aig dheireadh an Lùnastal.
