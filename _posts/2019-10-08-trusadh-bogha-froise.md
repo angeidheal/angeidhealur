@@ -9,7 +9,7 @@ permalink: /2019-10-08-trusadh-bogha-froise/
 image: /images/posts/2019-10-08-trusadh-bogha-froise.webp
 categories:
     - Alba
-    - Dibhearsan
+    - Cultar
     - Gàidhlig
     - Iomairteachd
 ---
