@@ -1,13 +1,13 @@
 ---
-id: 2131
-title: 'Cuairt-litir #18'
-date: '2023-07-11T19:14:37+00:00'
-author: 'Crìstean MacMhìcheil'
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=2131'
-permalink: /2023-07-11-cuairt-litir-18/
-classic-editor-remember:
-    - classic-editor
+
+date: '2023-07-11T19:14:37+00:00'
+
+title: 'Cuairt-litir #18'
+
+author: 'Crìstean MacMhìcheil'
+
 categories:
     - 'An Rìoghachd Aonaichte'
     - 'An t-Saoghal'
