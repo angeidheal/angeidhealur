@@ -15,7 +15,6 @@ categories:
     - Cultar
     - Èirinn
     - Lagh
-    - Naidheachdan
     - Poileataigs
     - Pròis
     - Spòrs
