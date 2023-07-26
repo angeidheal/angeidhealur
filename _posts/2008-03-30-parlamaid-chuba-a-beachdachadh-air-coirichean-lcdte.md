@@ -5,7 +5,7 @@ title: Pàrlamaid Chùba a’ beachdachadh air còirichean LCDTE
 image: /images/posts/2008-03-30-parlamaid-chuba-a-beachdachadh-air-coirichean-lcdte.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
     - Poileataigs
 ---
