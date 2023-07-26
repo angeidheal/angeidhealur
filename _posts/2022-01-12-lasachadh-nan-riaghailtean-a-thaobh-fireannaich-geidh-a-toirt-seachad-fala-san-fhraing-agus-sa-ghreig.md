@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=286'
 permalink: /2022-01-12-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-geidh-a-toirt-seachad-fala-san-fhraing-agus-sa-ghreig/
 image: /images/posts/2022-01-12-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-geidh-a-toirt-seachad-fala-san-fhraing-agus-sa-ghreig.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
 ---
 
 Tha Riaghaltasan na Frainge agus na Grèige air casgan a bh’ air fireannaich gèidh is dà-sheòrsach bho bhith a’ toirt seachad fala a thogail.
