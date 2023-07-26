@@ -9,7 +9,7 @@ permalink: /2008-10-08-oileanaich-an-sas-ann-an-iomairt-airson-coirichean-daonna
 image: /images/posts/2008-10-08-oileanaich-an-sas-ann-an-iomairt-airson-coirichean-daonna.webp
 categories:
     - An Rìoghachd Aonaichte
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Poileataigs
 ---
 
