@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=867'
 permalink: /2008-10-02-coimisiun-na-heireann-um-chearta-an-duine-agus-comhionannas-airson-coirichean-tar-ghneitheach-leasachadh/
 image: /images/posts/2008-10-02-coimisiun-na-heireann-um-chearta-an-duine-agus-comhionannas-airson-coirichean-tar-ghneitheach-leasachadh.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Èirinn
     - Lagh
     - Poileataigs
