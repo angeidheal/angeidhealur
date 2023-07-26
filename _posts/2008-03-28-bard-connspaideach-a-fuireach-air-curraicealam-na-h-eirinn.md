@@ -10,7 +10,7 @@ image: /images/posts/2008-03-28-bard-connspaideach-a-fuireach-air-curraicealam-n
 
 author: Crìstean MacMhìcheil
 
-categories: [Cultar, Eadar-nàiseanta, Èirinn, Foghlam, Lagh]
+categories: [Cultar, "Eadar-nàiseanta", Èirinn, Foghlam, Lagh]
 	
 ---
 
