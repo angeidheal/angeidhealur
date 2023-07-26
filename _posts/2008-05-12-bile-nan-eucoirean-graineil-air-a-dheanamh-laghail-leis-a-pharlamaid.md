@@ -11,8 +11,9 @@ image: /images/posts/2008-05-12-bile-nan-eucoirean-graineil-air-a-dheanamh-lagha
 author: Crìstean MacMhìcheil
 
 categories:
-	- Lagh
-	- Poileataigs
+	- "An Rìoghachd Aonaichte"
+	- "Lagh"
+	- "Poileataigs"
 
 ---
 
