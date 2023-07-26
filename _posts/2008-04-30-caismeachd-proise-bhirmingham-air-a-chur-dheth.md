@@ -10,7 +10,6 @@ image: /images/posts/2008-04-30-caismeachd-proise-bhirmingham-air-a-chur-dheth.w
 categories:
     - An Rìoghachd Aonaichte
     - Pròis
-    - Sasainn
 ---
 
 Cha tèid caismeachd-pròise Bhirmingham air adhart am-bliadhna air sgàth ’s trioblaidean ionmhais.
