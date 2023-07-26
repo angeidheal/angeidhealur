@@ -11,12 +11,10 @@ image: /images/posts/EHRC.webp
 author: Crìstean MacMhìcheil
 
 categories:
-    - A' Chuimrigh
     - Alba
     - An Rìoghachd Aonaichte
     - Lagh
     - Poileataigs
-    - Sasainn
     
 tags:
     - Achd na Co-ionnannachd
