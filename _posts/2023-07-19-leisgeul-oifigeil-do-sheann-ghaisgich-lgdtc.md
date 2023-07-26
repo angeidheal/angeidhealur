@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=2494'
 permalink: /2023-07-19-leisgeul-oifigeil-do-sheann-ghaisgich-lgdtc/
 classic-editor-remember:
     - classic-editor
-image: /wp-content/uploads/2023/07/LGBTQ-Troops-1200x800.jpg
+image: /images/posts/LGBTQ-Troops.jpg
 categories:
     - 'An Rìoghachd Aonaichte'
     - Lagh
