@@ -6,7 +6,7 @@ image: /images/posts/2008-03-28-droch-laimhseachadh-de-dhaoine-a-sireadh-tearman
 author: Crìstean MacMhìcheil
 categories:
     - An Rìoghachd Aonaichte
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Poileataigs
 ---
 
