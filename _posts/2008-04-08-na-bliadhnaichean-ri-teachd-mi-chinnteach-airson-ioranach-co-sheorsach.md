@@ -6,7 +6,6 @@ image: /images/posts/2008-04-08-na-bliadhnaichean-ri-teachd-mi-chinnteach-airson
 author: Crìstean MacMhìcheil
 categories:
     - An Rìoghachd Aonaichte
-    - An Roinn Eòrpa
     - An t-Saoghal
     - Lagh
     - Poileataigs
