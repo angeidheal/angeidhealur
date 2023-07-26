@@ -11,7 +11,6 @@ categories:
     - Alba
     - Cultar
     - Gàidhlig
-    - Iomairteachd
 ---
 
 Tha earrann sònraichte de Thrusadh a-nis [ri choimead air BBC iPlayer](https://www.bbc.co.uk/programmes/m00097pr) a bheireas sùil “air mar a tha iomairtean leithid nan Caismeachdan Pròis a’ toirt seachad dòchas a thaobh co-ionannachd agus in-ghabhaltas, agus cluinnidh sinn sgeulachdan bhon fheadhainn sa choimhearsnachd ann an Alba san là an-diugh”.
