@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=2105'
 permalink: /2023-07-01-cuirt-uachdarach-nan-sa-air-leth-bhreith-an-aghaidh-luchd-lgdtc-a-cheadachadh/
 classic-editor-remember:
     - classic-editor
-image: /wp-content/uploads/2023/07/SCOTUS-1200x800.jpg
+image: /images/posts/SCOTUS.jpg
 categories:
     - 'An t-Saoghal'
     - Creideamh
