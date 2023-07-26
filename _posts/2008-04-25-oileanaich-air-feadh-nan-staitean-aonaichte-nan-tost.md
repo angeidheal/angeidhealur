@@ -12,7 +12,6 @@ categories:
     - An t-Saoghal
     - Foghlam
     - Iomairteachd
-    - Sasainn
 ---
 
 Bidh mìltean de dh’oileanaich nan tost anns na Stàitean Aonaichte an-diugh gus gràin-co-sheòrsachd ann an sgoiltean shoillseachadh.
