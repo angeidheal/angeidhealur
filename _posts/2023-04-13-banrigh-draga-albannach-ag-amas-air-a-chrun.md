@@ -12,7 +12,7 @@ author: Crìstean MacMhìcheil
 
 categories:
     - Alba
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Cultar
 
 mastodon:
