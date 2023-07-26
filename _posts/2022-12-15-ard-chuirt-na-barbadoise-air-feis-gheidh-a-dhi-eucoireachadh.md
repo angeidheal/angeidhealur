@@ -11,7 +11,7 @@ image: /images/posts/2022-12-15-ard-chuirt-na-barbadoise-air-feis-gheidh-a-dhi-e
 author: Crìstean MacMhìcheil
 
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
 
 tags:
