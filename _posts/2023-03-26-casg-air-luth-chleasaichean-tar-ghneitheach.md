@@ -11,7 +11,7 @@ image: /images/posts/World-Athletics.webp
 author: Crìstean MacMhìcheil
 
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Spòrs
 
 mastodon:
