@@ -5,7 +5,7 @@ title: Companasan-catharra ann an Èirinn gu bhith a’ cumail a-mach còirichea
 image: /images/posts/2008-04-03-companasan-catharra-ann-an-eirinn-gu-bhith-a-cumail-a-mach-coirichean-airson-parantan-lcdt.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Èirinn
     - Lagh
     - Poileataigs
