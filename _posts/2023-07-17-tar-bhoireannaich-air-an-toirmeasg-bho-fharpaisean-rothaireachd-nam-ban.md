@@ -12,7 +12,6 @@ author: 'Crìstean MacMhìcheil'
 
 categories:
     - 'An t-Saoghal'
-    - Naidheachdan
     - Spòrs
 
 ---
