@@ -11,7 +11,7 @@ image: /images/posts/matt-noble-sXBlqLvWkVk-unsplash.jpg
 author: 'Crìstean MacMhìcheil'
 
 categories:
-    - 'An t-Saoghal'
+    - Eadar-nàiseanta
     - Spòrs
 
 ---
