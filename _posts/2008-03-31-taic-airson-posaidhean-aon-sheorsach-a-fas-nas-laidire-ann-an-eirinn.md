@@ -5,7 +5,7 @@ title: Taic airson pòsaidhean aon-sheòrsach a’ fàs nas làidire ann an Èir
 image: /images/posts/2008-03-31-taic-airson-posaidhean-co-sheorsach-a-fas-nas-laidire-ann-an-eirinn.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Èirinn
     - Lagh
     - Poileataigs
