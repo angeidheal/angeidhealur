@@ -6,7 +6,6 @@ image: /images/posts/2008-04-07-coimhearsnachd-eadar-naiseanta-a-cur-cuideam-air
 author: Crìstean MacMhìcheil
 categories:
     - An t-Saoghal
-    - Iomairteachd
     - Lagh
     - Poileataigs
     - Slàinte
