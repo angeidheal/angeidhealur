@@ -9,7 +9,7 @@ permalink: /2008-11-26-rionnagan-ameireaganach-an-sas-ann-an-iomairt-an-aghaidh-
 image: /images/posts/2008-11-26-rionnagan-ameireaganach-an-sas-ann-an-iomairt-an-aghaidh-canan-oilbheumach.webp
 categories:
     - An t-Saoghal
-    - Dibhearsan
+    - Cultar
     - Foghlam
     - Iomairteachd
 ---
