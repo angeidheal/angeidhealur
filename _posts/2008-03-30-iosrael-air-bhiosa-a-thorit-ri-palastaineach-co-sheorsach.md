@@ -5,7 +5,7 @@ title: Iosrael air bhìosa a thorit ri Palastaineach co-sheòrsach
 image: /images/posts/2008-03-30-iosrael-air-bhiosa-a-thoirt-ri-palastaineach-co-sheorsach.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
     - Poileataigs
 ---
