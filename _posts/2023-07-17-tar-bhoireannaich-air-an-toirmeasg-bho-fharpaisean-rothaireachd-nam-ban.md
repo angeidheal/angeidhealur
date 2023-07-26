@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=2187'
 permalink: /2023-07-17-tar-bhoireannaich-air-an-toirmeasg-bho-fharpaisean-rothaireachd-nam-ban/
 classic-editor-remember:
     - classic-editor
-image: /wp-content/uploads/2023/07/matt-noble-sXBlqLvWkVk-unsplash-1200x800.jpg
+image: /images/posts/matt-noble-sXBlqLvWkVk-unsplash.jpg
 categories:
     - 'An t-Saoghal'
     - Naidheachdan
