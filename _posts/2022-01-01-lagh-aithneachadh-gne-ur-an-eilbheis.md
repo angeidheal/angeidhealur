@@ -8,7 +8,6 @@ guid: 'https://angeidhealur.scot/?p=296'
 permalink: /2022-01-01-lagh-aithneachadh-gne-ur-an-eilbheis/
 image: /images/posts/2022-01-01-lagh-aithneachadh-gne-ur-an-eilbheis.webp
 categories:
-    - An Roinn Eòrpa
     - An t-Saoghal
 ---
 
