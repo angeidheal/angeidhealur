@@ -5,7 +5,6 @@ title: Cardiff an dùil ri fèis-pròise a chumail am bliadhna
 image: /images/posts/2008-04-08-cardiff-an-duil-ri-feis-proise-a-chumail-am-bliadhna.webp
 author: Crìstean MacMhìcheil
 categories:
-    - A' Chuimrigh
     - An Rìoghachd Aonaichte
     - Pròis
 ---
