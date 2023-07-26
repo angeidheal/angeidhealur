@@ -12,7 +12,6 @@ author: 'Crìstean MacMhìcheil'
 
 categories:
     - Alba
-    - Naidheachdan
     - Poileataigs
 
 ---
