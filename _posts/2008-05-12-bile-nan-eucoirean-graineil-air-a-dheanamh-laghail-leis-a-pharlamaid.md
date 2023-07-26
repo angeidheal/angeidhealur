@@ -12,6 +12,7 @@ author: Crìstean MacMhìcheil
 
 categories:
 	- Lagh
+	- Poileataigs
 
 ---
 
