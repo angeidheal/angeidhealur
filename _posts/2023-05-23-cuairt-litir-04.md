@@ -15,7 +15,7 @@ categories:
   - Cuairt-litir
   - Cultar
   - Lagh
-  - Poilitigs
+  - Poileataigs
   - Slàinte
   - Spòrs
   
