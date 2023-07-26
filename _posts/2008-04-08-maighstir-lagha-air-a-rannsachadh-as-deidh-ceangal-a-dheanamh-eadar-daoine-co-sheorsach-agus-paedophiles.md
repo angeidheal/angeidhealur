@@ -7,7 +7,7 @@ author: Crìstean MacMhìcheil
 categories:
     - A' Chuimrigh
     - An Rìoghachd Aonaichte
-    - Dibhearsan
+    - Cultar
     - Lagh
 ---
 
