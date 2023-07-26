@@ -11,7 +11,7 @@ image: /images/posts/2008-03-28-bard-connspaideach-a-fuireach-air-curraicealam-n
 author: Crìstean MacMhìcheil
 
 categories: [Cultar, "Eadar-nàiseanta", Èirinn, Foghlam, Lagh]
-	
+
 ---
 
 Tha an *An Chomhairle Náisiúnta Curaclaim agus Measúnachta* (An Comhairle Nàiseanta Curraicealaim agus Measaidh) ann an Èirinn ag ràdh gum bi obraichean Cathal Ó Searcaigh a’ fuireach air curraicealam na h-Èirinn ged a tha am bàrd fo amharas gun do ghabh e brath air balaich ann an Neapàl.
