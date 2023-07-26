@@ -5,7 +5,7 @@ title: Tidsearan co-sheòrsach ann an Èirinn gu bhith gan cur à dreuchd
 image: /images/posts/2008-03-30-tidsearan-co-sheorsach-ann-an-eirinn-gu-bhith-gan-cur-a-dreuchd.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Creideamh
     - Èirinn
     - Foghlam
