@@ -10,7 +10,6 @@ image: /images/posts/2022-01-30-cha-bu-choir-do-dhalba-feitheamh-gus-casg-a-chur
 categories:
     - Alba
     - An Rìoghachd Aonaichte
-    - Iomairteachd
     - Lagh
     - Poileataigs
     - Slàinte
