@@ -5,7 +5,7 @@ permalink: /lorg/
 ---
 
 
-## Lorg
+<h2>Lorg</h2>
 
 <p>Tòisich a' sgrìobhadh anns a' bhogsa gu h-ìosal airson lorg sna postaichean.</p>
 
@@ -29,10 +29,11 @@ SimpleJekyllSearch({
 
 <div class="section-divider"></div>
 
-## Roinnean-seòrsa
+<h2>Roinnean-seòrsa</h2>
 
-{% for category in site.categories %}
-    <div class="categories-title"><a href="/tags/#{{ category | first }}">{{ category | first }}</a></div>   
+{% assign sorted_categories = site.categories | sort %}
+{% for category in sorted_categories %}
+    <div class="categories-title"><a href="/tags/#{{ category | first }}">{{ category | first  }}</a></div>   
 {% endfor %}
 
 <!--Most recent posts in each category
