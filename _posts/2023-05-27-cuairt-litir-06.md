@@ -14,7 +14,6 @@ categories:
   - Alba
   - An Rìoghachd Aonaichte
   - An t-Saoghal
-  - An Roinn Eòrpa
   - Cuairt-litir
   - Foghlam
   - Lagh
