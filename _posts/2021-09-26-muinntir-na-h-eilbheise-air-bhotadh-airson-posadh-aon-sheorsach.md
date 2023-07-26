@@ -8,7 +8,6 @@ guid: 'https://angeidhealur.scot/?p=305'
 permalink: /2021-09-26-muinntir-na-h-eilbheise-air-bhotadh-airson-posadh-aon-sheorsach/
 image: /images/posts/2021-09-26-muinntir-na-h-eilbheise-air-bhotadh-airson-posadh-aon-sheorsach.webp
 categories:
-    - An Roinn Eòrpa
     - An t-Saoghal
 ---
 
