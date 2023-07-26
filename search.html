@@ -32,7 +32,7 @@ SimpleJekyllSearch({
 <h2>Roinnean-seòrsa</h2>
 
 {% for category in site.data.categories | sort %}
-	<div><a href="{{ category.url }}">{{ category }}</a></div>
+	<div><a href="{{ category.url }}">{{ category.title }}</a></div>
 {% endfor %}
 
 <!--Most recent posts in each category
