@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=360'
 permalink: /2020-05-28-daoine-tar-ghneitheach-san-ungair-gan-casg-bho-bhith-ag-atharrachadh-an-gne-laghail-aca/
 image: /images/posts/2020-5-20-daoine-tar-ghneitheach-san-ungair-gan-casg-bho-bhith-ag-atharrachadh-an-gne-laghail-aca.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
 ---
 
 Tha pàrlamaid na h-Ungaire air bhòtadh airson lagh a chuireas casg air daoine tar-ghnèitheach an gnè aca atharrachadh air sgrìobhainnean oifigeil.
