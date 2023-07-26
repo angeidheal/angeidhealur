@@ -1,20 +1,22 @@
 ---
-id: 2065
-title: 'Èirinn: Dìtidhean eachdraidheil &#8217;son co-sheòrsachd gan cur an dàrna taobh'
-date: '2023-06-21T19:29:51+00:00'
-author: 'Crìstean MacMhìcheil'
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=2065'
-permalink: /2023-06-21-eirinn-ditidhean-eachdraidheil-son-co-sheorsachd-gan-cur-an-darna-taobh/
-classic-editor-remember:
-    - classic-editor
+
+date: 2023-06-21 19:29:51
+
+title: 'Èirinn: Dìtidhean eachdraidheil &#8217;son co-sheòrsachd gan cur an dàrna taobh'
+
 image: /images/posts/Brod.jpeg
+
+author: 'Crìstean MacMhìcheil'
+
 categories:
     - 'An t-Saoghal'
     - Èirinn
     - Lagh
     - Naidheachdan
     - Poileataigs
+
 ---
 
 Dh’ainmich Riaghaltas na h-Èireann Dimàirt gun cur iad dìtidhean de dh’fhireannaich a chaidh a chur fo chasaid airson feise co-aontachail le fireannach eile fo laghan eachdraidheil an dàrna taobh.
