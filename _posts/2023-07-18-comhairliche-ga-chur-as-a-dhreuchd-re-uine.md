@@ -14,7 +14,6 @@ categories:
     - 'An Rìoghachd Aonaichte'
     - 'An t-Saoghal'
     - Creideamh
-    - Naidheachdan
     - Poileataigs
     - Pròis
 
