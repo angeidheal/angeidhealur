@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=870'
 permalink: /2008-10-02-bile-lcdt-air-gluasad-air-adhart-ann-an-astrailia/
 image: /images/posts/2008-10-02-bile-lcdt-air-gluasad-air-adhart-ann-an-astrailia.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
 ---
 
 Chaidh bile ùr a bhios a’ toirt co-ionannachd do dhaoine LCDT ann an Astràilia aontachadh leis a’ Phàrlamaid.
