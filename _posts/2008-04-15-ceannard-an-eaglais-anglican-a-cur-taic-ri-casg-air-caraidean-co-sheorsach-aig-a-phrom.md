@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=955'
 permalink: /2008-04-15-ceannard-an-eaglais-anglican-a-cur-taic-ri-casg-air-caraidean-co-sheorsach-aig-a-phrom/
 image: /images/posts/2008-04-15-ceannard-an-eaglais-anglican-a-cur-taic-ri-casg-air-caraidean-co-sheorsach-aig-a-phrom.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Creideamh
     - Foghlam
 ---
