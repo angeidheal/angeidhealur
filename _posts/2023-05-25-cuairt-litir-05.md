@@ -12,7 +12,6 @@ author: Crìstean MacMhìcheil
 
 categories:
   - An t-Saoghal
-  - An Roinn Eòrpa
   - Cuairt-litir
   - Cultar
   - Foghlam
