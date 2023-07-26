@@ -5,7 +5,7 @@ title: Buidheann Irish Queers a’ togail fianais an aghaidh caismeachd Naomh P�
 image: /images/posts/2008-03-17-buidheann-irish-queers-a-togail-fianai-an-aghaidh-caismeachd-naomh-padraig.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Creideamh
 ---
 
