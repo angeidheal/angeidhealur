@@ -11,7 +11,7 @@ image: /images/posts/2023-03-22-riaghaltas-uganda-air-gabhail-ri-bile-a-dheanas-
 author: Crìstean MacMhìcheil
 
 categories:
-  - An t-Saoghal
+  - Eadar-nàiseanta
   - Poileataigs
   - Lagh
 
