@@ -1,19 +1,21 @@
 ---
-id: 2494
-title: 'Leisgeul oifigeil do sheann-ghaisgich LGDTC+'
-date: '2023-07-19T18:29:21+00:00'
-author: 'Crìstean MacMhìcheil'
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=2494'
-permalink: /2023-07-19-leisgeul-oifigeil-do-sheann-ghaisgich-lgdtc/
-classic-editor-remember:
-    - classic-editor
+
+date: 2023-07-19 18:29:21
+
+title: 'Leisgeul oifigeil do sheann-ghaisgich LGDTC+'
+
 image: /images/posts/LGBTQ-Troops.jpg
+
+author: 'Crìstean MacMhìcheil'
+
 categories:
     - 'An Rìoghachd Aonaichte'
     - Lagh
     - Naidheachdan
     - Poileataigs
+
 ---
 
 Tha am Prìomhaire, Rishi Sunak, air leisgeul oifigeil a dhèanamh do sheann-ghaisgich LGDTC+ airson a’ chron a chaidh a dhèanamh orra mar thoradh air a’ chasg a bh’ air luchd-obrach LGDTC+ sna feachdan armaichte ro 2000.
