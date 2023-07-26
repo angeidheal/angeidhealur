@@ -5,7 +5,7 @@ title: Duine pòsta air òrdachadh ri airgead-sgaraidh a phàigheadh ri seann ch
 image: /images/posts/2008-03-28-duine-posta-air-ordughachadh-ri-airgead-sgaraidh-a-phaigheadh-ri-seann-chompanach-co-sheorsach.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Lagh
 ---
 
