@@ -8,7 +8,7 @@ guid: 'https://angeidhealur.scot/?p=729'
 permalink: /2018-01-07-42-tagraichean-lcdt-a-sireadh-taghaidh-ann-an-teagsas-am-bliadhna/
 image: /images/posts/2018-01-07-42-tagraichean-lcdt-a-sireadh-taghaidh-ann-an-teagsas-am-bliadhna.webp
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Poileataigs
 ---
 
