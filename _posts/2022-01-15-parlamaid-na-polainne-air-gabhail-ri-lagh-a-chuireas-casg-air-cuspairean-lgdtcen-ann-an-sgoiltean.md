@@ -8,10 +8,7 @@ guid: 'https://angeidhealur.scot/?p=283'
 permalink: /2022-01-15-parlamaid-na-polainne-air-gabhail-ri-lagh-a-chuireas-casg-air-cuspairean-lgdtcen-ann-an-sgoiltean/
 image: /images/posts/2022-01-15-parlamaid-na-polainne-air-gabhail-ri-lagh-a-chuireas-casg-air-cuspairean-lgdtcen-ann-an-sgoiltean.webp
 categories:
-    - An Roinn Eòrpa
     - An t-Saoghal
-tags:
-    - An Roinn Eòrpa
 ---
 
 Tha Pàrlamaid na Pòlainne air gabhail ri lagh a thathar an dùil ri casg a chur air teagaisg chuspairean LGDTCEN+ ann an sgoiltean.
