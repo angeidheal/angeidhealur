@@ -31,6 +31,10 @@ SimpleJekyllSearch({
 
 <h2>Roinnean-seòrsa</h2>
 
+{% for category in data.categories %}
+	<div class="categories-title"><a href="{{ data.categories.url }}">{{ data.categories.title }}</a></div>
+{% endfor %}
+
 {% assign sorted_categories = site.categories | sort %}
 {% for category in sorted_categories %}
     <div class="categories-title"><a href="/roinn-seorsa/{{ category | first }}">{{ category | first }}</a></div>   
