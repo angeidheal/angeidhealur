@@ -7,7 +7,6 @@ author: Crìstean MacMhìcheil
 categories:
     - An Roinn Eòrpa
     - An t-Saoghal
-    - Iomairteachd
     - Lagh
     - Poileataigs
 ---
