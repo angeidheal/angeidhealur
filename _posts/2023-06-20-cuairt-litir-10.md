@@ -46,7 +46,7 @@ categories:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":2057} -->
-<figure class="wp-block-image aligncenter"><img src="https://angeidhealur.scot/wp-content/uploads/2023/06/Laurence-Fox-burns-pride-flag.jpeg" alt="" class="wp-image-2057"/></figure>
+<figure class="wp-block-image aligncenter"><img src="{{ site.baseurl}}/images/posts/Laurence-Fox-burns-pride-flag.jpeg" alt="" class="wp-image-2057"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -74,7 +74,7 @@ categories:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":2054} -->
-<figure class="wp-block-image aligncenter"><img src="https://angeidhealur.scot/wp-content/uploads/2023/06/Pride-Bristol-billboard.jpg" alt="" class="wp-image-2054"/></figure>
+<figure class="wp-block-image aligncenter"><img src="{{ site.baseurl}}/images/posts/Pride-Bristol-billboard.jpg" alt="" class="wp-image-2054"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -106,7 +106,7 @@ categories:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":2055} -->
-<figure class="wp-block-image aligncenter"><img src="https://angeidhealur.scot/wp-content/uploads/2023/06/FyR0PP3XsAAVbRN.jpeg" alt="" class="wp-image-2055"/></figure>
+<figure class="wp-block-image aligncenter"><img src="{{ site.baseurl}}/images/posts/FyR0PP3XsAAVbRN.jpeg" alt="" class="wp-image-2055"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
