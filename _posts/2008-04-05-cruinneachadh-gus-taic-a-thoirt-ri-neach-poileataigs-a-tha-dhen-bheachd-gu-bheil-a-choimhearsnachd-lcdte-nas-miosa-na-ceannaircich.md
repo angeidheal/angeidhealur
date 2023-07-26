@@ -5,7 +5,7 @@ title: Cruinneachadh gus taic a thoirt ri neach-poileataigs a tha dhen bheachd g
 image: /images/posts/2008-04-05-cruinneachadh-gus-taic-a-thoirt-ri-neach-poileataigs-a-tha-dhen-bheachd-gu-bheil-a-choimhearsnachd-lcdte-nas-miosa-na-ceannaircich.webp
 author: Crìstean MacMhìcheil
 categories:
-    - An t-Saoghal
+    - Eadar-nàiseanta
     - Poileataigs
 ---
 
