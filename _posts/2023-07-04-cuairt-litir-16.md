@@ -15,7 +15,6 @@ categories:
     - Cuairt-litir
     - Èirinn
     - Lagh
-    - Naidheachdan
     - Poileataigs
     - Pròis
 
