@@ -13,7 +13,6 @@ author: Crìstean MacMhìcheil
 categories:
     - Alba
     - Cultar
-    - Dibhearsan
     - Tachartasan
 
 mastodon:
