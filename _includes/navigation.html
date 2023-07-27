@@ -17,8 +17,24 @@
       <li class="nav-item">
         <a class="nav-link" href={{"/" | relative_url}} title="Dhachaigh | Home">Dhachaigh</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href={{"/lorg/" | relative_url}} title="Tasg-lannan | Archives">Tasg-lannan</a>
+      <li class="nav-item dropdown">
+        <a
+          class="nav-link dropdown-toggle"
+          href="#"
+          id="navbarDropdown"
+          role="button"
+          data-toggle="dropdown"
+          aria-haspopup="true"
+          aria-expanded="false"
+          title="Roinnean-seòrsa | Categories"
+        >
+          Roinnean‑seòrsa
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          {% for category in site.data.categories %}
+            <a class="dropdown-item" href="{{ category.url }}">{{ category.title }}</a>
+          {% endfor %}
+        </div>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://faclair.lgbt" title="Faclair nan Gèidheal">Faclair nan Gèidheal</a>
@@ -37,6 +53,9 @@
       </li>
       <li class="nav-item">
         <a class="nav-link" href={{"/mu-ar-deidhinn/" | relative_url}} title="Mu ar deidhinn | About Us">Mu ar deidhinn</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href={{"/lorg/" | relative_url}} title="Lorg | Search">Lorg</a>
       </li>
     </ul>
   </div>
