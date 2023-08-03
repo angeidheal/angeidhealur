@@ -35,8 +35,6 @@ Thèid binn-phriosain suas ri 2 bhliadhna agus/no peanas-airgid suas ri luach �
 
 ## Justin Fashanu
 
-![](/images/posts/2023-07-20-justin-fashanu.jpeg)
-
 Chaidh dealbh-balla a nochdadh ann an Norwich a' comharrachadh beatha Justin Fashanu.
 
 Chluich Fashanu airson Norwich City eadar 1978 agus 1981 agus chaidh e na chiad chluicheadair dubh gus cìs luach £1m fhaighinn nuair a thar-aisig e gu Nottingham Forrest.
@@ -52,3 +50,5 @@ Rinn e àiceadh gun d'thug e ionnsaigh dhrabasta air a' bhalach, agus thuirt e g
 Bha feise co-sheòrsach mì-laghail ann am Maryland ag an àm ge-tà agus bha eagal air nach faigheadh e triail chomthromach is mar sin theich e air ais a Shasainn far an do chur e làmh na bheatha fhèin.
 
 B' e 2022 mus tàinig cluicheadair ball-coise proifeasanta gèidh eile a-mach.
+
+![](/images/posts/2023-07-20-justin-fashanu.jpeg)
