@@ -6,7 +6,7 @@ date: 2023-07-20 19:21
 
 title: Cuairt-litir #20
 
-image: /images/posts/
+image:
 
 author: Crìstean MacMhìcheil
 
@@ -35,7 +35,7 @@ Thèid binn-phriosain suas ri 2 bhliadhna agus/no peanas-airgid suas ri luach �
 
 ## Justin Fashanu
 
-![](/images/2023-07-20-justin-fashanu.jpeg)
+![](/images/posts/2023-07-20-justin-fashanu.jpeg)
 
 Chaidh dealbh-balla a nochdadh ann an Norwich a' comharrachadh beatha Justin Fashanu.
 
