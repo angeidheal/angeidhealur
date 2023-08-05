@@ -10,7 +10,7 @@ image:
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Èirinn", "Lagh", "Poileataigs"]
+categories: ["An Rìoghachd Aonaichte", "Cuairt-litir", "Eadar-nàiseanta", "Èirinn", "Lagh", "Poileataigs"]
   
 ---
 
