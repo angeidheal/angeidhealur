@@ -10,7 +10,7 @@ image: /images/posts/2008-03-30-reachd-ameireaganach-ag-radh-gu-bheil-ainm-posta
 
 author: Crìstean MacMhìcheil
 
-categories: [Eadar-nàiseanta, Lagh, Poileataigs]
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
 
 ---
 

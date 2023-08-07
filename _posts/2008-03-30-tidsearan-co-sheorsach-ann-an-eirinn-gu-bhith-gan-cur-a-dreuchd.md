@@ -10,7 +10,7 @@ image: /images/posts/2008-03-30-tidsearan-co-sheorsach-ann-an-eirinn-gu-bhith-ga
 
 author: Crìstean MacMhìcheil
 
-categories: [Eadar-nàiseanta, Creideamh, Èirinn, Foghlam, Lagh]
+categories: ["Eadar-nàiseanta", "Creideamh", "Èirinn", "Foghlam", "Lagh"]
 
 ---
 

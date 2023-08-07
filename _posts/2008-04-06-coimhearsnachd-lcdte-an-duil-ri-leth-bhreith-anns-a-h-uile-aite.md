@@ -1,14 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-04-06 21:21
-title: Coimhearsnachd LCDTE an dùil ri leth-bhreith anns a h-uile àite
+
+title: "Coimhearsnachd LCDTE an dùil ri leth-bhreith anns a h-uile àite"
+
 image: /images/posts/2008-04-06-coimhearsnachd-lcdte-an-duil-ri-leth-bhreith-anns-a-h-uile-a-aite.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - An Rìoghachd Aonaichte
-    - Foghlam
-    - Gnìomhachas
-    - Poileataigs
+
+categories: ["An Rìoghachd Aonaichte", "Foghlam", "Gnìomhachas", "Poileataigs"]
+    
 ---
 
 Chaidh sgrùdadh ùr fhoillseachadh le *Stonewall* a tha a’ sealltainn gu bheil an coimhearsnachd LCDTE an còmhnaidh an dùil ri leth-bhreith anns a h-uile àite.

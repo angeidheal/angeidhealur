@@ -10,7 +10,7 @@ image: /images/posts/2008-03-28-duine-posta-air-ordughachadh-ri-airgead-sgaraidh
 
 author: Crìstean MacMhìcheil
 
-categories: [Eadar-nàiseanta, Lagh]
+categories: ["Eadar-nàiseanta", "Lagh"]
 
 ---
 

@@ -1,16 +1,17 @@
 ---
-id: 931
-title: 'Oileanaich air feadh nan Stàitean Aonaichte nan tost'
-date: '2008-04-25T11:22:51+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=931'
-permalink: /2008-04-25-oileanaich-air-feadh-nan-staitean-aonaichte-nan-tost/
+
+date: 2008-04-25 11:22:51
+
+title: "Oileanaich air feadh nan Stàitean Aonaichte nan tost"
+
 image: /images/posts/2008-04-25-oileanaich-air-feadh-nan-staitean-aonaichte-nan-tost.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Eadar-nàiseanta
-    - Foghlam
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Foghlam"]
+
 ---
 
 Bidh mìltean de dh’oileanaich nan tost anns na Stàitean Aonaichte an-diugh gus gràin-co-sheòrsachd ann an sgoiltean shoillseachadh.

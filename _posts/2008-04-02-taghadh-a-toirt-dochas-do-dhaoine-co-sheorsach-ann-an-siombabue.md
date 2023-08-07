@@ -1,12 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-04-02 10:20
-title: Taghadh a’ toirt dòchas do dhaoine co-sheòrsach ann an Sìombabue
+
+title: "Taghadh a’ toirt dòchas do dhaoine co-sheòrsach ann an Sìombabue"
+
 image: /images/posts/2008-04-02-taghadh-a-toirt-dochas-do-dhaoine-co-sheorsach-ann-an-siombabue.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - Eadar-nàiseanta
-    - Poileataigs
+
+categories: ["Eadar-nàiseanta", "Poileataigs"]
+
 ---
 
 Tha daoine co-sheòrsach ann an Sìombabue an dòchas gum bi smachd Robert Mugabe a’ tighinn gu crìoch an seachdain seo.

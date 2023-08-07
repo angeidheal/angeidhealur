@@ -10,7 +10,7 @@ image: /images/posts/2008-03-31-taic-airson-posaidhean-co-sheorsach-a-fas-nas-la
 
 author: Crìstean MacMhìcheil
 
-categories: [Eadar-nàiseanta, Èirinn, Lagh, Poileataigs]
+categories: ["Eadar-nàiseanta," "Èirinn", "Lagh", "Poileataigs"]
 
 ---
 

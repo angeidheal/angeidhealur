@@ -10,7 +10,7 @@ image: /images/posts/2008-03-31-ioranach-co-sheorsach-gu-bhith-a-fuireach-anns-a
 
 author: Crìstean MacMhìcheil
 
-categories: [Eadar-nàiseanta, Lagh, Poileataigs]
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
 
 ---
 

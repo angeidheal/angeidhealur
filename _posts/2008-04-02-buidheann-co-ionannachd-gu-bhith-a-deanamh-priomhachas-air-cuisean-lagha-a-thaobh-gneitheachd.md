@@ -1,13 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-04-02 10:43
-title: Buidheann co-ionannachd gu bhith a’ dèanamh prìomhachas air cùisean-lagha a-thaobh gnèitheachd
+
+title: "Buidheann co-ionannachd gu bhith a’ dèanamh prìomhachas air cùisean-lagha a-thaobh gnèitheachd"
+
 image: /images/posts/2008-04-02-buidheann-co-ionannachd-gu-bhith-a-deanamh-priomhachas-air-cuisean-lagha-a-thaobh-gneitheachd.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
+
+categories: ["An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+
 ---
 
 Chaidh sgeama stèidheachadh le Coimisean nan Còirichean Daonna agus Co-ionannachd (EHRC) a bhios a’ dèanamh prìomhachas air cùisean-lagha a-thaobh gnèitheachd.

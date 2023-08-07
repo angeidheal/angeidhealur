@@ -10,7 +10,7 @@ image: /images/posts/2008-03-18-michael-stipe-air-radh-gu-bheil-e-co-sheorsach.w
 
 author: Crìstean MacMhìcheil
 
-categories: [Cultar]
+categories: ["Cultar"]
 
 ---
 

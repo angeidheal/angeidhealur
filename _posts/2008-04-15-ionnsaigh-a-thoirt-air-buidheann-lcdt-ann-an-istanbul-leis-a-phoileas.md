@@ -1,15 +1,17 @@
 ---
-id: 952
-title: 'Ionnsaigh a thoirt air buidheann LCDT ann an Istanbul leis a’ Phoileas'
-date: '2008-04-15T08:35:37+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=952'
-permalink: /2008-04-15-ionnsaigh-a-thoirt-air-buidheann-lcdt-ann-an-istanbul-leis-a-phoileas/
-image: /images/posts/2008-04-15-ionnsaigh-a-thoirt-air-buidheann-lcdt-ann-an-istanbul-leis-a-phoileas.webp
-categories:
-    - Eadar-nàiseanta
-    - Lagh
+
+date: 2008-04-15 08:35:37
+
+title: "Ionnsaigh a thoirt air buidheann LCDT ann an Istanbul leis a’ Phoileas"
+
+mage: /images/posts/2008-04-15-ionnsaigh-a-thoirt-air-buidheann-lcdt-ann-an-istanbul-leis-a-phoileas.webp
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Lagh"]
+
 ---
 
 Tha Poileas ann an Istanbul, An Tuirc, air ionnsaigh a thoirt air buidheann LCDT agus tha iad air ràdh gun robh adhbhar aca air sgàth ’s cho tric ’s a bhios daoine tar-ghnèitheach a’ tadhal air na h-oifisean aca.

@@ -10,7 +10,7 @@ image: /images/posts/2008-03-17-nirribhidh-a-deanamh-posaidhean-aon-sheorsach-la
 
 author: Crìstean MacMhìcheil
 
-categories: [Eadar-nàiseanta, Lagh, Poileataigs]
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
 
 ---
 

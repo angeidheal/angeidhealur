@@ -1,16 +1,17 @@
 ---
-id: 943
-title: 'NHS anns a’ Chuimrigh airson seirbheisean co-ionann a thoirt ris a’ choimhearsnachd LCDTE'
-date: '2008-04-22T13:51:15+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=943'
-permalink: /2008-04-22-nhs-anns-a-chuimrigh-airson-seirbheisean-co-ionann-a-thoirt-ris-a-choimhearsnachd-lcdte/
+
+date: 2008-04-22 13:51:15
+
+title: "NHS anns a’ Chuimrigh airson seirbheisean co-ionann a thoirt ris a’ choimhearsnachd LCDTE"
+
 image: /images/posts/2008-04-22-nhs-anns-a-chuimrigh-airson-seirbheisean-co-ionann-a-thoirt-dhan-a-choimhearsnachd-lcdte.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Poileataigs
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Poileataigs", "Slàinte"]
+
 ---
 
 Tha Edwina Hart, Ministear Slàinte na Cuimrigh air stiùireadh ùr a thoirt ris an NHS anns an dùthaich.

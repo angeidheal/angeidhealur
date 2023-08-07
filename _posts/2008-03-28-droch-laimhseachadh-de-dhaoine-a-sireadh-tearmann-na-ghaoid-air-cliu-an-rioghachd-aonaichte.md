@@ -10,7 +10,7 @@ image: /images/posts/2008-03-28-droch-laimhseachadh-de-dhaoine-a-sireadh-tearman
 
 author: Crìstean MacMhìcheil
 
-categories: [An Rìoghachd Aonaichte, Eadar-nàiseanta, Poileataigs]
+categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Poileataigs"]
 
 ---
 

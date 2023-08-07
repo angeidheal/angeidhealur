@@ -1,12 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-04-02 10:59
-title: Neach-poileataigs air tionndadh an aghaidh PFLAG
+
+title: "Neach-poileataigs air tionndadh an aghaidh PFLAG"
+
 image: /images/posts/2008-04-02-neach-poileataigs-air-tionndadh-an-aghaidh-pflag.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - Eadar-nàiseanta
-    - Poileataigs
+
+categories: ["Eadar-nàiseanta", "Poileataigs"]
+
 ---
 
 Tha Riochdaire Sally Kern air tionndadh an aghaidh PFLAG an dèidh coinneamh dòchasach còmhla riutha seachdain seo chaidh.

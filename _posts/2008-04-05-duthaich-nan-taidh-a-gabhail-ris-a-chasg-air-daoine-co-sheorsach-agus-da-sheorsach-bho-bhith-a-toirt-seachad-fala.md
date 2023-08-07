@@ -1,15 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-04-05 18:35
-title: Dùthaich nan Tàidh a’ gabhail ris a’ chasg air daoine co-sheòrsach agus dà-sheòrsach bho bhith a’ toirt seachad fala
+
+title: "Dùthaich nan Tàidh a’ gabhail ris a’ chasg air daoine co-sheòrsach agus dà-sheòrsach bho bhith a’ toirt seachad fala"
+
 image: /images/posts/2008-04-05-duthaich-nan-taidh-a-gabhail-ris-a-chasg-air-daoine-co-sheorsach-agus-da-sheorsach-bho-bhith-a-toirt-seachad-fala.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
-    - Saidheans
-    - Slàinte
+
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs", "Saidheans", "Slàinte"]
+
 ---
 
 Tha a’ Chrois Dhearg ann an Dùthaich na Tàidh air co-dhùnadh a dhèanamh gum bi iad a’ gabhail ri lagh a bhios a’ cur casg air daoine co-sheòrsach agus dà-sheòrsach bho bhith a’ toirt seachad fala.

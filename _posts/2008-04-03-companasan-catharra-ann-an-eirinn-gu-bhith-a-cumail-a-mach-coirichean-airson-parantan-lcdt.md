@@ -1,14 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-04-03 19:59
-title: Companasan-catharra ann an Èirinn gu bhith a’ cumail a-mach còirichean airson pàrantan LCDT
+
+title: "Companasan-catharra ann an Èirinn gu bhith a’ cumail a-mach còirichean airson pàrantan LCDT"
+
 image: /images/posts/2008-04-03-companasan-catharra-ann-an-eirinn-gu-bhith-a-cumail-a-mach-coirichean-airson-parantan-lcdt.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - Eadar-nàiseanta
-    - Èirinn
-    - Lagh
-    - Poileataigs
+
+categories: ["Eadar-nàiseanta", "Èirinn", "Lagh", "Poileataigs"]
+
 ---
 
 Chaidh dùilean a briseadh ann an Èirinn as dèidh dhan Riaghaltas a dhearbhadh nach tèid còirichean co-ionann a thoirt ri pàrantan LCDT mar phàirt de lagh ùr a bhios ag aithneachadh companasan-catharra.

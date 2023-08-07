@@ -10,7 +10,7 @@ image: /images/posts/2008-03-27-duine-trom-air-bruidhinn-a-mach-an-aghaidh-seirb
 
 author: Crìstean MacMhìcheil
 
-categories: [Eadar-nàiseanta, Slàinte]
+categories: ["Eadar-nàiseanta", "Slàinte"]
 
 ---
 

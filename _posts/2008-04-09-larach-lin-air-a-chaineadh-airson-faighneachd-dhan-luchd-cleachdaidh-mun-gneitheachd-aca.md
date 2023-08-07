@@ -1,17 +1,17 @@
 ---
-id: 963
-title: 'Làrach-lìn air a chàineadh airson faighneachd dhan luchd-cleachdaidh mun gnèitheachd aca'
-date: '2008-04-09T08:30:35+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=963'
-permalink: /2008-04-09-larach-lin-air-a-chaineadh-airson-faighneachd-dhan-luchd-cleachdaidh-mun-gneitheachd-aca/
+
+date: 2008-04-09 08:30:35
+
+title: "Làrach-lìn air a chàineadh airson faighneachd dhan luchd-cleachdaidh mun gnèitheachd aca"
+
 image: /images/posts/2008-04-09-larach-lin-air-a-chaineadh-airson-faighneachd-dhan-luchd-cleachdaidh-mun-gneitheachd-aca.webp
-categories:
-    - Eadar-nàiseanta
-    - Gnìomhachas
-    - Lagh
-    - Teicneòlas
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Gnìomhachas", "Lagh", "Teicneòlas"]
+
 ---
 
 Chaidh bacadh a chur air làrach-lìn, a tha a’ toirt seachad seirbheis gus companaich flat a lorg, le cùirt anns na Stàitean Aonaichte air sgàth ’s gun robh an làrach-lìn a’ cur ceistean air na buill mu dheidhinn an gnèitheachd aca.

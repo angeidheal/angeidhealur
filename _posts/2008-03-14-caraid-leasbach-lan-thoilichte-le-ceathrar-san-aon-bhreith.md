@@ -10,7 +10,7 @@ image: /images/posts/2008-03-14-caraid-leasbach-lan-thoilichte-le-ceathrar-san-a
 
 author: Crìstean MacMhìcheil
 
-categories: [Eadar-nàiseanta]
+categories: ["Eadar-nàiseanta"]
 
 ---
 

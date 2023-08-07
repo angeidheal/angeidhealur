@@ -1,11 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-04-07 07:14
-title: Eminem gu bhith a’ riochdachadh Elton John ann am film ùr
+
+title: "Eminem gu bhith a’ riochdachadh Elton John ann am film ùr"
+
 image: /images/posts/2008-04-07-eminem-gu-bhith-a-riochdachadh-elton-john-ann-am-film-ur.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - Cultar
+
+categories: ["Cultar"]
+
 ---
 
 Tha Eminem (Marshall Bruce Mathers III) gu bhith a’ riochdachadh Sir Elton John ann am film ùr mu dheidhinn beatha an seinneadair co-sheòrsach.

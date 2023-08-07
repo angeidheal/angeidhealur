@@ -1,12 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-04-08 19:29
-title: Lìon-sòisealta ùr do phàrantan LCDT
+
+title: "Lìon-sòisealta ùr do phàrantan LCDT"
+
 image: /images/posts/2008-04-08-lion-soisealta-ur-do-pharantan-lcdt.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - An Rìoghachd Aonaichte
-    - Teicneòlas
+
+categories: ["An Rìoghachd Aonaichte", "Teicneòlas"]
+
 ---
 
 Chaidh lìon-sòisealta ùr do phàrantan LCDT a chruthachadh le càraid co-sheòrsach gus taic a thoirt ri càraidean LCDT eile a tha airson leanabh uchd-mhacachadh.

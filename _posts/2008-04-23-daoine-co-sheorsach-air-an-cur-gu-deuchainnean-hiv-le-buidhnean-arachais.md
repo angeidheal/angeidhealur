@@ -1,16 +1,17 @@
 ---
-id: 937
-title: 'Daoine co-sheòrsach air an cur gu deuchainnean HIV le buidhnean àrachais'
-date: '2008-04-23T18:33:17+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=937'
-permalink: /2008-04-23-daoine-co-sheorsach-air-an-cur-gu-deuchainnean-hiv-le-buidhnean-arachais/
+
+date: 2008-04-23 18:33:17
+
+title: "Daoine co-sheòrsach air an cur gu deuchainnean HIV le buidhnean àrachais"
+
 image: /images/posts/2008-04-23-daoine-co-sheorsach-air-an-cur-gu-deuchainnean-hiv-le-buidhnean-arachais.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Gnìomhachas
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Gnìomhachas", "Slàinte"]
+
 ---
 
 Chaidh sgrùdadh a dhèanamh le [Compass IFA](http://www.compassifa.co.uk/ "Làrach-lìn aig Compass IFA"), buidheann a tha a’ toirt comhairle do dhaoine co-sheòrsach a thaobh ionmhais, a tha a’ sealltainn gu bheil na buidhnean àrachais [Legal &amp; General](http://www.legalandgeneral.com/ "Làrach-lìn aig Legal & General") agus [AEGON](http://www.aegon.com/ "Làrach-lìn aig AEGON") fhathast a’ cur daoine co-sheòrsach gu deuchainnean HIV mus faigh iad àrachas slàinte.

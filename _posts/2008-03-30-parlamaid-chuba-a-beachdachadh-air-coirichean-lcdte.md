@@ -10,7 +10,7 @@ image: /images/posts/2008-03-30-parlamaid-chuba-a-beachdachadh-air-coirichean-lc
 
 author: Crìstean MacMhìcheil
 
-categories: [Eadar-nàiseanta, Lagh, Poileataigs]
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
 
 ---
 

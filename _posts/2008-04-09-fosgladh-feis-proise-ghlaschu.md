@@ -1,13 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-04-09 19:02
-title: Fosgladh Fèis-pròise Ghlaschu
+
+title: "Fosgladh Fèis-pròise Ghlaschu"
+
 image: /images/posts/2008-04-09-fosgladh-pride-glaschu.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Pròis
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+
 ---
 
 Bu tòigh le Fèis-pròise Ghlaschu fàilte a chur air a h-uile duine a bhios airson tighinn ris am fosgladh aca.

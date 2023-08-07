@@ -10,7 +10,7 @@ image: /images/posts/2008-03-17-buidheann-irish-queers-a-togail-fianai-an-aghaid
 
 author: Crìstean MacMhìcheil
 
-categories: [Eadar-nàiseanta, Creideamh]
+categories: ["Eadar-nàiseanta", "Creideamh"]
 
 ---
 

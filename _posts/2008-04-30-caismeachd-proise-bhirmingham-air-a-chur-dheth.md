@@ -1,15 +1,17 @@
 ---
-id: 922
-title: 'Caismeachd-pròise Bhirmingham air a chur dheth'
-date: '2008-04-30T18:52:16+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=922'
-permalink: /2008-04-30-caismeachd-proise-bhirmingham-air-a-chur-dheth/
+
+date: 2008-04-30 18:52:16
+
+title: "Caismeachd-pròise Bhirmingham air a chur dheth"
+
 image: /images/posts/2008-04-30-caismeachd-proise-bhirmingham-air-a-chur-dheth.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Pròis"]
+
 ---
 
 Cha tèid caismeachd-pròise Bhirmingham air adhart am-bliadhna air sgàth ’s trioblaidean ionmhais.

@@ -10,10 +10,7 @@ image: /images/posts/2008-03-30-iosrael-air-bhiosa-a-thoirt-ri-palastaineach-co-
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
 ---
 
 Tha Iosrael air bhìosa a thoirt ri Palastaineach co-sheòrsach air sgàth ’s gun robh e ann an cunnart anns a’ Bhruach an Iar.

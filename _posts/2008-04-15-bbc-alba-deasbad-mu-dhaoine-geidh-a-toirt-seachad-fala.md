@@ -1,19 +1,17 @@
 ---
-id: 958
-title: 'BBC Alba: Deasbad mu dhaoine gèidh a’ toirt seachad fala'
-date: '2008-04-15T09:45:56+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=958'
-permalink: /2008-04-15-bbc-alba-deasbad-mu-dhaoine-geidh-a-toirt-seachad-fala/
+
+date: 2008-04-15 09:45:56
+
+title: "BBC Alba: Deasbad mu dhaoine gèidh a’ toirt seachad fala"
+
 image: /images/posts/2008-04-15-bbc-alba-deasbad-mu-dhaoine-geidh-a-toirt-seachad-fala.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
-    - Saidheans
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs", "Saidheans", "Slàinte"]
+
 ---
 
 Nochd an sgeulachd seo air [làrach-lìn a’ BhBC](http://www.bbc.co.uk/scotland/alba/naidheachdan/story/2008/04/080415_blood.shtml "Deasbad mu dhaoine gèidh a' toirt seachad fala") na bu tràithe:-

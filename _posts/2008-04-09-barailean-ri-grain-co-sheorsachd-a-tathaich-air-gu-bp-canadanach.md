@@ -1,12 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-04-09 12:51
-title: Barailean ri gràin-co-sheòrsachd a’ tathaich air gu BP Canadanach
+
+title: "Barailean ri gràin-co-sheòrsachd a’ tathaich air gu BP Canadanach"
+
 image: /images/posts/2008-04-09-barailean-ri-grain-co-sheorsachd-a-tathaich-air-gu-bp-canadanach.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - Eadar-nàiseanta
-    - Poileataigs
+
+categories: ["Eadar-nàiseanta", "Poileataigs"]
+
 ---
 
 Tha ball pàrlamaid ann an Canada air leisgeul a dhèanamh as dèidh bhidio fhoillseachadh anns a thuirt e gun robh daoine co-sheòrsach “galarach”.

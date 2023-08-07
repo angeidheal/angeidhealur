@@ -10,7 +10,7 @@ image: /images/posts/2008-03-19-siridheach-co-sheorsach-gu-bhith-a-fuadach-a-mac
 
 author: Crìstean MacMhìcheil
 
-categories: [Alba, An Rìoghachd Aonaichte, Eadar-nàiseanta, Lagh, Poileataigs]
+categories: ["Alba", "An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Lagh", "Poileataigs"]
 
 ---
 

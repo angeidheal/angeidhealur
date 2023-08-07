@@ -10,7 +10,7 @@ image: /images/posts/2008-03-14-buidheann-lcdt-greigeach-air-bearn-a-lorg-ann-an
 
 author: Crìstean MacMhìcheil  
 
-categories: [Eadar-nàiseanta, Lagh, Poileataigs]
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
 
 ---
 

@@ -1,16 +1,17 @@
 ---
-id: 940
-title: 'Coimisean Eòrpach air òrdugh leth-bhreith a thrèigsinn'
-date: '2008-04-23T14:53:15+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=940'
-permalink: /2008-04-23-coimisean-eorpach-air-ordugh-leth-bhreith-a-threigsinn/
+
+date: 2008-04-23 14:53:15
+
+title: "Coimisean Eòrpach air òrdugh leth-bhreith a thrèigsinn"
+
 image: /images/posts/2008-04-23-coimisean-eorpach-air-ordugh-leth-bhreith-a-threigsinn.webp
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
+
 ---
 
 Air sgàth ’s gearanan bhon a’ Ghearmailt agus eile tha an t-Aonadh Eòrpach air òrdugh a bhiodh a’ dìon daoine LCDT bho leth-bhreith a thrèigsinn.

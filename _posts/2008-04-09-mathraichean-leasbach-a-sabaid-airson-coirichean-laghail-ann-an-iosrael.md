@@ -1,16 +1,17 @@
 ---
-id: 960
-title: 'Màthraichean leasbach a’ sabaid airson còirichean laghail ann an Iosrael'
-date: '2008-04-09T13:46:31+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=960'
-permalink: /2008-04-09-mathraichean-leasbach-a-sabaid-airson-coirichean-laghail-ann-an-iosrael/
+
+date: 2008-04-09 13:46:31
+
+title: "Màthraichean leasbach a’ sabaid airson còirichean laghail ann an Iosrael"
+
 image: /images/posts/2008-04-09-mathraichean-leasbach-a-sabaid-airson-coirichean-laghail-ann-iosrael.webp
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
+
 ---
 
 Tha màthraichean leasbach ann an Iosrael a’ sabaid gus am bi iad air ainmeachadh air teisteanas breith an leanabh aca.

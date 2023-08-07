@@ -10,7 +10,7 @@ image: /images/posts/2008-03-18-co-dhunadh-uchd-mhacachaidh-mar-eisimpleir-ann-a
 
 author: Crìstean MacMhìcheil
 
-categories: [Eadar-nàiseanta, Lagh]
+categories: ["Eadar-nàiseanta", "Lagh"]
 
 ---
 

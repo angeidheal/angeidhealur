@@ -1,14 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-04-07 19:55
-title: Coimhearsnachd eadar-nàiseanta a’ cur cuideam air an Èipheit air sgàth casaidean HIV/AIDS
+
+title: "Coimhearsnachd eadar-nàiseanta a’ cur cuideam air an Èipheit air sgàth casaidean HIV/AIDS"
+
 image: /images/posts/2008-04-07-coimhearsnachd-eadar-naiseanta-a-cur-cuideam-air-an-eipheit-air-sgsth-s-casaidean-hiv-aids.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
-    - Slàinte
+
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs", "Slàinte"]
+
 ---
 
 Tha còrr ’s 115 buidhnean còirichean daonna air cuideam a chur air an Èipheit air sgàth casaidean HIV.

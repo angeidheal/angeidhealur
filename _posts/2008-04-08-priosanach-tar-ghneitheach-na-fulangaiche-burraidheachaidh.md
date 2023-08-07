@@ -1,12 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-04-08 15:23
-title: Prìosanach tar-ghnèitheach na fulangaiche burraidheachaidh
+
+title: "Prìosanach tar-ghnèitheach na fulangaiche burraidheachaidh"
+
 image: /images/posts/2008-04-08-priosanach-tar-ghneitheach-na-fulangaiche-burraidheachaidh.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - An Rìoghachd Aonaichte
-    - Lagh
+
+categories: ["An Rìoghachd Aonaichte", "Lagh"]
+
 ---
 
 Tha fianais ùr air nochdadh gun do rinn boireannach tar-ghnèitheach gearan mus do chur à dhì fèin gun robh prìosanaich eile ga burraidheachd air sgàth ’s an gnè aice.

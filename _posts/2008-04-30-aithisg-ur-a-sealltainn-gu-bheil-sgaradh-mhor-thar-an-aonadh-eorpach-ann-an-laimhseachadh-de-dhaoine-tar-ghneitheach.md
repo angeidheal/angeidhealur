@@ -1,16 +1,17 @@
 ---
-id: 928
-title: 'Aithisg ùr a’ sealltainn gu bheil sgaradh mhòr thar an Aonadh Eòrpach ann an làimhseachadh de dhaoine tar-ghnèitheach'
-date: '2008-04-30T08:48:28+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=928'
-permalink: /2008-04-30-aithisg-ur-a-sealltainn-gu-bheil-sgaradh-mhor-thar-an-aonadh-eorpach-ann-an-laimhseachadh-de-dhaoine-tar-ghneitheach/
+
+date: 2008-04-30 08:48:28
+
+title: "Aithisg ùr a’ sealltainn gu bheil sgaradh mhòr thar an Aonadh Eòrpach ann an làimhseachadh de dhaoine tar-ghnèitheach"
+
 image: /images/posts/2008-04-30-aithisg-ur-a-sealltainn-gu-bheil-sgaradh-mhor-thar-an-aonadh-eorpach-ann-an-laimhseachadh-de-dhaoine-tar-ghneitheach.webp
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
+
 ---
 
 Tha [Comann Eadar-nàiseanta Leasbach agus Co-sheòrsach](http://www.ilga.org/ "An làrach-lìn aig Comann Eadar-nàiseanta nan Leasbaich is Daoine Co-sheòrsach") (ILGA) air aithisg ùr fhoillseachadh a tha a’ sealltainn gu bheil sgaradh mhòr thar an Aonadh Eòrpach ann an làimhseachadh de dhaoine tar-ghnèitheach.

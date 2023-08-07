@@ -1,16 +1,17 @@
 ---
-id: 955
-title: 'Ceannard an Eaglais Anglican a’ cur taic ri casg air càraidean co-sheòrsach aig a’ Phrom'
-date: '2008-04-15T08:22:36+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=955'
-permalink: /2008-04-15-ceannard-an-eaglais-anglican-a-cur-taic-ri-casg-air-caraidean-co-sheorsach-aig-a-phrom/
+
+date: 2008-04-15 08:22:36
+
+title: "Ceannard an Eaglais Anglican a’ cur taic ri casg air càraidean co-sheòrsach aig a’ Phrom"
+
 image: /images/posts/2008-04-15-ceannard-an-eaglais-anglican-a-cur-taic-ri-casg-air-caraidean-co-sheorsach-aig-a-phrom.webp
-categories:
-    - Eadar-nàiseanta
-    - Creideamh
-    - Foghlam
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Creideamh", "Foghlam"]
+
 ---
 
 Tha ceannard an Eaglais Anglach ann an Astràilia air taic a thoirt ri casg air càraidean co-sheòrsach aig a’ Phrom.

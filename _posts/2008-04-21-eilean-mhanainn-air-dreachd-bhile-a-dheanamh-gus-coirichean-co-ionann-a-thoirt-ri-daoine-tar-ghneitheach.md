@@ -1,17 +1,17 @@
 ---
-id: 949
-title: 'Eilean Mhanainn air dreachd bhile a dhèanamh gus còirichean co-ionann a thoirt ri daoine tar-ghnèitheach'
-date: '2008-04-21T14:39:07+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=949'
-permalink: /2008-04-21-eilean-mhanainn-air-dreachd-bhile-a-dheanamh-gus-coirichean-co-ionann-a-thoirt-ri-daoine-tar-ghneitheach/
+
+date: 2008-04-21 14:39:07
+
+title: "Eilean Mhanainn air dreachd bhile a dhèanamh gus còirichean co-ionann a thoirt ri daoine tar-ghnèitheach"
+
 image: /images/posts/2008-04-21-eilean-mhanainn-air-dreachd-bhile-a-dheanamh-gus-coirichean-co-ionann-a-thoirt-ri-tar-ghneithich.webp
-categories:
-    - Eadar-nàiseanta
-    - Eilean Mhanainn
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Eilean Mhanainn", "Lagh", "Poileataigs"]
+
 ---
 
 Tha Eilean Mhanainn air dreachd bhile fhoillseachadh a bhios ag aithneachadh daoine tar-ghnèitheach gu h-oifigeil.

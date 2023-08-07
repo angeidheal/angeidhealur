@@ -10,7 +10,7 @@ image: /images/posts/2008-03-14-easbaig-a-tha-ri-grain-co-sheorsachd-neo-criosda
 
 author: Crìstean MacMhìcheil
 
-categories: [Alba, An Rìoghachd Aonaichte, Creideamh, Poileataigs]
+categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh", "Poileataigs"]
 
 ---
 

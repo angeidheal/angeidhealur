@@ -1,16 +1,17 @@
 ---
-id: 925
-title: 'Ath-leasachaidhean a’ toirt co-ionannachd do dhaoine LCDT ann an Astràilia'
-date: '2008-04-30T18:15:17+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=925'
-permalink: /2008-04-30-ath-leasachaidhean-a-toirt-co-ionannachd-do-dhaoine-lcdt-ann-an-astrailia/
+
+date: 2008-04-30 18:15:17
+
+title: "Ath-leasachaidhean a’ toirt co-ionannachd do dhaoine LCDT ann an Astràilia"
+
 image: /images/posts/2008-04-30-ath-leasachaidhean-a-toirt-co-ionannachd-do-dhaoine-lcdt-ann-an-astrailia.webp
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
+
 ---
 
 Tha Riaghaltas na h-Astràilia air còrr ’s 100 ath-leasachaidhean a dhèanamh gus còirichean co-ionann a thoirt do dhaoine LCDT.

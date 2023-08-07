@@ -1,12 +1,17 @@
 ---
+
 layout: post
+
 date: 2008-04-08 18:10
-title: Cardiff an dùil ri fèis-pròise a chumail am bliadhna
+
+title: "Cardiff an dùil ri fèis-pròise a chumail am bliadhna"
+
 image: /images/posts/2008-04-08-cardiff-an-duil-ri-feis-proise-a-chumail-am-bliadhna.webp
+
 author: Crìstean MacMhìcheil
-categories:
-    - An Rìoghachd Aonaichte
-    - Pròis
+
+categories: ["An Rìoghachd Aonaichte", "Pròis"]
+
 ---
 
 Thèid coinneamh a chumail an seachdain seo gus deasbad a dhèanamh air fèis-pròise a chumail ann an Cardiff.

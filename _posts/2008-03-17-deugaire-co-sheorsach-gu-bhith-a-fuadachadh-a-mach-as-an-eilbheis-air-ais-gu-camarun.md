@@ -10,7 +10,7 @@ image: /images/posts/2008-03-17-deugaire-co-sheorsach-gu-bhith-a-fuadachadh-a-ma
 
 author: Crìstean MacMhìcheil
 
-categories: [Eadar-nàiseanta, Lagh, Poileataigs]
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
 
 ---
 

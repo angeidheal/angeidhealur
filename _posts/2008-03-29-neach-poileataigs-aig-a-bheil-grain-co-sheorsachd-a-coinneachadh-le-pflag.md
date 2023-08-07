@@ -10,7 +10,7 @@ image: /images/posts/2008-03-29-neach-poileataigs-aig-a-bheil-grain-co-sheorsach
 
 author: Crìstean MacMhìcheil
 
-categories: [Eadar-nàiseanta, Poileataigs]
+categories: ["Eadar-nàiseanta", "Poileataigs"]
 
 ---
 
