@@ -1,15 +1,17 @@
 ---
-id: 900
-title: 'Pòsadh… ‘the Final Frontier’'
-date: '2008-05-21T11:19:53+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=900'
-permalink: /2008-05-21-posadh-the-final-frontier/
+
+date: 2008-05-21 11:19:53
+
+title: "Pòsadh… "the Final Frontier""
+
 image: /images/posts/2008-05-21-posadh-the-final-frontier.webp
-categories:
-    - Eadar-nàiseanta
-    - Cultar
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Cultar"]
+
 ---
 
 Tha George Takei air fhoillseachadh air an làrach-lìn aige gu bheil e an dùil a chompanach, Brad Altman, a phòsadh.

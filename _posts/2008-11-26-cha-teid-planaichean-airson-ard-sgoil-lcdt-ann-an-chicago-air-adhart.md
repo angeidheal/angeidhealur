@@ -1,15 +1,17 @@
 ---
-id: 840
-title: 'Cha tèid planaichean airson àrd-sgoil LCDT ann an Chicago air adhart'
-date: '2008-11-26T16:37:40+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=840'
-permalink: /2008-11-26-cha-teid-planaichean-airson-ard-sgoil-lcdt-ann-an-chicago-air-adhart/
+
+date: 2008-11-26 16:37:40
+
+title: "Cha tèid planaichean airson àrd-sgoil LCDT ann an Chicago air adhart"
+
 image: /images/posts/2008-11-26-cha-teid-planaichean-airson-ard-sgoil-lcdt-ann-an-chicago-air-adhart.webp
-categories:
-    - Eadar-nàiseanta
-    - Foghlam
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Foghlam"]
+
 ---
 
 Tha luchd-foghlaim ann an Chicago air a ràdh nach tèid planaichean airson sgoil LCDT fhosgladh sa bhaile air adhart.

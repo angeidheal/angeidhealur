@@ -1,15 +1,17 @@
 ---
-id: 783
-title: 'A’ chiad seirbheis aon-sheòrsach Eilean Leòdhais an-diugh'
-date: '2009-07-20T06:55:25+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=783'
-permalink: /2009-07-20-a-chiad-seirbheis-aon-sheorsach-eilean-leodhais-an-diugh/
+
+date: 2009-07-20 06:55:25
+
+title: "A’ chiad seirbheis aon-sheòrsach Eilean Leòdhais an-diugh"
+
 image: /images/posts/2009-07-20-a-chiad-seirbheis-aon-sheorsach-eilean-leodhais-an-diugh.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte"]
+
 ---
 
 Thèid a’ chiad seirbheis aon-sheòrsach a chumail ann an Eilean Leòdhais an-diugh nuair a thèid Anndra Robasdan agus Craig Atkins am pòsadh.

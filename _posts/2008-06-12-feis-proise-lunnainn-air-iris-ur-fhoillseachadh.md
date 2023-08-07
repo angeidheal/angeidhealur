@@ -1,15 +1,17 @@
 ---
-id: 894
-title: 'Fèis-pròise Lunnainn air iris ùr fhoillseachadh'
-date: '2008-06-12T12:57:57+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=894'
-permalink: /2008-06-12-feis-proise-lunnainn-air-iris-ur-fhoillseachadh/
+
+date: 2008-06-12 12:57:57
+
+title: "Fèis-pròise Lunnainn air iris ùr fhoillseachadh"
+
 image: /images/posts/2008-06-12-feis-proise-lunnainn-air-iris-ur-fhoillseachadh.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Pròis"]
+
 ---
 
 Tha [Fèis-pròise Lunnainn](https://prideinlondon.org/) air iris ùr fhoillseachadh an còis an caismeachd fhèin leis an dùil barrachd daoine a tharraing ris an tachartas am-bliadhna.

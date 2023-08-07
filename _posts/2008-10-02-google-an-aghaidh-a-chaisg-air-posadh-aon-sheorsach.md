@@ -1,18 +1,17 @@
 ---
-id: 865
-title: 'Google an aghaidh a’ chaisg air pòsadh aon-sheòrsach'
-date: '2008-10-02T21:10:11+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=865'
-permalink: /2008-10-02-google-an-aghaidh-a-chaisg-air-posadh-aon-sheorsach/
+
+date: 2008-10-02 21:10:11
+
+title: "Google an aghaidh a’ chaisg air pòsadh aon-sheòrsach"
+
 image: /images/posts/2008-10-02-google-an-aghaidh-a-chaisg-air-posadh-aon-sheorsach.webp
-categories:
-    - Eadar-nàiseanta
-    - Gnìomhachas
-    - Lagh
-    - Poileataigs
-    - Teicneòlas
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Gnìomhachas", "Lagh", "Poileataigs", "Teicneòlas"]
+
 ---
 
 Tha Google air ràdh gu bheil iad an aghaidh a’ chaisg air pòsadh aon-sheòrsach ann an California.

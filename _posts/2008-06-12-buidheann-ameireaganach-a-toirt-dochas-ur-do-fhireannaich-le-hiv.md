@@ -1,16 +1,17 @@
 ---
-id: 897
-title: 'Buidheann Ameireaganach a’ toirt dòchas ùr do fhireannaich le HIV'
-date: '2008-06-12T14:46:07+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=897'
-permalink: /2008-06-12-buidheann-ameireaganach-a-toirt-dochas-ur-do-fhireannaich-le-hiv/
+
+date: 2008-06-12 14:46:07
+
+title: "Buidheann Ameireaganach a’ toirt dòchas ùr do fhireannaich le HIV"
+
 image: /images/posts/2008-06-12-buidheann-ameireaganach-a-toirt-dochas-ur-do-fireannaich-le-hiv.webp
-categories:
-    - Eadar-nàiseanta
-    - Saidheans
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Saidheans", "Slàinte"]
+
 ---
 
 Tha fireannaich HIV+ anns na Stàitean Aonaichte a’ cur dòchas anns a’ bhuidheann [Growing Generations](http://www.growinggenerations.com/ "Làrach-lìn aig Growing Generations") a tha ag ràdh gum faod iad a bhith nam pàrantan.

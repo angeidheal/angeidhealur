@@ -1,16 +1,17 @@
 ---
-id: 891
-title: 'Bile ùr a’ brosnachadh co-ionannachd do dhaoine LCDT'
-date: '2008-06-22T18:03:09+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=891'
-permalink: /2008-06-22-bile-ur-a-brosnachadh-co-ionannachd-do-dhaoine-lcdt/
+
+date: 2008-06-22 18:03:09
+
+title: "Bile ùr a’ brosnachadh co-ionannachd do dhaoine LCDT"
+
 image: /images/posts/2008-06-22-bile-ur-a-brosnachadh-co-ionannachd-do-dhaoine-lcdt.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+
 ---
 
 Thèid bile ùr a bhios a’ brosnachadh co-ionannachd do dhaoine LCDT ainmeachadh gu h-oifigeil leis a’ Bhanrigh anns an òraid aice san t-Samhain.

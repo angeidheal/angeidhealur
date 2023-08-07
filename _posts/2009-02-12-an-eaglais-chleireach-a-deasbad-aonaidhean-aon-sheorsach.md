@@ -1,15 +1,17 @@
 ---
-id: 819
-title: 'An Eaglais Chlèireach a’ deasbad aonaidhean aon-sheòrsach'
-date: '2009-02-12T13:34:20+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=819'
-permalink: /2009-02-12-an-eaglais-chleireach-a-deasbad-aonaidhean-aon-sheorsach/
+
+date: 2009-02-12 13:34:20
+
+title: "An Eaglais Chlèireach a’ deasbad aonaidhean aon-sheòrsach"
+
 image: /images/posts/2009-02-12-an-eaglais-chleireach-a-deasbad-aonaidhean-aon-sheorsach.webp
-categories:
-    - Eadar-nàiseanta
-    - Creideamh
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Creideamh"]
+
 ---
 
 Tha Eaglais Chlèireach nan Stàitean Aonaichte air comataidh ùr stèidheachadh gus sgrùdadh a dhèanamh air dè an t-àite a bu chòir a bhith aig aonaidhean aon-sheòrsach sa Chrìosdachd agus sa choimhearsnachd san fharsaingeachd.

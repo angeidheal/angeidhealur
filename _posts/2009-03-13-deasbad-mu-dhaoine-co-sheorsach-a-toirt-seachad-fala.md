@@ -1,18 +1,17 @@
 ---
-id: 811
-title: 'Deasbad mu dhaoine co-sheòrsach a’ toirt seachad fala'
-date: '2009-03-13T22:11:56+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=811'
-permalink: /2009-03-13-deasbad-mu-dhaoine-co-sheorsach-a-toirt-seachad-fala/
+
+date: 2009-03-13 22:11:56
+
+title: "Deasbad mu dhaoine co-sheòrsach a’ toirt seachad fala"
+
 image: /images/posts/2009-03-13-deasbad-mu-dhaoine-co-sheorsach-a-toirt-seachad-fala.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs", "Slàinte"]
+
 ---
 
 Thèid ath-sgrùdadh a dhèanamh air an casg a th’ air fireannaich co-sheòrsach agus dà-sheòrsach bho bhith a’ toirt seachad fala.

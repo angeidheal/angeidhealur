@@ -1,16 +1,17 @@
 ---
-id: 802
-title: 'Gearanan a’ cur bacadh air ministear co-sheòrsach'
-date: '2009-03-24T18:32:58+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=802'
-permalink: /2009-03-24-gearanan-a-cur-bacadh-air-ministear-co-sheorsach/
+
+date: 2009-03-24 18:32:58
+
+title: "Gearanan a’ cur bacadh air ministear co-sheòrsach"
+
 image: /images/posts/2009-03-24-gearanan-a-cur-bacadh-air-ministear-co-sheorsach.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Creideamh
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh"]
+
 ---
 
 Thèid coinneamh a chumail gus deasbad ma bhios ministear co-sheòrsach ann an Obair Dheathain comasach air obair airson an eaglais.

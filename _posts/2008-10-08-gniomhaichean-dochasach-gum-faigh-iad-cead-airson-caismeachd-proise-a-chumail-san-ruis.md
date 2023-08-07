@@ -1,15 +1,17 @@
 ---
-id: 854
-title: 'Gnìomhaichean dòchasach gum faigh iad cead airson caismeachd pròise a chumail san Ruis'
-date: '2008-10-08T18:42:41+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=854'
-permalink: /2008-10-08-gniomhaichean-dochasach-gum-faigh-iad-cead-airson-caismeachd-proise-a-chumail-san-ruis/
+
+date: 2008-10-08 18:42:41
+
+title: "Gnìomhaichean dòchasach gum faigh iad cead airson caismeachd pròise a chumail san Ruis"
+
 image: /images/posts/2008-10-08-gniomhaichean-dochasach-gum-faigh-iad-cead-airson-caismeachd-proise-a-chumail-san-ruis.webp
-categories:
-    - Eadar-nàiseanta
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Pròis"]
+
 ---
 
 Tha gnìomhaichean Nicolas Alexeyev agus Anna Komarova ann an Tambov, an Ruis, an dùil tagradh a chur a-steach gus caismeachd pròise a chumail sa bhaile.

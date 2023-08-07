@@ -1,15 +1,17 @@
 ---
-id: 822
-title: 'Daoine LCDT a’ togail casaid an-aghaidh Riaghaltas Bhachrain'
-date: '2009-01-29T18:14:17+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=822'
-permalink: /2009-01-29-daoine-lcdt-a-togail-casaid-an-aghaidh-riaghaltas-bhachrain/
+
+date: 2009-01-29 18:14:17
+
+title: "Daoine LCDT a’ togail casaid an-aghaidh Riaghaltas Bhachrain"
+
 image: /images/posts/2009-01-29-daoine-lcdt-a-togail-casaid-an-aghaidh-riaghaltas-bharain.webp
-categories:
-    - Eadar-nàiseanta
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Poileataigs"]
+
 ---
 
 Tha daoine LCDT ann am Bachrain a’ togail casaid an-aghaidh riaghaltas an dùthaich as dèidh dhaibh casg a chur air lìn-sòisealta LCDT.

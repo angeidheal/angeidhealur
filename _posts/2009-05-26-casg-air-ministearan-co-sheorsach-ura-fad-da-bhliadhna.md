@@ -1,16 +1,17 @@
 ---
-id: 785
-title: 'Casg air ministearan co-sheòrsach ùra fad dà bhliadhna'
-date: '2009-05-26T19:29:52+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=785'
-permalink: /2009-05-26-casg-air-ministearan-co-sheorsach-ura-fad-da-bhliadhna/
+
+date: 2009-05-26 19:29:52
+
+title: "Casg air ministearan co-sheòrsach ùra fad dà bhliadhna"
+
 image: /images/posts/2009-05-26-casg-air-ministearan-co-sheorsach-ura-fad-da-bhliadhna.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Creideamh
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh"]
+
 ---
 
 Tha Eaglais na h-Alba air casg a chur air ministearan co-sheòrsach ùra fad dà bhliadhna.

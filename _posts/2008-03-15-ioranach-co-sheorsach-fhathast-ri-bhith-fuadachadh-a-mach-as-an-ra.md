@@ -10,7 +10,7 @@ image: /images/posts/2008-03-15-ioranach-co-sheorsach-fhathast-ri-bhith-fuadacha
 
 author: Crìstean MacMhìcheil
 
-categories: [A"n Rìoghachd Aonaichte", "Eadar-nàiseanta", "Lagh", "Poileataigs"]
+categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Lagh", "Poileataigs"]
 
 ---
 

@@ -1,15 +1,17 @@
 ---
-id: 862
-title: 'Mormonaich mì-shoilleir a-thaobh pòsadh aon-sheòrsach'
-date: '2008-10-04T12:27:14+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=862'
-permalink: /2008-10-04-mormonaich-mi-shoilleir-a-thaobh-posadh-aon-sheorsach/
+
+date: 2008-10-04 12:27:14
+
+title: "Mormonaich mì-shoilleir a-thaobh pòsadh aon-sheòrsach"
+
 image: /images/posts/2008-10-04-mormonaich-mi-shoilleir-a-thaobh-posadh-aon-sheorsach.webp
-categories:
-    - Eadar-nàiseanta
-    - Creideamh
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Creideamh"]
+
 ---
 
 Tha an Eaglais Mhormonach air bileag fhoillseachadh mu phòsadh aon-sheòrsach.

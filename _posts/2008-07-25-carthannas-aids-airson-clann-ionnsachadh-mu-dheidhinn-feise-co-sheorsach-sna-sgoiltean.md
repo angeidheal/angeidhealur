@@ -1,16 +1,17 @@
 ---
-id: 882
-title: 'Carthannas AIDS airson clann ionnsachadh mu dheidhinn feise co-sheòrsach sna sgoiltean'
-date: '2008-07-25T18:31:03+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=882'
-permalink: /2008-07-25-carthannas-aids-airson-clann-ionnsachadh-mu-dheidhinn-feise-co-sheorsach-sna-sgoiltean/
+
+date: 2008-07-25 18:31:03
+
+title: "Carthannas AIDS airson clann ionnsachadh mu dheidhinn feise co-sheòrsach sna sgoiltean"
+
 image: /images/posts/2008-07-25-carthannas-aids-airson-clann-ionnsachadh-mu-dheidhinn-feise-co-sheorsach-sna-sgoiltean.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Foghlam
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Foghlam", "Slàinte"]
+
 ---
 
 Tha an àireamh de bhalaich HIV+ air dùblachadh san 10 bliadhna mu dheireadh a-rèir figearan air fhoillseachadh le [Buidheann Dìon na Slàinte](https://www.gov.uk/government/organisations/health-protection-agency).

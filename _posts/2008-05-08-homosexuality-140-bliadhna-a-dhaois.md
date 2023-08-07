@@ -1,14 +1,17 @@
 ---
-id: 907
-title: '“Homosexuality” 140 bliadhna a dh’aois'
-date: '2008-05-08T16:56:29+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=907'
-permalink: /2008-05-08-homosexuality-140-bliadhna-a-dhaois/
+
+date: 2008-05-08 16:56:29
+
+title: "“Homosexuality” 140 bliadhna a dh’aois"
+
 image: /images/posts/2008-05-08-homosexuality-140-bliadhna-a-dhaois.webp
-categories:
-    - Eadar-nàiseanta
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta"]
+
 ---
 
 B’ ann air an 6mh den Chèitean 1868 a thàinig am facal “homosexuality” gu bith.

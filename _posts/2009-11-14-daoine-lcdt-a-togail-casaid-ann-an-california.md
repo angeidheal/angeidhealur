@@ -1,16 +1,17 @@
 ---
-id: 843
-title: 'Daoine LCDT a’ togail casaid ann an California'
-date: '2009-11-14T14:23:29+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=843'
-permalink: /2009-11-14-daoine-lcdt-a-togail-casaid-ann-an-california/
+
+title: "Daoine LCDT a’ togail casaid ann an California"
+
+date: 2009-11-14 14:23:29
+
 image: /images/posts/2009-11-14-daoine-lcdt-a-togail-casaid-ann-an-california.webp
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
+
 ---
 
 Tha daoine LCDT air a bhith a’ caismeachd air sràidean Chalifornia agus iad a’ togail casaid as dèidh buaidhe Proposition 8.

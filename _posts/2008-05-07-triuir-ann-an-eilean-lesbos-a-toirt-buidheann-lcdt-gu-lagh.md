@@ -1,15 +1,17 @@
 ---
-id: 910
-title: 'Triùir ann an Eilean Lesbos a’ toirt buidheann LCDT gu lagh'
-date: '2008-05-07T09:21:29+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=910'
-permalink: /2008-05-07-triuir-ann-an-eilean-lesbos-a-toirt-buidheann-lcdt-gu-lagh/
+
+date: 2008-05-07 09:21:29
+
+title: "Triùir ann an Eilean Lesbos a’ toirt buidheann LCDT gu lagh"
+
 image: /images/posts/2008-05-07-triuir-ann-an-eilean-lesbos-a-toirt-buidheann-lcdt-gu-lagh.webp
-categories:
-    - Eadar-nàiseanta
-    - Lagh
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Lagh"]
+
 ---
 
 Tha triùir ann an Eilean Lesbos, a’ Ghrèig, a’ toirt buidheann LCDT gu lagh air sgàth ’s gu bheil iad a’ cleachdadh am facal “leasbach” anns an ainm aca.

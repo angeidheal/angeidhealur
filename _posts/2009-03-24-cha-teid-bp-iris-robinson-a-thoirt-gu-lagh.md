@@ -1,15 +1,17 @@
 ---
-id: 805
-title: 'Cha tèid BP Iris Robinson a thoirt gu lagh'
-date: '2009-03-24T18:53:40+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=805'
-permalink: /2009-03-24-cha-teid-bp-iris-robinson-a-thoirt-gu-lagh/
+
+date: 2009-03-24 18:53:40
+
+title: "Cha tèid BP Iris Robinson a thoirt gu lagh"
+
 image: /images/posts/2009-03-24-cha-teid-bp-iris-robinson-a-thoirt-gu-lagh.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Poileataigs"]
+
 ---
 
 Cha tèid Iris Robinson, BP à Èirinn a Tuath, a thoirt gu lagh leis a’ phoileas airson moladh gur e tinneas-inntinn a th’ ann an co-sheòrsachd agus coimeas a dhèanamh eadar daoine co-sheòrsach agus *paedophiles*.

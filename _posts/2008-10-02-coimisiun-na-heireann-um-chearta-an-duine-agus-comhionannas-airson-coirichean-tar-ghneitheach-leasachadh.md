@@ -1,17 +1,17 @@
 ---
-id: 867
-title: 'Coimisiún na hÉireann um Chearta an Duine agus Comhionannas airson còirichean tar-ghnèitheach leasachadh'
-date: '2008-10-02T20:06:03+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=867'
-permalink: /2008-10-02-coimisiun-na-heireann-um-chearta-an-duine-agus-comhionannas-airson-coirichean-tar-ghneitheach-leasachadh/
+
+date: 2008-10-02 20:06:03
+
+title: "Coimisiún na hÉireann um Chearta an Duine agus Comhionannas airson còirichean tar-ghnèitheach leasachadh"
+
 image: /images/posts/2008-10-02-coimisiun-na-heireann-um-chearta-an-duine-agus-comhionannas-airson-coirichean-tar-ghneitheach-leasachadh.webp
-categories:
-    - Eadar-nàiseanta
-    - Èirinn
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Èirinn", "Lagh", "Poileataigs"]
+
 ---
 
 Tha Coimisiún na hÉireann um Chearta an Duine agus Comhionannas (Coimisean Èireannach airson Còirichean Daonna agus Co-ionannachd) air ràdh gum bu chòir do laghan a thaobh daoine tar-ghnèitheach agus teisteanasan-breith a bhith air an ath-leasachadh.

@@ -1,16 +1,17 @@
 ---
-id: 849
-title: '18,000 air phòsadh ann an California ro bhòt Proposition 8'
-date: '2008-11-04T18:13:45+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=849'
-permalink: /2008-11-04-18000-air-phosadh-ann-an-california-ro-bhot-proposition-8/
+
+date: 2008-11-04 18:13:45
+
+title: "18,000 air phòsadh ann an California ro bhòt Proposition 8"
+
 image: /images/posts/2008-11-04-18000-air-phosadh-ann-an-california-ro-bhot-proposition-8.webp
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
+
 ---
 
 Tha ionad-rannsachaidh anns na Stàitean Aonaichte air ràdh gu bheil còrr ’s 18,000 daoine air phòsadh ann an California o chionn 17mh dhen t-Òg-mhios 2008 nuair a rinn na h-ùghdarrasan pòsadh aon-sheòrsach na lagh.

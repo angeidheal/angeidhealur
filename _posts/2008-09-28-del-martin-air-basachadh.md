@@ -1,14 +1,17 @@
 ---
-id: 873
-title: 'Del Martin air bàsachadh'
-date: '2008-09-28T11:45:32+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=873'
-permalink: /2008-09-28-del-martin-air-basachadh/
+
+date: 2008-09-28 11:45:32
+
+title: "Del Martin air bàsachadh"
+
 image: /images/posts/2008-09-28-del-martin-air-basachadh.webp
-categories:
-    - Eadar-nàiseanta
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta"]
+
 ---
 
 Chaochail Del Martin, gnìomhaiche leasbach air leth cudromach, aois 87, ann an San Francisco aig dheireadh an Lùnastal.

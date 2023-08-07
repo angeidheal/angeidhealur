@@ -1,16 +1,17 @@
 ---
-id: 879
-title: 'Luchd-saidheans air laigse aig HIV lorg'
-date: '2008-07-25T17:49:10+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=879'
-permalink: /2008-07-25-luchd-saidheans-air-laigse-aig-hiv-lorg/
+
+date: 2008-07-25 17:49:10
+
+title: "Luchd-saidheans air laigse aig HIV lorg"
+
 image: /images/posts/2008-07-25-luchd-saidheans-air-laigse-aig-hiv-lorg.webp
-categories:
-    - Eadar-nàiseanta
-    - Saidheans
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Saidheans", "Slàinte"]
+
 ---
 
 Tha luchd-rannsachaidh ag obair aig Sgoil Slàinte Oilthigh Texas ag ràdh gu bheil iad air laigse aig HIV (Bhioras Dìon-slàinte Daonna) a lorg.

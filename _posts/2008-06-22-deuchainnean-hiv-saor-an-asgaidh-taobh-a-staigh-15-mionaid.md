@@ -1,15 +1,17 @@
 ---
-id: 888
-title: 'Deuchainnean HIV saor an-asgaidh taobh a-staigh 15 mionaid'
-date: '2008-06-22T19:12:19+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=888'
-permalink: /2008-06-22-deuchainnean-hiv-saor-an-asgaidh-taobh-a-staigh-15-mionaid/
+
+date: 2008-06-22 19:12:19
+
+title: "Deuchainnean HIV saor an-asgaidh taobh a-staigh 15 mionaid"
+
 image: /images/posts/2008-06-22-deuchainnean-hiv-saor-an-asgaidh-taobh-a-staigh-15-mionaid.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Slàinte"]
+
 ---
 
 Tha clionaig ann am meadhan a’ choimhearsnachd LCDT ann an Lunnainn a’ toirt seachad deuchainnean airson HIV do dhaoine co-sheòrsach saor an-asgaidh agus tha toraidhean ri fhaotainn taobh a-staigh 15 mionaid.

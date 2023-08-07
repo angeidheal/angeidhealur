@@ -1,14 +1,18 @@
 ---
-id: 799
-title: 'Sianar co-sheòrsach air am murt ann an Ioràc'
-date: '2009-04-05T19:02:07+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=799'
-permalink: /2009-04-05-sianar-co-sheorsach-air-am-murt-ann-an-iorac/
+
+date: 2009-04-05 19:02:07
+
+title: "Sianar co-sheòrsach air am murt ann an Ioràc"
+
 image: /images/posts/2009-04-05-sianar-co-sheorsach-air-am-murt-ann-an-iorac.webp
+
+author: Crìstean MacMhìcheil
+
 categories:
-    - Eadar-nàiseanta
+    - "Eadar-nàiseanta"
+    
 ---
 
 Tha dithis marbh ann an Sadr City, roinn Shiite dhe Bhaghdad, air sgàth ’s clèir ionadail a dhìt co-sheòrsachd.

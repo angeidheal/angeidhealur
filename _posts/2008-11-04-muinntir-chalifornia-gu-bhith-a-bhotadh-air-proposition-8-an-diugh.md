@@ -1,16 +1,17 @@
 ---
-id: 847
-title: 'Muinntir Chalifornia gu bhith a’ bhòtadh air Proposition 8 an-diugh'
-date: '2008-11-04T10:17:03+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=847'
-permalink: /2008-11-04-muinntir-chalifornia-gu-bhith-a-bhotadh-air-proposition-8-an-diugh/
+
+date: 2008-11-04 10:17:03
+
+title: "Muinntir Chalifornia gu bhith a’ bhòtadh air Proposition 8 an-diugh"
+
 image: /images/posts/2008-11-04-muinntir-chalifornia-gu-bhith-a-bhotadh-air-proposition-8-an-diugh.webp
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
+
 ---
 
 A bharrachd air taghadh Ceann-suidhe nan Stàitean Aonaichte, bidh muinntir Chalifornia a’ bhòtadh an-diugh air Proposition 8 an-diugh a tha a’ feuchainn ri casg a chur air pòsadh aon-sheòrsach le bhith ag atharrachadh bun-reachd Chalifornia le earrann ùr ag ràdh gur ann eadar fear agus boireannach a-mhàin a th’ ann am pòsadh.

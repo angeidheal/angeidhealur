@@ -1,16 +1,17 @@
 ---
-id: 825
-title: 'Caitligich Albannach air ràdh gu bheil co-sheòrsachd ag adhbharachadh bàis tràtha'
-date: '2009-01-29T19:55:35+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=825'
-permalink: /2009-01-29-caitligich-albannach-air-radh-gu-bheil-co-sheorsachd-ag-adhbharachadh-bais-tratha/
+
+date: 2009-01-29 19:55:35
+
+title: "Caitligich Albannach air ràdh gu bheil co-sheòrsachd ag adhbharachadh bàis tràtha"
+
 image: /images/posts/2009-01-29-caitligich-albannach-air-radh-gu-bheil-co-sheorsachd-ag-adhbharachadh-bais-tratha.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Creideamh
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh"]
+
 ---
 
 Tha an Eaglais Chaitligeach ann an Alba air ionnsaigh a thoirt air daoine co-sheòrsach agus leasbaich a-rithist.

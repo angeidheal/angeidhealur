@@ -1,16 +1,17 @@
 ---
-id: 860
-title: 'Proposition 8 a’ caill taic ann an California'
-date: '2008-10-04T13:35:27+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=860'
-permalink: /2008-10-04-proposition-8-a-caill-taic-ann-an-california/
+
+date: 2008-10-04 13:35:27
+
+title: "Proposition 8 a’ caill taic ann an California"
+
 image: /images/posts/2008-10-04-proposition-8-a-caill-taic-ann-an-california.webp
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
+
 ---
 
 Tha cunntas-bheachd ùr a’ sealltainn gu bheil Proposition 8 a’ caill taic ann an California.

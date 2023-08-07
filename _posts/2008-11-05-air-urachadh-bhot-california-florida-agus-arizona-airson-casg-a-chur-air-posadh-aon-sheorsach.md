@@ -1,14 +1,17 @@
 ---
-id: 845
-title: 'AIR ÙRACHADH: Bhòt California, Florida agus Arizona airson casg a chur air pòsadh aon-sheòrsach'
-date: '2008-11-05T09:11:28+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=845'
-permalink: /2008-11-05-air-urachadh-bhot-california-florida-agus-arizona-airson-casg-a-chur-air-posadh-aon-sheorsach/
+
+date: 2008-11-05 09:11:28
+
+title: "AIR ÙRACHADH: Bhòt California, Florida agus Arizona airson casg a chur air pòsadh aon-sheòrsach"
+
 image: /images/posts/2008-11-05-air-urachadh-bhot-california-florida-agus-arizona-airson-casg-a-chur-air-posadh-aon-sheorsach.webp
-categories:
-    - Blog
+
+author: Crìstean MacMhìcheil
+
+categories: ["Blog"]
+
 ---
 
 Tha [Associated Press](http://www.stltoday.com/stltoday/news/stories.nsf/religion/story/E2F7DDF123CCC39C862574F8002EFBD0?OpenDocument "'Arizona voters OK amendment banning gay marriage' le Bob Baum") ag ràdh gu bheil luchd-bhòtaidh ann an Arizona air bhòtadh airson casg a chur air pòsadh aon-sheòrsach.

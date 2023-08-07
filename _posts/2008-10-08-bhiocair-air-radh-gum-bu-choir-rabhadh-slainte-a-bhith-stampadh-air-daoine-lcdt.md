@@ -1,15 +1,17 @@
 ---
-id: 857
-title: 'Bhiocair air ràdh gum bu chòir rabhadh slàinte a bhith stampadh air daoine LCDT'
-date: '2008-10-08T19:37:30+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=857'
-permalink: /2008-10-08-bhiocair-air-radh-gum-bu-choir-rabhadh-slainte-a-bhith-stampadh-air-daoine-lcdt/
+
+date: 2008-10-08 19:37:30
+
+title: "Bhiocair air ràdh gum bu chòir rabhadh slàinte a bhith stampadh air daoine LCDT"
+
 image: /images/posts/2008-10-08-bhiocair-air-radh-gum-bu-choir-rabhadh-slainte-a-bhith-stampadh-air-daoine-lcdt.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Creideamh
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Creideamh"]
+
 ---
 
 Tha bhiocair anns An Eaglais Shasannach air ràdh air a’ bhlòg aige gum bu chòir rabhadh slàinte a bhith air stampadh air daoine LCDT.

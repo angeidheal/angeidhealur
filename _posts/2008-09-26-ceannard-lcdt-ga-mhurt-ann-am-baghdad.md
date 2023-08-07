@@ -1,15 +1,17 @@
 ---
-id: 876
-title: 'Ceannard LCDT ga mhurt ann am Baghdad'
-date: '2008-09-26T16:25:22+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=876'
-permalink: /2008-09-26-ceannard-lcdt-ga-mhurt-ann-am-baghdad/
+
+date: 2008-09-26 16:25:22
+
+title: "Ceannard LCDT ga mhurt ann am Baghdad"
+
 image: /images/posts/2008-09-26-ceannard-lcdt-ga-mhurt-ann-am-baghdad.webp
-categories:
-    - Eadar-nàiseanta
-    - Lagh
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Lagh"]
+
 ---
 
 Chaidh ceannard LCDT a mhurt ann am Baghdad, Ioràc an-dè.

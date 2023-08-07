@@ -1,18 +1,17 @@
 ---
-id: 808
-title: 'Bile Gnè Mhanainneach air gluasad air adhart'
-date: '2009-03-14T20:33:33+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=808'
-permalink: /2009-03-14-bile-gne-mhanainneach-air-gluasad-air-adhart/
+
+date: 2009-03-14 20:33:33
+
+title: "Bile Gnè Mhanainneach air gluasad air adhart"
+
 image: /images/posts/2009-03-14-bile-gne-mhanainneach-air-gluasad-air-adhart.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Eadar-nàiseanta
-    - Eilean Mhanainn
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Eilean Mhanainn", "Lagh", "Poileataigs"]
+
 ---
 
 Tha bile ùr gus an t-Eilean Mhanainn a thoirt gu ìre an Rìoghachd Aonaichte a-thaobh poileasaidhean gnè air faighinn tron a’ chiad ceum dhen Chomhairle Lagha.

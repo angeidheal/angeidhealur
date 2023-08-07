@@ -1,17 +1,17 @@
 ---
-id: 916
-title: 'An Roinn Eòrpa a’ ceasnachadh an Rìoghachd Aonaichte mu dheidhinn còirichean LCDT ann an Diobraltar'
-date: '2008-05-07T08:03:23+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=916'
-permalink: /2008-05-07-an-roinn-eorpa-a-ceasnachadh-an-rioghachd-aonaichte-mu-dheidhinn-coirichean-lcdt-ann-an-diobraltar/
+
+date: 2008-05-07 08:03:23
+
+title: "An Roinn Eòrpa a’ ceasnachadh an Rìoghachd Aonaichte mu dheidhinn còirichean LCDT ann an Diobraltar"
+
 image: /images/posts/2008-05-07-an-roinn-eorpa-a-ceasnachadh-an-rioghachd-aonaichte-mu-dheidhinn-coraichean-lcdt-ann-an-diobraltar.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Lagh", "Poileataigs"]
+
 ---
 
 Tha Riaghaltas na Bhreatainn air innse do Chomhairle na h-Eòrpa gu bheil iad a’ coimhead air còirichean LCDT leasachadh ann an Diobraltar.

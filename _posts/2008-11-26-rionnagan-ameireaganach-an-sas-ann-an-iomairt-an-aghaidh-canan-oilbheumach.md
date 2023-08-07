@@ -1,16 +1,17 @@
 ---
-id: 834
-title: 'Rionnagan Ameireaganach an-sàs ann an iomairt an-aghaidh cànan oilbheumach'
-date: '2008-11-26T16:15:49+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=834'
-permalink: /2008-11-26-rionnagan-ameireaganach-an-sas-ann-an-iomairt-an-aghaidh-canan-oilbheumach/
+
+date: 2008-11-26 16:15:49
+
+title: "Rionnagan Ameireaganach an-sàs ann an iomairt an-aghaidh cànan oilbheumach"
+
 image: /images/posts/2008-11-26-rionnagan-ameireaganach-an-sas-ann-an-iomairt-an-aghaidh-canan-oilbheumach.webp
-categories:
-    - Eadar-nàiseanta
-    - Cultar
-    - Foghlam
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Cultar", "Foghlam"]
+
 ---
 
 Chaidh iomairt ùr a chur air bhog anns na Stàitean Aonaichte gus sgoilearan a theagasg mu dheidhinn am buaidh a tha aig cànan oilbheumach air daoine LCDTE.

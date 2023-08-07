@@ -1,16 +1,17 @@
 ---
-id: 851
-title: 'Oileanaich an sas ann an iomairt airson còirichean daonna'
-date: '2008-10-08T19:13:31+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=851'
-permalink: /2008-10-08-oileanaich-an-sas-ann-an-iomairt-airson-coirichean-daonna/
+
+date: 2008-10-08 19:13:31
+
+title: "Oileanaich an sas ann an iomairt airson còirichean daonna"
+
 image: /images/posts/2008-10-08-oileanaich-an-sas-ann-an-iomairt-airson-coirichean-daonna.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Eadar-nàiseanta
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Poileataigs"]
+
 ---
 
 Bidh an iomairt [NUS LGBT](https://www.nusconnect.org.uk/liberation/lgbt-students "NUS LGBT") agus *Gay Rights Uganda* a’ togail fianais an-aghaidh Riaghaltas Uganda nach eil a’ cur stad air geur-leanmhainn agus cràdh an daoine LCDT san dùthaich.

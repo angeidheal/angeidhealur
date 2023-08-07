@@ -1,16 +1,17 @@
 ---
-id: 788
-title: 'Àrd-chùirt Chalifornia a’ cumail ri Prop 8'
-date: '2009-05-26T19:11:45+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=788'
-permalink: /2009-05-26-ard-chuirt-chalifornia-a-cumail-ri-prop-8/
+
+date: 2009-05-26 19:11:45
+
+title: "Àrd-chùirt Chalifornia a’ cumail ri Prop 8"
+
 image: /images/posts/2009-05-26-ard-chuirt-chalifornia-a-cumail-ri-prop-8.webp
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
+
 ---
 
 Tha Àrd-chùirt Chalifornia air bhòtadh gus cumail ri Proposition 8, an iomairt a chur casg air pòsadh aon-sheòrsach anns an stàit.
