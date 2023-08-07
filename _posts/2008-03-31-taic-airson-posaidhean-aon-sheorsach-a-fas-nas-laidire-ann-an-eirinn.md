@@ -16,7 +16,7 @@ categories: ["Eadar-nàiseanta", "Èirinn", "Lagh", "Poileataigs"]
 
 Fhad ’s a tha gnìomhaichean LCDTE ann an Èirinn a’ feitheamh ri chluinntinn molaidhean an Riaghaltas airson càraidean aon-sheòrsach aithneachadh gu h-oifigeil, tha cunntas-bheachd ùr a’ sealltainn gu bheil a’ mhòr-chuid ann an Èirinn air a shon.
 
-Chaidh an cunntas-bheachd fhoillseachadh leis a’ bhuidhinn co-ionannachd MarraigEquality agus tha na toraidhean a’ sealltainn gu bheil 84% airson pòsaidhean aon-sheòrsach neo companasan-catharra.
+Chaidh an cunntas-bheachd fhoillseachadh leis a’ bhuidhinn co-ionannachd MarriagEquality agus tha na toraidhean a’ sealltainn gu bheil 84% airson pòsaidhean aon-sheòrsach neo companasan-catharra.
 
 Ach tha an Riaghaltas air pòsaidhean aon-sheòrsach a dhiùltadh mar thà air sgàth ’s gum biodh feum aca air a’ bhun-reachd atharrachadh.
 
