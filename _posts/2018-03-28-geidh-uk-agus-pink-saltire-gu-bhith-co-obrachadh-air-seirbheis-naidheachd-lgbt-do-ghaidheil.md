@@ -1,17 +1,17 @@
 ---
-id: 709
-title: 'Gèidh.uk agus Pink Saltire gu bhith co-obrachadh air sèirbheis-naidheachd LGBT do Ghàidheil'
-date: '2018-03-28T21:36:08+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=709'
-permalink: /2018-03-28-geidh-uk-agus-pink-saltire-gu-bhith-co-obrachadh-air-seirbheis-naidheachd-lgbt-do-ghaidheil/
+
+date: 2018-03-28 21:36:08
+
+title: "Gèidh.uk agus Pink Saltire gu bhith co-obrachadh air sèirbheis-naidheachd LGBT do Ghàidheil"
+
 image: /images/posts/2018-03-28-geidh-uk-agus-pink-saltire-gu-bhith-co-obrachadh.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Blog
-    - Gàidhlig
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Blog", "Gàidhlig"]
+
 ---
 
 Tha mi air leth toilichte a bhith ag obair comhla ri Pink Saltire gus barrachd den t-susbaint aca a thabhann tro mheadhan na Gàidhlig!

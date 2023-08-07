@@ -1,16 +1,17 @@
 ---
-id: 658
-title: 'Luchd-poilitigs co-sheòrsach airson reifreann eile air Brexit'
-date: '2018-07-17T20:54:09+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=658'
-permalink: /2018-07-17-luchd-poilitigs-co-sheorsach-airson-reifreann-eile-air-brexit/
+
+date: 2018-07-17 20:54:09
+
+title: "Luchd-poilitigs co-sheòrsach airson reifreann eile air Brexit"
+
 image: /images/posts/2018-07-17-luchd-poilitigs-co-sheorsach-airson-reifreann-eile-air-brexit.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Eadar-nàiseanta
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Poileataigs"]
+
 ---
 
 Tha Justine Greening, BP ag iarraidh reifreann eile air Brexit agus i air ràdh gur e “*fudge*” a th’ ann am molaidhean a’ Phrìomhaire Theresa May.

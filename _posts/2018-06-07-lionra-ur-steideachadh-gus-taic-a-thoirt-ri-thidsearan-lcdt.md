@@ -1,15 +1,17 @@
 ---
-id: 682
-title: 'Lìonra ùr stèideachadh gus taic a thoirt ri thidsearan LCDT+'
-date: '2018-06-07T21:30:47+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=682'
-permalink: /2018-06-07-lionra-ur-steideachadh-gus-taic-a-thoirt-ri-thidsearan-lcdt/
+
+date: 2018-06-07 21:30:47
+
+title: "Lìonra ùr stèideachadh gus taic a thoirt ri thidsearan LCDT+"
+
 image: /images/posts/2018-06-07-lionra-ur-steideachadh-gus-taic-a-thoirt-ri-thidsearan-lcdt.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Foghlam
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Foghlam"]
+
 ---
 
 Chaidh lìonra air loidhne ùr stèidheachadh an seachdain seo gus taic a thoirt ri thidsearan LCDT+ san Rìoghachd Aonaichte.

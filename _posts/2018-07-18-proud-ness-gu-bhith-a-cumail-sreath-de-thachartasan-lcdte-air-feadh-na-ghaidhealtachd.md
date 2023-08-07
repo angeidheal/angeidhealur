@@ -1,16 +1,17 @@
 ---
-id: 650
-title: 'Proud Ness gu bhith a’ cumail sreath de thachartasan LCDTE air feadh na Ghàidhealtachd'
-date: '2018-07-18T20:54:18+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=650'
-permalink: /2018-07-18-proud-ness-gu-bhith-a-cumail-sreath-de-thachartasan-lcdte-air-feadh-na-ghaidhealtachd/
+
+date: 2018-07-18 20:54:18
+
+title: "Proud Ness gu bhith a’ cumail sreath de thachartasan LCDTE air feadh na Ghàidhealtachd"
+
 image: /images/posts/2018-07-18-proud-ness-gu-bhith-a-cumail-sreath-de-thachartasan-lcdte-air-feadh-na-ghaidhealtachd.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+
 ---
 
 Chaidh a dhearbhadh le Fòram LCDTE na Gàidhealtachd an-diugh gun tèid fèis-pròise a chumail ann an Inbhir Nis 6mh An Dàmhair 2018.

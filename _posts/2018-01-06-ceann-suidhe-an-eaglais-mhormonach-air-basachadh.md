@@ -1,15 +1,17 @@
 ---
-id: 735
-title: 'Ceann-suidhe an Eaglais Mhormonach air bàsachadh'
-date: '2018-01-06T14:20:12+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=735'
-permalink: /2018-01-06-ceann-suidhe-an-eaglais-mhormonach-air-basachadh/
+
+date: 2018-01-06 14:20:12
+
+title: "Ceann-suidhe an Eaglais Mhormonach air bàsachadh"
+
 image: /images/posts/2018-01-06-ceann-suidhe-an-eaglais-mhormonach-air-basachadh.webp
-categories:
-    - Eadar-nàiseanta
-    - Creideamh
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Creideamh"]
+
 ---
 
 Tha Ceann-suidhe ùr gu bhith aig an Eaglais Mhormonach (Church of Jesus Christ of Latter-day Saints) as dèidh gun do bhàsaich Thomas S. Monson Dimàirt ann an Salt Lake City. Bha e ceithir fichead sa deich bliadhna a dh’aois.

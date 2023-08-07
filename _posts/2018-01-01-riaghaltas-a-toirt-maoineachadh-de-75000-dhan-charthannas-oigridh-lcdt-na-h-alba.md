@@ -1,16 +1,17 @@
 ---
-id: 741
-title: 'Riaghaltas a’ toirt maoineachadh de £75,000 dhan charthannas Òigridh LCDT na h-Alba'
-date: '2018-01-01T20:21:52+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=741'
-permalink: /2018-01-01-riaghaltas-a-toirt-maoineachadh-de-75000-dhan-charthannas-oigridh-lcdt-na-h-alba/
+
+date: 2018-01-01 20:21:52
+
+title: "Riaghaltas a’ toirt maoineachadh de £75,000 dhan charthannas Òigridh LCDT na h-Alba"
+
 image: /images/posts/2018-01-01-riaghaltas-a-toirt-maoineachadh-de-75000-dhan-charthannas-oigridh-lcdt-na-h-alba.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
+
 ---
 
 Gheibh an carthannas Òigridh LCDT na h-Alba (LGBT Youth Scotland) £75,000 bho Riaghaltas na h-Alba mar phàirt dhen sgeama “Bliadhna na h-Òigridh” a bhios iad a’ ruith fad 2018.

@@ -1,18 +1,17 @@
 ---
-id: 744
-title: 'Riaghailtean nas fuasgailte a thaobh fireannaich co-sheòrsach a’ toirt seachad fala'
-date: '2017-11-26T11:25:26+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=744'
-permalink: /2017-11-26-riaghailtean-nas-fuasgailte-a-thaobh-fireannaich-co-sheorsach-a-toirt-seachad-fala/
+
+date: 2017-11-26 11:25:26
+
+title: "Riaghailtean nas fuasgailte a thaobh fireannaich co-sheòrsach a’ toirt seachad fala"
+
 image: /images/posts/2017-11-26-riaghailtean-nas-fuasgailte-a-thaobh-fireannaich-co-sheorsach-a-toirt-seachad-fala.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs", "Slàinte"]
+
 ---
 
 Tha Seirbheis Fala na h-Alba (SNBTS) air ràdh gun tèid na riaghailtean a thaobh fala a thoirt seachad atharrachadh a-màireach.

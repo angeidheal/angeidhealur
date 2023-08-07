@@ -1,17 +1,17 @@
 ---
-id: 774
-title: 'Aonadh Èireannach air ràdh gu bheil leth-bhreith ceadaichte ann an sgoiltean'
-date: '2010-04-08T13:18:54+00:00'
-author: Crìstean MacMhìcheil
+
+date: 2010-04-08 13:18:54
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=774'
-permalink: /2010-04-08-aonadh-eireannach-air-radh-gu-bheil-leth-bhreith-ceadaichte-ann-an-sgoiltean/
+
+title: "Aonadh Èireannach air ràdh gu bheil leth-bhreith ceadaichte ann an sgoiltean"
+
 image: /images/posts/2010-04-08-aonadh-eireannach-air-radh-gu-bheil-leth-bhreith-ceadaichte-ann-an-sgoiltean.webp
-categories:
-    - Eadar-nàiseanta
-    - Èirinn
-    - Foghlam
-    - Lagh
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Èirinn", "Foghlam", "Lagh"]
+
 ---
 
 Tha aonadh teagaisg Èireannach air ràdh gu bheil laghanan co-ionannachd a’ toirt cead do sgoiltean cràbhach a bhith a’ dèanamh leth-bhreith air tidsearan co-sheòrsach.

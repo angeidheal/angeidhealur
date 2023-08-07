@@ -1,16 +1,17 @@
 ---
-id: 718
-title: 'A’ Chiad Fèis-pròise Pheairt'
-date: '2018-03-24T21:24:21+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=718'
-permalink: /2018-03-24-a-chiad-feis-proise-pheairt/
+
+date: 2018-03-24 21:24:21
+
+title: "A’ Chiad Fèis-pròise Pheairt"
+
 image: /images/posts/2018-03-24-a-chiad-feis-proise-pheairt.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+
 ---
 
 Thèid a’ chiad Fèis-pròise a chumail ann an Siorrachd Pheairt Disathairne 11 Lùnastal 2018.

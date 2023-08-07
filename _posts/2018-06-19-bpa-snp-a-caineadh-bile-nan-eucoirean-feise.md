@@ -1,17 +1,17 @@
 ---
-id: 673
-title: 'BPA SNP a’ càineadh Bile nan Eucoirean Feise'
-date: '2018-06-19T10:52:52+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=673'
-permalink: /2018-06-19-bpa-snp-a-caineadh-bile-nan-eucoirean-feise/
+
+date: 2018-06-19 10:52:52
+
+title: "BPA SNP a’ càineadh Bile nan Eucoirean Feise"
+
 image: /images/posts/2018-06-19-bpa-snp-a-caineadh-bile-nan-eucoirean-feise.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+
 ---
 
 Tha John Mason BPA air a bhith a’ càineadh lagh ùr a chitheas mathanas a thoirt do dhaoine co-sheòrsach agus dà-sheòrsach a chaidh an dìteadh fo laghan eachdraidheil.

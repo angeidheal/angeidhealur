@@ -1,18 +1,17 @@
 ---
-id: 777
-title: 'Deasbad mu companasan-catharra san Eilean Mhanainn'
-date: '2010-02-22T21:04:02+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=777'
-permalink: /2010-02-22-deasbad-mu-companasan-catharra-san-eilean-mhanainn/
+
+date: 2010-02-22 21:04:02
+
+title: "Deasbad mu companasan-catharra san Eilean Mhanainn"
+
 image: /images/posts/2010-02-22-deasbad-mu-companasan-catharra-san-eilean-mhanainn.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Eadar-nàiseanta
-    - Eilean Mhanainn
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Eilean Mhanainn", "Lagh", "Poileataigs"]
+
 ---
 
 Thathar gu bhith a’ deasbad Bile Companasan-catharra anns an House of Keys a-màireach.

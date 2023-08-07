@@ -1,17 +1,17 @@
 ---
-id: 662
-title: 'Nicola Sturgeon na h-Àrd-Mharasgal na Caismeachd aig Fèis-pròise Ghlaschu'
-date: '2018-07-15T20:47:52+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=662'
-permalink: /2018-07-15-nicola-sturgeon-na-h-ard-mharasgal-na-caismeachd-aig-feis-proise-ghlaschu/
+
+date: 2018-07-15 20:47:52
+
+title: "Nicola Sturgeon na h-Àrd-Mharasgal na Caismeachd aig Fèis-pròise Ghlaschu"
+
 image: /images/posts/2018-07-15-nicola-sturgeon-na-h-ard-mharasgal-na-caismeachd-aig-feis-proise-ghlaschu.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Poileataigs
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs", "Pròis"]
+
 ---
 
 Bha Prìomh Mhinistear na h-Alba, Nicola Sturgeon aig ceann na caismeachd aig Fèis-pròise Ghlaschu an-dè.

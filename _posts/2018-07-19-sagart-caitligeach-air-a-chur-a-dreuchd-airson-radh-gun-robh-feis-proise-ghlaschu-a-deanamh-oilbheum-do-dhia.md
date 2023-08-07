@@ -1,17 +1,17 @@
 ---
-id: 647
-title: 'Sagart Caitligeach air a chur à dreuchd airson ràdh gun robh fèis-pròise Ghlaschu a’ dèanamh oilbheum do Dhia'
-date: '2018-07-19T21:15:49+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=647'
-permalink: /2018-07-19-sagart-caitligeach-air-a-chur-a-dreuchd-airson-radh-gun-robh-feis-proise-ghlaschu-a-deanamh-oilbheum-do-dhia/
+
+date: 2018-07-19 21:15:49
+
+title: "Sagart Caitligeach air a chur à dreuchd airson ràdh gun robh fèis-pròise Ghlaschu a’ dèanamh oilbheum do Dhia"
+
 image: /images/posts/2018-07-19-sagart-caitligeach-air-a-chur-a-dreuchd-airson-radh-gun-robh-feis-proise-ghlaschu-a-deanamh-oilbheum-do-dhia.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Creideamh
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh", "Pròis"]
+
 ---
 
 Chaidh an sagart Caitligeach Mark Morris a chur à dreuchd le Oilthigh Cailleannach Ghlaschu as dèidh dha ràdh gun robh fèis-pròise Ghlaschu a’ dèanamh oilbheum do Dhia.

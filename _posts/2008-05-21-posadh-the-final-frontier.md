@@ -4,7 +4,7 @@ layout: post
 
 date: 2008-05-21 11:19:53
 
-title: "Pòsadh… "the Final Frontier""
+title: "Pòsadh… 'the Final Frontier'"
 
 image: /images/posts/2008-05-21-posadh-the-final-frontier.webp
 

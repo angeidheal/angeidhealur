@@ -1,14 +1,17 @@
 ---
-id: 768
-title: 'Pàipear-naidheachd Ugandach air liosta de dhaoine co-sheòrsach fhoillseachadh'
-date: '2010-10-22T09:59:23+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=768'
-permalink: /2010-10-22-paipear-naidheachd-ugandach-air-liosta-de-dhaoine-co-sheorsach-fhoillseachadh/
+
+date: 2010-10-22 09:59:23
+
+title: "Pàipear-naidheachd Ugandach air liosta de dhaoine co-sheòrsach fhoillseachadh"
+
 image: /images/posts/2010-10-22-paipear-naidheachd-ugandach-air-liosta-de-dhaoine-co-sheorsach-fhoillseachadh.webp
-categories:
-    - Eadar-nàiseanta
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta"]
+
 ---
 
 Tha am pàipear-naidheachd Ugandach *Rolling Stone* air liosta de dhaoine co-sheòrsach san dùthaich agus na dealbhan aca fhoillseachadh.

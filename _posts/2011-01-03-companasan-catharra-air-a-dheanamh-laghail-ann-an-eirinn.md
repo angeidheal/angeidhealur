@@ -1,17 +1,17 @@
 ---
-id: 762
-title: 'Companasan-catharra air a dhèanamh laghail ann an Èirinn'
-date: '2011-01-03T13:09:24+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=762'
-permalink: /2011-01-03-companasan-catharra-air-a-dheanamh-laghail-ann-an-eirinn/
+
+date: 2011-01-03 13:09:24
+
+title: "Companasan-catharra air a dhèanamh laghail ann an Èirinn"
+
 image: /images/posts/2011-01-03-companasan-catharra-air-a-dheanamh-laghail-ann-an-eirinn.webp
-categories:
-    - Eadar-nàiseanta
-    - Èirinn
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Èirinn", "Lagh", "Poileataigs"]
+
 ---
 
 Chaidh laghan ùra a chur an gnìomh ann an Èirinn Disathairne gus companasan-catharra a dhèanamh laghail anns an dùthaich.

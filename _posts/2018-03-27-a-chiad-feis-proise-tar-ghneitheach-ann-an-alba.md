@@ -1,16 +1,17 @@
 ---
-id: 712
-title: 'A’ Chiad Fèis-pròise Tar-ghnèitheach ann an Alba'
-date: '2018-03-27T19:57:34+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=712'
-permalink: /2018-03-27-a-chiad-feis-proise-tar-ghneitheach-ann-an-alba/
+
+date: 2018-03-27 19:57:34
+
+title: "A’ Chiad Fèis-pròise Tar-ghnèitheach ann an Alba"
+
 image: /images/posts/2018-03-27-a-chiad-feis-proise-tar-ghneitheach-ann-an-alba.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+
 ---
 
 Thèid a’ chiad Fèis Pròise Tar-ghnèitheach ann an Alba a chumail Disaithairne 31 Màrt 2018 eadar 12-5f.

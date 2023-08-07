@@ -1,16 +1,17 @@
 ---
-id: 771
-title: 'Iomairt Facebook airson a’ chiad ceann-suidhe co-sheòrsach aig na h-Èirinn'
-date: '2010-10-22T10:35:14+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=771'
-permalink: /2010-10-22-iomairt-facebook-airson-a-chiad-ceann-suidhe-co-sheorsach-aig-na-h-eirinn/
+
+date: 2010-10-22 10:35:14
+
+title: "Iomairt Facebook airson a’ chiad ceann-suidhe co-sheòrsach aig na h-Èirinn"
+
 image: /images/posts/2010-10-22-iomairt-facebook-airson-a-chiad-ceann-suidhe-co-sheorsach-aig-na-h-eirinn.webp
-categories:
-    - Eadar-nàiseanta
-    - Èirinn
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Èirinn", "Poileataigs"]
+
 ---
 
 Chaidh iomairt a chur an sàs air Facebook gus a’ chiad ceann-suidhe co-sheòrsach a thaghadh ann an Èirinn.

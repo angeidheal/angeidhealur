@@ -1,17 +1,17 @@
 ---
-id: 688
-title: 'Moladh gus leigeil le clann Albannach gnè atharrachadh air an teisteanas breith aca'
-date: '2018-06-04T10:48:39+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=688'
-permalink: /2018-06-04-moladh-gus-leigeil-le-clann-albannach-gne-atharrachadh-air-an-teisteanas-breith-aca/
+
+date: 2018-06-04 10:48:39
+
+title: "Moladh gus leigeil le clann Albannach gnè atharrachadh air an teisteanas breith aca"
+
 image: /images/posts/2018-06-04-moladh-gus-leigeil-le-clann-albannach-gne-atharrachadh-air-an-teisteanas-breith-aca.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+
 ---
 
 Bu chòir do chlann cho òg ri 12 a bhith comasach air gnè atharrachadh air an teisteanas breith aca gun taic phàrant, a-rèir Coimiseanair Cloinne is Òigridh na h-Alba.

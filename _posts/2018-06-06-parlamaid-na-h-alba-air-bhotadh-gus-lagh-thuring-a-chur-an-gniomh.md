@@ -1,17 +1,17 @@
 ---
-id: 685
-title: 'Pàrlamaid na h-Alba air bhòtadh gus Lagh Thuring a chur an gnìomh'
-date: '2018-06-06T21:02:39+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=685'
-permalink: /2018-06-06-parlamaid-na-h-alba-air-bhotadh-gus-lagh-thuring-a-chur-an-gniomh/
+
+date: 2018-06-06 21:02:39
+
+title: "Pàrlamaid na h-Alba air bhòtadh gus Lagh Thuring a chur an gnìomh"
+
 image: /images/posts/2018-06-06-parlamaid-na-h-alba-air-bhotadh-gus-lagh-thuring-a-chur-an-gniomh.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+
 ---
 
 Tha Pàrlamaid na h-Alba air bhotadh gu h-aon-ghuthach airson lagh ùr a chur an gnìomh a chìthear mathanas oifigeil a thoirt do dhaoine co-sheòrsach agus dà-sheòrsach a chaidh an dìteadh fo laghan lethbhreith eachdraidheil.

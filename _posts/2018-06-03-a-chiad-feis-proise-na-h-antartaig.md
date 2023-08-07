@@ -1,15 +1,17 @@
 ---
-id: 694
-title: 'A’ Chiad Fèis-pròise na h-Antartaig'
-date: '2018-06-03T15:23:28+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=694'
-permalink: /2018-06-03-a-chiad-feis-proise-na-h-antartaig/
+
+date: 2018-06-03 15:23:28
+
+title: "A’ Chiad Fèis-pròise na h-Antartaig"
+
 image: /images/posts/2018-06-03-a-chiad-feis-proise-na-h-antartaig.webp
-categories:
-    - Eadar-nàiseanta
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Pròis"]
+
 ---
 
 Thathar an dùil gun tèid a’ chiad fèis pròis na h-Antartaig a chumail an t-seachdain-sa.

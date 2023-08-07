@@ -1,17 +1,17 @@
 ---
-id: 667
-title: 'Riaghaltas na h-Èireann air leisgeul a thoirt do dhaoine co-sheòrsach a chaidh a dhìteadh fo laghan eachdraidheil'
-date: '2018-06-21T13:58:53+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=667'
-permalink: /2018-06-21-riaghaltas-na-h-eireann-air-leisgeul-a-thoirt-do-dhaoine-co-sheorsach-a-chaidh-a-dhiteadh-fo-laghan-eachdraidheil/
+
+date: 2018-06-21 13:58:53
+
+title: "Riaghaltas na h-Èireann air leisgeul a thoirt do dhaoine co-sheòrsach a chaidh a dhìteadh fo laghan eachdraidheil"
+
 image: /images/posts/2018-06-21-riaghaltas-na-h-eireann-air-leisgeul-a-thoirt-do-dhaoine-co-sheorsach-a-chaidh-a-dhiteadh-fo-laghan-eachdraidheil.webp
-categories:
-    - Eadar-nàiseanta
-    - Èirinn
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Èirinn", "Lagh", "Poileataigs"]
+
 ---
 
 Tha Riaghaltas na h-Èireann air leisgeul foirmeil a thoirt do dhaoine co-sheòrsach a chaidh a dhìteadh fo laghan eachdraidheil.

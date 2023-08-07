@@ -1,16 +1,17 @@
 ---
-id: 747
-title: 'Leo Varadkar na chiad Phrìomhaire co-sheòrsach aig Èirinn'
-date: '2017-06-02T20:27:45+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=747'
-permalink: /2017-06-02-leo-varadkar-na-chiad-phriomhaire-co-sheorsach-aig-eirinn/
+
+date: 2017-06-02 20:27:45
+
+title: "Leo Varadkar na chiad Phrìomhaire co-sheòrsach aig Èirinn"
+
 image: /images/posts/2017-06-02-leo-varadkar-na-chiad-priomhaire-co-sheorsach-aig-eirinn.webp
-categories:
-    - Eadar-nàiseanta
-    - Èirinn
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Èirinn", "Poileataigs"]
+
 ---
 
 Chaidh Leo Varadkar a thaghadh mar cheannard am pàrtaidh poilitigeach Fine Gael an-diugh agus e a-nis gu bhith a chiad Prìomhaire (Taoiseach) co-sheòrsach ann an eachdraidh na h-Èirinn.

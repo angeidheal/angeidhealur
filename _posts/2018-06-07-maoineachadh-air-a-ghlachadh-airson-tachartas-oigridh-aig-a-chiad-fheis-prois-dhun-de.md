@@ -1,16 +1,17 @@
 ---
-id: 679
-title: 'Maoineachadh air a ghlachadh airson tachartas òigridh aig a’ chiad Fhèis Pròis Dhùn Dè'
-date: '2018-06-07T11:38:30+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=679'
-permalink: /2018-06-07-maoineachadh-air-a-ghlachadh-airson-tachartas-oigridh-aig-a-chiad-fheis-prois-dhun-de/
+
+date: 2018-06-07 11:38:30
+
+title: "Maoineachadh air a ghlachadh airson tachartas òigridh aig a’ chiad Fhèis Pròis Dhùn Dè"
+
 image: /images/posts/2018-06-07-maoineachadh-air-a-ghlachadh-airson-tachartas-oigridh-aig-a-chiad-fheis-proise-dhun-de.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+
 ---
 
 Chaidh maoineachadh de £2500 a ghlacadh leis a’ bhuidheann-òigridh Purple Dragons gus tachartas òigridh a chumail mar phàirt dhen chiad Fhèis Pròis Dhùn Dè.

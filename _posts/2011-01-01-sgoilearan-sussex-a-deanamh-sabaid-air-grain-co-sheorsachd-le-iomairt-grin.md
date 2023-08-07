@@ -1,15 +1,17 @@
 ---
-id: 765
-title: 'Sgoilearan Sussex a’ dèanamh sabaid air gràin-co-sheòrsachd le iomairt GRIN'
-date: '2011-01-01T15:45:18+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=765'
-permalink: /2011-01-01-sgoilearan-sussex-a-deanamh-sabaid-air-grain-co-sheorsachd-le-iomairt-grin/
+
+date: 2011-01-01 15:45:18
+
+title: "Sgoilearan Sussex a’ dèanamh sabaid air gràin-co-sheòrsachd le iomairt GRIN"
+
 image: /images/posts/2011-01-01-sgoilearan-sussex-a-deanamh-sabaid-air-grain-co-sheorsachd-le-iomairt-grin.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Foghlam
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Foghlam"]
+
 ---
 
 Tha sgoilearan aig Sgoil Bhedales, faisg air Petersfield air iomairt a chur air bhonn gus sabaid a’ dèanamh air gràin air deugairean co-sheòrsach.

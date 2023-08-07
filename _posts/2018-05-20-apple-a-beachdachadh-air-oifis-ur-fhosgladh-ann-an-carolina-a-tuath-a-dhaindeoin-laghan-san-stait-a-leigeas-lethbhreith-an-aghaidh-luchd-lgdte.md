@@ -1,16 +1,17 @@
 ---
-id: 700
-title: 'Apple a’ beachdachadh air oifis ùr fhosgladh ann an Carolina a Tuath a dh’aindeoin laghan san stàit a leigeas lethbhreith an aghaidh luchd-LGDTE'
-date: '2018-05-20T16:15:29+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=700'
-permalink: /2018-05-20-apple-a-beachdachadh-air-oifis-ur-fhosgladh-ann-an-carolina-a-tuath-a-dhaindeoin-laghan-san-stait-a-leigeas-lethbhreith-an-aghaidh-luchd-lgdte/
+
+date: 2018-05-20 16:15:29
+
+title: "Apple a’ beachdachadh air oifis ùr fhosgladh ann an Carolina a Tuath a dh’aindeoin laghan san stàit a leigeas lethbhreith an aghaidh luchd-LGDTE"
+
 image: /images/posts/2018-05-20-apple-a-beachdachadh-air-oifis-ur-fhosgladh-ann-an-carolina-a-tuath-a-dh-aindeoin-laghan-san-stait-a-leigeas-leth-bhreith.webp
-categories:
-    - Eadar-nàiseanta
-    - Gnìomhachas
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Gnìomhachas", "Poileataigs"]
+
 ---
 
 Tha dithis oifigearan riaghaltais à Carolina a Tuath air a ràdh gu bheil Apple a’ beachdachadh air oifis corporra mòr fhosgladh anns an stàit – a dh’aindeoin laghan san stàit a leigeas lethbhreith an aghaidh coimhearsnachd LGDTE na stàite.

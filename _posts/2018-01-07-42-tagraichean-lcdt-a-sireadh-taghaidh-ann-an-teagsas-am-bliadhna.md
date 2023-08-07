@@ -1,15 +1,17 @@
 ---
-id: 729
-title: '42 tagraichean LCDT+ a’ sireadh taghaidh ann an Teagsas am bliadhna'
-date: '2018-01-07T18:02:01+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=729'
-permalink: /2018-01-07-42-tagraichean-lcdt-a-sireadh-taghaidh-ann-an-teagsas-am-bliadhna/
+
+date: 2018-01-07 18:02:01
+
+title: "42 tagraichean LCDT+ a’ sireadh taghaidh ann an Teagsas am bliadhna"
+
 image: /images/posts/2018-01-07-42-tagraichean-lcdt-a-sireadh-taghaidh-ann-an-teagsas-am-bliadhna.webp
-categories:
-    - Eadar-nàiseanta
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Poileataigs"]
+
 ---
 
 A-rèir an iris [OutSmart](http://www.outsmartmagazine.com/) tha co-dhiù 42 tagraichean LCDT+ a’ sireadh taghaidh ann an Teagsas am bliadhna.

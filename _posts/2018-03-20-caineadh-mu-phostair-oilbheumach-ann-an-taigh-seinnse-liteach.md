@@ -1,16 +1,17 @@
 ---
-id: 721
-title: 'Càineadh mu phostair oilbheumach ann an taigh-seinnse Lìteach'
-date: '2018-03-20T20:53:02+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=721'
-permalink: /2018-03-20-caineadh-mu-phostair-oilbheumach-ann-an-taigh-seinnse-liteach/
+
+date: 2018-03-20 20:53:02
+
+title: "Càineadh mu phostair oilbheumach ann an taigh-seinnse Lìteach"
+
 image: /images/posts/2018-03-20-caineadh-mu-phostair-oilbheumach-ann-an-taigh-seinnse-liteach.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Gnìomhachas
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Gnìomhachas"]
+
 ---
 
 Chaidh càineadh a dhèanamh air an taigh-seinnse The Office ann an Lìte mu phostair oilbheumach a th’ anns na taighean-beaga aca.

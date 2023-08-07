@@ -1,16 +1,17 @@
 ---
-id: 750
-title: 'Prìomhaire co-sheòrsach gu bhith aig Èirinn?'
-date: '2017-06-01T13:13:34+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=750'
-permalink: /2017-06-01-priomhaire-co-sheorsach-gu-bhith-aig-eirinn/
+
+date: 2017-06-01 13:13:34
+
+title: "Prìomhaire co-sheòrsach gu bhith aig Èirinn?"
+
 image: /images/posts/2017-06-01-priomhaire-co-sheorsach-gu-bhith-aig-eirinn.webp
-categories:
-    - Eadar-nàiseanta
-    - Èirinn
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Èirinn", "Poileataigs"]
+
 ---
 
 Thathar an dùil gun tèid Leo Varadkar, 38 a thaghadh mar ceannard am pàrtaidh poilitigeach Fine Gael.

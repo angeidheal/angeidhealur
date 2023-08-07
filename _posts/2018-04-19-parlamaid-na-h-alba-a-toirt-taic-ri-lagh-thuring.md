@@ -1,17 +1,17 @@
 ---
-id: 706
-title: 'Pàrlamaid na h-Alba a’ toirt taic ri Lagh Thuring'
-date: '2018-04-19T13:39:21+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=706'
-permalink: /2018-04-19-parlamaid-na-h-alba-a-toirt-taic-ri-lagh-thuring/
+
+date: 2018-04-19 13:39:21
+
+title: "Pàrlamaid na h-Alba a’ toirt taic ri Lagh Thuring"
+
 image: /images/posts/2018-04-19-parlamaid-na-h-alba-a-toirt-taic-ri-lagh-thuring.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+
 ---
 
 Dh’aontaich Pàrlamaid na h-Alba gu h-aon-ghuthach Diciadan ri prìomh-amasan an Historical Sexual Offences (Pardons and Disregards) (Scotland) Bill.

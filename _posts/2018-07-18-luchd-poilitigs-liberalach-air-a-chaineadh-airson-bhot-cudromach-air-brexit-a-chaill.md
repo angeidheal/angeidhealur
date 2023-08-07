@@ -1,16 +1,17 @@
 ---
-id: 653
-title: 'Luchd-poilitigs Liberalach air a chàineadh airson bhòt cudromach air Brexit a chaill'
-date: '2018-07-18T21:45:08+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=653'
-permalink: /2018-07-18-luchd-poilitigs-liberalach-air-a-chaineadh-airson-bhot-cudromach-air-brexit-a-chaill/
+
+date: 2018-07-18 21:45:08
+
+title: "Luchd-poilitigs Liberalach air a chàineadh airson bhòt cudromach air Brexit a chaill"
+
 image: /images/posts/2018-07-18-luchd-poilitigs-liberalach-air-a-chaineadh-airson-bhot-cudromach-air-brexit-a-chaill.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Eadar-nàiseanta
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Poileataigs"]
+
 ---
 
 Chaidh dithis neach-poilitigs Libearalach a chàineadh Dimàirt as dèidh dhan bhòt cudromach air Brexit a chaill sa Phàirlamaid a’ ciallachadh gun dh’fhuair atharrachaidhean nan Tòraidhean air plana Brexit tron Phàrlamaid le dìreach trì bhòtaichean.

@@ -1,16 +1,17 @@
 ---
-id: 753
-title: 'BBC: Oidhirp gus beag-fhaclair LGBTI Gàidhlig a chruthachadh'
-date: '2017-05-10T16:00:06+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=753'
-permalink: /2017-05-10-bbc-oidhirp-gus-beag-fhaclair-lgbti-gaidhlig-a-chruthachadh/
+
+date: 2017-05-10 16:00:06
+
+title: "BBC: Oidhirp gus beag-fhaclair LGBTI Gàidhlig a chruthachadh"
+
 image: /images/posts/2017-05-10-bbc-oidhirp-gus-beag-fhaclair-lgbti-gaidhlig-a-chruthachadh.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Gàidhlig
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Gàidhlig"]
+
 ---
 
 **Nochd an sgeulachd seo air a’ BhBC an-diugh:-**

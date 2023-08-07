@@ -1,15 +1,17 @@
 ---
-id: 738
-title: 'Bàsaire ISIS fo chasaid ann an Ioràc'
-date: '2018-01-05T22:56:01+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=738'
-permalink: /2018-01-05-basaire-isis-fo-chasaid-ann-an-iorac/
+
+date: 2018-01-05 22:56:01
+
+title: "Bàsaire ISIS fo chasaid ann an Ioràc"
+
 image: /images/posts/2018-01-05-basaire-isis-fo-chasaid-ann-an-iorac.webp
-categories:
-    - Eadar-nàiseanta
-    - Lagh
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Lagh"]
+
 ---
 
 Tha feachdan tèarainteachd ann am Mosul, Ioràc air bàsaire ISIS a chur fo chasaid.
