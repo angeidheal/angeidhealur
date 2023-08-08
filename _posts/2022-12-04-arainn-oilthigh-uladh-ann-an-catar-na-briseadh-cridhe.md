@@ -4,7 +4,7 @@ layout: post
 
 date: 2022-12-04 09:34:20
 
-title: "Àrainn Oilthigh Uladh ann an Catar na \“briseadh‑cridhe\”"
+title: "Àrainn Oilthigh Uladh ann an Catar na /“briseadh‑cridhe/”"
 
 image: /images/posts/2022-12-04-arainn-oilthigh-uladh-ann-an-catar-na-briseadh-cridhe.webp
 
