@@ -1,14 +1,17 @@
 ---
-id: 296
-title: 'Lagh aithneachadh gnè ùr an Eilbheis'
-date: '2022-01-01T18:00:57+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=296'
-permalink: /2022-01-01-lagh-aithneachadh-gne-ur-an-eilbheis/
+
+date: 2022-01-01 18:00:57
+
+title: "Lagh aithneachadh gnè ùr an Eilbheis"
+
 image: /images/posts/2022-01-01-lagh-aithneachadh-gne-ur-an-eilbheis.webp
-categories:
-    - Eadar-nàiseanta
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta"]
+
 ---
 
 Chaidh lagh ùr a chur an-gnìomh an Eilbheis an-diugh a leigeas le pearsachan an gnè aca atharrachadh gu sìmplidh.

@@ -1,15 +1,17 @@
 ---
-id: 241
-title: 'Sasainn: Tar-bhoireannaich toirmeasgte bho rugbaidh nam ban'
-date: '2022-07-30T18:00:10+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=241'
-permalink: /2022-07-30-sasainn-tar-bhoireannaich-toirmeasgte-bho-rugbaidh-nam-ban/
+
+date: 2022-07-30 18:00:10
+
+title: "Sasainn: Tar-bhoireannaich toirmeasgte bho rugbaidh nam ban"
+
 image: /images/posts/2022-07-30-sasainn-tar-bhoireannaich-toirmeasgte-bho-rugbaidh-nam-ban.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Spòrs
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Spòrs"]
+
 ---
 
 Tha Aonadh Rugbaidh Shasainn (RFU) air casg a chur air tar-bhoireannaich bho bhith a’ cluich rugbaidh nam ban.

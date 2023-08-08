@@ -1,16 +1,17 @@
 ---
-id: 254
-title: 'Co-chomhairleachadh air Bile Ath-leasachadh Aithneachadh Gnè (Alba)'
-date: '2022-03-23T18:00:23+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=254'
-permalink: /2022-03-23-co-chomhairleachadh-air-bile-ath-leasachadh-aithneachadh-gne-alba/
+
+date: 2022-03-23 18:00:23
+
+title: "Co-chomhairleachadh air Bile Ath-leasachadh Aithneachadh Gnè (Alba)"
+
 image: /images/posts/2022-03-23-co-chomhairleachadh-air-bile-ath-leasachadh-aithneachadh-gne-alba.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
+
 ---
 
 Tha Comataidh Co-ionannachd, Chòirichean Daonna agus Ceartais Chatharra (EHRCJ) airson do chuid bheachdan air Bile Ath-leasachadh Aithneachadh Gnè (Alba) a chluinntinn.

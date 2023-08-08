@@ -1,16 +1,17 @@
 ---
-id: 220
-title: 'Zander Murray air tighinn a-mach'
-date: '2022-09-16T18:00:01+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=220'
-permalink: /2022-09-16-zander-murray-air-tighinn-a-mach/
+
+date: 2022-09-16 18:00:01
+
+title: "Zander Murray air tighinn a-mach"
+
 image: /images/posts/2022-09-16-zander-murray-air-tighinn-a-mach.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Spòrs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Spòrs"]
+
 ---
 
 Tha Zander Murray, adhartaiche airson Gala Fairydean Rovers, air ainmeachadh gu bheil e gèidh.

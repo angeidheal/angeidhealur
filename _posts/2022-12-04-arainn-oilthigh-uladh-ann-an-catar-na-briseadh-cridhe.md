@@ -1,16 +1,17 @@
 ---
-id: 102
-title: 'Àrainn Oilthigh Uladh ann an Catar na “briseadh‑cridhe”'
-date: '2022-12-04T09:34:20+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=102'
-permalink: /2022-12-04-arainn-oilthigh-uladh-ann-an-catar-na-briseadh%e2%80%91cridhe/
+
+date: 2022-12-04 09:34:20
+
+title: "Àrainn Oilthigh Uladh ann an Catar na \“briseadh‑cridhe\”"
+
 image: /images/posts/2022-12-04-arainn-oilthigh-uladh-ann-an-catar-na-briseadh-cridhe.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Eadar-nàiseanta
-    - Foghlam
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Foghlam"]
+
 ---
 
 Tha cathraiche Comann LGBT aig Oilthigh Uladh air ràdh gur e briseadh‑cridhe a th’ ann gu bheil planaichean aig an oilthigh airson àrainn a fhosgladh ann an Catar na briseadh‑cridhe.

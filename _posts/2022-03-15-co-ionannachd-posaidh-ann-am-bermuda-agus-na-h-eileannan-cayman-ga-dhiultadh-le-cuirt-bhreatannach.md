@@ -1,16 +1,17 @@
 ---
-id: 271
-title: 'Co-ionannachd pòsaidh ann am Bermuda agus na h-Eileannan Cayman ga dhiùltadh le Cùirt Bhreatannach'
-date: '2022-03-15T18:00:46+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=271'
-permalink: /2022-03-15-co-ionannachd-posaidh-ann-am-bermuda-agus-na-h-eileannan-cayman-ga-dhiultadh-le-cuirt-bhreatannach/
+
+date: 2022-03-15 18:00:46
+
+title: "Co-ionannachd pòsaidh ann am Bermuda agus na h-Eileannan Cayman ga dhiùltadh le Cùirt Bhreatannach"
+
 image: /images/posts/2022-03-15-co-ionannachd-posaidh-ann-am-bermuda-agus-na-h-eileannan-cayman-ga-dhiultadh-le-cuirt-bhreatannach.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Eadar-nàiseanta
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Poileataigs"]
+
 ---
 
 Riaghail Comhairle Dhìomhair na Rìoghachd Aonaichte Diluain gu bheil na bacaidhean a th’ air pòsadh aon-sheòrsach ann am Bermuda agus na h-Eileanan Cayman laghail.

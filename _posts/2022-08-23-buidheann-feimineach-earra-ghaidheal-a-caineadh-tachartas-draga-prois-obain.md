@@ -4,18 +4,13 @@ layout: post
 
 date: 2022-08-23 18:00
 
-title: Buidheann feimineach Earra-Ghàidheal a' càineadh tachartas draga Pròis Òbain
+title: "Buidheann feimineach Earra-Ghàidheal a' càineadh tachartas draga Pròis Òbain"
 
 image: /images/posts/2022-08-23-buidheann-feimineach-earra-ghaidheal-a-caineadh-tachartas-draga-prois-obain.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Pròis
-
-mastodon:
+categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
 
 ---
 

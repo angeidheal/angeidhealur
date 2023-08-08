@@ -1,15 +1,17 @@
 ---
-id: 269
-title: 'Thèid gnè bith-eòlasach a shònrachadh do phearsachan neo-bhìnearaidh ann an Cunntas-sluaigh na h-Èireann'
-date: '2022-03-16T18:00:07+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=269'
-permalink: /2022-03-16-theid-gne-bith-eolasach-a-shonrachadh-do-phearsachan-neo-bhinearaidh-ann-an-cunntas-sluaigh-na-h-eireann/
+
+date: 2022-03-16 18:00:07
+
+title: "Thèid gnè bith-eòlasach a shònrachadh do phearsachan neo-bhìnearaidh ann an Cunntas-sluaigh na h-Èireann"
+
 image: /images/posts/2022-03-16-theid-gne-bith-eolasach-a-shonrachadh-do-phearsachan-neo-bhinearaidh-ann-an-cunntas-sluaigh-na-h-eireann.webp
-categories:
-    - Eadar-nàiseanta
-    - Èirinn
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Èirinn"]
+
 ---
 
 Tha Príomh-Oifig Staidrimh na hÉireann (CSO) air dearbhadh gun tèid gnè bith-eòlasach a shònrachadh do phearsachan neo-bhìnearaidh ann an Cunntas-sluaigh na h-Èireann am bliadhna.

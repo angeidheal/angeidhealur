@@ -1,16 +1,17 @@
 ---
-id: 211
-title: 'Dithis fo chasaid ionnsaigh gràin co‑sheòrsachd an Inbhir Nis'
-date: '2022-09-28T18:00:27+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=211'
-permalink: /2022-09-28-dithis-fo-chasaid-ionnsaigh-grain-co%e2%80%91sheorsachd-an-inbhir-nis/
+
+date: 2022-09-28 18:00:27
+
+title: "Dithis fo chasaid ionnsaigh gràin co‑sheòrsachd an Inbhir Nis"
+
 image: /images/posts/2022-09-28-dithis-fo-chasaid-ionnsaigh-grain-co-sheorsachd-an-inbhir-nis.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh"]
+
 ---
 
 Tha dthis neach-obrach an airm air nochdadh ann an Cùirt an t‑Siorraim an Inbhir Nis fo chasaid gun tug iad ionnsaigh gràin co‑sheòrsachd air fireannach ann am Meadhan Inbhir Nis san Dùbhlachd.

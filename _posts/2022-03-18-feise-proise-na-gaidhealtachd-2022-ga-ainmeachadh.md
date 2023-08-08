@@ -1,16 +1,17 @@
 ---
-id: 264
-title: 'Fèise-pròise na Gàidhealtachd 2022 ga ainmeachadh'
-date: '2022-03-18T18:00:37+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=264'
-permalink: /2022-03-18-feise-proise-na-gaidhealtachd-2022-ga-ainmeachadh/
+
+date: 2022-03-18 18:00:37
+
+title: "Fèise-pròise na Gàidhealtachd 2022 ga ainmeachadh"
+
 image: /images/posts/Highland_Pride.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+
 ---
 
 Tha Highland Pride air ainmeachadh ann am [post air an làrach-lìn](https://highlandpride.org/) aca gun tèid tachartas pròise na bliadhna seo a chumail Disathairne 11mh latha dhen Ògmhios.

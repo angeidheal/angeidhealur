@@ -1,16 +1,17 @@
 ---
-id: 105
-title: 'Seanadh nan S.A. air bhòtadh gus pòsadh aon‑sheòrsach a ghlèidheadh ann an lagh feadarail'
-date: '2022-11-30T11:59:10+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=105'
-permalink: /2022-11-30-seanadh-nan-s-a-air-bhotadh-gus-posadh-aon%e2%80%91sheorsach-a-ghleidheadh-ann-an-lagh-feadarail/
+
+date: 2022-11-30 11:59:10
+
+title: "Seanadh nan S.A. air bhòtadh gus pòsadh aon‑sheòrsach a ghlèidheadh ann an lagh feadarail"
+
 image: /images/posts/2022-11-30-seanadh-nan-s-a-air-bhotadh-gus-posadh-aon-sheorsach-a-ghleidheadh-ann-an-lagh-feadarail.webp
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
+
 ---
 
 Tha Seanadh nan Stàitean Aonaichte air bhòtadh gus pòsaidhean aon‑sheòrsach agus ioma‑chinnidheach a ghlèidheadh ann an lagh feadarail.

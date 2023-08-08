@@ -1,18 +1,17 @@
 ---
-id: 235
-title: 'Eilean Mhanainn: Gairm airson riaghailt “àrsaidh” a bhios a’ toirmeasg fireannaich gèidh bho bhith a’ toirt seachad fala atharrachadh'
-date: '2022-08-14T18:00:54+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=235'
-permalink: /2022-08-14-eilean-mhanainn-gairm-airson-riaghailt-arsaidh-a-bhios-a-toirmeasg-fireannaich-geidh-bho-bhith-a-toirt-seachad-fala-atharrachadh/
+
+date: 2022-08-14 18:00:54
+
+title: "Eilean Mhanainn: Gairm airson riaghailt “àrsaidh” a bhios a’ toirmeasg fireannaich gèidh bho bhith a’ toirt seachad fala atharrachadh"
+
 image: /images/posts/2022-08-14-eilean-mhanainn-gairm-airson-riaghailt-arsaidh-a-bhios-a-toirmeasg-fireannaich-geidh-bho-bhith-a-toirt-seachad-fala-atharrachadh.webp
-categories:
-    - Eadar-nàiseanta
-    - Eilean Mhanainn
-    - Poileataigs
-    - Pròis
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Eilean Mhanainn", "Poileataigs", "Pròis", "Slàinte"]
+
 ---
 
 Tha an cleasaiche Mhanainneach, Joe Locke, air gairm airson an riaghailt “àrsaidh” a bhios a’ toirmeasg fireannaich gèidh bho bhith a’ toirt seachad fala atharrachadh.

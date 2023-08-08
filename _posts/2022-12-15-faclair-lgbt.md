@@ -4,17 +4,13 @@ layout: post
 
 date: 2022-12-15 17:00
 
-title: Faclair.lgbt
+title: "Faclair.lgbt"
 
 image: /images/posts/2022-12-15-faclair-lgbt.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Blog
-    - Gàidhlig
-
-mastodon:
+categories: ["Blog", "Gàidhlig"]
 
 ---
 

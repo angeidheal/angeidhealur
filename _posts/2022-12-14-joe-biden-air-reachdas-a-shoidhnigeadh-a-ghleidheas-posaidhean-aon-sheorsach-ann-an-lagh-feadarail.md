@@ -4,18 +4,13 @@ layout: post
 
 date: 2022-12-14 13:00
 
-title: Joe Biden air reachdas a shoidhnigeadh a ghlèidheas pòsaidhean aon-sheòrsach ann an lagh feadarail
+title: "Joe Biden air reachdas a shoidhnigeadh a ghlèidheas pòsaidhean aon-sheòrsach ann an lagh feadarail"
 
 author: Crìstean MacMhìcheil
 
 image: /images/posts/2022-12-14-joe-biden-air-reachdas-a-shoidhnigeadh-a-ghleidheas-posaidhean-aon-sheorsach-ann-an-lagh-feadarail.webp
 
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
-
-mastodon:
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
 
 ---
 

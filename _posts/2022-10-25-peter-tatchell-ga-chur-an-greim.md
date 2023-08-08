@@ -1,17 +1,17 @@
 ---
-id: 138
-title: 'Peter Tatchell ga chur an grèim'
-date: '2022-10-25T14:50:39+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=138'
-permalink: /2022-10-25-peter-tatchell-ga-chur-an-greim/
+
+date: 2022-10-25 14:50:39
+
+title: "Peter Tatchell ga chur an grèim"
+
 image: /images/posts/2022-10-25-peter-tatchell-ga-chur-an-greim.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Eadar-nàiseanta
-    - Lagh
-    - Spòrs
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Lagh", "Spòrs"]
+
 ---
 
 Chaidh an neach‑iomairt LGDTC+ Peter Tatchell a chur an grèim an‑diugh ann an Doha, Qatar.

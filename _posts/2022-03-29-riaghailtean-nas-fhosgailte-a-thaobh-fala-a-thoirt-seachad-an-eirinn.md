@@ -1,16 +1,17 @@
 ---
-id: 251
-title: 'Riaghailtean nas fhosgailte a thaobh fala a thoirt seachad an Èirinn'
-date: '2022-03-29T18:00:41+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=251'
-permalink: /2022-03-29-riaghailtean-nas-fhosgailte-a-thaobh-fala-a-thoirt-seachad-an-eirinn/
+
+date: 2022-03-29 18:00:41
+
+title: "Riaghailtean nas fhosgailte a thaobh fala a thoirt seachad an Èirinn"
+
 image: /images/posts/2022-03-29-riaghailtean-nas-fhosgailte-a-thaobh-fala-a-thoirt-seachad-an-eirinn.webp
-categories:
-    - Eadar-nàiseanta
-    - Èirinn
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Èirinn", "Slàinte"]
+
 ---
 
 Tha Seirbheis Fala na h-Èireann air na riaghailtean a thaobh fala a thoirt seachad atharrachadh.

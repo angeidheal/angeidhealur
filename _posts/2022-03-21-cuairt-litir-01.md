@@ -6,16 +6,12 @@ date: 2022-03-21 18:00
 
 title: "Cuairt-litir #1"
 
-image: 
+image:
 
 author: Crìstean MacMhìcheil
 
-categories:
-  - An Rìoghachd Aonaichte
-  - Cuairt-litir
-  - Poileataigs
-  - Slàinte
-  
+categories: ["An Rìoghachd Aonaichte", "Cuairt-litir", "Poileataigs", "Slàinte"]
+
 ---
 
 Geàrr-chunntas sgrìobhte air cinn-naidheachd an latha.

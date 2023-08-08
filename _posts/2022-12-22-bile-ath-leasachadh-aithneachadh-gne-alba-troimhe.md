@@ -4,19 +4,13 @@ layout: post
 
 date: 2022-12-22 19:17
 
-title: Bile Ath-leasachadh Aithneachadh Gnè (Alba) troimhe
+title: "Bile Ath-leasachadh Aithneachadh Gnè (Alba) troimhe"
 
 image: /images/posts/2022-12-22-bile-ath-leasachadh-aithneachadh-gne-alba-troimhe.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
-
-mastodon:
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
 
 ---
 

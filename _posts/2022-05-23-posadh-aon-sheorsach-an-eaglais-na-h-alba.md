@@ -4,18 +4,13 @@ layout: post
 
 date: 2022-05-23 18:00
 
-title: Pòsadh aon-sheòrsach an Eaglais na h-Alba
+title: "Pòsadh aon-sheòrsach an Eaglais na h-Alba"
 
 image: /images/posts/2022-05-23-posadh-aon-sheorsach-an-eaglais-na-h-alba.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Creideamh
-
-mastodon:
+categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh"]
 
 ---
 

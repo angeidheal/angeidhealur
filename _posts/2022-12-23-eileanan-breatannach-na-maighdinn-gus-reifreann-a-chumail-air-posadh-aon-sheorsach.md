@@ -4,18 +4,13 @@ layout: post
 
 date: 2022-12-23 19:00
 
-title: Eileanan Breatannach na Maighdinn gus reifreann a chumail air pòsadh aon-sheòrsach
+title: "Eileanan Breatannach na Maighdinn gus reifreann a chumail air pòsadh aon-sheòrsach"
 
 image: /images/posts/2022-12-23-eileanan-breatannach-na-maighdinn-gus-reifreann-a-chumail-air-posadh-aon-sheorsach.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
-
-mastodon:
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
 
 ---
 

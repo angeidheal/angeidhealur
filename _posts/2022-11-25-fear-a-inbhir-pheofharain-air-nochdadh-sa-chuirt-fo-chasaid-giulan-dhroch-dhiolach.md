@@ -1,16 +1,17 @@
 ---
-id: 111
-title: 'Fear à Inbhir Pheofharain air nochdadh sa chùirt fo chasaid giùlan dhroch‑dhìolach'
-date: '2022-11-25T06:01:25+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=111'
-permalink: /2022-11-25-fear-a-inbhir-pheofharain-air-nochdadh-sa-chuirt-fo-chasaid-giulan-dhroch%e2%80%91dhiolach/
+
+date: 2022-11-25 06:01:25
+
+title: "Fear à Inbhir Pheofharain air nochdadh sa chùirt fo chasaid giùlan dhroch‑dhìolach"
+
 image: /images/posts/2022-11-25-fear-a-inbhir-pheofharain-air-nochdadh-sa-chuirt-fo-chasaid-giulan-dhroch-dhiolach.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh"]
+
 ---
 
 Tha fear à Inbhir Pheofharain air nochdadh ann an Cùirt an t‑Siorraim ann an Inbhir Nis fo chasaid gun do thug e iomradh air oifigearan‑poilis le cainnt a bha ri gràin co‑sheòrsachd agus gun do thilg e smugaid orra.

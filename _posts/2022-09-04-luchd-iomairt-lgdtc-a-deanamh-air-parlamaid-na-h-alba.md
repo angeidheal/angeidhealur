@@ -4,18 +4,13 @@ layout: post
 
 date: 2022-09-04 18:00
 
-title: Luchd-iomairt LGDTC+ a' dèanamh air Pàrlamaid na h-Alba
+title: "Luchd-iomairt LGDTC+ a' dèanamh air Pàrlamaid na h-Alba"
 
 image: /images/posts/2022-09-04-luchd-iomairt-a-deanamh-air-parlamaid-na-h-alba.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Poileataigs
-
-mastodon:
+categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
 
 ---
 

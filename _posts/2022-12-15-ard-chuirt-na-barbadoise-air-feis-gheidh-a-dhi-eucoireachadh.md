@@ -4,28 +4,13 @@ layout: post
 
 date: 2022-12-15 07:35
 
-title: Àrd-chùirt na Barbadoise air feis ghèidh a dhì-eucoireachadh
+title: "Àrd-chùirt na Barbadoise air feis ghèidh a dhì-eucoireachadh"
 
 image: /images/posts/2022-12-15-ard-chuirt-na-barbadoise-air-feis-gheidh-a-dhi-eucoireachadh.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-
-tags:
-    - Aintìoga
-    - An Roinn Charaibeach
-    - Àrd-chùirt na Barbadoise
-    - Barbados
-    - Dale Marshall
-    - dì-eucoireachadh
-    - feis ghèidh
-    - Michelle Weekes
-    - Naomh Crìstean is Nibheis
-
-mastodon:
+categories: ["Eadar-nàiseanta", "Lagh"]
 
 ---
 

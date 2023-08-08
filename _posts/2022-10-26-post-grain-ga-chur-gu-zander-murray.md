@@ -1,16 +1,17 @@
 ---
-id: 132
-title: 'Post gràin ga chur gu Zander Murray'
-date: '2022-10-26T13:30:48+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=132'
-permalink: /2022-10-26-post-grain-ga-chur-gu-zander-murray/
+
+date: 2022-10-26 13:30:48
+
+title: "Post gràin ga chur gu Zander Murray"
+
 image: /images/posts/2022-10-26-post-grain-ga-chur-gu-zander-murray.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Spòrs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Spòrs"]
+
 ---
 
 Tha an cluicheadair ball‑coise Albannach, Zander Murray, air ràdh gu bheil e air post gràin fhaighinn on a thàinig e a‑mach mar ghèidh san t‑Sultain.

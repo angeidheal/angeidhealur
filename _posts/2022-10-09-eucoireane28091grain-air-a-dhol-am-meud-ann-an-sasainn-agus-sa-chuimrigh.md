@@ -1,15 +1,17 @@
 ---
-id: 144
-title: 'Eucoirean‑gràin air a dhol am meud ann an Sasainn agus sa Chuimrigh'
-date: '2022-10-09T14:22:44+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=144'
-permalink: /2022-10-09-eucoirean%e2%80%91grain-air-a-dhol-am-meud-ann-an-sasainn-agus-sa-chuimrigh/
+
+date: 2022-10-09 14:22:44
+
+title: "Eucoirean‑gràin air a dhol am meud ann an Sasainn agus sa Chuimrigh"
+
 image: /images/posts/2022-10-09-eucoirean-grain-air-a-dhol-am-meud-ann-an-sasainn-agus-sa-chuimrigh.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Lagh
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Lagh"]
+
 ---
 
 Tha na h‑àireamhan as ùire bho Oifis na Dùthcha airson na bliadhna suas chun a’ Mhàrt 2022 a’ sealltainn gu bheil an àireamh de dh’eucoirean‑gràin ann an Sasainn agus sa Chuimrigh air a dhol suas le 26% gu 155,841.

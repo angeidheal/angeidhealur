@@ -1,16 +1,17 @@
 ---
-id: 114
-title: 'Sgioba ball‑coise na Gearmailte a’ seasamh airson còirichean LGDT+'
-date: '2022-11-23T17:43:27+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=114'
-permalink: /2022-11-23-sgioba-ball%e2%80%91coise-na-gearmailte-a-seasamh-airson-coirichean-lgdt/
+
+date: 2022-11-23 17:43:27
+
+title: "Sgioba ball‑coise na Gearmailte a’ seasamh airson còirichean LGDT+"
+
 image: /images/posts/2022-11-23-sgioba-ball-coise-na-gearmailte-a-seasamh-airson-coirichean-lgdt.webp
-categories:
-    - Eadar-nàiseanta
-    - Poileataigs
-    - Spòrs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Poileataigs", "Spòrs"]
+
 ---
 
 Chòmhdaich cluicheadairean sgioba ball‑coise na Gearmailte am beòil fhad ’s a bha iad a’ togail dealbh ro thoiseach an geama aca an aghaidh Iapan Diciadain.

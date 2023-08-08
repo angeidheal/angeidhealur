@@ -1,17 +1,17 @@
 ---
-id: 98
-title: 'Riaghaltas na h-Alba gus clionaig PrEP air loidhne a chur air bhog'
-date: '2022-12-05T14:04:43+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=98'
-permalink: /2022-12-05-riaghaltas-na-h-alba-gus-clionaig-prep-air-loidhne-a-chur-air-bhog/
+
+date: 2022-12-05 14:04:43
+
+title: "Riaghaltas na h-Alba gus clionaig PrEP air loidhne a chur air bhog"
+
 image: /images/posts/2022-12-05-riaghaltas-na-h-alba-gus-clionaig-prep-air-loidhne-a-chur-air-bhog.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Poileataigs
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs", "Slàinte"]
+
 ---
 
 Tha Maree Todd, Ministear airson Slàinte Phoblach, Slàinte Bhoireannaich agus Spòrs, air ainmeachadh gun cur Riaghaltas na h‑Alba clionaig PrEP air loidhne air bhog an ath‑bliadhna.

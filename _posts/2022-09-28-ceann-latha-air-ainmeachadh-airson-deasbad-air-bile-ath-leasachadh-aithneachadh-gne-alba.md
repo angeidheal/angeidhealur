@@ -1,16 +1,17 @@
 ---
-id: 214
-title: 'Ceann‑latha air ainmeachadh airson deasbad air Bile Ath‑leasachadh Aithneachadh Gnè (Alba)'
-date: '2022-09-28T18:00:37+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=214'
-permalink: /2022-09-28-ceann%e2%80%91latha-air-ainmeachadh-airson-deasbad-air-bile-ath%e2%80%91leasachadh-aithneachadh-gne-alba/
+
+date: 2022-09-28 18:00:37
+
+title: "Ceann‑latha air ainmeachadh airson deasbad air Bile Ath‑leasachadh Aithneachadh Gnè (Alba)"
+
 image: /images/posts/2022-09-28-ceann-latha-air-ainmeachadh-airson-deasbad-air-bile-ath-leasachadh-aithneachadh-gne-alba.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
+
 ---
 
 Chaidh a dhearbhadh an‑diugh gun tèid Bile Ath‑leasachadh Aithneachadh Gnè (Alba) a dheasbad ann am Pàrlamaid na h‑Alba Diardaoin 27 An Dàmhair.

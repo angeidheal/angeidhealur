@@ -1,14 +1,17 @@
 ---
-id: 277
-title: 'Bacadh ga chur air teiripe iompachaidh ann an Sealainn Nuadh'
-date: '2022-02-20T13:40:00+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=277'
-permalink: /2022-02-20-bacadh-ga-chur-air-teiripe-iompachaidh-ann-an-sealainn-nuadh/
+
+date: 2022-02-20 13:40:00
+
+title: "Bacadh ga chur air teiripe iompachaidh ann an Sealainn Nuadh"
+
 image: /images/posts/2022-02-20-bacadh-ga-chur-air-teiripe-iompachaidh-ann-an-sealainn-nuadh-scaled.webp
-categories:
-    - Eadar-nàiseanta
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta"]
+
 ---
 
 Tha Pàrlamaid Shealainn Nuadh air gabhail ri lagh ùr a chuireas bacadh air teiripe iompachaidh.

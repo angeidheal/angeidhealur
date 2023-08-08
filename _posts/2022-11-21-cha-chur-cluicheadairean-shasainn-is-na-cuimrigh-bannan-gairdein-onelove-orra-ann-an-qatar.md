@@ -1,17 +1,17 @@
 ---
-id: 117
-title: 'Cha chur cluicheadairean Shasainn is na Cuimrigh bannan‑gàirdein OneLove orra ann an Qatar'
-date: '2022-11-21T13:08:42+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=117'
-permalink: /2022-11-21-cha-chur-cluicheadairean-shasainn-is-na-cuimrigh-bannan%e2%80%91gairdein-onelove-orra-ann-an-qatar/
+
+date: 2022-11-21 13:08:42
+
+title: "Cha chur cluicheadairean Shasainn is na Cuimrigh bannan‑gàirdein OneLove orra ann an Qatar"
+
 image: /images/posts/2022-11-21-cha-chur-cluicheadairean-shasainn-is-na-cuimrigh-bannan-gairdein-onelove-orra-ann-an-qatar.webp
-categories:
-    - Eadar-nàiseanta
-    - Lagh
-    - Poileataigs
-    - Spòrs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs", "Spòrs"]
+
 ---
 
 Tha sgiobaidhean ball‑coise Shasainn is na Cuimrigh air dearbhadh nach bi iad a’ cur bannan‑gàirdein OneLove orra nuair a bhios iad a’ cluich ann an Qatar.

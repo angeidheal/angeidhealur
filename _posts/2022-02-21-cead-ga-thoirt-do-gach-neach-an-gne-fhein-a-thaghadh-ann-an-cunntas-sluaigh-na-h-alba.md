@@ -1,15 +1,17 @@
 ---
-id: 275
-title: 'Cead ga thoirt do gach neach an gnè fhèin a thaghadh ann an Cunntas-sluaigh na h-Alba'
-date: '2022-02-21T22:00:37+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=275'
-permalink: /2022-02-21-cead-ga-thoirt-do-gach-neach-an-gne-fhein-a-thaghadh-ann-an-cunntas-sluaigh-na-h-alba/
+
+date: 2022-02-21 22:00:37
+
+title: "Cead ga thoirt do gach neach an gnè fhèin a thaghadh ann an Cunntas-sluaigh na h-Alba"
+
 image: /images/posts/2022-02-21-cead-ga-thoirt-do-gach-neach-an-gne-fhein-a-thaghadh-ann-an-cunntas-sluaigh-na-h-alba.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte"]
+
 ---
 
 Tha britheamh air riaghladh gum faod gach neach an gnè fhèin a thaghadh ann an cunntas-sluaigh na h-Alba gun feum air teisteanas aithneachadh gnè.
