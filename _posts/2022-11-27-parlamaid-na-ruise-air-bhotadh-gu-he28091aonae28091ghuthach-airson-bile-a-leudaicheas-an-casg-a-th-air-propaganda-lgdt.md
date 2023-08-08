@@ -4,7 +4,7 @@ layout: post
 
 date: 2022-11-27 11:47:24
 
-title: "Pàrlamaid na Ruise air bhòtadh gu h‑aona‑ghuthach airson bile a leudaicheas an casg a th’ air \“propaganda LGDT\”"
+title: "Pàrlamaid na Ruise air bhòtadh gu h‑aona‑ghuthach airson bile a leudaicheas an casg a th’ air /“propaganda LGDT/”"
 
 image: /images/posts/2022-11-27-parlamaid-na-ruise-air-bhotadh-gu-h-aona-ghuthach-airson-bile-a-leudaicheas-an-casg-a-th-air-propaganda-lgdt.webp
 
