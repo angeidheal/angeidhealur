@@ -10,9 +10,7 @@ image: /images/posts/2023-01-25-alba-tar-bhoireannaich-toirmeasgte-bho-rugbaidh-
 
 author: Crìstean MacMhìcheil
 
-categories:
-  - Alba
-  - Spòrs
+categories: ["Alba", "Spòrs"]
 
 ---
 

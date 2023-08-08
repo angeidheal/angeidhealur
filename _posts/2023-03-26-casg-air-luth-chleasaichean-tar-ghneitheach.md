@@ -4,17 +4,13 @@ layout: post
 
 date: 2023-03-26 11:30
 
-title: Casg air lùth-chleasaichean tar-ghnèitheach
+title: "Casg air lùth-chleasaichean tar-ghnèitheach"
 
 image: /images/posts/World-Athletics.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Eadar-nàiseanta
-    - Spòrs
-
-mastodon:
+categories: ["Eadar-nàiseanta", "Spòrs"]
 
 ---
 

@@ -4,17 +4,13 @@ layout: post
 
 date: 2023-06-07
 
-title: Drag Queen Story Time
+title: "Drag Queen Story Time"
 
-image: 
+image:
 
 author: Crìstean MacMhìcheil
 
-categories:
-  - Alba
-  - Pròis
-  - Foghlam
-  - Poileataigs
+categories: ["Alba", "Pròis", "Foghlam", "Poileataigs"]
 
 ---
 

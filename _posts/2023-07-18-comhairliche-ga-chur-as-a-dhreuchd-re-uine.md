@@ -4,18 +4,13 @@ layout: post
 
 date: 2023-07-18 05:27:51
 
-title: 'Comhairliche ga chur às a dhreuchd re ùine'
+title: "Comhairliche ga chur às a dhreuchd re ùine"
 
 image: /images/posts/King-Lawal.jpg
 
-author: 'Crìstean MacMhìcheil'
+author: Crìstean MacMhìcheil
 
-categories:
-    - 'An Rìoghachd Aonaichte'
-    - Eadar-nàiseanta
-    - Creideamh
-    - Poileataigs
-    - Pròis
+categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Creideamh", "Poileataigs", "Pròis"]
 
 ---
 

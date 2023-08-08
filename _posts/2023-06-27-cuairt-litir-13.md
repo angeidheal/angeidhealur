@@ -4,18 +4,11 @@ layout: post
 
 date: 2023-06-27 20:34:47
 
-title: 'Cuairt-litir #13'
+title: "Cuairt-litir #13"
 
-author: 'Crìstean MacMhìcheil'
+author: Crìstean MacMhìcheil
 
-categories:
-    - Alba
-    - 'An Rìoghachd Aonaichte'
-    - Eadar-nàiseanta
-    - Cuairt-litir
-    - Lagh
-    - Poileataigs
-    - Pròis
+categories: ["Alba", "An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Cuairt-litir", "Lagh", "Poileataigs", "Pròis"]
 
 ---
 

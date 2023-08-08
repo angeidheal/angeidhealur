@@ -4,18 +4,11 @@ layout: post
 
 date: 2023-07-13 19:18:11
 
-title: 'Cuairt-litir #19'
+title: "Cuairt-litir #19"
 
-author: 'Crìstean MacMhìcheil'
+author: Crìstean MacMhìcheil
 
-categories:
-    - 'An Rìoghachd Aonaichte'
-    - Eadar-nàiseanta
-    - Creideamh
-    - Cuairt-litir
-    - Lagh
-    - Poileataigs
-    - Slàinte
+categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Creideamh", "Cuairt-litir", "Lagh", "Poileataigs", "Slàinte"]
 
 ---
 

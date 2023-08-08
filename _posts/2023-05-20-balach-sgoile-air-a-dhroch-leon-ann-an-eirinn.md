@@ -4,16 +4,14 @@ layout: post
 
 date: 2023-05-20
 
-title: Balach-sgoile air a dhroch leòn ann an Èirinn
+title: "Balach-sgoile air a dhroch leòn ann an Èirinn"
 
-image: 
+image:
 
 author: Crìstean MacMhìcheil
 
-categories:
-  - Èirinn
-  - Lagh
-  
+categories: ["Èirinn", "Lagh"]
+
 ---
 
 Tha na Gardí ann an Navan, Contae na Mí, air dearbhadh gun deach còignear deugaire a chaidh a chur an grèim as dèidh ionnsaigh air balach-sgoile gèidh, 14 bliadhna a dh'aois, an saoradh gun chasaid.

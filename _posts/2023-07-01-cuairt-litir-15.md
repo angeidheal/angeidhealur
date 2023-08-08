@@ -4,22 +4,13 @@ layout: post
 
 date: 2023-07-01 19:32:34
 
-title: 'Cuairt-litir #15'
+title: "Cuairt-litir #15"
 
-author: 'Crìstean MacMhìcheil'
+author: Crìstean MacMhìcheil
 
-categories:
-    - Alba
-    - 'An Rìoghachd Aonaichte'
-    - Eadar-nàiseanta
-    - Cuairt-litir
-    - Foghlam
-    - Lagh
-    - Poileataigs
-    - Saidheans
+categories: ["Alba", "An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Cuairt-litir", "Foghlam", "Lagh", "Poileataigs", "Saidheans"]
 
 ---
-
 
 Geàrr-chunntas sgrìobhte de naidheachdan LGDTC+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
 

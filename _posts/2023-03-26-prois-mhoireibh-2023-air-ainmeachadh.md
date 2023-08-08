@@ -4,17 +4,13 @@ layout: post
 
 date: 2023-03-26 12:37
 
-title: Pròis Mhoireibh 2023 air ainmeachadh
+title: "Pròis Mhoireibh 2023 air ainmeachadh"
 
 image: /images/posts/Pride-In-Moray.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Alba
-    - Pròis
-
-mastodon:
+categories: ["Alba", "Pròis"]
 
 ---
 

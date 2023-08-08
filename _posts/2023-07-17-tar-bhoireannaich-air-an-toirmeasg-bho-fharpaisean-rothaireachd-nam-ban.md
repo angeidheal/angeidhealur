@@ -4,15 +4,13 @@ layout: post
 
 date: 2023-07-17 18:26:06
 
-title: 'Tar-bhoireannaich air an toirmeasg bho fharpaisean rothaireachd nam ban'
+title: "Tar-bhoireannaich air an toirmeasg bho fharpaisean rothaireachd nam ban"
 
 image: /images/posts/matt-noble-sXBlqLvWkVk-unsplash.jpg
 
-author: 'Crìstean MacMhìcheil'
+author: Crìstean MacMhìcheil
 
-categories:
-    - Eadar-nàiseanta
-    - Spòrs
+categories: ["Eadar-nàiseanta", "Spòrs"]
 
 ---
 

@@ -4,16 +4,13 @@ layout: post
 
 date: 2023-02-05 14:00
 
-title: Pàrlamaid na Fionnlainn air bhòtadh gus laghan aithneachadh gnè ath-leasachadh
+title: "Pàrlamaid na Fionnlainn air bhòtadh gus laghan aithneachadh gnè ath-leasachadh"
 
 image: /images/posts/2023-02-05-parlamaid-na-fionnlainn-air-bhotadh-gus-laghan-aithneachadh-gne-ath-leasachadh.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-  - Eadar-nàiseanta
-  - Lagh
-  - Poileataigs
+categories: ["Eadar-nàiseanta", "Lagh", "Poileataigs"]
 
 mastodon: https://mastodon.scot/@angeidhealur/109812582132364476
 

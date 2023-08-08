@@ -11,7 +11,7 @@ image:
 author: Crìstean MacMhìcheil
 
 categories: ["An Rìoghachd Aonaichte", "Cuairt-litir", "Eadar-nàiseanta", "Èirinn", "Lagh", "Poileataigs"]
-  
+
 ---
 
 Geàrr-chunntas sgrìobhte de naidheachdan LGDTC+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.

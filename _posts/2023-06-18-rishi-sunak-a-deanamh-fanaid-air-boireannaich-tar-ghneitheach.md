@@ -4,13 +4,11 @@ layout: post
 
 date: 2023-06-18 18:47:19
 
-title: 'Rishi Sunak a’ dèanamh fanaid air boireannaich tar-ghnèitheach'
+title: "Rishi Sunak a’ dèanamh fanaid air boireannaich tar-ghnèitheach"
 
-author: 'Crìstean MacMhìcheil'
+author: Crìstean MacMhìcheil
 
-categories:
-    - 'An Rìoghachd Aonaichte'
-    - Poileataigs
+categories: ["An Rìoghachd Aonaichte", "Poileataigs"]
 
 ---
 

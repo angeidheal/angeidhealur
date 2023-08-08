@@ -4,17 +4,13 @@ layout: post
 
 date: 2023-01-13 13:30
 
-title: Draghan air Rishi Sunak mun bhuaidh ath-leasachaidhean gnè
+title: "Draghan air Rishi Sunak mun bhuaidh ath-leasachaidhean gnè"
 
 image: /images/posts/2023-01-13-draghan-air-rishi-sunak-mun-bhuaidh-ath-leasachaidhean-gne.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-  - Alba
-  - An Rìoghachd Aonaichte
-  - Lagh
-  - Poileataigs
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
 
 ---
 

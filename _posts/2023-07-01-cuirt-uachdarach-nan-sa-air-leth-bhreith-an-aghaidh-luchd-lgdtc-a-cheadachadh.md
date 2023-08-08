@@ -4,18 +4,13 @@ layout: post
 
 date: 2023-07-01 13:41:22
 
-title: 'Cùirt Uachdarach nan SA air leth-bhreith an-aghaidh luchd LGDTC+ a cheadachadh'
+title: "Cùirt Uachdarach nan SA air leth-bhreith an-aghaidh luchd LGDTC+ a cheadachadh"
 
 image: /images/posts/SCOTUS.jpg
 
-author: 'Crìstean MacMhìcheil'
+author: Crìstean MacMhìcheil
 
-categories:
-    - Eadar-nàiseanta
-    - Creideamh
-    - Gnìomhachas
-    - Lagh
-    - Poileataigs
+categories: ["Eadar-nàiseanta", "Creideamh", "Gnìomhachas", "Lagh", "Poileataigs"]
 
 ---
 

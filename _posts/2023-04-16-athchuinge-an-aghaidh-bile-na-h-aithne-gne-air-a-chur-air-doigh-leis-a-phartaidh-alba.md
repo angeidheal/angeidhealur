@@ -4,47 +4,13 @@ layout: post
 
 date: 2023-04-16 16:46
 
-title: Athchuinge an-aghaidh Bile na h-Aithne Gnè air a chur air dòigh leis a' Phàrtaidh Alba
+title: "Athchuinge an-aghaidh Bile na h-Aithne Gnè air a chur air dòigh leis a' Phàrtaidh Alba"
 
 image: /images/posts/Trans-Saltire.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
-    
-tags:
-    - Achd na h-Alba
-    - Alba Party
-    - Bile Ath-leasachadh Aithneachadh Gnè (Alba)
-    - còraichean tar-ghnèitheach
-    - deamocrasaidh
-    - democracy
-    - Earrann 35
-    - Gender Recognition Act
-    - Gender Recognition Certificate
-    - Gender Recognition Reform Bill
-    - GRR Bill
-    - Pàrlamaid na h-Alba
-    - Pàrtaidh Alba
-    - Pàrtaidh Nàiseanta na h-Alba
-    - Riaghaltas na h-Alba
-    - Riaghaltas na RA
-    - Scotland Act
-    - Scottish National Party
-    - Scottish Parliament
-    - Section 35
-    - SNP
-    - tar-ghnèitheach
-    - Teisteanas Aithneachadh Gnè
-    - trans
-    - trans rights
-    - transgender
-
-mastodon:
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
 
 ---
 

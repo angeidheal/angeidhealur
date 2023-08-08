@@ -4,19 +4,13 @@ layout: post
 
 date:  2023-03-27 17:00
 
-title: Humza Yousaf gus dùbhlan laghail a thoirt do dh'òrdugh Earrainn 35 Riaghaltas na RA
+title: "Humza Yousaf gus dùbhlan laghail a thoirt do dh'òrdugh Earrainn 35 Riaghaltas na RA"
 
 image: /images/posts/Humza-Yousaf.jpg
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
-
-mastodon:
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
 
 ---
 

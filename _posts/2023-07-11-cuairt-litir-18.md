@@ -2,21 +2,13 @@
 
 layout: post
 
-date: '2023-07-11T19:14:37+00:00'
+date: 2023-07-11 19:14:37
 
-title: 'Cuairt-litir #18'
+title: "Cuairt-litir #18"
 
-author: 'Crìstean MacMhìcheil'
+author: Crìstean MacMhìcheil
 
-categories:
-    - 'An Rìoghachd Aonaichte'
-    - Eadar-nàiseanta
-    - Cuairt-litir
-    - Èirinn
-    - Lagh
-    - Poileataigs
-    - Pròis
-    - Spòrs
+categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Cuairt-litir", "Èirinn", "Lagh", "Poileataigs", "Pròis", "Spòrs"]
 ---
 
 Geàrr-chunntas sgrìobhte de naidheachdan LGDTC+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.

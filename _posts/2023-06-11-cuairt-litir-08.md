@@ -6,19 +6,11 @@ date: 2023-06-11
 
 title: "Cuairt-litir #8"
 
-image: 
+image:
 
 author: Crìstean MacMhìcheil
 
-categories:
-  - An Rìoghachd Aonaichte
-  - Eadar-nàiseanta
-  - Cuairt-litir
-  - Lagh
-  - Poileataigs
-  - Pròis
-  - Slàinte
-  - Teicneòlas
+categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Cuairt-litir", "Lagh", "Poileataigs", "Pròis", "Slàinte", "Teicneòlas"]
 
 ---
 

@@ -4,17 +4,13 @@ layout: post
 
 date: 2023-07-06 19:14:57
 
-title: 'Cùis-lagha Sweet Cakes gus tilleadh dhan Chùirt Uachdarach'
+title: "Cùis-lagha Sweet Cakes gus tilleadh dhan Chùirt Uachdarach"
 
 image: /images/posts/Sweet-Cakes-by-Melissa.jpg
 
-author: 'Crìstean MacMhìcheil'
+author: Crìstean MacMhìcheil
 
-categories:
-    - Eadar-nàiseanta
-    - Creideamh
-    - Gnìomhachas
-    - Lagh
+categories: ["Eadar-nàiseanta", "Creideamh", "Gnìomhachas", "Lagh"]
 
 ---
 

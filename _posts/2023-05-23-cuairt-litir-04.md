@@ -6,19 +6,12 @@ date: 2023-05-23
 
 title: "Cuairt-litir #4"
 
-image: 
+image:
 
 author: Crìstean MacMhìcheil
 
-categories:
-  - Eadar-nàiseanta
-  - Cuairt-litir
-  - Cultar
-  - Lagh
-  - Poileataigs
-  - Slàinte
-  - Spòrs
-  
+categories: ["Eadar-nàiseanta", "Cuairt-litir", "Cultar", "Lagh", "Poileataigs", "Slàinte", "Spòrs"]
+
 ---
 
 Geàrr-chunntas sgrìobhte de naidheachdan LGDTC+ ionadail, nàiseanta 's bho air feadh an t-saoghail.

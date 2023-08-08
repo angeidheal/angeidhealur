@@ -4,21 +4,13 @@ layout: post
 
 date:  2023-03-29 12:00
 
-title: Sàr-dhibhearsanaiche Paul O’Grady air bàsachadh
+title: "Sàr-dhibhearsanaiche Paul O’Grady air bàsachadh"
 
 image: /images/posts/Lily-Savage.jpeg
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - An Rìoghachd Aonaichte
-    - Cultar
-
-tags:
-    - Lily Savage
-    - Paul O'Grady
-
-mastodon:
+categories: ["An Rìoghachd Aonaichte", "Cultar"]
 
 ---
 

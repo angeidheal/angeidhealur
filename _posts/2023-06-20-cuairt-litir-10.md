@@ -4,20 +4,11 @@ layout: post
 
 date: 2023-06-20 21:11:38
 
-title: 'Cuairt-litir #10'
+title: "Cuairt-litir #10"
 
-author: 'Crìstean MacMhìcheil'
+author: Crìstean MacMhìcheil
 
-categories:
-    - 'An Rìoghachd Aonaichte'
-    - Eadar-nàiseanta
-    - Cuairt-litir
-    - Cultar
-    - Foghlam
-    - Lagh
-    - Poileataigs
-    - Pròis
-    - Spòrs
+categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Cuairt-litir", "Cultar", "Foghlam", "Lagh", "Poileataigs", "Pròis", "Spòrs"]
 
 ---
 

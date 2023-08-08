@@ -6,19 +6,12 @@ date: 2023-05-25
 
 title: "Cuairt-litir #5"
 
-image: 
+image:
 
 author: Crìstean MacMhìcheil
 
-categories:
-  - Eadar-nàiseanta
-  - Cuairt-litir
-  - Cultar
-  - Foghlam
-  - Lagh
-  - Poileataigs
-  - Slàinte
-  
+categories: ["Eadar-nàiseanta", "Cuairt-litir", "Cultar", "Foghlam", "Lagh", "Poileataigs", "Slàinte"]
+
 ---
 
 Geàrr-chunntas sgrìobhte de naidheachdan LGDTC+ ionadail, nàiseanta 's bho air feadh an t-saoghail.

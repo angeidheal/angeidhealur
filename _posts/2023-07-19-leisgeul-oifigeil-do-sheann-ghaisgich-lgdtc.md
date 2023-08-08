@@ -4,16 +4,13 @@ layout: post
 
 date: 2023-07-19 18:29:21
 
-title: 'Leisgeul oifigeil do sheann-ghaisgich LGDTC+'
+title: "Leisgeul oifigeil do sheann-ghaisgich LGDTC+"
 
 image: /images/posts/LGBTQ-Troops.jpg
 
-author: 'Crìstean MacMhìcheil'
+author: Crìstean MacMhìcheil
 
-categories:
-    - 'An Rìoghachd Aonaichte'
-    - Lagh
-    - Poileataigs
+categories: ["An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
 
 ---
 

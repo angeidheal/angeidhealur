@@ -4,20 +4,11 @@ layout: post
 
 date: 2023-06-24 18:17:48
 
-title: 'Cuairt-litir #12'
+title: "Cuairt-litir #12"
 
-author: 'Crìstean MacMhìcheil'
+author: Crìstean MacMhìcheil
 
-categories:
-    - Alba
-    - Eadar-nàiseanta
-    - Cuairt-litir
-    - Cultar
-    - Èirinn
-    - Lagh
-    - Poileataigs
-    - Pròis
-    - Spòrs
+categories: ["Alba", "Eadar-nàiseanta", "Cuairt-litir", "Cultar", "Èirinn", "Lagh", "Poileataigs", "Pròis", "Spòrs"]
 
 ---
 

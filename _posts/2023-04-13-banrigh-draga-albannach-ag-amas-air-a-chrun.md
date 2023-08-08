@@ -4,18 +4,13 @@ layout: post
 
 date: 2023-04-13 16:26
 
-title: Bànrigh draga Albannach ag amas air a' chrùn
+title: "Bànrigh draga Albannach ag amas air a' chrùn"
 
 image: /images/posts/Miss-Peaches.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Alba
-    - Eadar-nàiseanta
-    - Cultar
-
-mastodon:
+categories: ["Alba", "Eadar-nàiseanta", "Cultar"]
 
 ---
 

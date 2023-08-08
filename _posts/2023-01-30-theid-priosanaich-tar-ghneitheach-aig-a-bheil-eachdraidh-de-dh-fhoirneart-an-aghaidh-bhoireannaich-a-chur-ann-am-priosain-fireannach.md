@@ -4,15 +4,13 @@ layout: post
 
 date: 2023-01-30 20:00
 
-title: Thèid prìosanaich tar-ghnèitheach aig a bheil eachdraidh de dh'fhòirneart an aghaidh bhoireannaich a chur ann am prìosain fireannach
+title: "Thèid prìosanaich tar-ghnèitheach aig a bheil eachdraidh de dh'fhòirneart an aghaidh bhoireannaich a chur ann am prìosain fireannach"
 
 image: /images/posts/2023-01-30-theid-priosanaich-tar-ghneitheach-aig-a-bheil-eachdraidh-de-dh-fhoirneart-an-aghaidh-bhoireannaich-a-chur-ann-am-priosain-fireannach.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-  - Alba
-  - Lagh
+categories: ["Alba", "Lagh"]
 
 ---
 

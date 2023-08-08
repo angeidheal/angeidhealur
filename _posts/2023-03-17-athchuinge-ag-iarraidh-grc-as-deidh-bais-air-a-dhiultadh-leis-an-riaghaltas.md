@@ -4,18 +4,13 @@ layout: post
 
 date: 2023-03-17 06:00
 
-title: Athchuinge ag iarraidh GRC as dèidh bàis air a dhiùltadh leis an Riaghaltas
+title: "Athchuinge ag iarraidh GRC as dèidh bàis air a dhiùltadh leis an Riaghaltas"
 
 image: /images/posts/Posthoumous-GRC-Petition.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
-
-mastodon:
+categories: ["An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
 
 ---
 

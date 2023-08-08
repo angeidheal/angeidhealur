@@ -4,15 +4,13 @@ layout: post
 
 date: 2023-02-04 17:00
 
-title: Highland Pride 2023 air ainmeachadh
+title: "Highland Pride 2023 air ainmeachadh"
 
 image: /images/posts/Highland_Pride.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-  - Alba
-  - Pròis
+categories: ["Alba", "Pròis"]
 
 mastodon: https://mastodon.scot/@angeidhealur/109807634310972468
 

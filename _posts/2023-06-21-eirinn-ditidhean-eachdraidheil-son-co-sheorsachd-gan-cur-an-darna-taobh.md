@@ -4,17 +4,13 @@ layout: post
 
 date: 2023-06-21 19:29:51
 
-title: 'Èirinn: Dìtidhean eachdraidheil &#8217;son co-sheòrsachd gan cur an dàrna taobh'
+title: "Èirinn: Dìtidhean eachdraidheil &#8217;son co-sheòrsachd gan cur an dàrna taobh"
 
 image: /images/posts/Brod.jpeg
 
-author: 'Crìstean MacMhìcheil'
+author: Crìstean MacMhìcheil
 
-categories:
-    - Eadar-nàiseanta
-    - Èirinn
-    - Lagh
-    - Poileataigs
+categories: ["Eadar-nàiseanta", "Èirinn", "Lagh", "Poileataigs"]
 
 ---
 

@@ -4,20 +4,11 @@ layout: post
 
 date: 2023-07-07 18:27:01
 
-title: 'Cuairt-litir #17'
+title: "Cuairt-litir #17"
 
-author: 'Crìstean MacMhìcheil'
+author: Crìstean MacMhìcheil
 
-categories:
-    - 'An Rìoghachd Aonaichte'
-    - Eadar-nàiseanta
-    - Cuairt-litir
-    - Èirinn
-    - Foghlam
-    - Lagh
-    - Poileataigs
-    - Pròis
-    - Slàinte
+categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Cuairt-litir", "Èirinn", "Foghlam", "Lagh", "Poileataigs", "Pròis", "Slàinte"]
 
 ---
 

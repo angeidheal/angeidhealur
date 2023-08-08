@@ -1,18 +1,17 @@
 ---
-id: 1132
-title: 'Pàrtaidh Uaine na h-Alba: Feumar casg a chur air teiripe iompachaidh ann an 2023'
-date: '2023-01-01T18:11:46+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=1132'
-permalink: /2023-01-01-partaidh-uaine-na-h-alba-feumar-casg-a-chur-air-teiripe-iompachaidh-ann-an-2023/
+
+date: 2023-01-01 18:11:46
+
+title: "Pàrtaidh Uaine na h-Alba: Feumar casg a chur air teiripe iompachaidh ann an 2023"
+
 image: /images/posts/2022-01-30-cha-bu-choir-do-dhalba-feitheamh-gus-casg-a-chur-air-teiripe-iompachaidh.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs", "Slàinte"]
+
 ---
 
 <small>*Glacadh-sgrìn o “Boy Erased (2018)” a bheireas sùil air teiripe iompachaidh*</small>

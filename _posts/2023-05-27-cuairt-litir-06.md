@@ -6,20 +6,12 @@ date: 2023-05-27
 
 title: "Cuairt-litir #6"
 
-image: 
+image:
 
 author: Crìstean MacMhìcheil
 
-categories:
-  - Alba
-  - An Rìoghachd Aonaichte
-  - Eadar-nàiseanta
-  - Cuairt-litir
-  - Foghlam
-  - Lagh
-  - Poileataigs
-  - Slàinte
-  - Spòrs  
+categories: ["Alba", "An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Cuairt-litir", "Foghlam", "Lagh", "Poileataigs", "Slàinte", "Spòrs"]
+
 ---
 
 Geàrr-chunntas sgrìobhte de naidheachdan LGDTC+ ionadail, nàiseanta 's bho air feadh an t-saoghail.

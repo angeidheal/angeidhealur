@@ -4,36 +4,13 @@ layout: post
 
 date: 2023-04-16 12:48
 
-title: Seachdnar air an EHRC fhàgail mar a tha oillt thar-ghnèitheach a' sìor-fhàs sa bhuidheann
+title: "Seachdnar air an EHRC fhàgail mar a tha oillt thar-ghnèitheach a' sìor-fhàs sa bhuidheann"
 
 image: /images/posts/EHRC.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
-    
-tags:
-    - Achd na Co-ionnannachd
-    - Co-ionnannachd
-    - Coimisean nan Còraichean Daonna is na Co-ionnannachd
-    - Còraichean Daonna
-    - còraichean tar-ghnèitheach
-    - EHRC
-    - Equality Act
-    - Equality and Human Rights Commission
-    - Kemi Badenoch
-    - Ministear nam Bàn is na Co-ionannnachd
-    - tar-ghnèitheach
-    - trans
-    - trans rights
-    - transgender
-    - Vice News
-
-mastodon:
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
 
 ---
 

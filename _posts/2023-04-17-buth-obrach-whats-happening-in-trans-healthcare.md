@@ -8,13 +8,9 @@ title: "Bùth-obrach: 'What's happening in trans healthcare?'"
 
 image: /images/posts/Trans-Healthcare.jpeg
 
-
 author: Crìstean MacMhìcheil
 
-categories:
-    - Slàinte
-
-mastodon:
+categories: ["Slàinte"]
 
 ---
 

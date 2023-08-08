@@ -4,17 +4,13 @@ layout: post
 
 date: 2023-01-16 18:30
 
-title: Riaghaltas na Rìoghachd Aonaichte gus bacadh a chur air Bile Ath-leasachadh Aithneachadh Gnè (Alba)
+title: "Riaghaltas na Rìoghachd Aonaichte gus bacadh a chur air Bile Ath-leasachadh Aithneachadh Gnè (Alba)"
 
 image: /images/posts/2023-01-16-riaghaltas-na-rioghachd-aonaichte-gus-bacadh-a-chur-air-bile-ath-leasachadh-gne-alba.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-  - Alba
-  - An Rìoghachd Aonaichte
-  - Lagh
-  - Poileataigs
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
 
 mastodon: https://mastodon.scot/@angeidhealur/109700453425621855
 

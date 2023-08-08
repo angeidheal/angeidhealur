@@ -6,16 +6,12 @@ date: 2023-05-30
 
 title: "Cuairt-litir #7"
 
-image: 
+image:
 
 author: Crìstean MacMhìcheil
 
-categories:
-  - Alba
-  - Cuairt-litir
-  - Pròis
-  - Lagh
-  - Poileataigs
+categories: ["Alba", "Cuairt-litir", "Pròis", "Lagh", "Poileataigs"]
+
 ---
 
 Geàrr-chunntas sgrìobhte de naidheachdan LGDTC+ ionadail, nàiseanta 's bho air feadh an t-saoghail.

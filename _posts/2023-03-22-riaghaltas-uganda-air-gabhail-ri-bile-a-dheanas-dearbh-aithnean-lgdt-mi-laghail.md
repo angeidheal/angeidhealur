@@ -4,19 +4,16 @@ layout: post
 
 date: 2023-03-22
 
-title: Riaghaltas Uganda air gabhail ri bile a dhèanas dearbh-aithnean LGDT+ mì-laghail
+title: "Riaghaltas Uganda air gabhail ri bile a dhèanas dearbh-aithnean LGDT+ mì-laghail"
 
 image: /images/posts/2023-03-22-riaghaltas-uganda-air-gabhail-ri-bile-a-dheanas-dearbh-aithnean-lgdt-mi-laghail.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-  - Eadar-nàiseanta
-  - Poileataigs
-  - Lagh
+categories: ["Eadar-nàiseanta", "Poileataigs", "Lagh"]
 
 mastodon: https://mastodon.scot/@angeidhealur/110068642310769132
-  
+
 ---
 
 Tha Pàrlamaid Uganda air gabhail ri bile a dhèanas dearbh-aithnean LGDT+ mì-laghail.

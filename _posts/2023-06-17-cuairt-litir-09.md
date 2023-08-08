@@ -4,19 +4,11 @@ layout: post
 
 date: 2023-06-17 08:28:17
 
-title: 'Cuairt-litir #9'
+title: "Cuairt-litir #9"
 
-author: 'Crìstean MacMhìcheil'
+author: Crìstean MacMhìcheil
 
-categories:
-    - Alba
-    - 'An Rìoghachd Aonaichte'
-    - Eadar-nàiseanta
-    - Cuairt-litir
-    - Foghlam
-    - Lagh
-    - Poileataigs
-    - Slàinte
+categories: ["Alba", "An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Cuairt-litir", "Foghlam", "Lagh", "Poileataigs", "Slàinte"]
 
 ---
 

@@ -1,18 +1,16 @@
 ---
+
 layout: post
 
 date: 2023-03-31 05:23
 
-title: Là Faicsinneachd nam Pearsa Tar-ghnèitheach
+title: "Là Faicsinneachd nam Pearsa Tar-ghnèitheach"
 
 image: /images/posts/TDOV.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Blog
-
-mastodon:
+categories: ["Blog"]
 
 ---
 

@@ -4,17 +4,14 @@ layout: post
 
 date: 2023-02-21 18:00
 
-title: Ceit Fhoirbeis air ràdh nach biodh i air bhòtadh airson pòsadh gèidh
+title: "Ceit Fhoirbeis air ràdh nach biodh i air bhòtadh airson pòsadh gèidh"
 
 image: /images/posts/2023-02-21-ceit-fhoirbeis-air-radh-nach-biodh-i-air-bhotadh-airson-posadh-geidh.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-  - Alba
-  - Creideamh
-  - Poileataigs
-  
+categories: ["Alba", "Creideamh", "Poileataigs"]
+
 ---
 
 Chaidh Rùnaire Ionmhais na h-Alba, Ceit Fhoirbeis, a chàineadh a-raoir as dèidh ràdh nach biodh i air bhòtadh airson pòsadh gèidh a dhèanamh laghail ann an Alba nan robh i sa phàrlamaid aig an àm.

@@ -11,14 +11,14 @@ image:
 author: Crìstean MacMhìcheil
 
 categories: ["Cuairt-litir", "Eadar-nàiseanta", "Lagh", "Poileataigs", "Slàinte", "Spòrs"]
-  
+
 ---
 
 Geàrr-chunntas sgrìobhte de naidheachdan LGDTC+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
 
 ## A' Bheilg
 
-Bhòt Pàrlamaid na Beilge Diardaoin gus casg a chur air cleachdaidhean ris an canar "teiripe iompachaidh". 
+Bhòt Pàrlamaid na Beilge Diardaoin gus casg a chur air cleachdaidhean ris an canar "teiripe iompachaidh".
 
 'S e seo cleachdadh sam bith a dh'fheuchas taobhadh feise no dearbh aithne gnè neach atharrachadh.
 
@@ -71,4 +71,3 @@ Bha feise co-sheòrsach mì-laghail ann am Maryland ag an àm ge-tà agus bha ea
 B' e 2022 mus tàinig cluicheadair ball-coise proifeasanta gèidh eile a-mach.
 
 ![](/images/posts/2023-07-20-justin-fashanu.jpeg)
-

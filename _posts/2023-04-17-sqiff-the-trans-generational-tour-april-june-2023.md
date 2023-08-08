@@ -10,11 +10,7 @@ image: /images/posts/SQIFF-Trans-Generational-Tour.jpg
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Alba
-    - Cultar
-
-mastodon:
+categories: ['Alba', "Cultar"]
 
 ---
 

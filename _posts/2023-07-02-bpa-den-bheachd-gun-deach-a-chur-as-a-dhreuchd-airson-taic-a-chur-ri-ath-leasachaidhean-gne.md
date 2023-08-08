@@ -4,15 +4,13 @@ layout: post
 
 date: 2023-07-02 19:38:32
 
-title: 'BPA den bheachd gun deach a chur às a dhreuchd airson taic a chur ri ath-leasachaidhean gnè'
+title: "BPA den bheachd gun deach a chur às a dhreuchd airson taic a chur ri ath-leasachaidhean gnè"
 
 image: /images/posts/MSP-Jamie-Green.jpg
 
-author: 'Crìstean MacMhìcheil'
+author: Crìstean MacMhìcheil
 
-categories:
-    - Alba
-    - Poileataigs
+categories: ["Alba," "Poileataigs"]
 
 ---
 

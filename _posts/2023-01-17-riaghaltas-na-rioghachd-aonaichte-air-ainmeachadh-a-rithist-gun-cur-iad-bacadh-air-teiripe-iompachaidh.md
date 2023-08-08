@@ -4,16 +4,13 @@ layout: post
 
 date: 2023-01-17 19:00
 
-title: Riaghaltas na Rìoghachd Aonaichte air ainmeachadh a-rithist gun cur iad bacadh air teiripe iompachaidh
+title: "Riaghaltas na Rìoghachd Aonaichte air ainmeachadh a-rithist gun cur iad bacadh air teiripe iompachaidh"
 
 image: /images/posts/2023-01-17-riaghaltas-na-rioghachd-aonaichte-air-ainmeachadh-a-rithist-gun-cur-iad-bacadh-air-teiripe-iompachaidh.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-  - An Rìoghachd Aonaichte
-  - Lagh
-  - Poileataigs
+categories: ["An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
 
 mastodon: https://mastodon.scot/@angeidhealur/109706498224874068
 

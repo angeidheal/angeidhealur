@@ -4,18 +4,11 @@ layout: post
 
 date: 2023-06-22 20:30:00
 
-title: 'Cuairt-litir #11'
+title: "Cuairt-litir #11"
 
-author: 'Crìstean MacMhìcheil'
+author: Crìstean MacMhìcheil
 
-categories:
-    - 'An Rìoghachd Aonaichte'
-    - Eadar-nàiseanta
-    - Cuairt-litir
-    - Lagh
-    - Poileataigs
-    - Slàinte
-    - Teicneòlas
+categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Cuairt-litir", "Lagh", "Poileataigs", "Slàinte", "Teicneòlas"]
 
 ---
 

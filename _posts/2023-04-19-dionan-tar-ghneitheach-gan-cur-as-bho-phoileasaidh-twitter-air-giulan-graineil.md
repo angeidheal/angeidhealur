@@ -4,30 +4,13 @@ layout: post
 
 date: 2023-04-19 09:29
 
-title: Dìonan tar-ghnèitheach gan cur às bho phoileasaidh Twitter air giùlan gràineil
+title: "Dìonan tar-ghnèitheach gan cur às bho phoileasaidh Twitter air giùlan gràineil"
 
 image: /images/posts/Twitter.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Teicneòlas
-
-tags:
-    - Elon Musk
-    - Hateful Conduct Policy
-    - marbh-ainmeachadh
-    - mì-ghnèitheachadh
-    - misgendering
-    - misnaming
-    - poileasaidh air giùlan gràineil
-    - tar-ghnèitheach
-    - trans
-    - transgender
-    - transphobia
-    - Twitter
-
-mastodon:
+categories: ["Teicneòlas"]
 
 ---
 
