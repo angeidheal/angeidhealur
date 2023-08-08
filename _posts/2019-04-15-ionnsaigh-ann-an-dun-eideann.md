@@ -1,16 +1,17 @@
 ---
-id: 458
-title: 'Ionnsaigh ann an Dùn Èideann'
-date: '2019-04-15T19:52:14+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=458'
-permalink: /2019-04-15-ionnsaigh-ann-an-dun-eideann/
+
+date: 2019-04-15 19:52:14
+
+title: "Ionnsaigh ann an Dùn Èideann"
+
 image: /images/posts/2019-04-15-ionnsaigh-ann-an-dun-eideann.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh"]
+
 ---
 
 Tha [STV News](https://stv.tv/news/east-central/1437007-drag-artist-attacked-on-street-in-early-morning-attack/) ag aithris gu bheil am Poileas a’ rannsachadh ionnsaigh air fireannach, 40, ann an Dùn Èideann.

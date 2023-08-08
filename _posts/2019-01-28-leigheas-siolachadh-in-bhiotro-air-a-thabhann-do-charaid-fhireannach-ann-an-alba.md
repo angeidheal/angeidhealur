@@ -1,17 +1,17 @@
 ---
-id: 476
-title: 'Leigheas sìolachadh in-bhiotro air a thabhann do chàraid fhireannach ann an Alba'
-date: '2019-01-28T19:51:12+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=476'
-permalink: /2019-01-28-leigheas-siolachadh-in-bhiotro-air-a-thabhann-do-charaid-fhireannach-ann-an-alba/
+
+date: 2019-01-28 19:51:12
+
+title: "Leigheas sìolachadh in-bhiotro air a thabhann do chàraid fhireannach ann an Alba"
+
 image: /images/posts/2019-01-28-leigheas-siolachadh-in-bhiotro-air-a-thabhann-do-charaid-fhireannach-ann-an-alba.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Saidheans
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Saidheans", "Slàinte"]
+
 ---
 
 Thàinig e am follais Didòmhnaich gun deach leigheas sìolachadh in-bhiotro a thabhann do chàraid fhireannach co-sheòrsach ann an Alba airson a’ chiad turas a-riamh san Rìoghachd Aonaichte.

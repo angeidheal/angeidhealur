@@ -4,18 +4,13 @@ layout: post
 
 date: 2020-09-13 18:00
 
-title: Ministearan Èireann a Tuath a' toirt taic do chasg air teiripe iompachadh co-sheòrsachd
+title: "Ministearan Èireann a Tuath a' toirt taic do chasg air teiripe iompachadh co-sheòrsachd"
 
 image: /images/posts/2020-09-13-ministearan-eireann-a-tuath-a-toirt-taic-do-chasg-air-teiripe-iompachadh-co-sheorsachd.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
-
-mastodon:
+categories: ["An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
 
 ---
 

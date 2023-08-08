@@ -1,17 +1,17 @@
 ---
-id: 566
-title: 'Poileas Alba ri sùil a thoirt air ionmhas Fèis-pròise Ghlaschu'
-date: '2018-11-19T17:23:34+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=566'
-permalink: /2018-11-19-poileas-alba-ri-suil-a-thoirt-air-ionmhas-feis-proise-ghlaschu/
+
+date: 2018-11-19 17:23:34
+
+title: "Poileas Alba ri sùil a thoirt air ionmhas Fèis-pròise Ghlaschu"
+
 image: /images/posts/2018-11-19-poileas-alba-ri-suil-a-thoirt-air-ionmhas-feis-proise-ghlaschu.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Pròis"]
+
 ---
 
 Chaidh iarraidh air Poileas Alba sùil a thoirt air ionmhas Fèis-pròise Ghlaschu.

@@ -1,15 +1,17 @@
 ---
-id: 587
-title: 'Fèis-pròise Iúr Cinn Trá gu bhith a’ toirt aoigheachd dha Fhèis-pròise an Rìoghachd Aonaichte 2019'
-date: '2018-10-30T16:10:28+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=587'
-permalink: /2018-10-30-feis-proise-iur-cinn-tra-gu-bhith-a-toirt-aoigheachd-dha-fheis-proise-an-rioghachd-aonaichte-2019/
+
+date: 2018-10-30 16:10:28
+
+title: "Fèis-pròise Iúr Cinn Trá gu bhith a’ toirt aoigheachd dha Fhèis-pròise an Rìoghachd Aonaichte 2019"
+
 image: /images/posts/2018-10-30-feis-proise-iur-cinn-tra-gu-bhith-a-toirt-aoigheachd-dha-fheis-proise-an-rioghachd-aonaichte-2019.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Pròis"]
+
 ---
 
 Chaidh ainmeachadh gum bi Fèis-pròise Iúr Cinn Trá (*Newry*) a’ toirt aoigheachd dha Fhèis-pròise an Rìoghachd Aonaichte 2019.

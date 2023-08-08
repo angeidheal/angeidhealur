@@ -1,15 +1,17 @@
 ---
-id: 485
-title: 'Geamaichean-bhidio LCDTQ air an taisbeanadh ann an taigh-tasgaidh Bherlin'
-date: '2019-01-07T16:12:19+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=485'
-permalink: /2019-01-07-geamaichean-bhidio-lcdtq-air-an-taisbeanadh-ann-an-taigh-tasgaidh-bherlin/
+
+date: 2019-01-07 16:12:19
+
+title: "Geamaichean-bhidio LCDTQ air an taisbeanadh ann an taigh-tasgaidh Bherlin"
+
 image: /images/posts/2019-01-07-geamaichean-bhidio-lcdtq-air-an-taisbeanadh-ann-an-taigh-tasgaidh-bherlin.webp
-categories:
-    - Eadar-nàiseanta
-    - Teicneòlas
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Teicneòlas"]
+
 ---
 
 Tha [Taigh-tasgaidh Schwules](https://www.schwulesmuseum.de/?lang=en) ann am Berlin air taisbeanadh ùr fhosgladh gus geamaichean-bhidio LCDTQ a chomharrachadh.

@@ -1,16 +1,17 @@
 ---
-id: 584
-title: 'Jeff Bezos air tabhartas de $10,800 a thoirt gu Seanadair Poblachdach a bhòtas gu cunbhalach an aghaidh còirichean LCDTE+'
-date: '2018-11-01T19:25:29+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=584'
-permalink: /2018-11-01-jeff-bezos-air-tabhartas-de-10800-a-thoirt-gu-seanadair-poblachdach-a-bhotas-gu-cunbhalach-an-aghaidh-coirichean-lcdte/
+
+date: 2018-11-01 19:25:29
+
+title: "Jeff Bezos air tabhartas de $10,800 a thoirt gu Seanadair Poblachdach a bhòtas gu cunbhalach an aghaidh còirichean LCDTE+"
+
 image: /images/posts/2018-11-01-jeff-bezos-air-tabhartas-de-10800-a-thoirt-gu-seanadair-poblachdach-a-bhotas-gu-cunbhalach-an-aghaidh-coirichean-lcdte.webp
-categories:
-    - Eadar-nàiseanta
-    - Gnìomhachas
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Gnìomhachas", "Poileataigs"]
+
 ---
 
 Tha Jeff Bezos, Ceannard [Amazon](https://www.amazon.co.uk/), air tabhartas de $10,800 a thoirt gu Seanadair Poblachdach a tha air bhòtadh gu cunbhalach an aghaidh còirichean LCDTE+.

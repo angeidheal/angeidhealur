@@ -1,15 +1,17 @@
 ---
-id: 407
-title: 'Inbhe athair air a dhiùltadh do thar-fhireannach'
-date: '2019-09-27T16:00:52+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=407'
-permalink: /2019-09-27-inbhe-athair-air-a-dhiultadh-do-thar-fhireannach/
+
+date: 2019-09-27 16:00:52
+
+title: "Inbhe athair air a dhiùltadh do thar-fhireannach"
+
 image: /images/posts/2019-09-27-inbhe-athair-air-a-dhiultadh-do-thar-fhireannach.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Lagh
+
+author: Crìstean MacMhìcheil
+
+categories: [An Rìoghachd Aonaichte, Lagh]
+
 ---
 
 Tha an Àrd-chùirt ann an Lunnainn air co-dhùnadh nach fhaod tar-fhireannach, Freddy McConnell, clàradh mar athair air teisteanas-breith an leanabh aige air sgàth ’s gun do rug e an leanabh.

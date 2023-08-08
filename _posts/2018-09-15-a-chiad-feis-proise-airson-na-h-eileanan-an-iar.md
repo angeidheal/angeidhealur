@@ -1,16 +1,17 @@
 ---
-id: 624
-title: 'A’ Chiad Fèis-pròise airson na h-Eileanan an Iar'
-date: '2018-09-15T09:44:18+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=624'
-permalink: /2018-09-15-a-chiad-feis-proise-airson-na-h-eileanan-an-iar/
+
+date: 2018-09-15 09:44:18
+
+title: "A’ Chiad Fèis-pròise airson na h-Eileanan an Iar"
+
 image: /images/posts/2018-09-15-a-chiad-feis-proise-airson-na-h-eileanan-an-iar.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+
 ---
 
 Chaidh ainmeachadh Diardaoin gun tèid a’ chiad fèis-pròise a-riamh a chumail anns na h-Eileanan an Iar 6mh Dàmhair.

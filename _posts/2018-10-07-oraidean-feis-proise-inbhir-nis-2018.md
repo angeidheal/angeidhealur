@@ -1,16 +1,16 @@
 ---
-id: 444
-title: 'Òraidean Fèis-pròise Inbhir Nis 2018'
-date: '2018-10-07T08:54:01+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=444'
-permalink: /2018-10-07-oraidean-feis-proise-inbhir-nis-2018/
+
+date: 2018-10-07 08:54:01
+
+title: "Òraidean Fèis-pròise Inbhir Nis 2018"
+
 image: /images/posts/2018-10-07-oraidean-feis-proise-inbhir-nis-2018.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
 ---
 
 Bhidiothan dhe na h-òraidean aig Fèis-pròise Inbhir Nis 2018.

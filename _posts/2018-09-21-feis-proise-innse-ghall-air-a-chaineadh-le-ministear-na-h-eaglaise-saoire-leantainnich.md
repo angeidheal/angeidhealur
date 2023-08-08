@@ -1,17 +1,17 @@
 ---
-id: 609
-title: 'Fèis-pròise Innse Ghall air a chàineadh le Ministear na h-Eaglaise Saoire Leantainnich'
-date: '2018-09-21T19:19:07+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=609'
-permalink: /2018-09-21-feis-proise-innse-ghall-air-a-chaineadh-le-ministear-na-h-eaglaise-saoire-leantainnich/
+
+date: 2018-09-21 19:19:07
+
+title: "Fèis-pròise Innse Ghall air a chàineadh le Ministear na h-Eaglaise Saoire Leantainnich"
+
 image: /images/posts/2018-09-21-feis-proise-innse-ghall-air-a-chaineadh-le-ministear-na-h-eaglaise-saoire-leantainnich.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Creideamh
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh", "Pròis"]
+
 ---
 
 Tha Ministear na h-Eaglaise Saoire Leantainnich air iomradh a thoirt air a’ chiad fèis-pròise anns na h-Eileanan an Iar mar “duilich agus nàireach”.

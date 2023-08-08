@@ -1,16 +1,17 @@
 ---
-id: 572
-title: 'Aonar anns gach triùir de dhaoine LCD a’ fulang burraidheachd ann an sgoil agus san àite-obrach'
-date: '2018-11-08T10:26:15+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=572'
-permalink: /2018-11-08-aonar-anns-gach-triuir-de-dhaoine-lcd-a-fulang-burraidheachd-ann-an-sgoil-agus-san-aite-obrach/
+
+date: 2018-11-08 10:26:15
+
+title: "Aonar anns gach triùir de dhaoine LCD a’ fulang burraidheachd ann an sgoil agus san àite-obrach"
+
 image: /images/posts/2018-11-08-aonar-anns-gach-triuir-de-dhaoine-lcd-a-fulang-burraidheachd-ann-an-sgoil-agus-san-aite-obrach.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Foghlam
-    - Gnìomhachas
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Foghlam", "Gnìomhachas"]
+
 ---
 
 Tha aonar anns gach triùir de dhaoine leasbach, co-sheòrsach agus dà-sheòrsach a dh’fhulaing burraidheachd nuair a bha iad ann an sgoil cuideachd a’ fulaing burraidheachd san àite-obrach a-rèir sgrùdadh ùr bho [Oilthigh Anglia Ruskin](https://www.anglia.ac.uk/).

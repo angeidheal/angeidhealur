@@ -1,16 +1,17 @@
 ---
-id: 482
-title: 'Talla-spors Dhùn Èideann a’ tabhann chlasaichean fallaineachd an-asgaidh do dhaoine tar-gnèitheach agus neo-bhìnearaidh'
-date: '2019-01-11T14:56:26+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=482'
-permalink: /2019-01-11-talla-spors-dhun-eideann-a-tabhann-chlasaichean-fallaineachd-an-asgaidh-do-dhaoine-tar-gneitheach-agus-neo-bhinearaidh/
+
+date: 2019-01-11 14:56:26
+
+title: "Talla-spors Dhùn Èideann a’ tabhann chlasaichean fallaineachd an-asgaidh do dhaoine tar-gnèitheach agus neo-bhìnearaidh"
+
 image: /images/posts/2019-01-11-talla-spors-dhun-eideann-a-tabhann-chlasaichean-fallaineachd-an-asgaidh-do-dhaoine-tar-gneitheach-agus-neo-bhinearaidh.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Spòrs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Spòrs"]
+
 ---
 
 Tha an talla-spòrs neo-phrothaideach [Projekt 42](https://www.projekt42.co.uk/) ann an Lìte air ainmeachadh gum bi iad a’ tabhann chlasaichean fallaineachd seachdaineil an-asgaidh do dhaoine tar-ghnèitheach agus neo-bhìnearaidh.

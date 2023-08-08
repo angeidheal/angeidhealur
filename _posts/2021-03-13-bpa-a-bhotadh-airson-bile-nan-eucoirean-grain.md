@@ -4,19 +4,13 @@ layout: post
 
 date: 2021-03-13 18:00
 
-title: BPA a' bhòtadh airson Bile nan Eucoirean Gràin
+title: "BPA a' bhòtadh airson Bile nan Eucoirean Gràin"
 
 image: /images/posts/2021-03-13-bpa-a-bhotadh-airson-bile-nan-eucoirean-grain.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
-
-mastodon:
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
 
 ---
 

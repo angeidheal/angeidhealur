@@ -1,18 +1,17 @@
 ---
-id: 383
-title: 'BBC News: Pìleat le HIV a’ cur an aghaidh stiogma'
-date: '2020-01-14T09:38:43+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=383'
-permalink: /2020-01-14-bbc-news-pileat-le-hiv-a-cur-an-aghaidh-stiogma/
+
+date: 2020-01-14 09:38:43
+
+title: "BBC News: Pìleat le HIV a’ cur an aghaidh stiogma"
+
 image: /images/posts/2020-01-14-bbc-news-pileat-le-hiv-a-cur-an-aghaidh-stiogma.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Gnìomhachas
-    - Lagh
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Gnìomhachas", "Lagh", "Slàinte"]
+
 ---
 
 Nochd an sgeulachd seo air làrach-lìn a’ BhBC o thùs: [Pìleat le HIV a’ cur an aghaidh stiogma](https://www.bbc.co.uk/naidheachdan/51089528)

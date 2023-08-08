@@ -1,16 +1,17 @@
 ---
-id: 355
-title: 'Seirbheisean fala a’ beachdachadh air a’ chasg a th’ air fireannaich co-sheòrsach agus dà-sheòrsach a chur às'
-date: '2020-05-28T18:00:53+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=355'
-permalink: /2020-05-28-seirbheisean-fala-a-beachdachadh-air-a-chasg-a-th-air-fireannaich-co-sheorsach-agus-da-sheorsach-a-chur-as/
+
+date: 2020-05-28 18:00:53
+
+title: "Seirbheisean fala a’ beachdachadh air a’ chasg a th’ air fireannaich co-sheòrsach agus dà-sheòrsach a chur às"
+
 image: /images/posts/2020-05-28-seirbheisean-fala-a-beachdachadh-air-a-chasg-a-th-air-fireannaich-co-sheorsach-agus-da-sheorsach-a-chur-as.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Slàinte"]
+
 ---
 
 Tha [Gay Star News ag aithris](https://www.gaystarnews.com/article/uk-may-lift-its-gay-and-bi-blood-donation-ban-this-year/) gu bheil seirbheisean fala na RA a’ beachdachadh air a’ chasg a th’ air fireannaich co-sheòrsach agus dà-sheòrsach bho bhith a’ toirt seachad fala a chur às ro dheireadh na bliadhna.

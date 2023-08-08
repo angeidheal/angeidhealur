@@ -1,14 +1,17 @@
 ---
-id: 494
-title: 'Dìreach dà chàraid aon-sheòrsach air leanabh uchd-mhacachadh ann an Èirinn a Tuath o chionn 2013'
-date: '2019-01-04T15:57:49+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=494'
-permalink: /2019-01-04-direach-da-charaid-aon-sheorsach-air-leanabh-uchd-mhacachadh-ann-an-eirinn-a-tuath-o-chionn-2013/
+
+date: 2019-01-04 15:57:49
+
+title: "Dìreach dà chàraid aon-sheòrsach air leanabh uchd-mhacachadh ann an Èirinn a Tuath o chionn 2013"
+
 image: /images/posts/2019-01-04-direach-da-charaid-aon-sheorsach-air-leanabh-uchd-mhacachadh-ann-an-eirinn-a-tuath-o-chionn-2013.webp
-categories:
-    - An Rìoghachd Aonaichte
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte"]
+
 ---
 
 Chaidh a nochdadh gur ann aig Èirinn a Tuath a tha an an ìre uchd-mhacaichidh as ìsle a-measg càraidean aon-sheòrsach anns an Rìoghachd Aonaichte le dìreach 1 anns gach 15 iarrtasan soirbheachadh, an taca ri 1 anns gach 2 ann an àiteachan eile san Rìoghachd Aonaichte.

@@ -1,17 +1,17 @@
 ---
-id: 320
-title: 'Seanadh Èireann a Tuath air bhòtadh airson casg a chur air teiripe iompachaidh'
-date: '2021-04-20T18:00:56+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=320'
-permalink: /2021-04-20-seanadh-eireann-a-tuath-air-bhotadh-airson-casg-a-chur-air-teiripe-iompachaidh/
+
+date: 2021-04-20 18:00:56
+
+title: "Seanadh Èireann a Tuath air bhòtadh airson casg a chur air teiripe iompachaidh"
+
 image: /images/posts/2021-04-20-seanadh-eireann-a-tuath-air-bhotadh-airson-casg-a-chur-air-teiripe-iompachaidh.webp
-categories:
-    - Eadar-nàiseanta
-    - Èirinn
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Èirinn", "Lagh", "Poileataigs"]
+
 ---
 
 Tha Seanadh Èireann a Tuath air bhòtadh an-diugh airson casg a chur air teiripe iompachaidh co-sheòrsachd.

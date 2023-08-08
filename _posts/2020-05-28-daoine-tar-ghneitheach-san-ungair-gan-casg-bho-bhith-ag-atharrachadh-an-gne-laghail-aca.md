@@ -1,14 +1,17 @@
 ---
-id: 360
-title: 'Daoine tar-ghnèitheach san Ungair gan casg bho bhith ag atharrachadh an gnè laghail aca'
-date: '2020-05-28T18:00:31+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=360'
-permalink: /2020-05-28-daoine-tar-ghneitheach-san-ungair-gan-casg-bho-bhith-ag-atharrachadh-an-gne-laghail-aca/
+
+date: 2020-05-28 18:00:31
+
+title: "Daoine tar-ghnèitheach san Ungair gan casg bho bhith ag atharrachadh an gnè laghail aca"
+
 image: /images/posts/2020-5-20-daoine-tar-ghneitheach-san-ungair-gan-casg-bho-bhith-ag-atharrachadh-an-gne-laghail-aca.webp
-categories:
-    - Eadar-nàiseanta
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta"]
+
 ---
 
 Tha pàrlamaid na h-Ungaire air bhòtadh airson lagh a chuireas casg air daoine tar-ghnèitheach an gnè aca atharrachadh air sgrìobhainnean oifigeil.

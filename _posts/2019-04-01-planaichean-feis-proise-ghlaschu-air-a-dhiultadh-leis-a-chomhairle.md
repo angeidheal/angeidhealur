@@ -1,16 +1,17 @@
 ---
-id: 464
-title: Planaichean Fèis-pròise Ghlaschu air a dhiùltadh leis a' chomhairle
-date: '2019-04-01T21:30:43+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=464'
-permalink: /2019-04-01-planaichean-feis-proise-ghlaschu-air-a-dhiultadh-leis-a-chomhairle/
+
+date: 2019-04-01 21:30:43
+
+title: "Planaichean Fèis-pròise Ghlaschu air a dhiùltadh leis a' chomhairle"
+
 image: /images/posts/2019-04-01-planaichean-feis-proise-ghlaschu-air-a-dhiultadh-leis-a-chomhairle.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+
 ---
 
 Tha [Glasgow Life](https://www.glasgowlife.org.uk/) air dearbhadh nach tèid Fèis-pròise Ghlaschu a chumail aig Taigh-tasgaidh Taobh na h-Aibhne am-bliadhna air sgàth ’s suim airgid a tha fhathast ri phàigheadh ris a’ chomhairle airson tachartasan roimhe.

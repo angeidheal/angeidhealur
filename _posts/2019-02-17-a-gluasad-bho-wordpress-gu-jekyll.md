@@ -4,16 +4,13 @@ layout: post
 
 date: 2019-02-17 18:00
 
-title: A' gluasad bho WordPress gu Jekyll
+title: "A' gluasad bho WordPress gu Jekyll"
 
 image: /images/posts/2019-02-17-a-gluasad-bho-wordpress-gu-jekyll.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Blog
-
-mastodon:
+categories: ["Blog"]
 
 ---
 

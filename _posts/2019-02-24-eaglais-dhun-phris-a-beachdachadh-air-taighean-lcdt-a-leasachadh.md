@@ -1,16 +1,17 @@
 ---
-id: 467
-title: Eaglais Dhùn Phrìs a' beachdachadh air taighean LCDT a leasachadh
-date: '2019-02-24T23:15:32+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=467'
-permalink: /2019-02-24-eaglais-dhun-phris-a-beachdachadh-air-taighean-lcdt-a-leasachadh/
+
+date: 2019-02-24 23:15:32
+
+title: "Eaglais Dhùn Phrìs a' beachdachadh air taighean LCDT a leasachadh"
+
+author: Crìstean MacMhìcheil
+
 image: /images/posts/2019-02-24-eaglais-dhun-phris-a-beachdachadh-air-taighean-lgbt-a-leasachadh.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Creideamh
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh"]
+
 ---
 
 Tha [BBC News ag aithris](https://www.bbc.co.uk/news/uk-scotland-south-scotland-47291707) gu bheil eaglais ann an Dùn Phrìs a’ beachdachadh air taighean ùra a leasachadh dhan choimhearsnachd LCDT air làrach Eaglais an Naoimh Bhrìghde.

@@ -1,14 +1,17 @@
 ---
-id: 398
-title: Obair-taighe
-date: '2019-11-17T12:30:27+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=398'
-permalink: /2019-11-17-obair-taighe/
+
+date: 2019-11-17 12:30:27
+
+title: "Obair-taighe"
+
 image: /images/posts/2019-11-17-obair-taighe-scaled.webp
-categories:
-    - Blog
+
+author: Crìstean MacMhìcheil
+
+categories: ["Blog"]
+
 ---
 
 Tha mi duilich gu bheil Geidh.uk air a bhith sàmhach o chionn ghoirid ach tha mi air a bhith trang leis m’ obair làitheil. Nuair a tha ùine shaor air a bhith agam tha mi air a bhith ag obair air còd Geidh.uk a sgioblachadh agus a dhèanamh nas èifeachdaiche.

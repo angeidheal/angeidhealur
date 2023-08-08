@@ -1,16 +1,17 @@
 ---
-id: 366
-title: Seirbheis ùr a' tabhann deuchainnean HIV tron phost
-date: '2020-05-15T18:00:13+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=366'
-permalink: /2020-05-15-seirbheis-ur-a-tabhann-deuchainnean-hiv-tron-phost/
+
+date: 2020-05-15 18:00:13
+
+title: "Seirbheis ùr a' tabhann deuchainnean HIV tron phost"
+
 image: /images/posts/2020-05-15-seirbheis-ur-a-tabhann-deuchainnean-hiv-tron-phost.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Slàinte"]
+
 ---
 
 Tha [HIV Scotland](https://www.hiv.scot/) agus [Waverley Care](https://www.waverleycare.org/) air seirbheis ùr a cur air bhog gus deuchainnean HIV a thabhann tron phost.

@@ -1,17 +1,17 @@
 ---
-id: 416
-title: 'Tatù air a dhiùltadh do dhuine le HIV'
-date: '2019-09-23T06:53:14+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=416'
-permalink: /2019-09-23-tatu-air-a-dhiultadh-do-dhuine-le-hiv/
+
+date: 2019-09-23 06:53:14
+
+title: "Tatù air a dhiùltadh do dhuine le HIV"
+
 image: /images/posts/2019-09-23-tatu-air-a-dhiultadh-do-dhuine-le-hiv.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Gnìomhachas
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Gnìomhachas", "Slàinte"]
+
 ---
 
 Tha a’ BhBC ag aithris gu bheil bùth tatù ann an Dùn Dè air duine a dhiùltadh air sgàth ’s gu bheil HIV air.

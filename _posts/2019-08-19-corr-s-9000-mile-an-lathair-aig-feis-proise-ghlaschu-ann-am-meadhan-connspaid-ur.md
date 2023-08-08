@@ -1,16 +1,17 @@
 ---
-id: 425
-title: 'Còrr ‘s 9000 mìle an lathair aig Fèis-pròise Ghlaschu ann am meadhan connspaid ùr'
-date: '2019-08-19T19:40:37+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=425'
-permalink: /2019-08-19-corr-s-9000-mile-an-lathair-aig-feis-proise-ghlaschu-ann-am-meadhan-connspaid-ur/
+
+date: 2019-08-19 19:40:37
+
+title: "Còrr ‘s 9000 mìle an lathair aig Fèis-pròise Ghlaschu ann am meadhan connspaid ùr"
+
 image: /images/posts/2019-08-19-corr-is-9000-an-lathair-aig-feis-proise-ghlaschu-ann-am-meadhan-connspaid-ur.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+
 ---
 
 Thathar a’ meas gun robh còrr ‘s 9,000 duine an lathair aig Fèis-pròise Ghlaschu an-dè.

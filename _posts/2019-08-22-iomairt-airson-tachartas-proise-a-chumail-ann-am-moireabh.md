@@ -1,16 +1,17 @@
 ---
-id: 419
-title: 'Iomairt airson tachartas pròise a chumail ann am Moireabh'
-date: '2019-08-22T20:30:16+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=419'
-permalink: /2019-08-22-iomairt-airson-tachartas-proise-a-chumail-ann-am-moireabh/
+
+date: 2019-08-22 20:30:16
+
+title: "Iomairt airson tachartas pròise a chumail ann am Moireabh"
+
 image: /images/posts/2019-08-22-iomairt-airson-tachartas-proise-a-chumail-ann-am-moireabh.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+
 ---
 
 Chaidh iomairt a stèidheachadh gus fèis-pròise a chumail ann am Moireabh an ath-bhliadhna.

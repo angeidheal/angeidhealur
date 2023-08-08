@@ -1,16 +1,17 @@
 ---
-id: 313
-title: 'Riaghailtean nas fhosgailte gan cur an-gnìomh a-thaobh toirt seachad fala'
-date: '2021-06-14T18:00:56+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=313'
-permalink: /2021-06-14-riaghailtean-nas-fhosgailte-gan-cur-an-gniomh-a-thaobh-toirt-seachad-fala/
+
+date: 2021-06-14 18:00:56
+
+title: "Riaghailtean nas fhosgailte gan cur an-gnìomh a-thaobh toirt seachad fala"
+
 image: /images/posts/2021-06-14-riaghailtean-nas-fhosgailte-gan-cur-an-gniomh-a-thaobh-toirt-seachad-fala.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Slàinte"]
+
 ---
 
 Chaidh riaghailtean ùra a chur an gnìomh an-diugh a tha a’ ciallachadh nach tèid dàil a chur air fireannaich a tha air a bhith ri fèise le fireannach eile anns na 3 mìosan a dh’fhalbh bho bhith a’ toirt seachad fala.

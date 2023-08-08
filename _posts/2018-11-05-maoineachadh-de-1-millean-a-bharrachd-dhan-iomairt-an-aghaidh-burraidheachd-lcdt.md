@@ -1,15 +1,17 @@
 ---
-id: 578
-title: 'Maoineachadh de £1 millean a bharrachd dhan iomairt an aghaidh burraidheachd LCDT+'
-date: '2018-11-05T19:50:24+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=578'
-permalink: /2018-11-05-maoineachadh-de-1-millean-a-bharrachd-dhan-iomairt-an-aghaidh-burraidheachd-lcdt/
+
+date: 2018-11-05 19:50:24
+
+title: "Maoineachadh de £1 millean a bharrachd dhan iomairt an aghaidh burraidheachd LCDT+"
+
 image: /images/posts/2018-11-05-maoineachadh-de-1-millean-a-bharrachd-dhan-iomairt-an-aghaidh-burraidheachd-lcdt.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Foghlam
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Foghlam"]
+
 ---
 
 Chaidh ainmeachadh leis an Riaghaltas Didòmhnaich gun tèid maoineachadh de £1 millean a bharrachd a thoirt dhan iomairt an aghaidh burraidheachd LCDT+ ann an sgoiltean.

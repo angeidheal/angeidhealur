@@ -1,17 +1,17 @@
 ---
-id: 346
-title: 'Eagraichean Fèis-pròise na Còirne air na draghan aca mun Achd Aithneachadh Gnè a chur an cèill ann an litir fosgailte do Bhuill-phàrlamaid'
-date: '2020-07-18T18:00:25+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=346'
-permalink: /2020-07-18-eagraichean-feis-proise-na-coirne-air-na-draghan-aca-mun-achd-aithneachadh-gne-a-chur-an-ceill-ann-an-litir-fosgailte-do-bhuill-pharlamaid/
+
+date: 2020-07-18 18:00:25
+
+title: "Eagraichean Fèis-pròise na Còirne air na draghan aca mun Achd Aithneachadh Gnè a chur an cèill ann an litir fosgailte do Bhuill-phàrlamaid"
+
 image: /images/posts/2020-07-18-eagraichean-feis-proise-na-coirne-air-na-draghan-aca-mun-achd-aithneachadh-gne-a-chur-an-ceill-ann-an-litir-fosgailte-do-bhuill-pharlamaid.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Lagh", "Poileataigs", "Pròis"]
+
 ---
 
 Tha eagraichean Fèis-pròise na Còirne air litir a chur dhan a h-uile BP san Rìoghachd Aonaichte gus na draghan aca mun Achd Aithneachadh Gnè agus mu theiripe iompachadh co-sheòrsachd a chur an cèill.

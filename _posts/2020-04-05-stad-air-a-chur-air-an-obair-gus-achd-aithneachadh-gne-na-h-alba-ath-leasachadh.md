@@ -1,18 +1,17 @@
 ---
-id: 377
-title: 'Stad air a chur air an obair gus Achd Aithneachadh Gnè na h-Alba ath-leasachadh'
-date: '2020-04-05T18:00:04+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=377'
-permalink: /2020-04-05-stad-air-a-chur-air-an-obair-gus-achd-aithneachadh-gne-na-h-alba-ath-leasachadh/
+
+date: 2020-04-05 18:00:04
+
+title: "Stad air a chur air an obair gus Achd Aithneachadh Gnè na h-Alba ath-leasachadh"
+
 image: /images/posts/2020-04-05-stad-air-a-chur-air-an-obair-gus-achd-aithneachadh-gne-na-h-alba-ath-leasachadh.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs", "Slàinte"]
+
 ---
 
 Dhearbh Graeme Dey, Ministear airson Gnothaichean na Pàrlamaid agus Seann-saighdearan, an seachdain seo gun deach dàil a chur air obair a’ Phàrlamaid air cìs turasachd, ath-leasachaidhean gnè agus reachdas Brexit gus an urrainn do BhPA fòcas a dhèanamh air èiginn a’ Choròna-bhìoras.

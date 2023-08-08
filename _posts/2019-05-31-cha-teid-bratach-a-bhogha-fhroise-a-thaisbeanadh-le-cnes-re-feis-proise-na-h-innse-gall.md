@@ -1,17 +1,17 @@
 ---
-id: 435
-title: Cha tèid bratach a' bhogha-fhroise a thaisbeanadh le CNES rè Fèis-pròise na h-Innse Gall
-date: '2019-05-31T16:49:41+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=435'
-permalink: /2019-05-31-cha-teid-bratach-a-bhogha-fhroise-a-thaisbeanadh-le-cnes-re-feis-proise-na-h-innse-gall/
+
+date: 2019-05-31 16:49:41
+
+title: "Cha tèid bratach a' bhogha-fhroise a thaisbeanadh le CNES rè Fèis-pròise na h-Innse Gall"
+
 image: /images/posts/2019-05-31-cha-teid-bratach-a-bhogha-fhroise-a-thaisbeanadh-le-cnes-re-feis-proise-na-h-innse-gall.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Poileataigs
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs", "Pròis"]
+
 ---
 
 Tha Comhairle nan Eilean Siar air dearbhadh nach tèid bratach a’ bhogha-fhroise a thaisbeanadh taobh a-muigh nan oifisean aca ann an Steòrnabhagh rè Fèis-pròise na h-Innse Gall a bhios a’ dol air adhart sa bhaile a-màireach.

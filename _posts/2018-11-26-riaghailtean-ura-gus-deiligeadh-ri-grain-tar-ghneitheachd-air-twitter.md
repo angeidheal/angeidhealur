@@ -1,14 +1,17 @@
 ---
-id: 560
-title: 'Riaghailtean ùra gus dèiligeadh ri gràin-tar-ghnèitheachd air Twitter'
-date: '2018-11-26T12:33:37+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=560'
-permalink: /2018-11-26-riaghailtean-ura-gus-deiligeadh-ri-grain-tar-ghneitheachd-air-twitter/
+
+date: 2018-11-26 12:33:37
+
+title: "Riaghailtean ùra gus dèiligeadh ri gràin-tar-ghnèitheachd air Twitter"
+
 image: /images/posts/2018-11-26-riaghailtean-ura-gus-deiligeadh-ri-grain-tar-ghneitheachd-air-twitter.webp
-categories:
-    - Teicneòlas
+
+author: Crìstean MacMhìcheil
+
+categories: ["Teicneòlas"]
+
 ---
 
 Tha Twitter air na riaghailtean aca ùrachadh gus dèiligeadh ri daoine a tha ri gràin-tar-ghnèitheachd.

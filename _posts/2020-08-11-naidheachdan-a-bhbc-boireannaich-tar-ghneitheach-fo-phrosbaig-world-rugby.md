@@ -10,11 +10,7 @@ image:
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Eadar-nàiseanta
-    - Spòrs
-
-mastodon:
+categories: ["Eadar-nàiseanta", "Spòrs"]
 
 ---
 

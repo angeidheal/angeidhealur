@@ -1,17 +1,17 @@
 ---
-id: 639
-title: 'Ministear Eaglais na h-Alba air leisgeul a thoirt dhan a’ choimhearsnachd LCDT aig Fèis-pròise Pheairt'
-date: '2018-08-12T16:06:09+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=639'
-permalink: /2018-08-12-ministear-eaglais-na-h-alba-air-leisgeul-a-thoirt-dhan-a-choimhearsnachd-lcdt-aig-feis-proise-pheairt/
+
+date: 2018-08-12 16:06:09
+
+title: "Ministear Eaglais na h-Alba air leisgeul a thoirt dhan a’ choimhearsnachd LCDT aig Fèis-pròise Pheairt"
+
 image: /images/posts/2018-08-12-ministear-eaglais-na-h-alba-air-leisgeul-a-thoirt-dhan-a-choimhearsnachd-lcdt-aig-feis-proise-pheairt.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Creideamh
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh", "Pròis"]
+
 ---
 
 Tha ministear Eaglais na h-Alba air leisgeul a thoirt seachad aig Fèis-pròise Pheairt airson cron sam bith a tha an eaglais air a dhèanamh dhan a’ choimhearsnachd LCDT.

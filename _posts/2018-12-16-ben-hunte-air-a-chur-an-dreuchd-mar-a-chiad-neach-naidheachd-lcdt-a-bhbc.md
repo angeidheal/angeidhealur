@@ -1,14 +1,17 @@
 ---
-id: 557
-title: 'Ben Hunte air a chur an dreuchd mar a’ chiad neach-naidheachd LCDT a’ BhBC'
-date: '2018-12-16T21:04:14+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=557'
-permalink: /2018-12-16-ben-hunte-air-a-chur-an-dreuchd-mar-a-chiad-neach-naidheachd-lcdt-a-bhbc/
+
+date: 2018-12-16 21:04:14
+
+title: "Ben Hunte air a chur an dreuchd mar a’ chiad neach-naidheachd LCDT a’ BhBC"
+
 image: /images/posts/2018-12-16-ben-hunte-air-a-chur-an-dreuchd-mar-a-chiad-neach-naidheachd-lcdt-a-bhbc.webp
-categories:
-    - An Rìoghachd Aonaichte
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte"]
+
 ---
 
 Tha BBC News air an neach-naidheachd BBC Afraga, Ben Hunte, ainmeachadh mar a’ chiad neach-naidheachd LCDT aca.

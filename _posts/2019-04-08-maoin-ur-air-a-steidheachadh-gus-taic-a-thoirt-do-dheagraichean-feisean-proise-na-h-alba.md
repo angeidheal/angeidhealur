@@ -1,16 +1,17 @@
 ---
-id: 461
-title: Maoin ùr air a stèidheachadh gus taic a thoirt do dh'eagraichean fèisean-pròise na h-Alba
-date: '2019-04-08T17:20:53+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=461'
-permalink: /2019-04-08-maoin-ur-air-a-steidheachadh-gus-taic-a-thoirt-do-dheagraichean-feisean-proise-na-h-alba/
+
+date: 2019-04-08 17:20:53
+
+title: "Maoin ùr air a stèidheachadh gus taic a thoirt do dh'eagraichean fèisean-pròise na h-Alba"
+
 image: /images/posts/2019-04-08-maoin-ur-air-a-steidheachadh-gus-taic-a-thoirt-do-dh-eagraichean-feisean-proise-na-h-alba.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+
 ---
 
 Tha [Pink Saltire](https://pinksaltire.com/), seirbheis naidheachd LCDT na h-Alba, air an iomairt ùr, [The Scottish Pride Fund](https://scotpride.org/), a chur air bhog gus taic ionmhais a thoirt do dh’eagraichean fèisean-pròise air feadh na h-Alba.

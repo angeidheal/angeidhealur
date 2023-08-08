@@ -1,15 +1,17 @@
 ---
-id: 357
-title: 'Roinnidh pod-chraoladh ùr sgeulachdan bho dhaoine LCDT+ nas sìne an Alba'
-date: '2020-05-26T18:00:56+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=357'
-permalink: /2020-05-26-roinnidh-pod-chraoladh-ur-sgeulachdan-bho-dhaoine-lcdt-nas-sine-an-alba/
+
+date: 2020-05-26 18:00:56
+
+title: "Roinnidh pod-chraoladh ùr sgeulachdan bho dhaoine LCDT+ nas sìne an Alba"
+
 image: /images/posts/2020-05-26-roinnidh-pod-chraoladh-ur-sgeulachdan-bho-dhaoine-lcdt-nas-sine-an-alba.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte"]
+
 ---
 
 Is e pod-chraoladh ùr a th’ ann an *50 Years of Activism* a bhios a’ toirt sùil air beathannan daoine LCDT+ nas sìne na 50 bliadhna a dh’aois ann an Alba.

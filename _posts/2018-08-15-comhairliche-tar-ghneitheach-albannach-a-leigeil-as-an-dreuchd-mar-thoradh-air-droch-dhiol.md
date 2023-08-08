@@ -1,16 +1,17 @@
 ---
-id: 632
-title: 'Comhairliche tar-ghnèitheach Albannach a’ leigeil às an dreuchd mar thoradh air droch dhìol'
-date: '2018-08-15T09:11:08+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=632'
-permalink: /2018-08-15-comhairliche-tar-ghneitheach-albannach-a-leigeil-as-an-dreuchd-mar-thoradh-air-droch-dhiol/
+
+date: 2018-08-15 09:11:08
+
+title: "Comhairliche tar-ghnèitheach Albannach a’ leigeil às an dreuchd mar thoradh air droch dhìol"
+
 image: /images/posts/2018-08-15-comhairliche-tar-ghneitheach-albannach-a-leigeil-as-an-dreuchd-mar-thoradh-air-droch-dhiol.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
+
 ---
 
 Tha an aon comhairliche tar-ghnèitheach ann an Alba air ainmeachadh gum bidh iad a’ leigeil às chuid dhe na dreuchdan aca mar thoradh air “sreath de dhroch dhìol guineach agus seasmhach” a’ toirt a-steach bagairtean bàis.

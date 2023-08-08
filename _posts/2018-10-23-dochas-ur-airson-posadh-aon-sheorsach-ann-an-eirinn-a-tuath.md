@@ -1,16 +1,17 @@
 ---
-id: 590
-title: 'Dòchas ùr airson pòsadh aon-sheòrsach ann an Èirinn a Tuath'
-date: '2018-10-23T12:16:49+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=590'
-permalink: /2018-10-23-dochas-ur-airson-posadh-aon-sheorsach-ann-an-eirinn-a-tuath/
+
+date: 2018-10-23 12:16:49
+
+title: "Dòchas ùr airson pòsadh aon-sheòrsach ann an Èirinn a Tuath"
+
 image: /images/posts/2018-10-23-dochas-ur-airson-posadh-aon-sheorsach-ann-an-eirinn-a-tuath.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+
 ---
 
 Tha dithis bhall-phàrlamaid Làbarach air plana a chur an gnìomh a dh’fhaodadh pòsadh aon-sheòrsach a dhèanamh laghail ann an Èirinn a Tuath.

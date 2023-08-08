@@ -1,16 +1,17 @@
 ---
-id: 596
-title: 'An t-Òban airson a’ chiad fèis-pròise aca a chumail an ath-bhliadhna'
-date: '2018-10-10T13:17:57+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=596'
-permalink: /2018-10-10-an-t-oban-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna/
+
+date: 2018-10-10 13:17:57
+
+title: "An t-Òban airson a’ chiad fèis-pròise aca a chumail an ath-bhliadhna"
+
 image: /images/posts/2018-10-10-an-t-oban-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+
 ---
 
 Thèid fèis-pròise a chumail anns an t-Òban an ath-bhliadhna airson a’ chiad turas a-riamh.

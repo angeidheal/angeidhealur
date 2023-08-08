@@ -1,16 +1,17 @@
 ---
-id: 410
-title: 'Litir homafòbach air a chur gu bùth cèice'
-date: '2019-09-24T13:45:08+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=410'
-permalink: /2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice/
+
+date: 2019-09-24 13:45:08
+
+title: "Litir homafòbach air a chur gu bùth cèice"
+
 image: /images/posts/2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Gnìomhachas
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Gnìomhachas"]
+
 ---
 
 Bha iongnadh air luchd-obrach aig bùth cèice ann am Baile Udain Diardaoin as dèidh dhaibh litir homafòbach fhaighinn tron phost.

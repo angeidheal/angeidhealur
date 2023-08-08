@@ -1,15 +1,17 @@
 ---
-id: 636
-title: 'Baile beag Cuimreach airson a’ chiad fèis-pròise aige a chumail'
-date: '2018-08-13T20:45:52+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=636'
-permalink: /2018-08-13-baile-beag-cuimreach-airson-a-chiad-feis-proise-aige-a-chumail/
+
+date: 2018-08-13 20:45:52
+
+title: "Baile beag Cuimreach airson a’ chiad fèis-pròise aige a chumail"
+
 image: /images/posts/2018-08-13-baile-beag-cuimreach-airson-a-chiad-feis-proise-aige-a-chumail.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Pròis"]
+
 ---
 
 Tha coimhearsnachd beag anns a’ Chuimrigh air tighinn còmhla gus fèis-pròise a phlanadh airson 1mh t-Sultain 2018.

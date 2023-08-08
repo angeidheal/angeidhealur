@@ -1,17 +1,17 @@
 ---
-id: 337
-title: Màthair Albannach a' sireadh òrdugh-bacaidh gus sìol-ghinidh a nighean tar-ghnèitheach a shàbhaladh
-date: '2020-08-27T18:00:28+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=337'
-permalink: /2020-08-27-mathair-albannach-a-sireadh-ordugh-bacaidh-gus-siol-ghinidh-a-nighean-tar-ghneitheach-a-shabhaladh/
+
+date: 2020-08-27 18:00:28
+
+title: "Màthair Albannach a' sireadh òrdugh-bacaidh gus sìol-ghinidh a nighean tar-ghnèitheach a shàbhaladh"
+
 image: /images/posts/2020-08-27-mathair-albannach-a-sireadh-ordugh-bacaidh-gus-siol-ghinidh-a-nighean-tar-ghneitheach-a-shabhaladh.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Slàinte"]
+
 ---
 
 Tha màthair Albannach a’ sireadh òrdugh-bacaidh gus casg a chur air dotairean sìolachaidh sgrios a dhèanamh air sìol-ghinidh a nighean tar-ghnèitheach.

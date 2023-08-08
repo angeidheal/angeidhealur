@@ -1,15 +1,17 @@
 ---
-id: 497
-title: 'Postairean Stonewall'
-date: '2019-01-05T21:50:08+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=497'
-permalink: /2019-01-05-postairean-stonewall/
+
+date: 2019-01-05 21:50:08
+
+title: "Postairean Stonewall"
+
 image: /images/posts/2019-01-05-postairean-stonewall.webp
-categories:
-    - Blog
-    - Gàidhlig
+
+author: Crìstean MacMhìcheil
+
+categories: ["Blog", "Gàidhlig"]
+
 ---
 
 Postairean Gàidhlig ann an stoidhle an iomairt “Some People are Gay” le Stonewall.

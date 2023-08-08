@@ -1,17 +1,17 @@
 ---
-id: 621
-title: 'Corr ’s 14,000 air na h-ainmean aca a chur ri athchuingean airson Fèis-pròise Inbhir Nis a dhol air adhart'
-date: '2018-09-19T10:32:34+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=621'
-permalink: /2018-09-19-corr-s-14000-air-na-h-ainmean-aca-a-chur-ri-athchuingean-airson-feis-proise-inbhir-nis-a-dhol-air-adhart/
+
+date: 2018-09-19 10:32:34
+
+title: "Corr ’s 14,000 air na h-ainmean aca a chur ri athchuingean airson Fèis-pròise Inbhir Nis a dhol air adhart"
+
+author: Crìstean MacMhìcheil
+
 image: /images/posts/2018-09-19-corr-s-14000-air-na-h-ainmean-aca-a-chur-ri-athchuingean-airson-feis-proise-inbhir-nis-a-dhol-air-adhart.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Creideamh
-    - Pròis
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh", "Pròis"]
+
 ---
 
 Tha còrr ’s 14,000 duine air na h-ainmean aca a chur ri trì athchuingean gus an taic aca a shealltainn airson Fèis-pròise Inbhir Nis.

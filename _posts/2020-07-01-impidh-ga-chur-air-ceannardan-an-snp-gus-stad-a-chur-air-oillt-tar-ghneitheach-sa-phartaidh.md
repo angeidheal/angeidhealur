@@ -1,16 +1,17 @@
 ---
-id: 352
-title: 'Ìmpidh ga chur air Ceannardan an SNP gus stad a chur air oillt tar-ghneitheach sa phartaidh'
-date: '2020-07-01T18:00:10+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=352'
-permalink: /2020-07-01-impidh-ga-chur-air-ceannardan-an-snp-gus-stad-a-chur-air-oillt-tar-ghneitheach-sa-phartaidh/
+
+date: 2020-07-01 18:00:10
+
+title: "Ìmpidh ga chur air Ceannardan an SNP gus stad a chur air oillt tar-ghneitheach sa phartaidh"
+
 image: /images/posts/2020-07-01-impidh-ga-chur-air-ceannardan-an-snp-gus-stad-a-chur-air-oillt-tar-ghneitheach-sa-phartaidh.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
+
 ---
 
 Tha Mhàiri Black air dùbhlan a thoirt do Cheannardan an SNP as dèidh do bhall neo-bhìnearaidh a bhruidhinn mu dheidhinn oillt-tar-ghnèitheach sa phàrtaidh.

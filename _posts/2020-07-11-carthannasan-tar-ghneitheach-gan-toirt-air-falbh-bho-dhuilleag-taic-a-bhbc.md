@@ -1,15 +1,17 @@
 ---
-id: 349
-title: 'Carthannasan tar-ghnèitheach gan toirt air falbh bho dhuilleag taic a’ BhBC'
-date: '2020-07-11T18:00:50+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=349'
-permalink: /2020-07-11-carthannasan-tar-ghneitheach-gan-toirt-air-falbh-bho-dhuilleag-taic-a-bhbc/
+
+date: 2020-07-11 18:00:50
+
+title: "Carthannasan tar-ghnèitheach gan toirt air falbh bho dhuilleag taic a’ BhBC"
+
 image: /images/posts/2020-07-11-carthannasan-tar-ghneitheach-gan-toirt-air-falbh-bho-dhuilleag-taic-a-bhbc.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Slàinte"]
+
 ---
 
 Tha a’ BhBC air duilleag-lìn atharrachadh gus fiosrachadh mu charthannasan a bheireas taic do dhaoine tar-ghnèitheach a thoirt air falbh.

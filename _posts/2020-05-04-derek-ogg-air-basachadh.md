@@ -1,17 +1,17 @@
 ---
-id: 374
-title: 'Derek Ogg air bàsachadh'
-date: '2020-05-04T18:00:23+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=374'
-permalink: /2020-05-04-derek-ogg-air-basachadh/
+
+date: 2020-05-04 18:00:23
+
+title: "Derek Ogg air bàsachadh"
+
 image: /images/posts/2020-05-04-derek-ogg-air-basachadh.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+
 ---
 
 Tha Derek Ogg, an neach-lagha a stiùir an iomairt gus maitheanas a thoirt do dh’fhireannaich gèidh agus dà-sheòrsach a chaidh a dhìteadh airson eucoirean feise ann an Alba, air bàsachadh aig aois 65.

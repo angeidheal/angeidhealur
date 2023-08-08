@@ -1,16 +1,17 @@
 ---
-id: 329
-title: 'Deasbad air teiripe iompachaidh'
-date: '2021-03-07T18:00:05+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=329'
-permalink: /2021-03-07-deasbad-air-teiripe-iompachaidh/
+
+date: 2021-03-07 18:00:05
+
+title: "Deasbad air teiripe iompachaidh"
+
 image: /images/posts/2021-03-07-deasbad-air-teiripe-iompachaidh.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+
 ---
 
 Bidh BPan ann an Taigh nan Cumantan a’ deasbad Diluain teiripe iompachaidh a dhèanamh mì-laghail san Rìoghachd Aonaichte.

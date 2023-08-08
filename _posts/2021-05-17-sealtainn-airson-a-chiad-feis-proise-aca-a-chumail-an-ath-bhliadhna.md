@@ -4,18 +4,13 @@ layout: post
 
 date: 2021-05-17 18:00
 
-title: Sealtainn airson a' chiad fèis-pròise aca a chumail an ath-bhliadhna
+title: "Sealtainn airson a' chiad fèis-pròise aca a chumail an ath-bhliadhna"
 
 image: /images/posts/2021-05-17-sealtainn-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Pròis
-
-mastodon:
+categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
 
 ---
 

@@ -1,16 +1,17 @@
 ---
-id: 343
-title: Gràin co-sheòrsachd a' fàs nas cumanta an Alba
-date: '2020-07-21T18:00:31+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=343'
-permalink: /2020-07-21-grain-co-sheorsachd-a-fas-nas-cumanta-an-alba/
+
+date: 2020-07-21 18:00:31
+
+title: "Gràin co-sheòrsachd a' fàs nas cumanta an Alba"
+
 image: /images/posts/2020-07-21-grain-co-sheorsachd-a-fas-nas-cumanta-an-alba.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh"]
+
 ---
 
 Tha figearan oifigeil bho Oifis a’ Chrùin a’ sealltainn gu bheil an àireamh de dh’eucoirean gràin air an adhbharachadh le gràin co-sheòrsachd ann an Alba aig an ìre as àirde a-riamh.

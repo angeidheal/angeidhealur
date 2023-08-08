@@ -1,15 +1,17 @@
 ---
-id: 372
-title: 'Lasachadh nan riaghailtean a thaobh fireannaich co-sheòrsach a’ toirt seachad fala ann an Èirinn a Tuath'
-date: '2020-05-07T08:00:36+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=372'
-permalink: /2020-05-07-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-co-sheorsach-a-toirt-seachad-fala-ann-an-eirinn-a-tuath/
+
+date: 2020-05-07 08:00:36
+
+title: "Lasachadh nan riaghailtean a thaobh fireannaich co-sheòrsach a’ toirt seachad fala ann an Èirinn a Tuath"
+
 image: /images/posts/2020-05-07-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-co-sheorsach-a-toirt-seachad-fala-ann-an-eirinn-a-tuath.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Slàinte"]
+
 ---
 
 Chaidh ainmeachadh gun tèid an lagh atharrachadh ann an Èirinn a Tuath gus am bi fireannaich co-sheòrsach agus dà-sheòrsach comasach air fuil a thoirt seachad cho fhad ’s nach eil iad air a bhith ri feise le fireannach eile fad trì mìosan.

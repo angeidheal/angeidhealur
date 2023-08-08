@@ -1,14 +1,17 @@
 ---
-id: 369
-title: 'Ceannard Stonewall ùr air ainmeachadh'
-date: '2020-05-13T18:00:51+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=369'
-permalink: /2020-05-13-ceannard-stonewall-ur-air-ainmeachadh/
+
+date: 2020-05-13 18:00:51
+
+title: "Ceannard Stonewall ùr air ainmeachadh"
+
 image: /images/posts/2020-05-13-ceannard-stonewall-ur-air-ainmeachadh.webp
-categories:
-    - An Rìoghachd Aonaichte
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte"]
+
 ---
 
 Chaidh [ainmeachadh](https://www.stonewall.org.uk/about-us/news/stonewall-welcomes-nancy-kelley-new-ceo) Dimàirt gur e Nancy Kelley ceannard ùr a’ charthannais LGBT+ Stonewall.

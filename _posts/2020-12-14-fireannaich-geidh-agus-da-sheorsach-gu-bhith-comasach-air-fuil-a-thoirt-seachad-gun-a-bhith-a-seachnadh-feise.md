@@ -4,17 +4,13 @@ layout: post
 
 date: 2020-12-14 18:00
 
-title: Fireannaich gèidh agus dà-sheòrsach gu bhith comasach air fuil a thoirt seachad gun a bhith a' seachnadh feise
+title: "Fireannaich gèidh agus dà-sheòrsach gu bhith comasach air fuil a thoirt seachad gun a bhith a' seachnadh feise"
 
 image: /images/posts/2020-12-14-fireannaich-geidh-agus-da-sheorsach-gu-bhith-comasach-air-fuil-a-thoirt-seachad-gun-a-bhith-a-seachnadh-feise.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-
-mastodon:
+categories: ["Alba", "An Rìoghachd Aonaichte"]
 
 ---
 

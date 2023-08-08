@@ -1,16 +1,17 @@
 ---
-id: 575
-title: 'Fèis film LCDT+ ri tilleadh a Ghlaschu'
-date: '2018-11-06T17:06:49+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=575'
-permalink: /2018-11-06-feis-film-lcdt-ri-tilleadh-a-ghlaschu/
+
+date: 2018-11-06 17:06:49
+
+title: "Fèis film LCDT+ ri tilleadh a Ghlaschu"
+
 image: /images/posts/2018-11-06-feis-film-lcdt-ri-tilleadh-a-ghlaschu.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Cultar
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Cultar"]
+
 ---
 
 Thèid an ceathramh *[Scottish Queer International Film Festival (SQIFF)](http://www.sqiff.org/)* a thilleadh a Ghlaschu 5mh – 9mh An Dùbhlachd.

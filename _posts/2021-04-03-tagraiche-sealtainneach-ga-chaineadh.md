@@ -1,17 +1,17 @@
 ---
-id: 323
-title: 'Tagraiche Sealtainneach ga chàineadh'
-date: '2021-04-03T08:51:35+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=323'
-permalink: /2021-04-03-tagraiche-sealtainneach-ga-chaineadh/
+
+date: 2021-04-03 08:51:35
+
+title: "Tagraiche Sealtainneach ga chàineadh"
+
 image: /images/posts/2021-04-03-tagraiche-sealtainneach-ga-chaineadh.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Creideamh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh", "Poileataigs"]
+
 ---
 
 Tha tagraiche neo-eisimeileach à Shealtainn fo chàineadh as dèidh dha ràdh gum faodadh an galar sgaoilte COVID-19 a bhith na thoradh pòsadh aon-sheòrsach a dhèanamh laghail.

@@ -1,15 +1,17 @@
 ---
-id: 491
-title: 'Riaghaltas Bhreatainn air a chàineadh airson droch-làimhseachadh a dhèanamh air còirichean tar-ghnèitheach'
-date: '2019-01-04T20:55:36+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=491'
-permalink: /2019-01-04-riaghaltas-bhreatainn-air-a-chaineadh-airson-droch-laimhseachadh-a-dheanamh-air-coirichean-tar-ghneitheach/
+
+date: 2019-01-04 20:55:36
+
+title: "Riaghaltas Bhreatainn air a chàineadh airson droch-làimhseachadh a dhèanamh air còirichean tar-ghnèitheach"
+
 image: /images/posts/2019-01-04-riaghaltas-bhreatainn-air-a-chaineadh-airson-droch-laimhseachadh-a-dheanamh-air-coirichean-tar-ghneitheach.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Poileataigs"]
+
 ---
 
 Tha Maria Miller, cathraiche Comataidh nam Ban agus Co-ionannachd, air an riaghaltas a chàineadh airson droch-làimhseachadh a dhèanamh air còirichean tar-ghnèitheach.

@@ -1,15 +1,17 @@
 ---
-id: 422
-title: 'Carragh-cuimhne do dhaoine co-sheòrsach a dh’fhulaing geur-leanmhainn nan Nàsach air a mhilleadh'
-date: '2019-08-20T17:17:36+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=422'
-permalink: /2019-08-20-carragh-cuimhne-do-dhaoine-co-sheorsach-a-dhfhulaing-geur-leanmhainn-nan-nasach-air-a-mhilleadh/
+
+date: 2019-08-20 17:17:36
+
+title: "Carragh-cuimhne do dhaoine co-sheòrsach a dh’fhulaing geur-leanmhainn nan Nàsach air a mhilleadh"
+
 image: /images/posts/2019-08-20-carragh-cuimhne-do-dhaoine-co-sheorsach-a-dh-fhulaing-geur-leanmhainn-nan-nasach-air-a-mhilleadh-scaled.webp
-categories:
-    - Eadar-nàiseanta
-    - Lagh
+
+author: Crìstean MacMhìcheil
+
+categories: ["Eadar-nàiseanta", "Lagh"]
+
 ---
 
 Tha AP News anns a’ Ghearmailt ag aithris gun deach carragh-cuimhne do dhaoine co-sheòrsach a dh’fhulaing geur-leanmhainn nan Nàsach a mhilleadh.

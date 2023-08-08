@@ -1,19 +1,17 @@
 ---
-id: 612
-title: 'MFR: Agallamh le Donald Morrison a thòisich athchuinge an-aghaidh Fèis-pròise Inbhir Nis'
-date: '2018-09-19T06:15:59+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=612'
-permalink: /2018-09-19-mfr-agallamh-le-donald-morrison-a-thoisich-athchuinge-an-aghaidh-feis-proise-inbhir-nis/
-enclosure:
-    - "https://angeidhealur.scot/wp-content/uploads/2018/09/mfr-donald-morrison-interview.mp4\n7402236\nvideo/mp4\n"
+
+date: 2018-09-19 06:15:59
+
+title: "MFR: Agallamh le Donald Morrison a thòisich athchuinge an-aghaidh Fèis-pròise Inbhir Nis"
+
 image: /images/posts/2018-09-19-mfr-agallamh-le-donald-morrison-a-thoisich-athchuinge-an-aghaidh-feis-proise-inbhir-nis.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Creideamh
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh", "Pròis"]
+
 ---
 
 Seo agaibh agallamh a rinn *MFR* / *Bauer Radio Scotland* le Donald Morrison, fear a thòisich athchuinge an-aghaidh Fèis-pròise Inbhir Nis air sgàth, mar a chanas e, “adhbharan bìoballach, diadhaidh agus moralta”.

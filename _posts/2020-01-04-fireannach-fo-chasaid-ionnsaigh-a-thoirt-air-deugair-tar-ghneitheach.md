@@ -1,16 +1,17 @@
 ---
-id: 386
-title: 'Fireannach fo chasaid ionnsaigh a thoirt air deugair tar-ghnèitheach'
-date: '2020-01-04T18:00:36+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=386'
-permalink: /2020-01-04-fireannach-fo-chasaid-ionnsaigh-a-thoirt-air-deugair-tar-ghneitheach/
+
+date: 2020-01-04 18:00:36
+
+title: "Fireannach fo chasaid ionnsaigh a thoirt air deugair tar-ghnèitheach"
+
 image: /images/posts/2020-01-04-fireannach-fo-chasaid-ionnsaigh-a-thoirt-air-deugair-tar-ghneitheach.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh"]
+
 ---
 
 Tha fireannach, 18, fo chasaid ionnsaigh a thoirt air deugair tar-ghnèitheach ann an Àird Rosain anns an t-Samhain.

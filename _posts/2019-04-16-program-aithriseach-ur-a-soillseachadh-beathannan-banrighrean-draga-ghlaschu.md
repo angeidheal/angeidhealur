@@ -1,15 +1,17 @@
 ---
-id: 455
-title: 'Prògram aithriseach ùr a’ soillseachadh beathannan banrighrean-draga Ghlaschu'
-date: '2019-04-16T14:32:11+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=455'
-permalink: /2019-04-16-program-aithriseach-ur-a-soillseachadh-beathannan-banrighrean-draga-ghlaschu/
+
+date: 2019-04-16 14:32:11
+
+title: "Prògram aithriseach ùr a’ soillseachadh beathannan banrighrean-draga Ghlaschu"
+
 image: /images/posts/2019-04-16-program-aithriseach-a-soillseachadh-beathannan-banrighrean-draga-ghlaschu.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte"]
+
 ---
 
 Thèid prògram aithriseach ùr a shealltainn air BBC Scotland a-nochd (10f) a bheireas sùil air beathannan triùir banrighrean-draga ann an Glaschu.

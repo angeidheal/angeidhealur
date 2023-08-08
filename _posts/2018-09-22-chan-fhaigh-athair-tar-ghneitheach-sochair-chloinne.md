@@ -1,15 +1,17 @@
 ---
-id: 606
-title: 'Chan fhaigh athair tar-ghnèitheach sochair-chloinne'
-date: '2018-09-22T07:59:17+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=606'
-permalink: /2018-09-22-chan-fhaigh-athair-tar-ghneitheach-sochair-chloinne/
+
+date: 2018-09-22 07:59:17
+
+title: "Chan fhaigh athair tar-ghnèitheach sochair-chloinne"
+
 image: /images/posts/2018-09-22-chan-fhaigh-athair-tar-ghneitheach-sochair-chloinne.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Lagh
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Lagh"]
+
 ---
 
 Chan fhaigh athair tar-ghnèitheach sochair-chloinne air sgàth ’s nach eil e airson a bhith clàraichte mar mhàthair air teisteanas breith an leanaibh.

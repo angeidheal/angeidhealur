@@ -1,17 +1,17 @@
 ---
-id: 448
-title: 'Draghan aig luchd-poilitigs SNP mu ath-leasachaidhean tar-ghnèitheach'
-date: '2019-04-24T21:30:18+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=448'
-permalink: /2019-04-24-draghan-aig-luchd-poilitigs-snp-mu-ath-leasachaidhean-tar-ghneitheach/
+
+date: 2019-04-24 21:30:18
+
+title: "Draghan aig luchd-poilitigs SNP mu ath-leasachaidhean tar-ghnèitheach"
+
 image: /images/posts/2019-04-24-draghan-aig-luchd-poilitigs-snp-mu-ath-leasachaidhean-tar-ghneitheach.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Lagh
-    - Poileataigs
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+
 ---
 
 Tha còig-deug neach-poilitigs an SNP air draghan a thogail mu phlanaichean Riaghaltas na h-Alba airson Achd Aithne Gnè ath-leasachadh.

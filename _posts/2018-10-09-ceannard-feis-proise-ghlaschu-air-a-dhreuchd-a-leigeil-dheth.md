@@ -1,16 +1,17 @@
 ---
-id: 599
-title: 'Ceannard Fèis-pròise Ghlaschu air a dhreuchd a leigeil dheth'
-date: '2018-10-09T13:34:41+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=599'
-permalink: /2018-10-09-ceannard-feis-proise-ghlaschu-air-a-dhreuchd-a-leigeil-dheth/
+
+date: 2018-10-09 13:34:41
+
+title: "Ceannard Fèis-pròise Ghlaschu air a dhreuchd a leigeil dheth"
+
 image: /images/posts/2018-10-09-ceannard-feis-proise-ghlaschu-air-a-dhreuchd-a-leigeil-dheth.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Pròis
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+
 ---
 
 Tha Alasdair Mac a’ Ghobhainn, Ceannard Fèis-pròise Ghlaschu air a dhreuchd a leigeil dheth as dèidh 10 bliadhna mar thoradh air duilgheadasan an tachartais am-bliadhna.

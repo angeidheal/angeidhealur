@@ -4,16 +4,13 @@ layout: post
 
 date: 2021-12-09 18:00
 
-title: Bile  Shealainn Nuaidh a' leigeil le daoine tar-ghnèitheach an gnè laghail aca atharrachadh
+title: "Bile  Shealainn Nuaidh a' leigeil le daoine tar-ghnèitheach an gnè laghail aca atharrachadh"
 
 image: /images/posts/2021-12-09-bile-shealainn-nuaidh-a-leigeil-le-daoine-tar-ghneitheach-an-gne-lagahil-aca-atharrachadh-scaled.webp
 
 author: Crìstean MacMhìcheil
 
-categories:
-    - Eadar-nàiseanta
-
-mastodon:
+categories: ["Eadar-nàiseanta"]
 
 ---
 

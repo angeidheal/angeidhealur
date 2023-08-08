@@ -1,16 +1,17 @@
 ---
-id: 380
-title: Àireamh de dhaoine a' cleachdadh loidhne-chuideachaidh LCDT+ air àrdachadh air sgàth Coròna-bhìoras
-date: '2020-03-29T18:00:41+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=380'
-permalink: /2020-03-29-aireamh-de-dhaoine-a-cleachdadh-loidhne-chuideachaidh-lcdt-air-ardachadh-air-sgath-corona-bhioras/
+
+date: 2020-03-29 18:00:41
+
+title: "Àireamh de dhaoine a' cleachdadh loidhne-chuideachaidh LCDT+ air àrdachadh air sgàth Coròna-bhìoras"
+
 image: /images/posts/2020-03-29-aireamh-de-dhaoine-a-cleachdadh-loidhne-chuideachaidh-lcdt-air-ardachadh-air-sgath-corona-bhioras-scaled.webp
-categories:
-    - Alba
-    - An Rìoghachd Aonaichte
-    - Slàinte
+
+author: Crìstean MacMhìcheil
+
+categories: ["Alba", "An Rìoghachd Aonaichte", "Slàinte"]
+
 ---
 
 Tha carthannas LCDT+ air aithris gu bheil iad air àrdachadh mòr fhaicinn anns an àireamh de dhaoine a’ cleachdadh an loidhne-chuideachaidh aca bho thòisich daoine fuireach san taigh air sgàth Coròna-bhìoras.

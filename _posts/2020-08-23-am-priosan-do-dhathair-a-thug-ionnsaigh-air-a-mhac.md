@@ -1,15 +1,17 @@
 ---
-id: 340
-title: Am prìosan do dh'athair a thug ionnsaigh air a mhac
-date: '2020-08-23T18:00:41+00:00'
-author: Crìstean MacMhìcheil
+
 layout: post
-guid: 'https://angeidhealur.scot/?p=340'
-permalink: /2020-08-23-am-priosan-do-dhathair-a-thug-ionnsaigh-air-a-mhac/
+
+date: 2020-08-23 18:00:41
+
+title: "Am prìosan do dh'athair a thug ionnsaigh air a mhac"
+
 image: /images/posts/2020-08-23-am-priosan-do-dh-athair-a-thug-ionnsaigh-air-a-mhac-scaled.webp
-categories:
-    - An Rìoghachd Aonaichte
-    - Lagh
+
+author: Crìstean MacMhìcheil
+
+categories: ["An Rìoghachd Aonaichte", "Lagh"]
+
 ---
 
 Chaidh binn prìosain 18 mìosan air athair à Phlymouth a thug ionnsaigh air a mhac, a tha 15 bliadhna a dh’aois, as dèidh dha faighinn a-mach gun do chleachd am balach an aplacaid gèidh fèillmhor, Grindr, air an fhòn-làimhe aige.
