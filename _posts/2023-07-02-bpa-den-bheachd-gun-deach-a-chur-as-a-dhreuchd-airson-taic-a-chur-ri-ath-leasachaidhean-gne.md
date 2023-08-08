@@ -10,7 +10,7 @@ image: /images/posts/MSP-Jamie-Green.jpg
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba," "Poileataigs"]
+categories: ["Alba", "Poileataigs"]
 
 ---
 
