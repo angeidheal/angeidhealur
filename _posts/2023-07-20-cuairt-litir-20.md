@@ -2,7 +2,7 @@
 
 layout: post
 
-date: 2023-07-22 19:21
+date: 2023-07-20 19:00
 
 title: "Cuairt-litir #20"
 
@@ -10,64 +10,48 @@ image:
 
 author: Crìstean MacMhìcheil
 
-categories: ["Cuairt-litir", "Eadar-nàiseanta", "Lagh", "Poileataigs", "Slàinte", "Spòrs"]
+categories: ["Cuairt-litir", "An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Poileataigs", "Spòrs"]
 
 ---
 
 Geàrr-chunntas sgrìobhte de naidheachdan LGDTC+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
 
-## A' Bheilg
+## Seann-ghaisgich LGDTC+
 
-Bhòt Pàrlamaid na Beilge Diardaoin gus casg a chur air cleachdaidhean ris an canar "teiripe iompachaidh".
+Tha am Prìomhaire, Rishi Sunak, air leisgeul oifigeil a dhèanamh do sheann-ghaisgich LGDTC+ airson a’ chron a chaidh a dhèanamh orra mar thoradh air a’ chasg a bh’ air luchd-obrach LGDTC+ sna feachdan armaichte ro 2000.
 
-'S e seo cleachdadh sam bith a dh'fheuchas taobhadh feise no dearbh aithne gnè neach atharrachadh.
+Thàinig leisgeul an Riaghaltais as dèidh gun deach [tòraidhean ath-sgrùdadh neo-eisimeileach mu eòlasan sheann-ghaisgich LGDTC+](https://lgbtveterans.independent-review.uk/reports/final-report/) fhoillseachadh.
 
-Thèid binn-phriosain suas ri 2 bhliadhna agus/no peanas-airgid suas ri luach €2,400 a chur air neach sam bith a thèid a dhìteadh fon lagh ùr.
+Fon seann lagh, bhiodh pearsachan LGDTC+ air an leigeil mu sgaoil gun urram is gun pheinnsean. Chaidh ionnsaighean agus ionnsaighean drabasta a thoirt air cuid agus chaidh dubh-mhàl a dhèanamh air cuid eile.
 
-## Ohio
+Thathar a’ creidsinn gun tug an casg buaidh air mu 5,000 neach.
 
-Tha Seanadair JD Vance air bile a mholadh a dhèanadh e mì-laghail obair-lannsa daingneachadh gnè agus cùram-slàinte daingneachadh gnè a leithid blocaichean-inbhidheachd, a thabhann do dh'òigridh ann an Ohio.
+Chaidh an casg a thilgeil a-mach ann an 2000 as dèidh gun d'thug seann-ghaisgich LGDTC+ Riaghaltas an RA gu Cùirt Eòrpach nan Còraichean Daonna agus gun do riaghail a’ chùirt gun robh an casg na bhriseadh den chòir aca air prìobhaideachd.
 
-Tha am bile a' moladh peanais-airgid luach $250,000 air neach sam bith a bhriseas e.
+![](/images/posts/LGBTQ-Troops.jpg)
 
-Thuirt Vance nuair a dh'ainmich e am bile Dimàirt nach bu chòir do dhoctairean bhith comasach air obair-lannsa daingneachadh gnè a dhèanamh air mion-aoisich, ach tha seo mì-laghail anns na Stàitean Aonaichte, an Rìoghachd Aonaichte agus sa' mhòr-chuid de dhùthchannan eile air feadh an t-saoghail mar-thà.
+## King Lawal
 
-## Arizona
+Chaidh Comhairliche Tòraidheach ann an Siorrachd Northampton a chur às a dhreuchd rè ùine as dèidh dha tuèiteadh gur e peacadh a th’ ann am Pròis.
 
-Tha britheamh feadarail ann an Arizona air casg sealach a chur air lagh a chuireadh casg air boireannaich agus nigheanan tar-ghnèitheach bho sgiobaidhean spòrs boireannach.
+Bha King Lawal a’ toirt iomradh air dealbh de chaismeachd pròise nuair a sgrìobh e:
 
-Cha tèid an lagh a chur an gnìomh a-nis gus an riaghal a' chùirt air cùis-lagha a tha pàrantan dithis nighean tar-ghnèitheach air toirt an-aghaidh na stàite.
+> “When did Pride become a thing to celebrate.”
+>
+> “Because of Pride Satan fell as an arch Angel. Pride is not a virtue but a Sin.”
+>
+> “Those who have Pride should Repent of their sins and return to Jesus Christ. He can save you. #PrideMonth #Pride23 #PrideParade.”
 
-Tha iad ag ràdh gu bheil an lagh a' briseadh Title IX - lagh feadarail a chuireas casg air sgoiltean agus prògraman foghlaim eile a fhuaireas maoineachadh poblach bho bhith a' dèanamh leth-bhreith a thaobh gnè - agus clàs bun-reachd nan Stàitean Aonaichte air dìonan co-ionnannachd.
+Chaidh Lawal a chasg bho na Tòraidhean fhad ’s a tha Prìomh-oifis Iomairt nan Tòraidhean (CCHQ) a’ dèanamh rannsachaidh.
 
-Thuirt am britheamh, Jennifer G. Zipps, nuair a dheònaich i an casg sealach nach eil fianais sam bith ann gu bheil buannachd a bharrachd aig nigheanan tar-ghnèitheach a bhios a' gabhail bacaidhean inbhidheachd fo òrdugh-cungaidh thairis air nigheanan eile agus gu bheil slàinte-inntinn nan nigheannan an urra ris an comas aca a bhith beò mar nigheanan anns a h-uile suidheachadh nam beathannan.
+![](/images/posts/King-Lawal.jpg)
 
-## Peru
+## Rothaireachd
 
-Tha àrd chùirt ann am Peru air riaghladh gu bheil còir aig càraidean aon-sheòrsach air am pòsaidhean a chlàradh gu laghail.
+Tha buidheann-riaghlaidh rothaireachd na cruinne, Union Cycliste Internationale, air tar-bhoireannaich a thoirmeasg bho fharpaisean nam ban.
 
-Bha a' chùirt a' riaghladh air cùis-lagha a thog saoranach leasbach an-aghaidh RENIEC, oifis-chlàraidh na dùthcha, as dèidh dhaibh diùltadh am pòsadh aice a chlàradh.
+Fon riaghailt ùr, chan fhaod lùth-chleasaichean a chaidh tro inbhidheachd mar fhireannach pàirt a ghabhail ann am farpaisean nam ban agus bi aca ri farpais ann an roinn mheasgaichte an-aghaidh nam fireannach.
 
-Phòs i fhad 's a bha i thall-thairis ann an 2019, agus ged a tha co-sheòrsachd laghail san dùthaich, dhiùlt RENIEC am pòsadh a chlàradh leis gu bheil còd catharra na dùthcha ag ràdh gur e aonadh eadar fear agus bean a th' ann am pòsadh.
+Bha buidheann-riaghlaidh rothaireachd Bhreatainn air tar-bhoireannach a thoirmeasg bho fharpaisean nam ban mar-thà sa’ Chèitean.
 
-Riaghail a' chùirt ge-tà gun do bhris RENIEC a' chòir bhun-reachdail a th' aig an saoranach air teaghlach agus mar sin gum feum iad am pòsadh aice a chlàradh.
-
-## Justin Fashanu
-
-Chaidh dealbh-balla a nochdadh ann an Norwich a' comharrachadh beatha Justin Fashanu.
-
-Chluich Fashanu airson Norwich City eadar 1978 agus 1981 agus chaidh e na chiad chluicheadair dubh gus cìs luach £1m fhaighinn nuair a thar-aisig e gu Nottingham Forrest.
-
-Chaidh e cuideachd na chiad chluicheadair ball-coise proifeasanta gèidh nuair a thàinig e a-mach ann ann agallamh leis an Sun ann an 1990.
-
-Ged a dh'fhulaing e gràin-chinnidh agus gràin cho-sheòrsachd rè na 90'an, ach lean e air cluiche gu proifeasanta mus chaidh e na còidse anns na Stàitean Aonaichte.
-
-Ann an 1998 rinn balach 17 bliadhna a dh'aois ann am Maryland casaid air Fashanu gun d'tug e ionnsaigh dhrabasta air.
-
-Rinn e àiceadh gun d'thug e ionnsaigh dhrabasta air a' bhalach, agus thuirt e gun robh am feise co-aontachail.
-
-Bha feise co-sheòrsach mì-laghail ann am Maryland ag an àm ge-tà agus bha eagal air nach faigheadh e triail chomthromach is mar sin theich e air ais a Shasainn far an do chur e làmh na bheatha fhèin.
-
-B' e 2022 mus tàinig cluicheadair ball-coise proifeasanta gèidh eile a-mach.
-
-![](/images/posts/2023-07-20-justin-fashanu.jpeg)
+![](/images/posts/matt-noble-sXBlqLvWkVk-unsplash.jpg)
