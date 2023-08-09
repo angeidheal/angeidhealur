@@ -44,6 +44,8 @@ Thuirt i cuideachd gun do dh'fheuch nigheanan aig an sgoil ionnsaigh a thoirt ai
 
 Dhearbh neach-labhairt Roinn Foghlam Queensland gu bheil rannsachadh a' leantainn aig an sgoil.
 
+![](/images/posts/Onyx-John.jpg)
+
 ## Farpaisean snàmh na Cruinne
 
 Tha buidheann-riaghlaidh snàmh na cruinne, World Aquatics, air ainmeachadh gun tèid roinn mheasgaichte a chruthachadh gus am bi lùth-chleasaichean tar-ghnèitheach fhathast comasach air farpais.
