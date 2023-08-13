@@ -18,7 +18,7 @@ Geàrr-chunntas sgrìobhte de naidheachdan LGDTC+ ionadail, nàiseanta ‘s bho 
 
 ## Eabhrac Nuadh
 
-Tha an NYPD air dearbhadh gu bheil iad air neach-amharais a chur an grèim an co-cheangail le murt O'Shae Sibley Disathairne seo chaidh.
+Tha an NYPD air dearbhadh gu bheil iad air neach-amharais a chur an grèim an co-cheangail ri [murt O'Shea Sibley]({{ site.baseurl }}/2023-08-01-cuairt-litir-25/) Disathairne seo chaidh.
 
 Thathar ag aithris gun do ghèill am fireannach, 17, nach deach ainmeachadh leis a' Phoilis fhathast, e fhèin Dihaoine.
 
