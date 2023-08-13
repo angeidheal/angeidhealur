@@ -10,7 +10,7 @@ image:
 
 author: Crìstean MacMhìcheil
 
-categories: ["Cuairt-litir", "Alba", "Gàidhlig", "Cultar", "Eadar-nàiseanta", "Lagh", "Poileataigs", "Spòrs"]
+categories: ["Cuairt-litir", "Alba", "Gàidhlig", "Cultar", "Eadar-nàiseanta", "Lagh", "Poileataigs", "Slàinte", "Spòrs"]
 
 ---
 
