@@ -30,7 +30,7 @@ Tha buidhnean a leithid Equality Florida, Human Rights Campaign agus NAACP air r
 
 Bhòt Seanadairean ann an Louisiana Diciadain an-aghaidh bile a chuireadh casg air cùram-slàinte daingneachadh gnè do dhaoine fo aois 18.
 
-Chall am bile le ach .aon bhòt as dèidh gun do bhot aon sheanadair Phoblachdach na h-aghaidh còmhla ris na seanadairean deamocratach gu lèir.
+Chall am bile le ach aon bhòt as dèidh gun do bhot aon sheanadair Phoblachdach na h-aghaidh còmhla ris na seanadairean deamocratach gu lèir.
 
 Thuirt Seanadair Fred Mills gu bheil e a' cur earbsa ann an dotairean an co-dhùnadh as fheàrr a dhèanamh dha na euslaintich aca.
 
