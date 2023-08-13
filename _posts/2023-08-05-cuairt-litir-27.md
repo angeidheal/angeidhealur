@@ -10,7 +10,7 @@ image:
 
 author: Crìstean MacMhìcheil
 
-categories: ["Cuairt-litir", "Eadar-nàiseanta", "Lagh", "Poileataigs"]
+categories: ["Cuairt-litir", "Eadar-nàiseanta", "Foghlam", "Lagh", "Poileataigs"]
 
 ---
 
