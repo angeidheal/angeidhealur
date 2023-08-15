@@ -10,8 +10,8 @@ image:
 
 author: Crìstean MacMhìcheil
 
-categories: ["Cuairt-litir", "Alba", "An Rìoghachd Aonaichte", "Eadar-nàiseant", "Lagh", "Poileataigs"]
-  
+categories: ["Cuairt-litir", "Alba", "An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Lagh", "Poileataigs"]
+
 ---
 
 Geàrr-chunntas sgrìobhte de naidheachdan LGDTC+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
