@@ -4,14 +4,13 @@ layout: post
 
 date: 2023
 
-title: 
+title: ""
 
 image: /images/posts/
 
 author: Crìstean MacMhìcheil
 
-categories:
-  - 
+categories: [""]
   
 ---
 
