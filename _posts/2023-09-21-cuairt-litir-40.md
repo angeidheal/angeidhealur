@@ -36,7 +36,7 @@ Dh’fhulaing fireannach cainnt a bha ri oillt cho-sheòrsachd agus oillt thar-g
 
 Tha na Poilis air dealbh CCTV a cho-roinneadh a’ sealltainn fireannaich a tha iad a’ sireadh ann an co-cheangal ris an ionnsaigh.
 
-![](/images/posts/police-1-1.webp)
+![]({{ site.baseurl }}/images/posts/police-1-1.webp)
 
 Thuirt iad gum bu chòir do neach sam bith aig a bheil fiosrachadh mun thachartas fios a chur gu 101 is an àireamh 5223182231 a thoirt seachad.
 
