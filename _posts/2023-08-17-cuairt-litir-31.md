@@ -30,7 +30,7 @@ No faodar fios gun urra a chur gu Crimestoppers air 0800 555 111.
 
 ![]({{ site.baseurl }}/images/posts/Suspectimage2clapham)
 
-![]({{ site.baseurl }}/images/posts/)
+![]({{ site.baseurl }}/images/posts/MAN-STABBING-CLAPHAM)
 
 ## Carragh-chuimhne an Olocoist
 
