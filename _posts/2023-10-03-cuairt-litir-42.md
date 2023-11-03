@@ -6,7 +6,7 @@ date: 2023-10-03 19:24
 
 title: "Cuairt-litir #42"
 
-image: /images/posts/
+image:
 
 author: Crìstean MacMhìcheil
 
