@@ -26,11 +26,11 @@ Bu chòir do neach sam bith aig a bheil fios mun chùis fios a chur dhan Phoilea
 
 No faodar fios gun urra a chur gu Crimestoppers air 0800 555 111.
 
-![](https://angeidhealur.micro.blog/uploads/2023/69b2ffc472.jpg)
+![]({{ site.baseurl }}/images/posts/Suspectimage1clapham)
 
-![](https://angeidhealur.micro.blog/uploads/2023/4b555595d0.jpg)
+![]({{ site.baseurl }}/images/posts/Suspectimage2clapham)
 
-![](https://angeidhealur.micro.blog/uploads/2023/1792e02a0c.jpg)
+![]({{ site.baseurl }}/images/posts/)
 
 ## Carragh-chuimhne an Olocoist
 
