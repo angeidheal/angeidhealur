@@ -21,6 +21,19 @@ Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bh
 
 Tha mi air leth duilich nach eil cuairt-litir air a bhith ann fad trì seachdain gu leth a-nis, ach bhrìs an sgrìon air a' MhacBook Air agam agus tha e càran doirbh sgrìobhadh air an iFòn agam - sgrìobh mi an t-eagran seo air a' PhC aig an oifis (🤫) is feuchaidh mi seo a dhèanamh gus am bi coimpiutair ùr agam.
 
+## Glaschu
+
+Dh'aidich boireannach ann an Cùirt an t-Siorraim ann an Glaschu Diluain gun d'thug i ionnsaigh air boireannach eile ann an club gèidh agus gun do dh'èigh i cainnt homafòbach air oifigear-poilis.
+
+Dh'aidich Amy Montgomery, 28, gun d'thug i ionnsaigh air Aimee Henderson aig 
+a' chlub AXM ann an Glaschu anns a' Ghearran 2022.
+
+Thuit Henderson nuair chaidh i an-sàs ann an argamaid eadar a caraid agus Montgomery agus chaidh a cur ann am paisean nuair a bhreab Montgomery i mun a ceann.
+
+Bhathar cuideachd ag aithris gun do chuir i smugaid air PC Gordon Stormont agus gun do dh'èigh i "p\*\*fy b\*\*\*\*\*\*" dha.
+
+Chuir an Siorram binn dheth 's iad a' feitheamh air aithisgean cùl-fhiosrachaidh.
+
 ## An t-Sligeach
 
 Chaidh binn-bheatha sa phrìosain a chur air fireannach a mharbh dithis fhear ghèidhe agus a thug ionnsaigh air fear eile anns an t-Sligeach ann an 2022.
