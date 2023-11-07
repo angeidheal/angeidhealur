@@ -18,6 +18,6 @@ Cha robh guth air a’ chasg air na cleachdaidhean ris an canar “teiripe iompa
 
 ‘S e a th’ ann an “teiripe iompachaidh” cleachdadh sam bith a dh’fheuchas ri taobhadh feise, no dearbh-aithne gnè, neach atharrachadh.
 
-Tha còrr ’s còig bliadhna agus ceathrar Prìomhairean air a bhith ann a-nis bho gheall na Tòraidhean an toiseach casg a chur air.
-
 Gheall Sunak nuair a chaidh e na Phrìomhaire gum biodh an casg deiseil a chur an gnìomh san t-Samhain, ach cha cur e iongnadh air mòran gu bheil e a-nis air a’ ghealltanas sin a thrèigsinn.
+
+Tha còrr ’s còig bliadhna agus ceathrar Prìomhairean air a bhith ann a-nis bho gheall na Tòraidhean an toiseach casg a chur air.
