@@ -4,7 +4,7 @@ layout: post
 
 date: 2023-11-07
 
-title: "Riaghaltas nan Tòraidhean air a\’ chasg air \“teiripe iompachaidh\” a thrèigsinn a-rithist"
+title: "Riaghaltas nan Tòraidhean air a’ chasg air “teiripe iompachaidh” a thrèigsinn a-rithist"
 
 image:
 
