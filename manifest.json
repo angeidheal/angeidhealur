@@ -9,39 +9,5 @@
   "dir": "auto",
   "theme_color": "#6062a5",
   "background_color": "#0d1117",
-  "orientation": "any",
-  "icons": [
-    {
-      "src": "c:/Users/chris/Downloads/manifest-icon-192.maskable.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "c:/Users/chris/Downloads/manifest-icon-192.maskable.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "c:/Users/chris/Downloads/manifest-icon-512.maskable.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "c:/Users/chris/Downloads/manifest-icon-512.maskable.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "",
-      "sizes": "2880x1800",
-      "type": "image/png",
-      "description": "A screenshot of the home page"
-    }
-  ]
+  "orientation": "any"
 }
