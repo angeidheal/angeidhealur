@@ -12,7 +12,7 @@
   "orientation": "any",
   "icons": [
     {
-        "src": "{{ site.baseurl }}/images/icons/ios/512.png",
+        "src": "/images/icons/ios/512.png",
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "any"
