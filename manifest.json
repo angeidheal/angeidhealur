@@ -12,18 +12,6 @@
 "orientation": "any",
 "icons": [
     {
-        "src": "{{ site.baseurl }}/images/icons/ios/512.png",
-        "sizes": "512x512",
-        "type": "image/png",
-        "purpose": "maskable"
-    },
-    {
-        "src": "{{ site.baseurl }}/images/icons/ios/192.png",
-        "sizes": "192x192",
-        "type": "image/png",
-        "purpose": "any"
-    },
-    {
         "src": "{{ site.baseurl }}/images/icons/windows11/SmallTile.scale-100.png",
         "sizes": "71x71"
       },
@@ -457,7 +445,8 @@
       },
       {
         "src": "{{ site.baseurl }}/images/icons/ios/192.png",
-        "sizes": "192x192"
+        "sizes": "192x192",
+        "purpose": "any"
       },
       {
         "src": "{{ site.baseurl }}/images/icons/ios/256.png",
