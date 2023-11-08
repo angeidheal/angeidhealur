@@ -4,7 +4,6 @@
   "orientation": "any",
   "display": "minimal-ui",
   "display_override": [
-    "window-controls-overlay",
     "standalone",
     "browser"
   ],  
