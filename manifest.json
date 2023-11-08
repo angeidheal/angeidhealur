@@ -3,7 +3,11 @@
 "short_name": "An Gèidheal Ùr",
 "start_url": "https://angeidhealur.scot",
 "display": "minimal-ui",
-"display_override": "browser",
+"display_override": [
+    "window-controls-overlay",
+    "minimal-ui",
+    "browser"
+  ],
 "description": "Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.",
 "lang": "gd",
 "dir": "auto",
