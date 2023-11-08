@@ -3,10 +3,7 @@
   "start_url": "https://angeidhealur.scot",
   "orientation": "any",
   "display": "minimal-ui",
-  "display_override": [
-    "standalone",
-    "browser"
-  ],  
+  "display_override": "browser",  
   "icons": [
     {
       "src": "{{ site.baseurl }}/images/icons/android-icon-36x36.png",
