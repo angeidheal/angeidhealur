@@ -11,15 +11,18 @@
 
   <!--CSS-->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
-  <link rel="stylesheet" href={{"/css/main.css" | relative_url}} />
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" />
 
   <!--Fonts-->
   <script src="https://kit.fontawesome.com/3bcb25d86b.js" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lemonada:300,400,500,600,700" />
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Outfit:Thin,ExtraLight,Light,Regular,Medium,SemiBold,Bold,ExtraBold,Black" />
 
+  <!--Logos-->
+  <meta property="og:image" content="{{ site.baseurl }}/images/icons/AGU_Logo_2023.jpg" />
+
   <!--RSS Feed-->
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{"/feed.xml" | relative_url }}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml" />
   <meta name="follow.it-verification-code" content="lgwN0VcMDSadmLa2csMy"/>
 
   <!--Mastodon Verification-->
