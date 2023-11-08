@@ -1,53 +1,49 @@
 {
-  "name": "An Gèidheal Ùr",
-  "start_url": "https://angeidhealur.scot",
-  "orientation": "any",
-  "display": "minimal-ui",
-  "display_override": "browser",  
-  "icons": [
+"name": "An Gèidheal Ùr",
+"short_name": "An Gèidheal Ùr",
+"start_url": "https://angeidhealur.scot",
+"display": "minimal-ui",
+"display_override": "browser",
+"description": "Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.",
+"lang": "gd",
+"dir": "auto",
+"theme_color": "#6062a5",
+"background_color": "#0d1117",
+"orientation": "any",
+"icons": [
     {
-      "src": "{{ site.baseurl }}/images/icons/android-icon-36x36.png",
-      "sizes": "36x36",
-      "type": "image/png",
-      "density": "0.75"
+        "src": "{{ site.baseurl }}/images/icons/ios/512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
     },
     {
-      "src": "{{ site.baseurl }}/images/icons/android-icon-48x48.png",
-      "sizes": "48x48",
-      "type": "image/png",
-      "density": "1.0"
-    },
-    {
-      "src": "{{ site.baseurl }}/images/icons/android-icon-72x72.png",
-      "sizes": "72x72",
-      "type": "image/png",
-      "density": "1.5"
-    },
-    {
-      "src": "{{ site.baseurl }}/images/icons/android-icon-96x96.png",
-      "sizes": "96x96",
-      "type": "image/png",
-      "density": "2.0"
-    },
-    {
-      "src": "{{ site.baseurl }}/images/icons/android-icon-144x144.png",
-      "sizes": "144x144",
-      "type": "image/png",
-      "density": "3.0"
-    },
-    {
-      "src": "{{ site.baseurl }}/images/icons/android-icon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "density": "4.0"
+        "src": "{{ site.baseurl }}/images/icons/ios/192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
     }
-  ],
-  "theme_color": "#6062a5",
-  "background_color": "#0d1117",
-  "short_name": "angeidhealur",
-  "id": "angeidhealur",
-  "description": "Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.",
-  "categories": [
-    "news"
-  ]
+],
+"screenshots": [
+    {
+        "src": "",
+        "sizes": "2880x1800",
+        "type": "image/png",
+        "description": "A screenshot of the home page"
+    }
+],
+"related_applications": [
+    {
+        "platform":"windows",
+        "url": " The URL to your app in that app store"
+    }
+],
+"prefer_related_applications": false,
+"shortcuts": [
+    {
+        "name":"The name you would like to be displayed for your shortcut",
+        "url":"The url you would like to open when the user chooses this shortcut. This must be a URL local to your PWA. For example: If my start_url is /, this URL must be something like /shortcut",
+        "description":"A description of the functionality of this shortcut"
+    }
+]
 }
