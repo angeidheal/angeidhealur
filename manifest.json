@@ -1,5 +1,13 @@
 {
   "name": "An Gèidheal Ùr",
+  "start_url": "https://angeidhealur.scot",
+  "orientation": "any",
+  "display": "minimal-ui",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "browser"
+  ],  
   "icons": [
     {
       "src": "{{ site.baseurl }}/images/icons/android-icon-36x36.png",
