@@ -9,5 +9,14 @@
   "dir": "auto",
   "theme_color": "#6062a5",
   "background_color": "#0d1117",
-  "orientation": "any"
+  "orientation": "any",
+  "icons": [
+    {
+        "src": "{{ site.baseurl }}/images/icons/ios/512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+    }
+  ]
+  
 }
