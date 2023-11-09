@@ -6,7 +6,7 @@ date: 2023-10-31 18:40
 
 title: "Cuairt-litir #44"
 
-image:
+image: /images/posts/cuairt-litir.png
 
 author: Crìstean MacMhìcheil
 
