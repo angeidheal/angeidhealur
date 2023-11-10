@@ -29,6 +29,8 @@ Chaidh a stèidheachadh (mar Naidheachdan Pinc) ann an 2008 le Crìstean MacMhì
 
 **Mastodon.** [https://mastodon.scot/@angeidhealur](https://mastodon.scot/@angeidhealur)
 
+**Post-d** Lìon a-steach an fhoirm seo gus post-d fhaighinn nuair a bhios postaichean ùra ann.
+
 <iframe src="https://angeidhealur.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 ## Cuir fios
