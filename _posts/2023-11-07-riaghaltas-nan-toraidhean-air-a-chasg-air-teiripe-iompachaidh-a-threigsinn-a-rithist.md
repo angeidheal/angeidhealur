@@ -6,6 +6,8 @@ date: 2023-11-07
 
 title: "Riaghaltas nan Tòraidhean air a’ chasg air “teiripe iompachaidh” a thrèigsinn a-rithist"
 
+excerpt: "Cha robh guth air a’ chasg air na cleachdaidhean ris an canar “teiripe iompachaidh” ann an Òraid an Rìgh madainn Dimàirt."
+
 image: /images/posts/2023-11-07-riaghaltas-nan-toraidhean-air-a-chasg-air-teiripe-iompachaidh-a-threigsinn-a-rithist.webp
 
 author: Crìstean MacMhìcheil
