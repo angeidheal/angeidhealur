@@ -6,6 +6,8 @@ date: 2023-07-07 18:27:01
 
 title: "Cuairt-litir #17"
 
+image: /images/icons/Substack_Social_Preview.png
+
 author: Crìstean MacMhìcheil
 
 categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Cuairt-litir", "Èirinn", "Foghlam", "Lagh", "Poileataigs", "Pròis", "Slàinte"]
