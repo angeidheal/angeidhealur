@@ -6,6 +6,8 @@ date: 2023-06-20 21:11:38
 
 title: "Cuairt-litir #10"
 
+image: /images/icons/Substack_Social_Preview.png
+
 author: Crìstean MacMhìcheil
 
 categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Cuairt-litir", "Cultar", "Foghlam", "Lagh", "Poileataigs", "Pròis", "Spòrs"]
