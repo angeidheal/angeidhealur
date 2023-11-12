@@ -21,6 +21,6 @@ Seo na feartan ùra san tionndadh seo:-
 * eadar-theangachaidhean Gaeilge;
 * agus faodaidh sibh rannsachadh san fhaclair a-nis.
 
-A bharrachd air sin, faodaidh sibh a-nis a lorg aig https://faclair.lgbt/.
+A bharrachd air sin, faodaidh sibh a-nis a lorg aig [https://faclair.lgbt/](https://faclair.lgbt/).
 
-Bu toil leam eadar-theangaichean Gaelg (Gàidhlig Mhanainn) a chur ris cuideachd, cuiribh fios thugam nam biodh ùidh agaibh mo chuideachadh le seo.
+Bu toil leam eadar-theangaichean Gaelg (Gàidhlig Mhanainn) a chur ris cuideachd, [cuiribh fios thugam](https://mastodon.scot/@angeidheal) nam biodh ùidh agaibh mo chuideachadh le seo.
