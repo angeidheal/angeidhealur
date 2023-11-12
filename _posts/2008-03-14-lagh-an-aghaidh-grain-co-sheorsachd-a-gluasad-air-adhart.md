@@ -6,6 +6,8 @@ date: 2008-03-14 10:30
 
 title: "Lagh an-aghaidh gràin-co-sheòrsachd a’ gluasad air adhart"
 
+excerpt: "Chaidh deasbad a chumail ann an Taigh nam Morairean seachdain seo chaidh mu dheidhinn lagh ùr a bhios a’ ciallachadh gum bi gràin-co-sheòrsachd (*Homophobia*) mì-laghail."
+
 image: /images/posts/2008-03-14-lagh-an-aghaidh-grain-co-sheorsachd-a-gluasad-air-adhart.webp
 
 author: Crìstean MacMhìcheil
