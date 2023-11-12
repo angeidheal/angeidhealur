@@ -6,6 +6,8 @@ date: 2023-06-22 20:30:00
 
 title: "Cuairt-litir #11"
 
+image: /images/icons/Substack_Social_Preview.png
+
 author: Crìstean MacMhìcheil
 
 categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Cuairt-litir", "Lagh", "Poileataigs", "Slàinte", "Teicneòlas"]
