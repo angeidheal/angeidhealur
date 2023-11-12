@@ -16,6 +16,8 @@ categories: ["An Rìoghachd Aonaichte", "Foghlam", "Slàinte"]
 
 Tha an carthannas fiaclach as motha anns an Rìoghachd Aonaichte airson balaich a thoirt a-steach dhan phrògram a bhios a’ toirt a-mach banachdaich an-aghaidh an tinneas feise HPV (*Human papillomavirus*) gus bacadh a chur air aillse beòil.
 
+<!--more-->
+
 Tha a’ BhDHF (*British Dental Health Foundation*) ag ràdh gu bheil iad airson a’ phrògram seo mheudachadh air sgàth ’s aithisg a thàinig a-mach às na Stàitean Aonaichte a’ sealltainn gu bheil 46,000 cùisean ùra air nochdadh.
 
 A-rèir na figearan tha an àireamh de cùisean marbhtach air àrdachadh le trian anns na trithead bliadhna mu dheireadh agus tha iad a-nis aig an ìre as àirde ’s a bha iad riamh.
