@@ -6,7 +6,7 @@ date: 2023-09-28 04:53
 
 title: "Cuairt-litir #41"
 
-image:
+image: /images/icons/Substack_Social_Preview.png
 
 author: Crìstean MacMhìcheil
 
