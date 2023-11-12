@@ -6,7 +6,7 @@ date: 2023-02-28 20:00
 
 title: "Cuairt-litir #3"
 
-image:
+image: /images/icons/Substack_Social_Preview.png
 
 author: Crìstean MacMhìcheil
 
