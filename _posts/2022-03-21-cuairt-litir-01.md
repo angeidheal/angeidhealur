@@ -6,7 +6,7 @@ date: 2022-03-21 18:00
 
 title: "Cuairt-litir #1"
 
-image:
+image: /images/icons/Substack_Social_Preview.png
 
 author: Crìstean MacMhìcheil
 
