@@ -6,6 +6,8 @@ date: 2023-06-17 08:28:17
 
 title: "Cuairt-litir #9"
 
+image: /images/icons/Substack_Social_Preview.png
+
 author: Crìstean MacMhìcheil
 
 categories: ["Alba", "An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Cuairt-litir", "Foghlam", "Lagh", "Poileataigs", "Slàinte"]
