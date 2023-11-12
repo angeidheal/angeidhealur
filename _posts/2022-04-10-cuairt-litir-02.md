@@ -6,7 +6,7 @@ date: 2022-04-10 18:00
 
 title: "Cuairt-litir #2"
 
-image:
+image: /images/icons/Substack_Social_Preview.png
 
 author: Crìstean MacMhìcheil
 
