@@ -6,6 +6,10 @@ date: 2023-06-24 18:17:48
 
 title: "Cuairt-litir #12"
 
+excerpt: "Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail."
+
+excerpt: "Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail."
+
 image: /images/icons/Substack_Social_Preview.png
 
 author: Crìstean MacMhìcheil

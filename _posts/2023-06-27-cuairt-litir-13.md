@@ -6,6 +6,8 @@ date: 2023-06-27 20:34:47
 
 title: "Cuairt-litir #13"
 
+excerpt: "Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail."
+
 image: /images/icons/Substack_Social_Preview.png
 
 author: Crìstean MacMhìcheil
