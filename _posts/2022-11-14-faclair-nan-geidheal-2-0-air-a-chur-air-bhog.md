@@ -16,7 +16,7 @@ categories: ["Blog", "Gàidhlig"]
 
 Tha mi air leth toilichte Faclair nan Gèidheal 2.0 a cho-roinneadh leibh.
 
-Seo na feartan ùra san tionndadh seo:-
+Seo na feartan ùra san tionndadh seo:
 * tòrr briathrachais Ghàidhlig a bharrachd;
 * eadar-theangachaidhean Gaeilge;
 * agus faodaidh sibh rannsachadh san fhaclair a-nis.
