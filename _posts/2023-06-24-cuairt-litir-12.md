@@ -6,6 +6,8 @@ date: 2023-06-24 18:17:48
 
 title: "Cuairt-litir #12"
 
+image: /images/icons/Substack_Social_Preview.png
+
 author: Crìstean MacMhìcheil
 
 categories: ["Alba", "Eadar-nàiseanta", "Cuairt-litir", "Cultar", "Èirinn", "Lagh", "Poileataigs", "Pròis", "Spòrs"]
