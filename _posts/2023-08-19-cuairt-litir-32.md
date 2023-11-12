@@ -6,7 +6,7 @@ date: 2023-08-19 13:33
 
 title: "Cuairt-litir #32"
 
-image:
+image: /images/icons/Substack_Social_Preview.png
 
 author: Crìstean MacMhìcheil
 
