@@ -4,6 +4,8 @@ layout: page
 
 title: Mu ar deidhinn
 
+image: /images/icons/Substack_Social_Preview.png
+
 permalink: /mu-ar-deidhinn/
 
 ---

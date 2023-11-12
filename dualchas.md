@@ -4,6 +4,8 @@ layout: page
 
 title: Dualchas
 
+image: /images/icons/Substack_Social_Preview.png
+
 permalink: /dualchas/
 
 ---
