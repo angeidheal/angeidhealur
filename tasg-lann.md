@@ -4,7 +4,7 @@ layout: page
 
 title: Tasg-lann
 
-permalink: /tasg-lann/
+permalink: /tasglann/
 
 ---
 
