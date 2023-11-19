@@ -8,11 +8,15 @@ title: "Cuairt-litir #45"
 
 image: /images/icons/Substack_Social_Preview.png
 
+excerpt: "Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail."
+
 author: Crìstean MacMhìcheil
 
 categories: ["Cuairt-litir"]
   
 ---
+
+Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
 
 ## Plana-gnìomha neo-bhìnearaidh
 
