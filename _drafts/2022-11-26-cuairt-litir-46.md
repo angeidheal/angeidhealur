@@ -22,7 +22,7 @@ Thàinig a gairm an latha an dèidh _Trans Day of Remembrance_ a chomharraich na
 
 Tha Cherry, a tha na leasbach, air a bhith glè thàireil dhen iomairt airson còraichean tar-ghnèitheach san àm a dh'fhalbh.
 
-Thug i càineadh àrd-bhriathrach air bile aithneachadh gnè Pàrlamaid na h-Alba agus i air ràdh roimhe gum bu chòir cleachdaidhean ris an cànar "teiripe iompachaidh" a bhith laghail ann an cuid de chùisean.
+Thug i càineadh àrd-bhriathrach air bile aithneachadh gnè Pàrlamaid na h-Alba agus i air ràdh roimhe gum bu chòir cleachdaidhean ris an canar "teiripe iompachaidh" a bhith laghail ann an cuid de chùisean.
 
 ## (Un)Seen, (Un)Heard
 
@@ -43,7 +43,7 @@ Gheibhear toraidhean an dèidh 15 mionaidean agus a-rèir HIV Ireland tha ìre p
 
 ## Florida
 
-Mhol an Riochdaire Ryan Chamberlin bile a leudaicheas an lagh ris an canar "Don't Say Gay" gus a dhèanamh mì-laghail riochdairean ròghnaichte neach a chleachdadh san àite-obrach.
+Mhol an Riochdaire Ryan Chamberlain bile a leudaicheas an lagh ris an canar "Don't Say Gay" gus a dhèanamh mì-laghail riochdairean ròghnaichte neach a chleachdadh san àite-obrach.
 
 A bharrachd air sin bheireadh am bile dìon laghail do luchd-obrach airson giùlan leth-bhreitheach a tha stèidhichte air creideamh.
 
@@ -51,7 +51,7 @@ Tha dùil gun tèid am bile a dheasbad sa Mhàrt 2024.
 
 ## Dùthaich nan Tàidh
 
-Tha Prìomhaire Dùthaich nan Tàidh, Srettha Thavisin, air ainmeachadh gun tèid bile a dhèanas pòsadh aon-sheòrsach laghail san dùthaich a dhèasbad anns a' Phàrlamaid an ath mhìos.
+Tha Prìomhaire Dùthaich nan Tàidh, Srettha Thavisin, air ainmeachadh gun tèid bile a dhèanas pòsadh aon-sheòrsach laghail san dùthaich a dheasbad anns a' Phàrlamaid an ath mhìos.
 
 ## Criogaid
 
