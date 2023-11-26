@@ -59,4 +59,4 @@ Tha Prìomhaire Dùthaich nan Tàidh, Srettha Thavisin, air ainmeachadh gun tèi
 
 Tha an ICC, buidheann-riaghlaidh criogaid an t-saoghail, air tar-bhoireannaich a chaidh tro inbhidheachd mar fhireannaich a thoirmeasg bho fharpaisean nam ban.
 
-Nì iad ath-sgrùdadh air an riaghailt an ceann 2 bhliadhna. 
+Nì iad ath-sgrùdadh air an riaghailt an ceann 2 bhliadhna.
