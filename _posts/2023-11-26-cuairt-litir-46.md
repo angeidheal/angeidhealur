@@ -14,6 +14,8 @@ categories: ["Cuairt-litir"]
   
 ---
 
+Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
+
 ## Joanna Cherry
 
 Tha BP an SNP, Joanna Cherry, air gairm air Riaghaltas na Rìoghachd Aonaichte rannsachadh a dhèanamh air a' bhuaidh a tha an iomairt airson còraichean tar-ghnèitheach a' toirt air còraichean bhoireannach is leasbach.
