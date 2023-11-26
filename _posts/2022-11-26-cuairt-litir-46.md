@@ -51,7 +51,7 @@ Tha dùil gun tèid am bile a dheasbad sa Mhàrt 2024.
 
 ## Dùthaich nan Tàidh
 
-Tha Prìomhaire Dùthaich nan Tàidh, Srettha Thavisin, air ainmeachadh gun tèid bile a dhèanas pòsadh aon-sheòrsach laghail san dùthaich a dheasbad anns a' Phàrlamaid an ath mhìos.
+Tha Prìomhaire Dùthaich nan Tàidh, Srettha Thavisin, air ainmeachadh gun tèid bile a dhèanadh pòsadh aon-sheòrsach laghail san dùthaich a dheasbad anns a' Phàrlamaid an ath mhìos.
 
 ## Criogaid
 
