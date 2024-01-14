@@ -4,7 +4,7 @@ layout: post
 
 date: 2024-01-10
 
-title: "Riaghaltas na h-Alba a\’ sireadh beachdan air casg air \“teiripe-iompachaidh\”"
+title: "Riaghaltas na h-Alba a’ sireadh beachdan air casg air teiripe-iompachaidh"
 
 image: /images/posts/2024-01-10-riaghaltas-na-h-alba-a-sireadh-beachdan-air-casg-air-teiripe-iompachaidh.webp
 
