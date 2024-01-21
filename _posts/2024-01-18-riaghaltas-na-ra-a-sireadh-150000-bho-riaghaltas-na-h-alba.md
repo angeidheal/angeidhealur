@@ -6,7 +6,7 @@ date: 2024-01-18 13:00
 
 title: "Riaghaltas na RA a’ sireadh £150,000 bho Riaghaltas na h-Alba"
 
-image: /images/icons/Parlamaid-na-h-Alba.webp
+image: /images/posts/Parlamaid-na-h-Alba.webp
 
 author: Crìstean MacMhìcheil
 
