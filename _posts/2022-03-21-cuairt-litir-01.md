@@ -16,7 +16,7 @@ categories: ["An Rìoghachd Aonaichte", "Cuairt-litir", "Poileataigs", "Slàinte
 
 ---
 
-Geàrr-chunntas sgrìobhte air cinn-naidheachd an latha.
+Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
 
 ## Liz Truss
 

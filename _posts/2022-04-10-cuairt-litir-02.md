@@ -16,7 +16,7 @@ categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Cuairt-litir", "Poi
 
 ---
 
-Geàrr-chunntas sgrìobhte air cinn-naidheachd na seachdain.
+Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
 
 ## Safe to Be Me
 
