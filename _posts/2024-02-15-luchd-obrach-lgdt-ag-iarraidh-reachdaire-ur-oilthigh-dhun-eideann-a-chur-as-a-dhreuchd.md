@@ -6,7 +6,7 @@ date: 2024-02-15 08:28
 
 title: "Luchd-obrach LGDT+ ag iarraidh reachdaire ùr Oilthigh Dhùn Èideann a chur às a dhreuchd"
 
-image: /images/posts/simon-fanshawe.jpg
+image: /images/posts/simon-fanshawe.jpeg
 
 author: Crìstean MacMhìcheil
 
