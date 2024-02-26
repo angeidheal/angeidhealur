@@ -40,7 +40,7 @@ Thuirt Streeting san aon agallamh ge-tà gum faodadh uàrdan fa-leth a bhith ann
 
 ## Alan Turing ga chomharrachadh
 
-![Dealbh den charragh-chuimhne le @whitecube air Instragram.](/images/posts/alan-turing-memorial.jpg)
+![Dealbh den charragh-chuimhne le @whitecube air Instragram.](/images/posts/alan-turing-memorial.jpeg)
 
 Dealbh den charragh-chuimhne le @whitecube air Instragram.
 
