@@ -6,7 +6,7 @@ date: 2024-02-17 08:28
 
 title: "22 daoine air an cur gu bàs anns an Eaman airson casaidean co-cheangailte ri co-sheòrsachd"
 
-image: /images/posts/bratach-na-h-eamain.jpg
+image: /images/posts/bratach-na-h-eamain.png
 
 author: Crìstean MacMhìcheil
 
