@@ -27,17 +27,17 @@ Chaidh a stèidheachadh (mar Naidheachdan Pinc) ann an 2008 le Crìstean MacMhì
 
 **RSS.** [https://angeidhealur.scot/feed](https://angeidhealur.scot/feed)
 
-<!--**Threads.** [https://threads.net/@angeidhealur](https://threads.net/@angeidhealur)-->
+**Instagram.** [https://instagram.com/angeidhealur](https://instagram.com/angeidhealur)
 
-**Mastodon.** [https://mastodon.scot/@angeidhealur](https://mastodon.scot/@angeidhealur)
+**Threads.** [https://threads.net/@angeidhealur](https://threads.net/@angeidhealur)
 
 ## Cuir fios
 
-<!--**Threads.** [https://threads.net/@angeidhealur](https://threads.net/@angeidhealur)-->
+**Instagram.** [https://instagram.com/angeidhealur](https://instagram.com/angeidhealur)
 
-**Mastodon.** [https://mastodon.scot/@angeidhealur](https://mastodon.scot/@angeidhealur)
+**Threads.** [https://threads.net/@angeidhealur](https://threads.net/@angeidhealur)
 
-**Post-d.** [angeidheal@icloud.com](mailto:angeidheal@icloud.com)
+**Post-d.** [fios@angeidhealur.scot](mailto:fios@angeidhealur.scot)
 
 ## Cuir taic
 
