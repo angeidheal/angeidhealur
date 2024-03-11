@@ -27,11 +27,15 @@ Chaidh a stèidheachadh (mar Naidheachdan Pinc) ann an 2008 le Crìstean MacMhì
 
 **RSS.** [https://angeidhealur.scot/feed](https://angeidhealur.scot/feed)
 
+**Mastodon.** <a rel="me" href="https://abairthusa.scot/@angeidhealur">https://abairthusa.scot/@angeidhealur</a>
+
 **Instagram.** [https://instagram.com/angeidhealur](https://instagram.com/angeidhealur)
 
 **Threads.** [https://threads.net/@angeidhealur](https://threads.net/@angeidhealur)
 
 ## Cuir fios
+
+**Mastodon.** <a rel="me" href="https://abairthusa.scot/@angeidhealur">https://abairthusa.scot/@angeidhealur</a>
 
 **Instagram.** [https://instagram.com/angeidhealur](https://instagram.com/angeidhealur)
 
