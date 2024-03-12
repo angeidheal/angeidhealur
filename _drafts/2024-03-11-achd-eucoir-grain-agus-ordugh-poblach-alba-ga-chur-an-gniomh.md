@@ -3,7 +3,7 @@ layout: post
 
 date: 2024-03-11 18:00
 
-title: "Achd Eucoir Gràin is Òrdugh Poblach ga chur an gnìomh"
+title: "Achd Eucoir Gràin is Òrdugh Poblach (Alba) ga chur an gnìomh"
 
 image: /images/posts/
 
