@@ -1,11 +1,11 @@
 ---
 layout: post
 
-date: 2024-03-11 18:00
+date: 2024-03-12 06:00
 
 title: "Achd Eucoir Gràin is Òrdugh Poblach (Alba) ga chur an gnìomh"
 
-image: /images/posts/
+image: /images/posts/Parlamaid-na-h-Alba.webp
 
 author: Crìstean MacMhìcheil
 
@@ -20,7 +20,7 @@ Leudachaidh an achd an reachdas a th' ann an-dràsta le bhith:
 
 - a' cruthachadh eucoirean ùra co-cheangailte ri bhith a' dùsgadh fuath a' buntainn ris na feartan clàraichte: aois, ciorram, creideamh, taobhadh feise, dearbh-aithne tar-ghnè, agus atharrachaidhean nam feartan gnè;
 
-- ag ùrachadh a' mhìneachaidh air dearbh-aithne thar-ghnè;
+- ag ùrachadh a' mhìneachaidh air dearbh-aithne thar-ghnè gus iomradh a thoirt air tar-bhoireannaich, tar-fhireannaich agus daoine neo-bhìnearaidh aig nach eil dearbh-aithne a tha boireann no fireann;
 
 - a' toirt air falbh an teirm "eadar-sheòrsach" agus a' cruthachadh roinn air leth airson atharrachaidhean nam feartan gnè.
 
