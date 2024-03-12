@@ -26,4 +26,6 @@ Leudachaidh an achd an reachdas a th' ann an-dràsta le bhith:
 
 Tha an achd a' cuideachd a' cur às don eucoir lagh cumanta de thoibheim. Cha deach casaid a thogail mun eucoir sin o chionn 1843.
 
-A-rèir figearan a chaidh fhoillseachadh le COPFS (Oifis a' Chrùin ⁊ Seirbheis Neach-casaid a' Chrùin) an-ùiridh, thuit an àireamh de dh’eucoirean gràin ann an Alba le 2% ann an 2022-23.
+A-rèir figearan a chaidh fhoillseachadh le COPFS (Oifis a' Chrùin ⁊ Seirbheis Neach-casaid a' Chrùin) an-uiridh, thuit an àireamh de dh’eucoirean gràin ann an Alba le 2% ann an 2022-23.
+
+Sheall na figearan cuideachd, ge-tà, gu bheil an àireamh de dh'eucoirean gràin a' buntainn ri taobhadh feise air àrdachadh bho 16% ann an 2013-14 gu 33% ann an 2022-23, agus gun robh 55 eucoirean gràin a' buntainn ri dearbh-aithne tar-ghnè ann an 2022-23.
