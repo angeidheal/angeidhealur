@@ -41,3 +41,32 @@ Dh'ainmich NHS Shasainn Dimàirt nach tèid casgan-inbhidheachd a thabhann tro �
 Tha casgan-inbhidheachd air an cleachdadh gus dàil a chur air atharrachaidhean gun iarraidh nam feartan gnè.
 
 Thuirt a' charthannas, Mermaids, gur e briseadh-dùil mòr a th' anns an naidheachd agus gun toir e buaidh mhòr air a' choimhearsnachd.
+
+## An Fhraing
+
+Bhòt Buill-phàrlamaid na Frainge airson bile a tha ag amas air airgead-dìolaidh a thoirt don fheadhainn a chaidh a dhìteadh de cho-sheòrsachd eadar 1942 agus 1982.
+
+Thèid am bile a-nis air adhart don t-Seanadh airson sgrùdadh.
+
+## Nirribhidh
+
+Tha fear, 44, a tha fo chasaid cheannairceachd air dol as àicheadh na casaid.
+
+Chaidh dithis fhear a mharbhadh agus grunn neach a bharrachd a leòn ann am mòr-losgadh taobh a-muigh club-oidhche LGDTC+ ann an Oslo rè Mìos na Pròise 2022.
+
+Chaidh Zaniar Mataport a chur an grèim fo goirid an dèidh na h-ionnsaighe.
+
+Chuir an neach-casaid, Sturla Henriksbø, às leth Mataport gun do loisg e 10 peilear o bheart-ghunna agus 8 a bharrachd o ghunna-làimhe mus deach a bhacadh le luchd-amhairc.
+
+Thuirt Henriksbø cuideachd gun robh Matapour, a rugadh ann an Ioràn, air ùmhlachd a nochdadh don Stàit Ioslamach.
+
+Tha a' chùis-lagha fhathast a' dol is dùil gun tig e gu crìoch sa Chèitean.
+
+## Nex Benedict
+
+Tha Àrd-sgrùdaiche Meadaigeach Oklahoma air ràdh gun do chur an deugaire tar-ghnèitheach, Nex Benedict, làmh na bheatha fhèin.
+
+A-rèr aithisg a chaidh sgaoileadh Diciadain, b' e tar-dhòs de dhrogaichean focann bàis dha.
+
+Bhàsaich Benedict, a bha dà-sprìoraideach agus a chleachd na riochdairean-pearsanta e/iad, 8mh An Gearran. Bha e air a bhith san ospadal an latha roimhe an-dèidh gun tug trì chaileagan ionnsaigh air ann an taigh-bheag sgoile.
+
