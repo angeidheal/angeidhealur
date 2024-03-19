@@ -28,11 +28,17 @@ Thuirt an craoladair Narinder Kaur gu bheil e brònach gun do thagh Rowling burr
 
 ## Keir Starmer
 
-Tha Kier Starmer air a thaic a nochdadh do chasg air tar-bhoireannaich a' farpais ann an spòrs nam ban.
+Tha Keir Starmer air a thaic a nochdadh do chasg air tar-bhoireannaich a' farpais ann an spòrs nam ban.
 
-Tha iomadh bhuidhean-riaghlaidh spòrs, leithid Aonadh Rugbaidh na h-Alba, air casgan a chur air tar-bhoireannaich o chionn ghoirid.
+Tha iomadh bhuidheann-riaghlaidh spòrs, leithid Aonadh Rugbaidh na h-Alba, air casgan a chur air tar-bhoireannaich o chionn ghoirid.
 
 Thuirt Starmer ris [The Telegraph](https://www.telegraph.co.uk/sport/2024/03/11/keir-starmer-backs-ban-on-transgender-female-competition/) na bu tràithe air an t-seachdain seo gu bheil e a' cur taic ri co-dhùnaidhean nam buidhnean-riaghlaidh.
+
+## Stoke-on-Trent
+
+Chaidh binn 10 bliadhna sa phrìosain air fireannach a dh'èignich fireannach ann an Stoke-on-Trent anns an Fhaoilleach 2022.
+
+Chaidh Pawel Flak, 39, a dhìteadh san Dùbhlachd. Chaidh cuideachd a chur air clàr nan eucoireach feise fad a bheatha.
 
 ## Casgan-inbhidheachd
 
@@ -58,7 +64,7 @@ Chaidh Zaniar Mataport a chur an grèim fo goirid an dèidh na h-ionnsaighe.
 
 Chuir an neach-casaid, Sturla Henriksbø, às leth Mataport gun do loisg e 10 peilear o bheart-ghunna agus 8 a bharrachd o ghunna-làimhe mus deach a bhacadh le luchd-amhairc.
 
-Thuirt Henriksbø cuideachd gun robh Matapour, a rugadh ann an Ioràn, air ùmhlachd a nochdadh don Stàit Ioslamach.
+Thuirt Henriksbø cuideachd gun robh Matapour, a rugadh ann an Ioràn, air ùmhlachd a nochdadh don Stàit Ioslamach ron ionnsaigh.
 
 Tha a' chùis-lagha fhathast a' dol is dùil gun tig e gu crìoch sa Chèitean.
 
@@ -66,7 +72,9 @@ Tha a' chùis-lagha fhathast a' dol is dùil gun tig e gu crìoch sa Chèitean.
 
 Tha Àrd-sgrùdaiche Meadaigeach Oklahoma air ràdh gun do chur an deugaire tar-ghnèitheach, Nex Benedict, làmh na bheatha fhèin.
 
-A-rèr aithisg a chaidh sgaoileadh Diciadain, b' e tar-dhòs de dhrogaichean focann bàis dha.
+A-rèir aithisg a chaidh sgaoileadh Diciadain, b' e tar-dhòs de dhrogaichean fochann bàis dha.
 
-Bhàsaich Benedict, a bha dà-sprìoraideach agus a chleachd na riochdairean-pearsanta e/iad, 8mh An Gearran. Bha e air a bhith san ospadal an latha roimhe an-dèidh gun tug trì chaileagan ionnsaigh air ann an taigh-bheag sgoile.
+Bhàsaich Benedict, a bha dà-sprioradach agus a chleachd na riochdairean e/iad, 8mh An Gearran.
+
+Bha e air a bhith san ospadal an latha roimhe an-dèidh gun tug trì chaileagan ionnsaigh air ann an taigh-beag sgoile.
 
