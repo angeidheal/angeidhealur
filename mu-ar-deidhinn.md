@@ -25,7 +25,7 @@ Chaidh a stèidheachadh (mar Naidheachdan Pinc) ann an 2008 le Crìstean MacMhì
 
 ## Fo-sgriobh
 
-**RSS.** [https://angeidhealur.scot/feed](https://angeidhealur.scot/feed)
+**RSS.** [https://angeidhealur.scot/feed](https://angeidhealur.scot/feed.xml)
 
 **Mastodon.** <a rel="me" href="https://abairthusa.scot/@angeidhealur">https://abairthusa.scot/@angeidhealur</a>
 
