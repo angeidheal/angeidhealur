@@ -40,3 +40,4 @@ email: fios@angeidhealur.scot
 # Ruby Gems
 plugins:
   - jekyll-paginate
+  - jekyll-feed
