@@ -25,6 +25,11 @@ permalink: /:year-:month-:day-:title/
 paginate: 12
 paginate_path: /duilleag-:num/
 
+collections:
+  faclair:
+    output: true
+    permalink: /faclair/:path/
+
 #social
 mastodon: https://www.mastodon.scot/@angeidheal
 twitter:
