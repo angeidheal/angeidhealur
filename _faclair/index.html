@@ -10,6 +10,24 @@ permalink: /faclair/
 
 <p>‘S e seo faclair de bhriathrachas Ghàidhlig co-cheangailte ris a’ choimhearsnachd LGDTC+ a tha mi air a bhith a’ cruinneachadh air a’ Ghèidheal Ùr o chionn 2008.</p>
 
+<!-- Html Elements for Search -->
+<div class="form-group" id="search-container">
+  <input class="form-control" type="text" id="search-input" placeholder="Lorg sna postaichean..." style="padding: 10px; font-size: 17px; border: 1px solid grey; float: left; width: 100%; background: #f1f1f1;"><br />
+  <ul style="padding-top: 30px" id="results-container"></ul>
+  </div>
+  
+  <!-- Script pointing to search-script.js -->
+  <script src="/js/faclair-script.js" type="text/javascript"></script>
+  
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/js/faclair.json'
+  })
+  </script>
+
 {% for facal in site.faclair %}
   <p><a href="{{ site.baseurl }}{{ facal.url }}">{{ facal.title }}</a></p>
 {% endfor %}
