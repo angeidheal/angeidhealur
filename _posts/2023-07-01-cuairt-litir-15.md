@@ -22,7 +22,9 @@ Geàrr-chunntas sgrìobhte de naidheachdan LGDTC+ ionadail, nàiseanta ‘s bho 
 
 Tha Pàrtaidh Uaine na h-Alba air film ghoirid ùr (a ghabhas a choimhead gu h-ìosal) a cho-roinneadh mu Chomhairliche Blair Anderson agus an eòlas aige air teiripe iompachaidh.
 
+<div class="youtube-wrapper">
 <iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/h84eAR858-0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
 
 ## Lunnainn
 
