@@ -1,22 +1,8 @@
 ---
-
 layout: page
-
-title: Lorg
-
-image: /images/icons/Substack_Social_Preview.png
-
-permalink: /lorg/
-
+title: Tasg-lann
+permalink: /tasg-lannn/
 ---
-
-<h2>Roinnean-seòrsa</h2>
-
-{% for category in site.data.categories %}
-<p><a href="{{ category.url }}">{{ category.title }}</a></p>
-{% endfor %}
-
-<h2>Lorg</h2>
 
 <p><strong>Thoir an aire:</strong> 'S ann airson lorg sna postaichean a tha am bogsa-luirg gu h-ìosal. Faodaidh tu lorg san fhaclair <a href="/faclair/">an-seo</a>.</p>
 
@@ -37,3 +23,9 @@ SimpleJekyllSearch({
   json: '/js/search.json'
 })
 </script>
+
+<h2>Roinnean-seòrsa</h2>
+
+{% for category in site.data.categories %}
+<p><a href="{{ category.url }}">{{ category.title }}</a></p>
+{% endfor %}
