@@ -32,13 +32,17 @@ Thàinig an deasbad mar thoradh dà athchuinge - tè le 109,463 ainmean a tha ag
 
 Gabhaidh an deasbad a choimhead gu h-ìosal no tha <a href="https://hansard.parliament.uk/commons/2023-06-12/debates/F74BD8CC-4807-46F4-AA51-5402B7CFE8F9/LegislativeDefinitionOfSex">tar-sgrìobhadh ri leughadh an-seo</a>.
 
+<div class="youtube-wrapper">
 <iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/7-9MsJo6-Uo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
 
 ## Joanna Cherry
 
 Tha Joanna Cherry a’ fulaing càineadh an dèidh dhi a sùilean a chasadh fhad ’s a bha Kirsty Blackman a’ toirt iomradh air neach-taghaidh tar-ghnèitheach a tha air beachdan fèin-mharbhtach fhulang rè deasbad air mìneachadh an fhacal “gnè” ann an Achd na Co-ionnannachd.
 
+<div class="youtube-wrapper">
 <iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/d1omY-3X9Vc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
 
 ## Sgeama nan Eucoirean Feise Eachdraidheil (Mathanas agus Dearmadan)
 
