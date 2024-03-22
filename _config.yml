@@ -31,9 +31,10 @@ collections:
     permalink: /faclair/:path/
 
 #social
-mastodon: https://www.mastodon.scot/@angeidheal
-twitter:
-instagram: https://www.instagram.com/angeidheal
+mastodon: https://abairthusa.scot/@angeidhealur
+threads: https://www.threads.net/@angeidhealur
+instagram: https://www.instagram.com/angeidhealur
+twitter: https://www.twitter.com/angeidhealur
 facebook:
 github: https://github.com/angeidheal
 email: fios@angeidhealur.scot
