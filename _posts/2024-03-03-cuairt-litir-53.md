@@ -34,7 +34,8 @@ Mar a chaidh aithris roimhe, bhàsaich Benedict latha an dèidh gun tug trì nig
 
 Chaidh iomairt sluagh-mhaoineachaidh a thòiseachadh air GoFundMe gus an teaghlach a chuideachadh leis na cosgaisean tìodhlacaidh.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rZxd2dGsVds?si=L-QeHDHp3nMiTkOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<span class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rZxd2dGsVds?si=L-QeHDHp3nMiTkOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></span>
 
 
 ## Indiana
