@@ -14,6 +14,8 @@ permalink: /lorg/
 
 <p><strong>Thoir an aire:</strong> Briog <a href="https://faclair.lgbt/">an-seo</a> ma tha thu airson lorg ann am Faclair nan Gèidheal.</p>
 
+<h2>Lorg sna postaichean</h2>
+
 <!-- Html Elements for Search -->
 <div class="form-group" id="search-container">
 <input class="form-control" type="text" id="search-input" placeholder="Lorg sna postaichean..." style="padding: 10px; font-size: 17px; border: 1px solid grey; float: left; width: 100%; background: #f1f1f1;"><br />
@@ -31,3 +33,23 @@ SimpleJekyllSearch({
   json: '/js/search.json'
 })
 </script>
+
+<h2>Lorg san fhaclair</h2>
+
+<!-- Html Elements for Search -->
+<div class="form-group" id="search-container">
+  <input class="form-control" type="text" id="search-input" placeholder="Lorg san fhaclair..." style="padding: 10px; font-size: 17px; border: 1px solid grey; float: left; width: 100%; background: #f1f1f1;"><br />
+  <ul style="padding-top: 30px" id="results-container"></ul>
+  </div>
+  
+  <!-- Script pointing to search-script.js -->
+  <script src="/js/faclair-script.js" type="text/javascript"></script>
+  
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/js/faclair.json'
+  })
+  </script>
