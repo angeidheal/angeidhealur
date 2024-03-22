@@ -1,13 +1,7 @@
 ---
-id: 381
+layout: faclair
 title: 'speactram gnè'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=381'
 permalink: /speactram-gne/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

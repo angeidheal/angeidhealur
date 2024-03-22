@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "Bìoras Easbhaidh Ion-dhìon Daonna"
-
-date: 2009-08-28 09:08:28
-
 permalink: /bioras-easbhaidh-ion-dhion-daonna/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

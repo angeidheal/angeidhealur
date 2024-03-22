@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "aithneachadh gnè"
-
-date: 2009-08-28 09:08:28
-
 permalink: /aithneachadh-gne/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

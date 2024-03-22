@@ -1,13 +1,7 @@
 ---
-id: 387
+layout: faclair
 title: 'taisbeantas gnè'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=387'
 permalink: /taisbeantas-gne/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

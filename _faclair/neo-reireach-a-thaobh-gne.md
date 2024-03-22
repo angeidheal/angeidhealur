@@ -1,13 +1,7 @@
 ---
-id: 315
+layout: faclair
 title: 'neo-rèireach a-thaobh gnè'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=315'
 permalink: /neo-reireach-a-thaobh-gne/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

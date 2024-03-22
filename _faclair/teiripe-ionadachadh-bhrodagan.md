@@ -1,13 +1,7 @@
 ---
-id: 415
+layout: faclair
 title: 'Teiripe Ionadachadh Bhrodagan'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=415'
 permalink: /teiripe-ionadachadh-bhrodagan/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

@@ -1,13 +1,7 @@
 ---
-id: 317
+layout: faclair
 title: neo-romansach
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=317'
 permalink: /neo-romansach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

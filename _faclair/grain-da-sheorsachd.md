@@ -1,13 +1,7 @@
 ---
-id: 249
+layout: faclair
 title: 'gràin dà-sheòrsachd'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=249'
 permalink: /grain-da-sheorsachd/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

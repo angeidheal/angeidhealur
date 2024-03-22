@@ -1,13 +1,7 @@
 ---
-id: 379
+layout: faclair
 title: 'Sionndram Neo-mhothalachd nan Gineachan Fireann'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=379'
 permalink: /sionndram-neo-mhothalachd-nan-gineachan-fireann/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

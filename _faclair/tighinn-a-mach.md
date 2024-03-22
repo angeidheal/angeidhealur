@@ -1,17 +1,7 @@
 ---
-
-layout: post
-
-date: 2009-08-28 09:08:28
-
+layout: faclair
 title: "tighinn a-mach"
-
-author: Crìstean MacMhìcheil
-
 permalink: /tighinn-a-mach/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

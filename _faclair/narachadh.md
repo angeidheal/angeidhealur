@@ -1,13 +1,7 @@
 ---
-id: 305
+layout: faclair
 title: nàrachadh
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=305'
 permalink: /narachadh/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

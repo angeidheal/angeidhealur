@@ -1,13 +1,7 @@
 ---
-id: 343
+layout: faclair
 title: 'oillt thar-ghnèitheach'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=343'
 permalink: /oillt-thar-ghneitheach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

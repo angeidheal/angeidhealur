@@ -1,13 +1,7 @@
 ---
-id: 385
+layout: faclair
 title: sùbailteachd-gnè
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=385'
 permalink: /subailteachd-gne/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

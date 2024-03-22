@@ -1,13 +1,7 @@
 ---
-id: 339
+layout: faclair
 title: 'oillt cho-sheòrsach'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=339'
 permalink: /oillt-cho-sheorsach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

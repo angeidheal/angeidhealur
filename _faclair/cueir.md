@@ -1,17 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: cuèir
-
-date: 2009-08-28 09:08:28
-
-author: 'Crìstean MacMhìcheil'
-
 permalink: /cueir/
-
-categories: [gd]
-
 ---
 
 1. bua. coi. -tiche

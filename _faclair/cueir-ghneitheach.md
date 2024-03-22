@@ -1,13 +1,7 @@
 ---
-id: 187
+layout: faclair
 title: cuèir-ghnèitheach
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=187'
 permalink: /cueir-ghneitheach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

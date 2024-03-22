@@ -1,13 +1,7 @@
 ---
-id: 351
+layout: faclair
 title: 'pòsadh aon-sheòrsach'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=351'
 permalink: /posadh-aon-sheorsach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

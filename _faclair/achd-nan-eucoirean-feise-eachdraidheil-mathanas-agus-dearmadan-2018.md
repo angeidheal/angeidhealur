@@ -1,13 +1,7 @@
 ---
-id: 444
+layout: faclair
 title: 'Achd nan Eucoirean Feise Eachdraidheil (Mathanas agus Dearmadan) 2018'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=444'
 permalink: /achd-nan-eucoirean-feise-eachdraidheil-mathanas-agus-dearmadan-2018/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "bànrigh draga"
-
-date: 2009-08-28 09:08:28
-
 permalink: /banrigh-draga/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

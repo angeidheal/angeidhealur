@@ -1,13 +1,7 @@
 ---
-id: 373
+layout: faclair
 title: 'seachranachd gnè'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=373'
 permalink: /seachranachd-gne/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

@@ -1,13 +1,7 @@
 ---
-id: 201
+layout: faclair
 title: 'eadar-ghluasad laghail'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=201'
 permalink: /eadar-ghluasad-laghail/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

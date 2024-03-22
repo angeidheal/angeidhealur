@@ -1,13 +1,7 @@
 ---
-id: 327
+layout: faclair
 title: 'nòrmadachd na h-eile-sheòrsachd'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=327'
 permalink: /normadachd-na-h-eile-sheorsachd/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

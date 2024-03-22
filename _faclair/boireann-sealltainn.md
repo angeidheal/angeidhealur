@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "boireann-sealltainn"
-
-date: 2009-08-28 09:08:28
-
 permalink: /boireann-sealltainn/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

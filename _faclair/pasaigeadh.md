@@ -1,13 +1,7 @@
 ---
-id: 347
+layout: faclair
 title: pasaigeadh
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=347'
 permalink: /pasaigeadh/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

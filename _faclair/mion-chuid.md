@@ -1,13 +1,7 @@
 ---
-id: 296
+layout: faclair
 title: mion-chuid
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=296'
 permalink: /mion-chuid/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

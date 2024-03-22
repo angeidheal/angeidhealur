@@ -1,13 +1,7 @@
 ---
-id: 157
+layout: faclair
 title: 'caidreabhach / caraid'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=157'
 permalink: /caidreabhach-caraid/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

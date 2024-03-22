@@ -1,13 +1,7 @@
 ---
-id: 423
+layout: faclair
 title: uile-ghnèitheach
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=423'
 permalink: /uile-ghneitheach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

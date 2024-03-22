@@ -1,13 +1,7 @@
 ---
-id: 183
+layout: faclair
 title: cròmasom
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=183'
 permalink: /cromasom/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

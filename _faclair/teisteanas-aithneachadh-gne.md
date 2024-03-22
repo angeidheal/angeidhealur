@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "Teisteanas Aithneachadh Gnè"
-
-date: 2009-08-28 09:08:28
-
 permalink: /teisteanas-aithneachadh-gne/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

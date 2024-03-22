@@ -1,13 +1,7 @@
 ---
-id: 241
+layout: faclair
 title: gnè-shùbailte
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=241'
 permalink: /gne-shubailte/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

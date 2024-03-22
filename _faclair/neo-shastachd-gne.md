@@ -1,13 +1,7 @@
 ---
-id: 319
+layout: faclair
 title: 'neo-shàstachd gnè'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=319'
 permalink: /neo-shastachd-gne/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

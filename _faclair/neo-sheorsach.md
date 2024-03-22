@@ -1,17 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "neo-sheòrsach"
-
-date: 2009-08-28 09:08:28
-
-author: Crìstean MacMhìcheil
-
 permalink: /neo-sheorsach/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

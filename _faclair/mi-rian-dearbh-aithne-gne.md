@@ -1,13 +1,7 @@
 ---
-id: 302
+layout: faclair
 title: 'mì-rian dearbh-aithne gnè'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=302'
 permalink: /mi-rian-dearbh-aithne-gne/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

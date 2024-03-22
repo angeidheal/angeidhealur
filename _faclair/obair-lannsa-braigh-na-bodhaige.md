@@ -1,13 +1,7 @@
 ---
-id: 331
+layout: faclair
 title: 'obair-lannsa bràigh na bodhaige'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=331'
 permalink: /obair-lannsa-braigh-na-bodhaige/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

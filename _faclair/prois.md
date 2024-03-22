@@ -1,13 +1,7 @@
 ---
-id: 353
+layout: faclair
 title: pròis
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=353'
 permalink: /prois/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

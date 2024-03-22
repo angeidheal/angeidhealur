@@ -1,13 +1,7 @@
 ---
-id: 335
+layout: faclair
 title: 'obair-lannsa daingneachadh gnè'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=335'
 permalink: /obair-lannsa-daingneachadh-gne/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

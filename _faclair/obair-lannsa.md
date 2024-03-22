@@ -1,13 +1,7 @@
 ---
-id: 329
+layout: faclair
 title: obair-lannsa
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=329'
 permalink: /obair-lannsa/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

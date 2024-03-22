@@ -1,13 +1,7 @@
 ---
-id: 269
+layout: faclair
 title: LGDT+
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=269'
 permalink: /lgdt/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

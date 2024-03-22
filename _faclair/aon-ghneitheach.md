@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "aon-ghnèitheach"
-
-date: 2009-08-28 09:08:28
-
 permalink: /aon-ghneitheach/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

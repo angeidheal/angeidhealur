@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "annas dhen dà-sheòrsachd"
-
-date: 2009-08-28 09:08:28
-
 permalink: /annas-dhen-da-sheorsachd/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

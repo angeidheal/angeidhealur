@@ -1,13 +1,7 @@
 ---
-id: 163
+layout: faclair
 title: 'cèile dhen aon-ghnè'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=163'
 permalink: /ceile-dhen-aon-ghne/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

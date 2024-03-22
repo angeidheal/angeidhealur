@@ -1,13 +1,7 @@
 ---
-id: 207
+layout: faclair
 title: eadar-ghnèitheach
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=207'
 permalink: /eadar-ghneitheach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

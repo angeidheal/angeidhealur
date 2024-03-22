@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "an déidh obrach-lannsa"
-
-date: 2009-08-28 09:08:28
-
 permalink: /an-deidh-obrach-lannsa/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

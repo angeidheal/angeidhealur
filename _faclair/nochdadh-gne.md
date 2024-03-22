@@ -1,13 +1,7 @@
 ---
-id: 325
+layout: faclair
 title: 'nochdadh gnè'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=325'
 permalink: /nochdadh-gne/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

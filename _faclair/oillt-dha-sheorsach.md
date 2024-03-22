@@ -1,13 +1,7 @@
 ---
-id: 341
+layout: faclair
 title: 'oillt dhà-sheòrsach'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=341'
 permalink: /oillt-dha-sheorsach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

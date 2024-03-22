@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "bana-ghèidh"
-
-date: 2009-08-28 09:08:28
-
 permalink: /bana-gheidh/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

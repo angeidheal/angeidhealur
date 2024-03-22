@@ -1,13 +1,7 @@
 ---
-id: 323
+layout: faclair
 title: neodroiseach
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=323'
 permalink: /neodroiseach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

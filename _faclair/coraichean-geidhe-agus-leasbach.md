@@ -1,13 +1,7 @@
 ---
-id: 181
+layout: faclair
 title: 'còirichean gèidhe agus leasbach'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=181'
 permalink: /coraichean-geidhe-agus-leasbach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

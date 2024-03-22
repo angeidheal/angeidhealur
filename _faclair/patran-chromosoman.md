@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
-date: 2009-08-28 09:08:28
-
-author: Crìstean MacMhìcheil
-
+layout: faclair
+title: pàtran chròmosoman
 permalink: /patran-chromosoman/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

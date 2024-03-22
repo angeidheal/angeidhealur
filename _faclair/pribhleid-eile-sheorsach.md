@@ -1,13 +1,7 @@
 ---
-id: 357
+layout: faclair
 title: 'pribhleid eile-sheòrsach'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=357'
 permalink: /pribhleid-eile-sheorsach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

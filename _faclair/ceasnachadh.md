@@ -1,13 +1,7 @@
 ---
-id: 161
+layout: faclair
 title: ceasnachadh
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=161'
 permalink: /ceasnachadh/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

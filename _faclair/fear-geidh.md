@@ -1,13 +1,7 @@
 ---
-id: 219
+layout: faclair
 title: fear-gèidh
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=219'
 permalink: /fear-geidh/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

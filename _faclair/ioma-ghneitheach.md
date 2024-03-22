@@ -1,13 +1,7 @@
 ---
-id: 259
+layout: faclair
 title: ioma-ghnèitheach
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=259'
 permalink: /ioma-ghneitheach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

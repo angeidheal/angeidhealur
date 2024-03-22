@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "leasbach"
-
-date: 2009-08-28 09:08:28
-
 permalink: /leasbach/
-
-categories: [gd]
-
 ---
 
 1. **fir.** _gin._ ⁊ _iol._ leasbaich

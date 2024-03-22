@@ -1,17 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "Gèidheal"
-
-date: 2009-08-28 09:08:28
-
-author: Crìstean MacMhìcheil
-
 permalink: /geidheal/
-
-categories: [gd]
-
 ---
 
 **fir.** _gin._ ⁊ _iol._ Gèidheil

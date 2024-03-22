@@ -1,13 +1,7 @@
 ---
-id: 284
+layout: faclair
 title: 'leth-bhreith a thaobh gnè'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=284'
 permalink: /leth-bhreith-a-thaobh-gne/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

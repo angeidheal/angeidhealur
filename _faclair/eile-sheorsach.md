@@ -1,13 +1,7 @@
 ---
-id: 215
+layout: faclair
 title: eile-sheòrsach
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=215'
 permalink: /eile-sheorsach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

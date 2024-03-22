@@ -1,17 +1,7 @@
 ---
-
+layout: faclair
 title: "sa chlòsaid"
-
-layout: post
-
-date: 2009-08-28 09:08:28
-
-author: Crìstean MacMhìcheil
-
 permalink: /sa-chlosaid/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

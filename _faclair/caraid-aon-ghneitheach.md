@@ -1,13 +1,7 @@
 ---
-id: 159
+layout: faclair
 title: 'càraid aon-ghnèitheach'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=159'
 permalink: /caraid-aon-ghneitheach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

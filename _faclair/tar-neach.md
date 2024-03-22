@@ -1,13 +1,7 @@
 ---
-id: 403
+layout: faclair
 title: tar-neach
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=403'
 permalink: /tar-neach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

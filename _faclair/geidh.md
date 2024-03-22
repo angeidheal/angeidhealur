@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "gèidh"
-
-date: 2009-08-28 09:08:28
-
 permalink: /geidh/
-
-categories: [gd]
-
 ---
 
 _bua._ _coi._ gèidhe

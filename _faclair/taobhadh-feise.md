@@ -1,13 +1,7 @@
 ---
-id: 389
+layout: faclair
 title: taobhadh-feise
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=389'
 permalink: /taobhadh-feise/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

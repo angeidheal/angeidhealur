@@ -1,13 +1,7 @@
 ---
-id: 251
-title: gràin-tar-ghnèitheachd
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=251'
+layout: faclair
+title: gràin-tar-ghnèitheachdlayout: faclair
 permalink: /grain-tar-ghneitheachd/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

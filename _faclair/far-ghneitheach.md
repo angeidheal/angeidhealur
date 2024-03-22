@@ -1,13 +1,7 @@
 ---
-id: 217
+layout: faclair
 title: far-ghnèitheach
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=217'
 permalink: /far-ghneitheach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

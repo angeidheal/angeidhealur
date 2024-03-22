@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "anti-corp"
-
-date: 2009-08-28 09:08:28
-
 permalink: /anti-corp/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

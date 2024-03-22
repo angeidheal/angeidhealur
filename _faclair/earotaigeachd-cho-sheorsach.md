@@ -1,13 +1,7 @@
 ---
-id: 211
+layout: faclair
 title: 'earotaigeachd cho-sheòrsach'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=211'
 permalink: /earotaigeachd-cho-sheorsach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

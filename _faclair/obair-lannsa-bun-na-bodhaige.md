@@ -1,13 +1,7 @@
 ---
-id: 333
+layout: faclair
 title: 'obair-lannsa bun na bodhaige'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=333'
 permalink: /obair-lannsa-bun-na-bodhaige/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

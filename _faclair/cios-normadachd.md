@@ -1,13 +1,7 @@
 ---
-id: 169
+layout: faclair
 title: cios-nòrmadachd
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=169'
 permalink: /cios-normadachd/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

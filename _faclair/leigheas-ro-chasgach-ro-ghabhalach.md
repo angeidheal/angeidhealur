@@ -1,13 +1,7 @@
 ---
-id: 277
+layout: faclair
 title: 'Leigheas Ro-chasgach Ro-ghabhalach'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=277'
 permalink: /leigheas-ro-chasgach-ro-ghabhalach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

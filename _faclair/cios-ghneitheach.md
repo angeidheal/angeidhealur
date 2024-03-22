@@ -1,13 +1,7 @@
 ---
-id: 165
+layout: faclair
 title: cios-ghnèitheach
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=165'
 permalink: /cios-ghneitheach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

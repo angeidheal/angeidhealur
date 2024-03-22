@@ -1,13 +1,7 @@
 ---
-id: 197
+layout: faclair
 title: 'dearbh-aithne gnè'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=197'
 permalink: /dearbh-aithne-gne/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

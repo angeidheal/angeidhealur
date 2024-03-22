@@ -1,13 +1,7 @@
 ---
-id: 367
+layout: faclair
 title: 'riochdairean Spivak'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=367'
 permalink: /riochdairean-spivak/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

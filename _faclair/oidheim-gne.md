@@ -1,13 +1,7 @@
 ---
-id: 337
+layout: faclair
 title: 'oidheim gnè'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=337'
 permalink: /oidheim-gne/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

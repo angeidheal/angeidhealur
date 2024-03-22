@@ -1,13 +1,7 @@
 ---
-id: 413
+layout: faclair
 title: 'teiripe iompachaidh'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=413'
 permalink: /teiripe-iompachaidh/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

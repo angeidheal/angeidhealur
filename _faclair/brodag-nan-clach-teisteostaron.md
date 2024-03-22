@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "brodag nan clach"
-
-date: 2009-08-28 09:08:28
-
 permalink: /brodag-nan-clach/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

@@ -1,13 +1,7 @@
 ---
-id: 243
+layout: faclair
 title: 'gnèitheachas eile-sheòrsach'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=243'
 permalink: /gneitheachas-eile-sheorsach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "ath-bhuileachadh gnè"
-
-date: 2009-08-28 09:08:28
-
 permalink: /ath-bhuileachadh-gne/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

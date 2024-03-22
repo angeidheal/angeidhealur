@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "boireann gu fireann"
-
-date: 2009-08-28 09:08:28
-
 permalink: /boireann-gu-fireann/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

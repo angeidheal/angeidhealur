@@ -1,13 +1,7 @@
 ---
-id: 294
+layout: faclair
 title: màthair-ionaid
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=294'
 permalink: /mathair-ionaid/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

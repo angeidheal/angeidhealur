@@ -1,13 +1,7 @@
 ---
-id: 213
+layout: faclair
 title: eastraigin
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=213'
 permalink: /eastraigin/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

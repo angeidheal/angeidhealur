@@ -1,13 +1,7 @@
 ---
-id: 405
+layout: faclair
 title: tar-fhireann
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=405'
 permalink: /tar-fhireann/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

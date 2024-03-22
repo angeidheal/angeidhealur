@@ -1,13 +1,7 @@
 ---
-id: 399
+layout: faclair
 title: tar-dhuine
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=399'
 permalink: /tar-dhuine/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

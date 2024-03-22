@@ -1,13 +1,7 @@
 ---
-id: 419
+layout: faclair
 title: thar-bhith-beò
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=419'
 permalink: /thar-bhith-beo/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

@@ -1,17 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "co-sheòrsach"
-
-date: 2009-08-28 09:08:28
-
-author: Crìstean MacMhìcheil
-
 permalink: /co-sheorsach/
-
-categories: [gd]
-
 ---
 
 1. fir. gin. ⁊ iol. -aich

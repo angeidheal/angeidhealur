@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "ait"
-
-date: 2009-08-28 09:08:28
-
 permalink: /ait/
-
-categories: [gd]
-
 ---
 
 **bua.** _coi._ aite

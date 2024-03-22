@@ -1,13 +1,7 @@
 ---
-id: 298
+layout: faclair
 title: mì-ainmeachadh
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=298'
 permalink: /mi-ainmeachadh/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

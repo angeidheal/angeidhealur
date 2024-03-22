@@ -1,13 +1,7 @@
 ---
-id: 393
+layout: faclair
 title: 'taobhadh romansach'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=393'
 permalink: /taobhadh-romansach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "androigineach"
-
-date: 2009-08-28 09:08:28
-
 permalink: /androigineach/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

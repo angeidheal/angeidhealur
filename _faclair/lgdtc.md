@@ -1,13 +1,7 @@
 ---
-id: 271
+layout: faclair
 title: LGDTC+
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=271'
 permalink: /lgdtc/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

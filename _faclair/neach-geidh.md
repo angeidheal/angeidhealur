@@ -1,13 +1,7 @@
 ---
-id: 307
+layout: faclair
 title: neach-gèidh
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=307'
 permalink: /neach-geidh/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

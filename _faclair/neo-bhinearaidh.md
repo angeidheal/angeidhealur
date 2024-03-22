@@ -1,13 +1,7 @@
 ---
-id: 311
-title: neo-bhìnearaidh
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=311'
+layout: faclair
+title: neo-bhìnearaidhlayout: faclair
 permalink: /neo-bhinearaidh/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

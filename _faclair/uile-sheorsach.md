@@ -1,13 +1,7 @@
 ---
-id: 426
+layout: faclair
 title: uile-sheòrsach
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=426'
 permalink: /uile-sheorsach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

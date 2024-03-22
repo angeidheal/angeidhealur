@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "aon-sheòrsach"
-
-date: 2009-08-28 09:08:28
-
 permalink: /aon-sheorsach/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

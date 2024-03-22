@@ -1,13 +1,7 @@
 ---
-id: 363
+layout: faclair
 title: riochdair
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=363'
 permalink: /riochdair/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

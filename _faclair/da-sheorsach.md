@@ -1,13 +1,7 @@
 ---
-id: 193
+layout: faclair
 title: dà-sheòrsach
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=193'
 permalink: /da-sheorsach/
-categories:
-    - gd
 ---
 
 1. fir. gin. ⁊ iol. -aich

@@ -1,13 +1,7 @@
 ---
-id: 280
+layout: faclair
 title: 'leigheas torrachais'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=280'
 permalink: /leigheas-torrachais/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

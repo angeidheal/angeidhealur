@@ -1,13 +1,7 @@
 ---
-id: 401
+layout: faclair
 title: tar-éidiche
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=401'
 permalink: /tar-eidiche/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

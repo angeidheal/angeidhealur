@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "aintighearnas institiuideach"
-
-date: 2009-08-28 09:08:28
-
 permalink: /aintighearnas-institiuideach/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

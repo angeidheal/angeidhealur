@@ -1,13 +1,7 @@
 ---
-id: 189
+layout: faclair
 title: 'cùisean co-cheangailte ri gnè'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=189'
 permalink: /cuisean-co-cheangailte-ri-gne/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

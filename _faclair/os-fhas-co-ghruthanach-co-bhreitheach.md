@@ -1,13 +1,7 @@
 ---
-id: 345
+layout: faclair
 title: 'Os-fhàs Co-ghrùthanach Co-bhreitheach'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=345'
 permalink: /os-fhas-co-ghruthanach-co-bhreitheach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

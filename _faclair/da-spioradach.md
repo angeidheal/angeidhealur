@@ -1,13 +1,7 @@
 ---
-id: 195
+layout: faclair
 title: dà-spioradach
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=195'
 permalink: /da-spioradach/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

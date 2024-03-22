@@ -1,15 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "boireannaich a bhios ri feise le boireannaich"
-
-date: 2009-08-28 09:08:28
-
 permalink: /boireannaich-a-bhios-ri-feise-le-boireannaich/
-
-categories: [gd]
-
 ---
 
 ## Mìneachadh

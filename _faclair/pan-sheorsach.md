@@ -1,17 +1,7 @@
 ---
-
-layout: post
-
+layout: faclair
 title: "pan-sheòrsach"
-
-date: 2009-08-28 09:08:28
-
-author: Crìstean MacMhìcheil
-
 permalink: /pan-sheorsach/
-
-categories: [gd]
-
 ---
 
 1. bua. coi. -aiche

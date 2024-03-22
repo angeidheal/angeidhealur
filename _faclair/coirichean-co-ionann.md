@@ -1,13 +1,7 @@
 ---
-id: 179
+layout: faclair
 title: 'còirichean co-ionann'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=179'
 permalink: /coirichean-co-ionann/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

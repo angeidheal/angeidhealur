@@ -1,13 +1,7 @@
 ---
-id: 309
+layout: faclair
 title: neach-ionaid
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=309'
 permalink: /neach-ionaid/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

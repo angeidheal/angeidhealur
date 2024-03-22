@@ -1,13 +1,7 @@
 ---
-id: 273
+layout: faclair
 title: LGDTCEN+
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=273'
 permalink: /lgdtcen/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

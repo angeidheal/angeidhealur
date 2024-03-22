@@ -1,13 +1,7 @@
 ---
-id: 355
+layout: faclair
 title: 'pròis ghèidh'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
-layout: post
-guid: 'https://faclair.lgbt/?p=355'
 permalink: /prois-gheidh/
-categories:
-    - gd
 ---
 
 ## Mìneachadh

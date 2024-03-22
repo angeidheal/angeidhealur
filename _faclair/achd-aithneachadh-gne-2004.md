@@ -1,6 +1,6 @@
 ---
-title: 'Achd Aithneachadh Gnè (2004)'
 layout: faclair
+title: 'Achd Aithneachadh Gnè (2004)'
 permalink: /achd-aithneachadh-gne-2004/
 ---
 
