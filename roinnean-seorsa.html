@@ -6,6 +6,8 @@ title: Roinnean-seòrsa
 permalink: /roinnean-seorsa/
 ---
 
-{% for category in site.data.categories %}
-<li><a href="{{ category.url }}">{{ category.title }}</a></li>
-{% endfor %}
+<ul>
+    {% for category in site.data.categories %}
+    <li><a href="{{ category.url }}">{{ category.title }}</a></li>
+    {% endfor %}
+</ul>
