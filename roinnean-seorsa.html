@@ -11,3 +11,7 @@ permalink: /roinnean-seorsa/
 {% for category in site.data.categories %}
 	<p><a href="{{ category.url }}">{{ category.title }}</a></p>
 {% endfor %}
+
+{% for category in site.data.categories %}
+	{{ site.categories[category].size }}
+{% endfor %}
