@@ -1,7 +1,7 @@
 ---
 layout: faclair
-title: mì-ainmeachadh
-permalink: /mi-ainmeachadh/
+title: marbh-ainmeachadh
+permalink: /marbh-ainmeachadh/
 ---
 
 ## Mìneachadh
