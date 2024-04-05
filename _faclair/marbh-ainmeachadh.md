@@ -1,8 +1,10 @@
 ---
 layout: faclair
-title: marbh-ainmeachadh
-permalink: /marbh-ainmeachadh/
+title: marbh-ainmich
+permalink: /marbh-ainmich/
 ---
+
+gn. ag. marbh-ainmeachadh
 
 ## Mìneachadh
 
@@ -12,4 +14,4 @@ cleachdadh seann ainm neach tar-ghnè a tha air eadar-ghluasad a dhèanamh
 
 &#x1f1ee;&#x1f1ea; mí-ainmnigh
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; deadnaming
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; deadname
