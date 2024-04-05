@@ -4,7 +4,7 @@ title: marbh-ainmich
 permalink: /marbh-ainmich/
 ---
 
-gn. ag. marbh-ainmeachadh
+_gn. ag._ marbh-ainmeachadh
 
 ## Mìneachadh
 
