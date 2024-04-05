@@ -6,6 +6,8 @@ permalink: /mi-ghneitheachadh/
 
 ## Mìneachadh
 
+cleachdadh seann ghnè neach tar-ghnè a tha air eadar-ghluasad a dhèanamh
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; mí-inscnig
