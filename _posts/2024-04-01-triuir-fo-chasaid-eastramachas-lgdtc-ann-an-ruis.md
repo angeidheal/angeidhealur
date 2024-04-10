@@ -10,7 +10,7 @@ image: /images/posts/an-ruis.jpg
 
 author: Crìstean MacMhìcheil
 
-categories: ["An t-Saoghal", "Lagh"]
+categories: ["Eadar-nàiseanta", "Lagh"]
   
 ---
 
