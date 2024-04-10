@@ -6,7 +6,7 @@ date: 2024-04-01 08:28
 
 title: "Triùir fo chasaid 'eastramachas LGDTC+' anns an Ruis"
 
-image: /images/posts/an_ruis.jpg
+image: /images/posts/an-ruis.jpg
 
 author: Crìstean MacMhìcheil
 
