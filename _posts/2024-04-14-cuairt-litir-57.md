@@ -22,7 +22,7 @@ Tha ath-sgrùdadh air seirbheisean gnè chloinne ann an Sasainn agus sa Chuimrig
 
 A-rèir an Dotair Hilary Cass a sgrìobh an aithisg chan eil fianais gu leòr ann gu bheil casgan inbhidheachd a' toirt buaidh no droch-bhuaidh air neo-shàstachd gnè.
 
-Tha 32 molaidhean uile gu lèir anns an aithisg, a ghabhas leughadh gu h-iomlan an seo.
+Tha 32 molaidhean uile gu lèir anns an aithisg, a ghabhas leughadh gu h-iomlan [an seo](https://cass.independent-review.uk/home/publications/final-report/).
 
 Tha buidhnean LGBTC+ a leithid Mermaids agus Stonewall air ràdh, gum faodadh cànan na h-aithisge a bhith air a mhì-mhìneachadh gus bacaidhean a bharrachd a chur air òigridh tar-ghnèitheach bho bhith a' faighinn cothrom air cùram agus dh'iarr iad air an NHS èisteachd dìreach ri dhaoine tar-ghnèitheach òga.
 
