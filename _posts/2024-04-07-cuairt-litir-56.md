@@ -40,6 +40,16 @@ Chaidh na geamaichean, a tha air an stiùireadh leis an EGLSF (European Gay and 
 
 Tha dùil gun siubhail suas ri 10,000 lùth-chleasaiche gu Caerdydd ann an 2027 gus farpais anns na geamaichean.
 
+## An Ruis
+
+Rinn buidheann nan còraichean daonna, OVD-info, aithris Didòmhnaich (31mh Am Màrt) gun deach neach-seilbh Pose, bàr LGDTC+ anns an Rùis, a chur an grèim fo chasaid “eastramachas LGDTC+”.
+
+Cha deach an ainmeachadh fhathast, ach chaidh aithris gun deach an cur an grèim Diardaoin (28mh Am Màrt) aig Port-adhair Moscow.
+
+Chaidh neach-rianachd a’ bhàr, Diana Kamilyanova, agus stiùirich-ealain a’ bhàr, Alexander Klimov, a chur an grèim na bu tràithe air a’ Mhàrt an dèidh gun tug Ministreachd na Dùthcha agus poileas-aimhreit ruaig air a’ bhàr rè taisbeanadh-draga.
+
+Riaghail Àrd-chùirt na Ruise san t-Samhain gur e buidheann eastramach a th’ anns an gluasad LGDTC+ eadar-nàiseanta agus mar sin dh’fhaodadh binn suas ri deich bliadhna sa phrìosan a chur air an triùir aca ma bhios iad air am faighinn ciontach.
+
 ## Na Stàitean Aonaichte
 
 Dh’ainmich an FDA (Food & Drug Administration) gun tog iad an casg a th’ air fireannaich gèidh agus dà-sheòrsach bho bhith a’ toirt seachad sìol-ghinidh.
