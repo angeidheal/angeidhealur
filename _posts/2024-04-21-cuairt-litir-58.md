@@ -34,6 +34,10 @@ A bharrachd air sin, bha am buidheann Rainbow Greens air ath-chuinge a thòiseac
 
 Chaidh ainmeachadh oidhche hAoine gun tèid am bhòt a' chumail aig coinneamh a' phàrtaidh anns na seachdainean a tha romhainn.
 
+## Eucoir gràin
+
+Bhòt Buill Pàrlamaid na h-Alba Diciadain an-aghaidh gluasad bho Pàrtaidh Tòraidheach na h-Alba gus cur às dhan achd ùr air eucoir ghràin.
+
 ## Trans Report 2024
 
 Lorg suirbhidh de 1,200 daoine LGDTC+ òga an Alba (iadsan eadar 13 & 25 bliadhna a dh'aois) gu bheil an ìre de shonas nam measg air a dhol an lughad thairis air an deich bliadhna mu dheireadh.
