@@ -20,7 +20,7 @@ Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bh
 
 Tha an carthannas òigridh, LGBT Youth Scotland, air iarraidh air clionaig an Sandyford car a chur den cho-dhùnadh a chur casg eadar-amail air a bhith a' toirt seachad casgan inbhidheachd do dh’euslaintich ùra fo 18 bliadhna a dh'aois.
 
-Sgrìobh iad ann an aithris air an làrach-lìn aca gun dèan an gluasad cròn air daoine òga agus gum bi àrdachadh anns an ìrean de dhroch shlàinte-inntinn a-measg daoine tar-ghnèitheach òga.
+Sgrìobh iad ann an aithris air an làrach-lìn aca gun dèan an gluasad cròn air daoine òga agus gum bi àrdachadh anns an ìre de dhroch shlàinte-inntinn a-measg daoine tar-ghnèitheach òga.
 
 ## Grindr
 
