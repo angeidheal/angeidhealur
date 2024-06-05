@@ -17,7 +17,7 @@ excerpt_separator: <!--more-->
 
 #footer
 author-name: Crìstean MacMhìcheil
-author-website: "https://macmhicheil.scot"
+author-website: "https://criomagan.scot"
 
 # Build settings
 markdown: kramdown
@@ -32,10 +32,6 @@ collections:
 
 #social
 mastodon: https://abairthusa.scot/@angeidhealur
-threads: https://www.threads.net/@angeidhealur
-instagram: https://www.instagram.com/angeidhealur
-twitter: https://www.twitter.com/angeidhealur
-facebook:
 github: https://github.com/angeidheal
 email: fios@angeidhealur.scot
 
