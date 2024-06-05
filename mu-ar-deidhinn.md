@@ -23,11 +23,11 @@ Chaidh a stèidheachadh (mar Naidheachdan Pinc) ann an 2008 le Crìstean MacMhì
 
 **RSS.** [https://angeidhealur.scot/feed](https://angeidhealur.scot/feed.xml)
 
-**Mastodon.** <a rel="me" href="https://abairthusa.scot/@angeidhealur">https://abairthusa.scot/@angeidhealur</a>
+**Mastodon.** <a rel="me" href="{{ site.mastodon }}">{{ site.mastodon }}</a>
 
 ## Cuir fios
 
-**Mastodon.** <a rel="me" href="https://abairthusa.scot/@angeidhealur">https://abairthusa.scot/@angeidhealur</a>
+**Mastodon.** <a rel="me" href="{{ site.mastodon }}">{{ site.mastodon }}</a>
 
 **Post-d.** [fios@angeidhealur.scot](mailto:fios@angeidhealur.scot)
 
