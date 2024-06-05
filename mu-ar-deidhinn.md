@@ -25,7 +25,7 @@ Chaidh a stèidheachadh (mar Naidheachdan Pinc) ann an 2008 le Crìstean MacMhì
 
 ## Cuir fios
 
-<a rel="me" href="{{ site.mastodon }}" targe="_blank">Mastodon</a>
+<a rel="me" href="{{ site.mastodon }}" target="_blank">Mastodon</a>
 
 [Post-d](mailto:fios@angeidhealur.scot)
 
