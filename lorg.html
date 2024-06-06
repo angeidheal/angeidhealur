@@ -30,6 +30,6 @@ SimpleJekyllSearch({
 
 <ul>
   {% for category in site.data.categories %}
-  <li><a href="{{ category.url }}">{{ category.title }}</a></li>
+  <li><a href="{{ site.baseurl}}{{ category.url }}">{{ category.title }}</a></li>
   {% endfor %}
 </ul>
