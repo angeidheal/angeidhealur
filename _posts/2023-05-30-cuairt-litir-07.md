@@ -30,7 +30,7 @@ Thuirt e gum feum na lìonraidhean sòisealta barrachd a dhèanamh gus stad a ch
 
 ## Uganda
 
-Tha Ceann-suidhe 𝗠𝘂𝘀𝗲𝘃𝗲𝗻𝗶 air bile an-aghaidh co-sheòrsachd a shoidhnigeadh 'na lagh ann an Uganda.
+Tha Ceann-suidhe Museveni air bile an-aghaidh co-sheòrsachd a shoidhnigeadh 'na lagh ann an Uganda.
 
 Fon lagh ùr thèid binn-bheatha a chur air duine sam bith a thèid a dhìteadh de cho-sheòrsachd.
 
