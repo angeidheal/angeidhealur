@@ -1,11 +1,15 @@
-- title: Dachaigh
+- title: Blog
   url: /
-  description:
+  description: Postaichean as ùire | Latest posts
 
-- title: Blog Chrìstein
-  url: /blog
-  description: Blog Chrìstein
+- title: Dualchas
+  url: /dualchas
+  description: Dualchas | Heritage
 
-- title: Mu mo dheidhinn
-  url: /mu-mo-dheidhinn
-  description: Mu mo dheidhinn
+- title: Ceanglaichean
+  url: /ceanglaichean
+  description: Ceanglaichean | Links
+
+- title: Mu ar dheidhinn
+  url: /mu-ar-dheidhinn
+  description: Mu mo dheidhinn | About Us
