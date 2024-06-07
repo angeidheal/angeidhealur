@@ -6,10 +6,6 @@ date: 2023-06-24 18:17:48
 
 title: "Cuairt-litir #12"
 
-excerpt: "Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail."
-
-excerpt: "Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail."
-
 image: /images/icons/cuairt-litir.png
 
 author: Crìstean MacMhìcheil
@@ -36,7 +32,7 @@ Faodar a lorg aig: [http://surveymonkey.co.uk/r/scotexptransnonb23](http://surve
 
 Tha an carthannas Leabhair Pháistí Éireann air liosta de còrr ’s 200 leabhar LGDTC+ do chloinne is dhaoine òga a cruinneachadh gus Mìos na Pròise a chomharrachadh.
 
-Nam measg tha ann leabhar <i>Croí an Teaghlaigh an Grá</i> le Sophie Beer a chaidh eadar-theangachadh chun a’ Ghaeilge le Shanna Ní Rabhartaigh agus Gillian Nic Iomhain.
+Nam measg tha ann leabhar _Croí an Teaghlaigh an Grá_ le Sophie Beer a chaidh eadar-theangachadh chun a’ Ghaeilge le Shanna Ní Rabhartaigh agus Gillian Nic Iomhain.
 
 Faodar an liosta iomlan a lorg aig: [https://childrensbooksireland.ie/our-recommendations/pride-reading-guide](https://childrensbooksireland.ie/our-recommendations/pride-reading-guide).
 
