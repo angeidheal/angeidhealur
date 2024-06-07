@@ -12,7 +12,7 @@ image: /images/icons/Substack_Social_Preview.png
 
 author: Crìstean MacMhìcheil
 
-categories: ["Cuairt-litir", "Alba", "Eadar-nàiseant", "Lagh", "Poilitigs", "Slàinte", "Spòrs"]
+categories: ["Cuairt-litir", "Alba", "Eadar-nàiseants", "Lagh", "Poileataigs", "Slàinte", "Spòrs"]
 
 ---
 
@@ -20,7 +20,7 @@ Geàrr-chunntas sgrìobhte de naidheachdan LGDTC+ ionadail, nàiseanta ‘s bho 
 
 ## Mhàiri Black
 
-Thuirt BP an SNP, Mhàiri Black, air an àrd-ùrlar aig Iomall Fèis Dhùn Èideann, gu bheil luchd tar-ghnèitheach airidh air a bhith beò le urram agus toileachas agus gum bu chòir dhan phàipearan-naidheachd agus luchd-poilitigs leigeil leotha.
+Thuirt BP an SNP, Mhàiri Black, air an àrd-ùrlar aig Iomall Fèis Dhùn Èideann, gu bheil luchd tar-ghnèitheach airidh air a bhith beò le urram agus toileachas agus gum bu chòir dhan phàipearan-naidheachd agus luchd-poileataigs leigeil leotha.
 
 ## Badmantan
 
