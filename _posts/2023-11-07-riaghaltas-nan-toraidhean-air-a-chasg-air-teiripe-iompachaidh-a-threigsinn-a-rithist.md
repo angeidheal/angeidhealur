@@ -12,7 +12,7 @@ image: /images/posts/2023-11-07-riaghaltas-nan-toraidhean-air-a-chasg-air-teirip
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Creideamh", "Lagh", "Poilitigs", "Slàinte"]
+categories: ["An Rìoghachd Aonaichte", "Creideamh", "Lagh", "Poileataigs", "Slàinte"]
   
 ---
 
