@@ -14,7 +14,7 @@ categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
 
 ---
 
-Bidh luchd-iomairt a’ caismeachd ann an Dùn Èideann Diluain agus iad ag iarraidh gun dèan luchd-poilitigs barrachd adhartas a dhèanamh còraichean tar-ghnèitheach ath-leasachadh.
+Bidh luchd-iomairt a’ caismeachd ann an Dùn Èideann Diluain agus iad ag iarraidh gun dèan luchd-poileataigs barrachd adhartas a dhèanamh còraichean tar-ghnèitheach ath-leasachadh.
 
 Bidh buill Out for Independence, Rainbow Greens, buidheann LGDT+ Pàrtaidh Làbarach na h-Alba agus buidheann Òigridh Pàrtaidh Libearalach Deamocratach na h-Alba nam measg.
 
