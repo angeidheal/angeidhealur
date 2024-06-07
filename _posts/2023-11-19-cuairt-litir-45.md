@@ -6,7 +6,7 @@ date: 2023-11-19 14:00
 
 title: "Cuairt-litir #45"
 
-image: /images/icons/Substack_Social_Preview.png
+image: /images/icons/cuairt-litir.png
 
 excerpt: "Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail."
 
