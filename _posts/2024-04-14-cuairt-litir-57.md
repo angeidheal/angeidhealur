@@ -36,7 +36,7 @@ Thathar ag aithris gum tèid an ath-sgrùdadh a dhèanamh le neach on taobh a-mu
 
 Tha am Ball-Phàrlamaid Làbarach, Wes Streeting, air ràdh gu bheil e a' gabhail aithreachas gun d' thuirt e roimhe gur e "fireannaich a th' anns an tar-fhireannaich, boireannaich a th' anns an tar-bhoireannaich... gabh ris".
 
-Dh'innis Streeting dhan phàipear-naidheachd an Sun gu bheil tòrr iom-fhillteachdan na lùib agus gu bheil "uallach coitcheann" air luchd-poilitigs aghaidh a chur air na cùisean "sgainnealach" a chaidh a shoillseachadh anns an aithisg Cass.
+Dh'innis Streeting dhan phàipear-naidheachd an Sun gu bheil tòrr iom-fhillteachdan na lùib agus gu bheil "uallach coitcheann" air luchd-poileataigs aghaidh a chur air na cùisean "sgainnealach" a chaidh a shoillseachadh anns an aithisg Cass.
 
 ## A' Ghearmailt
 
