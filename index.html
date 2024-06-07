@@ -10,7 +10,7 @@ image: /images/icons/cuairt-litir.png
   
   <h2 style="text-align: center">{{ post.title }}</h2>
   
-  <p style="text-align: center"><a href="{{ site.baseurl }}{{ post.url }}">
+  <p style="text-align: center"><a href="{{ site.url }}/{{ post.url }}">
     {% assign m = post.date | date: "%-m" %}
     {{ post.date | date: "%d" }}
     {% case m %}
@@ -31,7 +31,7 @@ image: /images/icons/cuairt-litir.png
     </a></p>
 
   {% if post.image %}
-    <img src="{{ site.baseurl }}{{ post.image }}" class="post-image">
+    <img src="{{ site.url }}{{ post.image }}" class="post-image">
   {% endif %}
   
   {{ post.content }}
