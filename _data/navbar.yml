@@ -1,10 +1,14 @@
-- title: Blog
+- title: Naidheachdan
   url: /
   description: Postaichean as ùire | Latest posts
 
 - title: Dualchas
   url: /dualchas
   description: Dualchas | Heritage
+
+- title: An Gèidheal Ùr
+  url: https://faclair.lgbt?target=_blank
+  description: Faclair nan Gèidheal | Gaelic LGBTQ+ Dictionary
 
 - title: Ceanglaichean
   url: /ceanglaichean
@@ -13,3 +17,11 @@
 - title: Mu ar dheidhinn
   url: /mu-ar-dheidhinn
   description: Mu mo dheidhinn | About Us
+
+- title: Lorg
+  url: /lorg
+  description: Lorg | Search
+
+- title: Bùth
+  url: https://angeidhealur.myspreadshop.co.uk/
+  description: Bùth-bhathair | Merch store
