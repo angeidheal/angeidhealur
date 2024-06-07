@@ -1,1 +1,1 @@
-Repository for [An Gèidheal Ùr](https://angeidhealur.scot/), a Scottish Gaelic language blog hosted on GitHub Pages.
+[An Gèidheal Ùr](https://angeidhealur.scot) is a Scottish Gaelic language LGBTQ+ news blog.
