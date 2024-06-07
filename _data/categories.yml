@@ -2,12 +2,12 @@
   url: /roinn-seorsa/alba
   description:
 
-- title: An Rìoghachd Aonaichte
-  url: /roinn-seorsa/an-rioghachd-aonaichte
-  description:
-
 - title: Blog
   url: /roinn-seorsa/blog
+  description:
+
+- title: Breatainn
+  url: /roinn-seorsa/breatainn
   description:
 
 - title: Creideamh
@@ -34,6 +34,10 @@
   url: /roinn-seorsa/eirinn
   description:
 
+- title: Èirinn a Tuath
+  url: /roinn-seorsa/eirinn-a-tuath
+  description:
+
 - title: Foghlam
   url: /roinn-seorsa/foghlam
   description:
@@ -56,10 +60,6 @@
 
 - title: Pròis
   url: /roinn-seorsa/prois
-  description:
-
-- title: Saidheans
-  url: /roinn-seorsa/saidheans
   description:
 
 - title: Slàinte
