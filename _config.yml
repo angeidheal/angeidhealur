@@ -1,6 +1,7 @@
 # Site settings
 title: An Gèidheal Ùr
 description: Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
+logo: An Gèidheal Ùr
 # baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://angeidhealur.scot" # the base hostname & protocol for your site
 excerpt_separator: <!--more-->
