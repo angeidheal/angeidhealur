@@ -15,10 +15,6 @@ instagram: https://www.instagram.com/angeidhealur
 threads: https://www.threads.net/@angeidhealur
 email: fios@angeidhealur.scot
 
-# Sass style
-# sass:
-#  style: compressed
-
 # Build settings
 markdown: kramdown
 permalink: /:year-:month-:day-:title/
