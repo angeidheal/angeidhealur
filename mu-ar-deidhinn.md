@@ -23,7 +23,7 @@ Chaidh a stèidheachadh (mar Naidheachdan Pinc) ann an 2008 le Crìstean MacMhì
 
 **Mastodon.** <a rel="me" href="{{ site.mastodon }}" target="_blank">{{ site.mastodon }}</a>
 
-**Inbhir RSS.** [{{ site.baseurl }}/feed]({{ site.baseurl }}/feed)
+**Inbhir RSS.** <a href="{{ site.baseurl }}/feed">{{ site.baseurl }}/feed</a>
 
 
 ## Cuir fios
