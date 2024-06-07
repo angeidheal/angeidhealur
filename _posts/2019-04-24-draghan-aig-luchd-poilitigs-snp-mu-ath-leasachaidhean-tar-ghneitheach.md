@@ -4,9 +4,9 @@ layout: post
 
 date: 2019-04-24 21:30:18
 
-title: "Draghan aig luchd-poilitigs SNP mu ath-leasachaidhean tar-ghnèitheach"
+title: "Draghan aig luchd-poileataigs SNP mu ath-leasachaidhean tar-ghnèitheach"
 
-image: /images/posts/2019-04-24-draghan-aig-luchd-poilitigs-snp-mu-ath-leasachaidhean-tar-ghneitheach.webp
+image: /images/posts/2019-04-24-draghan-aig-luchd-poileataigs-snp-mu-ath-leasachaidhean-tar-ghneitheach.webp
 
 author: Crìstean MacMhìcheil
 
@@ -14,11 +14,11 @@ categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
 
 ---
 
-Tha còig-deug neach-poilitigs an SNP air draghan a thogail mu phlanaichean Riaghaltas na h-Alba airson Achd Aithne Gnè ath-leasachadh.
+Tha còig-deug neach-poileataigs an SNP air draghan a thogail mu phlanaichean Riaghaltas na h-Alba airson Achd Aithne Gnè ath-leasachadh.
 
 Tha an Riaghaltas airson an achd ath-leasachadh gus am biodh e nas fhasa do dhaoine tar-ghnèitheach an gnè laghail aca atharrachadh.
 
-Ach ann an litir, a chaidh a fhoillseachadh leis a’ phàipear-naidheachd Scotsman, thuirt am buidheann de luchd-poilitigs nach bu chòir dhan Riaghaltas a bhith ann an cabhaig airson mìneachadh nam faclan boireann agus fireann atharrachadh.
+Ach ann an litir, a chaidh a fhoillseachadh leis a’ phàipear-naidheachd Scotsman, thuirt am buidheann de luchd-poileataigs nach bu chòir dhan Riaghaltas a bhith ann an cabhaig airson mìneachadh nam faclan boireann agus fireann atharrachadh.
 
 Chaidh an litir a shoidhnigeadh le triùir mhinistearan Riaghaltais, Kate Forbes, Ash Denham agus Ivan McKee, còmhla ris na BPA Joan McAlpine, Ruth Maguire, Christine Grahame agus Kenneth Gibson; na BP Carol Monaghan, Angus MacNeil, Joanna Cherry agus Particia; agus na comhairlichean Chris McEleny, Caroline McAllister, Shaun Macaulay agus Lynne Anderson.
 
