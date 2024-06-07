@@ -36,7 +36,7 @@ A-rèir poileasaidh riaghaltais a chaidh a leigeil air èalaidh dha The Sun, dh�
 
 Thathar an dùil gun tèid am poileasaidh fhoillseachadh gu h-oifigeil an t-seachdain-sa.
 
-Tha buidhnean-iomairt, gnìomhaichean LGDTC+ agus luchd-poilitigs air ìmpidh a chur air Rishi Sunak am poileasaidh a thilgeil a-mach ’s iad ag ràdh gu bheil e gu math coltach ris an reachdas Earrann 28, a chur Margaret Thatcher an gnìomh, a thoirmisg ùghdarrasan ionadail (a’ tort a-steach sgoiltean) bho bhith “a’ brosnachadh" co-sheòrsachd eadar 1988 agus 2003 (2000 ann an Alba).
+Tha buidhnean-iomairt, gnìomhaichean LGDTC+ agus luchd-poileataigs air ìmpidh a chur air Rishi Sunak am poileasaidh a thilgeil a-mach ’s iad ag ràdh gu bheil e gu math coltach ris an reachdas Earrann 28, a chur Margaret Thatcher an gnìomh, a thoirmisg ùghdarrasan ionadail (a’ tort a-steach sgoiltean) bho bhith “a’ brosnachadh" co-sheòrsachd eadar 1988 agus 2003 (2000 ann an Alba).
 
 ## Pròis Bhristol
 
