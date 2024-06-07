@@ -18,7 +18,7 @@ Chaidh sgrùdadh ùr fhoillseachadh le *Stonewall* a tha a’ sealltainn gu bhei
 
 Bha còrr ’s 1,600 daoine LCDTE a’ gabhail pàirt anns a’ chiad sgrùdadh LCDTE air an làrach-lìn *YouGov* eadar 6mh-10mh An Dùbhlachd 2007.
 
-Air ainmeachadh *Serves You Right* bha an sgrùdadh a’ toirt a-steach cuspairean a leithid obair, poilitigs, taigheadas, slàinte, foghlam, am poileas, an t-siostam ceartais agus craoladh.
+Air ainmeachadh *Serves You Right* bha an sgrùdadh a’ toirt a-steach cuspairean a leithid obair, poileataigs, taigheadas, slàinte, foghlam, am poileas, an t-siostam ceartais agus craoladh.
 
 Thuirt aonar anns gach còignear gun dh’fhulaing iad burraidheachd anns an t-ionad-obrach air sgàth ’s an gnèitheachd aca. Thuirt 65% gun robh iad ga fhulaing anns an sgoil agus thuirt 82% nach robh iad comasach air tighinn a-mach anns an sgoil.
 
