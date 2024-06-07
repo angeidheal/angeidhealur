@@ -6,7 +6,7 @@ date: 2024
 
 title: "Cuairt-litir #"
 
-image: /images/icons/Substack_Social_Preview.png
+image: /images/icons/cuairt-litir.png
 
 author: Crìstean MacMhìcheil
 
