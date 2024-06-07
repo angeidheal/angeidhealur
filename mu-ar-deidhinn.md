@@ -21,14 +21,22 @@ Chaidh a stèidheachadh (mar Naidheachdan Pinc) ann an 2008 le Crìstean MacMhì
 
 ## Fo-sgriobh
 
+**Inbhir RSS.** <a href="{{ site.url }}/feed">{{ site.url }}/feed</a>
+
 **Mastodon.** <a rel="me" href="{{ site.mastodon }}" target="_blank">{{ site.mastodon }}</a>
 
-**Inbhir RSS.** <a href="{{ site.url }}/feed">{{ site.url }}/feed</a>
+**Instagram.** <a rel="me" href="{{ site.instagram }}" target="_blank">{{ site.instagram }}</a>
+
+**Threads.** <a rel="me" href="{{ site.threads }}" target="_blank">{{ site.threads }}</a>
 
 
 ## Cuir fios
 
 **Mastodon.** <a rel="me" href="{{ site.mastodon }}" target="_blank">{{ site.mastodon }}</a>
+
+**Instagram.** <a rel="me" href="{{ site.instagram }}" target="_blank">{{ site.instagram }}</a>
+
+**Threads.** <a rel="me" href="{{ site.threads }}" target="_blank">{{ site.threads }}</a>
 
 **Post-d.** [fios@angeidhealur.scot](mailto:fios@angeidhealur.scot)
 
