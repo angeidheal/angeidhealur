@@ -2,6 +2,10 @@
   url: /
   description: Postaichean as ùire | Latest posts
 
+- title: Tasg-lann
+  url: /tasg-lann
+  description: Tasg-lann | Archive
+
 - title: Dualchas
   url: /dualchas
   description: Dualchas | Heritage
@@ -21,7 +25,3 @@
 - title: Bùth
   url: https://angeidhealur.myspreadshop.co.uk/
   description: Bùth-bhathair | Merch store
-
-- title: Lorg
-  url: /lorg
-  description: Lorg | Search
