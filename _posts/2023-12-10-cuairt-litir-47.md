@@ -6,7 +6,7 @@ date: 2023-12-10 11:00
 
 title: "Cuairt-litir #47"
 
-image: /images/icons/Substack_Social_Preview.png
+image: /images/icons/cuairt-litir.png
 
 author: Crìstean MacMhìcheil
 
