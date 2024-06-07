@@ -10,7 +10,7 @@ image: /images/posts/2018-11-09-cuisean-lcdte-ri-theagaisg-ann-an-sgoiltean-alba
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Foghlam"]
+categories: ["Alba", "Breatainn", "Foghlam"]
 
 ---
 

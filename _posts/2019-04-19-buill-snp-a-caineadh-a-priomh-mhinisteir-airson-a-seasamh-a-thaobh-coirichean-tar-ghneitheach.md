@@ -10,7 +10,7 @@ image: /images/posts/2019-04-19-buill-snp-a-caineadh-a-phriomh-mhinisteir-airson
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Lagh", "Poileataigs"]
 
 ---
 

@@ -10,7 +10,7 @@ image: /images/posts/2022-05-23-posadh-aon-sheorsach-an-eaglais-na-h-alba.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh"]
+categories: ["Alba", "Breatainn", "Creideamh"]
 
 ---
 

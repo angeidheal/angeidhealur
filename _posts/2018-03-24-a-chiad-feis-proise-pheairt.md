@@ -10,7 +10,7 @@ image: /images/posts/2018-03-24-a-chiad-feis-proise-pheairt.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Alba", "Breatainn", "Pròis"]
 
 ---
 

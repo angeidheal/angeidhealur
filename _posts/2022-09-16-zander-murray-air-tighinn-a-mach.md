@@ -10,7 +10,7 @@ image: /images/posts/2022-09-16-zander-murray-air-tighinn-a-mach.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Spòrs"]
+categories: ["Alba", "Breatainn", "Spòrs"]
 
 ---
 

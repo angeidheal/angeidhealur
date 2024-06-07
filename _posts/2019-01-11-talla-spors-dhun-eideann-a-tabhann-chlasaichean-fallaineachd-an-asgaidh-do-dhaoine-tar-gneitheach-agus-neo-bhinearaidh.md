@@ -10,7 +10,7 @@ image: /images/posts/2019-01-11-talla-spors-dhun-eideann-a-tabhann-chlasaichean-
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Spòrs"]
+categories: ["Alba", "Breatainn", "Spòrs"]
 
 ---
 

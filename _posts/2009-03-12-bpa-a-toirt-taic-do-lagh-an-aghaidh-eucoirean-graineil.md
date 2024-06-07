@@ -10,7 +10,7 @@ image: /images/posts/2009-03-12-bpa-a-toirt-taic-do-lagh-an-aghaidh-eucoirean-gr
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Lagh", "Poileataigs"]
 
 ---
 

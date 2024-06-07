@@ -10,7 +10,7 @@ image: /images/posts/2022-10-25-peter-tatchell-ga-chur-an-greim.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Lagh", "Spòrs"]
+categories: ["Breatainn", "Eadar-nàiseanta", "Lagh", "Spòrs"]
 
 ---
 

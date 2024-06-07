@@ -10,7 +10,7 @@ image: /images/posts/2022-09-28-ceann-latha-air-ainmeachadh-airson-deasbad-air-b
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Poileataigs"]
 
 ---
 

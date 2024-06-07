@@ -10,7 +10,7 @@ image: /images/posts/2018-11-22-bu-choir-cuisean-lcdt-a-bhith-na-phairt-bunaitea
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Foghlam"]
+categories: ["Breatainn", "Foghlam"]
 
 ---
 

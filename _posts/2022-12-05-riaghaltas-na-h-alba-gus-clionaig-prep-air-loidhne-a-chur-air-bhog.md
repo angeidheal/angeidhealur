@@ -10,7 +10,7 @@ image: /images/posts/2022-12-05-riaghaltas-na-h-alba-gus-clionaig-prep-air-loidh
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs", "Slàinte"]
+categories: ["Alba", "Breatainn", "Poileataigs", "Slàinte"]
 
 ---
 

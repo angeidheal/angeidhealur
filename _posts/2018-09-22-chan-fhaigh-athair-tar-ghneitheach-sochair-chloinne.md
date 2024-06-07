@@ -10,7 +10,7 @@ image: /images/posts/2018-09-22-chan-fhaigh-athair-tar-ghneitheach-sochair-chloi
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Lagh"]
+categories: ["Breatainn", "Lagh"]
 
 ---
 

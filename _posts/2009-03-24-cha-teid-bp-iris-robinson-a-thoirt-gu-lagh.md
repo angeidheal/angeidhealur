@@ -10,7 +10,7 @@ image: /images/posts/2009-03-24-cha-teid-bp-iris-robinson-a-thoirt-gu-lagh.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Poileataigs"]
+categories: ["Breatainn", "Poileataigs"]
 
 ---
 

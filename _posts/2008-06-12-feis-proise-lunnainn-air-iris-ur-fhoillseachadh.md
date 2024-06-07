@@ -10,7 +10,7 @@ image: /images/posts/2008-06-12-feis-proise-lunnainn-air-iris-ur-fhoillseachadh.
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Breatainn", "Pròis"]
 
 ---
 

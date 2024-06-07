@@ -12,7 +12,7 @@ image: /images/posts/2008-03-14-lagh-an-aghaidh-grain-co-sheorsachd-a-gluasad-ai
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Breatainn", "Lagh", "Poileataigs"]
 
 ---
 

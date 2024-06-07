@@ -10,7 +10,7 @@ image: /images/posts/2021-05-17-sealtainn-airson-a-chiad-feis-proise-aca-a-chuma
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Alba", "Breatainn", "Pròis"]
 
 ---
 

@@ -10,7 +10,7 @@ image: /images/posts/2018-06-07-maoineachadh-air-a-ghlachadh-airson-tachartas-oi
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Alba", "Breatainn", "Pròis"]
 
 ---
 

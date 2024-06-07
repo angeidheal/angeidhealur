@@ -10,7 +10,7 @@ image: /images/posts/2019-08-22-iomairt-airson-tachartas-proise-a-chumail-ann-am
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Alba", "Breatainn", "Pròis"]
 
 ---
 

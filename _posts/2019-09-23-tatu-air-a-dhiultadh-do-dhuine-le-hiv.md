@@ -10,7 +10,7 @@ image: /images/posts/2019-09-23-tatu-air-a-dhiultadh-do-dhuine-le-hiv.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Gnìomhachas", "Slàinte"]
+categories: ["Alba", "Breatainn", "Gnìomhachas", "Slàinte"]
 
 ---
 

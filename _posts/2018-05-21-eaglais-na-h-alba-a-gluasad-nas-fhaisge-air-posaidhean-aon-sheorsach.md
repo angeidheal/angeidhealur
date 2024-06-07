@@ -10,7 +10,7 @@ image: /images/posts/2018-05-21-eaglais-na-h-alba-a-gluasad-nas-fhaisge-air-posa
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh"]
+categories: ["Alba", "Breatainn", "Creideamh"]
 
 ---
 

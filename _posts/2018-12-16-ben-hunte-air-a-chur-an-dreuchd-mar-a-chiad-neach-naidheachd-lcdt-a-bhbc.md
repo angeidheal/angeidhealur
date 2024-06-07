@@ -10,7 +10,7 @@ image: /images/posts/2018-12-16-ben-hunte-air-a-chur-an-dreuchd-mar-a-chiad-neac
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte"]
+categories: ["Breatainn"]
 
 ---
 

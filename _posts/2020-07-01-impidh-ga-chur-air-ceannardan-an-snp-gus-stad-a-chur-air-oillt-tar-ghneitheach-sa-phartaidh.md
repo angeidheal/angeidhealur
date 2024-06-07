@@ -10,7 +10,7 @@ image: /images/posts/2020-07-01-impidh-ga-chur-air-ceannardan-an-snp-gus-stad-a-
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Poileataigs"]
 
 ---
 

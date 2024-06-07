@@ -10,7 +10,7 @@ image: /images/posts/2022-09-13-vice-liz-truss-a-lorg-doigh-gus-stad-no-casg-a-c
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Poileataigs"]
 
 ---
 

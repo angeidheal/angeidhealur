@@ -10,7 +10,7 @@ image: /images/posts/2009-01-29-caitligich-albannach-air-radh-gu-bheil-co-sheors
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh"]
+categories: ["Alba", "Breatainn", "Creideamh"]
 
 ---
 

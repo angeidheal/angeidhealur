@@ -10,7 +10,7 @@ image: /images/posts/2020-07-18-eagraichean-feis-proise-na-coirne-air-na-draghan
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Lagh", "Poileataigs", "Pròis"]
+categories: ["Breatainn", "Lagh", "Poileataigs", "Pròis"]
 
 ---
 

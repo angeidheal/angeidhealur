@@ -10,7 +10,7 @@ image: /images/posts/2009-05-26-casg-air-ministearan-co-sheorsach-ura-fad-da-bhl
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh"]
+categories: ["Alba", "Breatainn", "Creideamh"]
 
 ---
 

@@ -10,7 +10,7 @@ image: /images/posts/2022-10-26-post-grain-ga-chur-gu-zander-murray.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Spòrs"]
+categories: ["Alba", "Breatainn", "Spòrs"]
 
 ---
 

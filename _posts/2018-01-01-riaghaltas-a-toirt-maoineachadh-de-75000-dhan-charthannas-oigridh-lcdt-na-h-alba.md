@@ -10,7 +10,7 @@ image: /images/posts/2018-01-01-riaghaltas-a-toirt-maoineachadh-de-75000-dhan-ch
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Poileataigs"]
 
 ---
 

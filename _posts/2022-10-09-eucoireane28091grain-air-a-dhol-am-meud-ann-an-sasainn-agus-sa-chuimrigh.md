@@ -10,7 +10,7 @@ image: /images/posts/2022-10-09-eucoirean-grain-air-a-dhol-am-meud-ann-an-sasain
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Lagh"]
+categories: ["Breatainn", "Lagh"]
 
 ---
 

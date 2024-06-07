@@ -10,7 +10,7 @@ image: /images/posts/2020-05-26-roinnidh-pod-chraoladh-ur-sgeulachdan-bho-dhaoin
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte"]
+categories: ["Alba", "Breatainn"]
 
 ---
 

@@ -10,7 +10,7 @@ image:
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh", "Lagh", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Creideamh", "Lagh", "Poileataigs"]
 
 ---
 

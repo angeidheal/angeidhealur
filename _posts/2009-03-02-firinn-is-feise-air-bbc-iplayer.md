@@ -10,7 +10,7 @@ image: /images/posts/2009-03-02-firinn-is-feise-air-bbc-iplayer.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh", "Gàidhlig"]
+categories: ["Alba", "Breatainn", "Creideamh", "Gàidhlig"]
 
 ---
 

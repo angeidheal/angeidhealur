@@ -12,7 +12,7 @@ image: /images/posts/2023-12-21-bile-na-h-aithne-gne.webp
 
 author: Crìstean MacMhìcheil
 
-categories: [“Alba”, "An Rìoghachd Aonaichte", "Lagh", “Poileataigs”]
+categories: [“Alba”, "Breatainn", "Lagh", “Poileataigs”]
   
 ---
 

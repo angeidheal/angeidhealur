@@ -10,7 +10,7 @@ image: /images/posts/2022-08-23-buidheann-feimineach-earra-ghaidheal-a-caineadh-
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Alba", "Breatainn", "Pròis"]
 
 ---
 

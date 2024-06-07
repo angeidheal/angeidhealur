@@ -10,7 +10,7 @@ image: /images/posts/2008-03-29-casaidean-grain-co-sheorsachd-air-an-diultadh-le
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Lagh"]
+categories: ["Breatainn", "Lagh"]
 
 ---
 

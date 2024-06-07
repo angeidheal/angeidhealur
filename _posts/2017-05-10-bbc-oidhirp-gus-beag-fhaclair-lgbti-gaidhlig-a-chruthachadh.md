@@ -10,7 +10,7 @@ image: /images/posts/2017-05-10-bbc-oidhirp-gus-beag-fhaclair-lgbti-gaidhlig-a-c
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Gàidhlig"]
+categories: ["Alba", "Breatainn", "Gàidhlig"]
 
 ---
 

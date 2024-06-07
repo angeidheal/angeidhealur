@@ -10,7 +10,7 @@ image: /images/posts/2018-08-15-comhairliche-tar-ghneitheach-albannach-a-leigeil
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Poileataigs"]
 
 ---
 

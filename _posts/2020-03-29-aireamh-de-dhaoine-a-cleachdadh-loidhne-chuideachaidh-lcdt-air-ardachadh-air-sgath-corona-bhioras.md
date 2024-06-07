@@ -10,7 +10,7 @@ image: /images/posts/2020-03-29-aireamh-de-dhaoine-a-cleachdadh-loidhne-chuideac
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Slàinte"]
+categories: ["Alba", "Breatainn", "Slàinte"]
 
 ---
 

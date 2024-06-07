@@ -10,7 +10,7 @@ image: /images/posts/2010-02-22-deasbad-mu-companasan-catharra-san-eilean-mhanai
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Eilean Mhanainn", "Lagh", "Poileataigs"]
+categories: ["Breatainn", "Eadar-nàiseanta", "Eilean Mhanainn", "Lagh", "Poileataigs"]
 
 ---
 

@@ -10,7 +10,7 @@ image: /images/posts/2018-10-30-feis-proise-iur-cinn-tra-gu-bhith-a-toirt-aoighe
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Breatainn", "Pròis"]
 
 ---
 

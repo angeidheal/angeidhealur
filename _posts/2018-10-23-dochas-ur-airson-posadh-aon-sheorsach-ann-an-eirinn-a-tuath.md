@@ -10,7 +10,7 @@ image: /images/posts/2018-10-23-dochas-ur-airson-posadh-aon-sheorsach-ann-an-eir
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Breatainn", "Lagh", "Poileataigs"]
 
 ---
 

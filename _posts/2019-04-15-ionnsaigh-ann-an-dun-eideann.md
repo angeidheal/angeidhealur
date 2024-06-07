@@ -10,7 +10,7 @@ image: /images/posts/2019-04-15-ionnsaigh-ann-an-dun-eideann.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh"]
+categories: ["Alba", "Breatainn", "Lagh"]
 
 ---
 

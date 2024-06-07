@@ -12,7 +12,7 @@ image: /images/posts/2023-12-22-stiuireadh-ur-do-sgoiltean-ann-an-sasainn-mu-sgo
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Foghlam", “Poileataigs”]
+categories: ["Breatainn", "Foghlam", “Poileataigs”]
   
 ---
 

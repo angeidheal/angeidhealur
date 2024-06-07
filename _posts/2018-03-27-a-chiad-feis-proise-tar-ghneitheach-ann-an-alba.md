@@ -10,7 +10,7 @@ image: /images/posts/2018-03-27-a-chiad-feis-proise-tar-ghneitheach-ann-an-alba.
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Alba", "Breatainn", "Pròis"]
 
 ---
 

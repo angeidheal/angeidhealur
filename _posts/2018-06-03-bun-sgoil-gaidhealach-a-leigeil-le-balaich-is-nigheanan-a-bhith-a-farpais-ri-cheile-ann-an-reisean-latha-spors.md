@@ -10,7 +10,7 @@ image: /images/posts/2018-06-03-bun-sgoil-gaidhealach-a-leigeil-le-balaich-is-ni
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Foghlam", 'Spòrs']
+categories: ["Alba", "Breatainn", "Foghlam", 'Spòrs']
 
 ---
 

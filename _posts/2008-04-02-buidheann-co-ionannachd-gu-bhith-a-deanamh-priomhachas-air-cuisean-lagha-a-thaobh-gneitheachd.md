@@ -10,7 +10,7 @@ image: /images/posts/2008-04-02-buidheann-co-ionannachd-gu-bhith-a-deanamh-priom
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Breatainn", "Lagh", "Poileataigs"]
 
 ---
 

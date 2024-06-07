@@ -10,7 +10,7 @@ image: /images/posts/2020-05-28-seirbheisean-fala-a-beachdachadh-air-a-chasg-a-t
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Slàinte"]
+categories: ["Alba", "Breatainn", "Slàinte"]
 
 ---
 

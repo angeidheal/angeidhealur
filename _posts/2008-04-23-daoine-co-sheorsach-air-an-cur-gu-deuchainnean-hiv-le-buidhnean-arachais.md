@@ -10,7 +10,7 @@ image: /images/posts/2008-04-23-daoine-co-sheorsach-air-an-cur-gu-deuchainnean-h
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Gnìomhachas", "Slàinte"]
+categories: ["Breatainn", "Gnìomhachas", "Slàinte"]
 
 ---
 

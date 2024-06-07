@@ -10,7 +10,7 @@ image: /images/posts/2018-01-06-co-labhairt-an-equal-future-a-beachdachadh-air-n
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Foghlam"]
+categories: ["Alba", "Breatainn", "Foghlam"]
 
 ---
 

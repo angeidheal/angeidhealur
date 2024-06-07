@@ -10,7 +10,7 @@ image: /images/posts/2008-04-08-maighstir-lagha-air-a-rannsachadh-as-deidh-ceang
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Cultar", "Lagh"]
+categories: ["Breatainn", "Cultar", "Lagh"]
 
 ---
 

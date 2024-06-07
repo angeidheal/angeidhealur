@@ -10,7 +10,7 @@ image: /images/posts/2018-10-09-ceannard-feis-proise-ghlaschu-air-a-dhreuchd-a-l
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Alba", "Breatainn", "Pròis"]
 
 ---
 

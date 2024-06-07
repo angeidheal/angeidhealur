@@ -10,7 +10,7 @@ image: /images/posts/2008-10-08-bhiocair-air-radh-gum-bu-choir-rabhadh-slainte-a
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Creideamh"]
+categories: ["Breatainn", "Creideamh"]
 
 ---
 

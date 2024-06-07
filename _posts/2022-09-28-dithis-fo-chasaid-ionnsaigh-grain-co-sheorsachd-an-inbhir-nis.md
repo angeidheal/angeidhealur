@@ -10,7 +10,7 @@ image: /images/posts/2022-09-28-dithis-fo-chasaid-ionnsaigh-grain-co-sheorsachd-
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh"]
+categories: ["Alba", "Breatainn", "Lagh"]
 
 ---
 

@@ -10,7 +10,7 @@ image: /images/posts/2021-09-26-alba-air-curaicealam-a-ghabhas-a-steach-cuisean-
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Foghlam"]
+categories: ["Alba", "Breatainn", "Foghlam"]
 
 ---
 

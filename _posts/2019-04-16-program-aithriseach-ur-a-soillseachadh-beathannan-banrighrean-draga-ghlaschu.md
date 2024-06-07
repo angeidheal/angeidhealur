@@ -10,7 +10,7 @@ image: /images/posts/2019-04-16-program-aithriseach-a-soillseachadh-beathannan-b
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte"]
+categories: ["Alba", "Breatainn"]
 
 ---
 

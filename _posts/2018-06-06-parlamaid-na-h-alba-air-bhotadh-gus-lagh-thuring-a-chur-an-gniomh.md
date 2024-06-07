@@ -10,7 +10,7 @@ image: /images/posts/2018-06-06-parlamaid-na-h-alba-air-bhotadh-gus-lagh-thuring
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Lagh", "Poileataigs"]
 
 ---
 

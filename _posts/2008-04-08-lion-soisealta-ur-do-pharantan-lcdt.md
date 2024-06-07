@@ -10,7 +10,7 @@ image: /images/posts/2008-04-08-lion-soisealta-ur-do-pharantan-lcdt.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Teicneòlas"]
+categories: ["Breatainn", "Teicneòlas"]
 
 ---
 

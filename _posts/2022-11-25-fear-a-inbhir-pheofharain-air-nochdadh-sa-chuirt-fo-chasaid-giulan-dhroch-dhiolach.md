@@ -10,7 +10,7 @@ image: /images/posts/2022-11-25-fear-a-inbhir-pheofharain-air-nochdadh-sa-chuirt
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh"]
+categories: ["Alba", "Breatainn", "Lagh"]
 
 ---
 

@@ -10,7 +10,7 @@ image: /images/posts/2019-04-01-planaichean-feis-proise-ghlaschu-air-a-dhiultadh
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Alba", "Breatainn", "Pròis"]
 
 ---
 

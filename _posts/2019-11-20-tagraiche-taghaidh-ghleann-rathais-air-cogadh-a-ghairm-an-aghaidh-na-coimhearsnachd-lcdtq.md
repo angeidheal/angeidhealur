@@ -10,7 +10,7 @@ image: /images/posts/2019-11-20-tagraiche-taghaidh-ghleann-rathais-air-cogadh-a-
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Creideamh", "Poileataigs"]
 
 ---
 

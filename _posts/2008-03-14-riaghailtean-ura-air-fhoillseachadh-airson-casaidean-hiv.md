@@ -10,7 +10,7 @@ image: /images/posts/2008-03-14-riaghailtean-ura-air-fhoillseachadh-airson-casai
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Lagh", "Slàinte"]
+categories: ["Breatainn", "Lagh", "Slàinte"]
 ---
 
 Chaidh riaghailtean ùra fhoillseachadh le Seirbheis Casaid a’ Chrùin an-diugh airson stiùireadh a thoirt do luchd-casaid a’ dèiligeadh ri cùisean-lagha far a bheil daoine air HIV a sgaoileadh a dh’aona-ghnothach.

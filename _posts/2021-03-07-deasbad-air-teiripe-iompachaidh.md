@@ -10,7 +10,7 @@ image: /images/posts/2021-03-07-deasbad-air-teiripe-iompachaidh.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Breatainn", "Lagh", "Poileataigs"]
 
 ---
 

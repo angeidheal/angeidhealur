@@ -10,7 +10,7 @@ image: /images/posts/2018-09-15-a-chiad-feis-proise-airson-na-h-eileanan-an-iar.
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Alba", "Breatainn", "Pròis"]
 
 ---
 

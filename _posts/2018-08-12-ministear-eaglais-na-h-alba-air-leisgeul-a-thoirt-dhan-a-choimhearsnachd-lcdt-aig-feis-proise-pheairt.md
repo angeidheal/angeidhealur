@@ -10,7 +10,7 @@ image: /images/posts/2018-08-12-ministear-eaglais-na-h-alba-air-leisgeul-a-thoir
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh", "Pròis"]
+categories: ["Alba", "Breatainn", "Creideamh", "Pròis"]
 
 ---
 

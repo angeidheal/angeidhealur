@@ -10,7 +10,7 @@ image: /images/posts/2018-11-06-feis-film-lcdt-ri-tilleadh-a-ghlaschu.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Cultar"]
+categories: ["Alba", "Breatainn", "Cultar"]
 
 ---
 

@@ -12,7 +12,7 @@ image: /images/posts/2008-03-14-carthannas-ag-iarraidh-banachdaich-hpv-airson-ba
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Foghlam", "Slàinte"]
+categories: ["Breatainn", "Foghlam", "Slàinte"]
 
 ---
 

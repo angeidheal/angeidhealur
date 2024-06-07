@@ -10,7 +10,7 @@ image: /images/posts/2008-06-22-bile-ur-a-brosnachadh-co-ionannachd-do-dhaoine-l
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Breatainn", "Lagh", "Poileataigs"]
 
 ---
 

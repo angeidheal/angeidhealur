@@ -10,7 +10,7 @@ image: /images/posts/2022-11-20-lionra-ur-ann-do-dhalbannaich-lgdtc-nas-sine-na-
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Poileataigs"]
 
 ---
 

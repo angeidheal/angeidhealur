@@ -10,7 +10,7 @@ image: /images/posts/2008-04-08-cardiff-an-duil-ri-feis-proise-a-chumail-am-blia
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Breatainn", "Pròis"]
 
 ---
 

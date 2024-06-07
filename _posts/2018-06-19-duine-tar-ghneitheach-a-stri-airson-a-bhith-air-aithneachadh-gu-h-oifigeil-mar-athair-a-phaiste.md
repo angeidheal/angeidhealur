@@ -10,7 +10,7 @@ image: /images/posts/2018-06-19-duine-tar-ghneitheach-a-stri-airson-a-bhith-air-
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Lagh"]
+categories: ["Breatainn", "Lagh"]
 
 ---
 

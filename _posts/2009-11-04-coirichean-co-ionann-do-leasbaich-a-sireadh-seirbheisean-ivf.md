@@ -10,7 +10,7 @@ image: /images/posts/2009-11-04-coirichean-co-ionann-do-leasbaich-a-sireadh-seir
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Slàinte"]
+categories: ["Alba", "Breatainn", "Slàinte"]
 
 ---
 

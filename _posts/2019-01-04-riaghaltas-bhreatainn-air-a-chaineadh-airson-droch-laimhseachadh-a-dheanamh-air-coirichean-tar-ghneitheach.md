@@ -10,7 +10,7 @@ image: /images/posts/2019-01-04-riaghaltas-bhreatainn-air-a-chaineadh-airson-dro
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Poileataigs"]
+categories: ["Breatainn", "Poileataigs"]
 
 ---
 

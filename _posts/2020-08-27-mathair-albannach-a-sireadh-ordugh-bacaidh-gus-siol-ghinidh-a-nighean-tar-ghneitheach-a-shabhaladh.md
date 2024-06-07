@@ -10,7 +10,7 @@ image: /images/posts/2020-08-27-mathair-albannach-a-sireadh-ordugh-bacaidh-gus-s
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Slàinte"]
+categories: ["Alba", "Breatainn", "Lagh", "Slàinte"]
 
 ---
 

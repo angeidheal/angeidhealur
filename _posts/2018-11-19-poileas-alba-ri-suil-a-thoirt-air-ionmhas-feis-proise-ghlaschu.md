@@ -10,7 +10,7 @@ image: /images/posts/2018-11-19-poileas-alba-ri-suil-a-thoirt-air-ionmhas-feis-p
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Pròis"]
+categories: ["Alba", "Breatainn", "Lagh", "Pròis"]
 
 ---
 

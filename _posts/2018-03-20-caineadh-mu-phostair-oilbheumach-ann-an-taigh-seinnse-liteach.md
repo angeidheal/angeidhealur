@@ -10,7 +10,7 @@ image: /images/posts/2018-03-20-caineadh-mu-phostair-oilbheumach-ann-an-taigh-se
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Gnìomhachas"]
+categories: ["Alba", "Breatainn", "Gnìomhachas"]
 
 ---
 

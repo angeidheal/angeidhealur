@@ -10,7 +10,7 @@ image: /images/posts/2022-03-15-co-ionannachd-posaidh-ann-am-bermuda-agus-na-h-e
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Poileataigs"]
+categories: ["Breatainn", "Eadar-nàiseanta", "Poileataigs"]
 
 ---
 

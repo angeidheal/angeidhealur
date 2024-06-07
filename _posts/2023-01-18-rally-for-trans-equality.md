@@ -10,7 +10,7 @@ image: /images/posts/2023-01-18-rally-for-trans-equality.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Lagh", "Poileataigs"]
 
 mastodon: https://mastodon.scot/@angeidhealur/109708520061823430
 

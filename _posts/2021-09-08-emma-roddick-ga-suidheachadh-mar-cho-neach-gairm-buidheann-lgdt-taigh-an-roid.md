@@ -10,7 +10,7 @@ image: /images/posts/2021-09-08-emma-roddick-ga-suidheachadh-mar-cho-neach-gairm
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Poileataigs"]
 
 ---
 

@@ -10,7 +10,7 @@ image: /images/posts/2018-09-26-comhairle-air-cead-a-thoirt-seachad-airson-feis-
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte"]
+categories: ["Alba", "Breatainn"]
 
 ---
 

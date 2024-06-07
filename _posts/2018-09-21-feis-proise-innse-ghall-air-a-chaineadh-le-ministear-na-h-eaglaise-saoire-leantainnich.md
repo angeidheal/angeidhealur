@@ -10,7 +10,7 @@ image: /images/posts/2018-09-21-feis-proise-innse-ghall-air-a-chaineadh-le-minis
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh", "Pròis"]
+categories: ["Alba", "Breatainn", "Creideamh", "Pròis"]
 
 ---
 

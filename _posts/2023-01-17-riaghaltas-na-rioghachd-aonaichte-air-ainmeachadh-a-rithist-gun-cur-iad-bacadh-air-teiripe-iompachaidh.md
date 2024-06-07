@@ -10,7 +10,7 @@ image: /images/posts/2023-01-17-riaghaltas-na-rioghachd-aonaichte-air-ainmeachad
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Breatainn", "Lagh", "Poileataigs"]
 
 mastodon: https://mastodon.scot/@angeidhealur/109706498224874068
 

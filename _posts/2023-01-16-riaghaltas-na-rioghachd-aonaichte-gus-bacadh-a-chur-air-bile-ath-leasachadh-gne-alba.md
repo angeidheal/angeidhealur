@@ -10,7 +10,7 @@ image: /images/posts/2023-01-16-riaghaltas-na-rioghachd-aonaichte-gus-bacadh-a-c
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Lagh", "Poileataigs"]
 
 mastodon: https://mastodon.scot/@angeidhealur/109700453425621855
 

@@ -10,7 +10,7 @@ image: /images/posts/2019-01-04-direach-da-charaid-aon-sheorsach-air-leanabh-uch
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte"]
+categories: ["Breatainn"]
 
 ---
 

@@ -10,7 +10,7 @@ image: /images/posts/2009-05-25-bbc-alba-deasbad-a-leantainn-mu-mhinistearan-gei
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh"]
+categories: ["Alba", "Breatainn", "Creideamh"]
 
 ---
 

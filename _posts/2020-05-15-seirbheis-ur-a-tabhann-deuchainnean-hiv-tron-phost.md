@@ -10,7 +10,7 @@ image: /images/posts/2020-05-15-seirbheis-ur-a-tabhann-deuchainnean-hiv-tron-pho
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Slàinte"]
+categories: ["Alba", "Breatainn", "Slàinte"]
 
 ---
 

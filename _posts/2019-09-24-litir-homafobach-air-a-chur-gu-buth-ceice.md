@@ -10,7 +10,7 @@ image: /images/posts/2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Gnìomhachas"]
+categories: ["Alba", "Breatainn", "Gnìomhachas"]
 
 ---
 

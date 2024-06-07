@@ -10,7 +10,7 @@ image: /images/posts/2023-01-09-dh-fhaodadh-gum-bi-teisteanasan-aithneachadh-gne
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Lagh", "Poileataigs"]
 
 ---
 

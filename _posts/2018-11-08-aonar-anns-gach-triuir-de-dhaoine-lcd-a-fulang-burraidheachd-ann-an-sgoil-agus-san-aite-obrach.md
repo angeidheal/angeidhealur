@@ -10,7 +10,7 @@ image: /images/posts/2018-11-08-aonar-anns-gach-triuir-de-dhaoine-lcd-a-fulang-b
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Foghlam", "Gnìomhachas"]
+categories: ["Breatainn", "Foghlam", "Gnìomhachas"]
 
 ---
 

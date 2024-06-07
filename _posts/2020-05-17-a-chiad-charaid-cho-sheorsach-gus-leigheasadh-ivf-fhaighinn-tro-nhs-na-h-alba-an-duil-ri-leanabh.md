@@ -10,7 +10,7 @@ image: /images/posts/2020-05-17-a-chiad-charaid-cho-sheorsach-gus-leigheasadh-iv
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Saidheans", "Slàinte"]
+categories: ["Alba", "Breatainn", "Saidheans", "Slàinte"]
 
 ---
 

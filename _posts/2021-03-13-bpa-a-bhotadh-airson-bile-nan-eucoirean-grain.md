@@ -10,7 +10,7 @@ image: /images/posts/2021-03-13-bpa-a-bhotadh-airson-bile-nan-eucoirean-grain.we
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Lagh", "Poileataigs"]
 
 ---
 

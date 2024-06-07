@@ -10,7 +10,7 @@ image: /images/posts/2018-07-18-luchd-poileataigs-liberalach-air-a-chaineadh-air
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Poileataigs"]
+categories: ["Breatainn", "Eadar-nàiseanta", "Poileataigs"]
 
 ---
 

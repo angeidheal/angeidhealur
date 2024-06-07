@@ -10,7 +10,7 @@ image: /images/posts/2018-10-07-oraidean-feis-proise-inbhir-nis-2018.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Alba", "Breatainn", "Pròis"]
 ---
 
 Bhidiothan dhe na h-òraidean aig Fèis-pròise Inbhir Nis 2018.

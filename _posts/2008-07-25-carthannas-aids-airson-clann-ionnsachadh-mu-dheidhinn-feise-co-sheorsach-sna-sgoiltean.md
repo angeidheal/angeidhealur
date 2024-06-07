@@ -10,7 +10,7 @@ image: /images/posts/2008-07-25-carthannas-aids-airson-clann-ionnsachadh-mu-dhei
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Foghlam", "Slàinte"]
+categories: ["Breatainn", "Foghlam", "Slàinte"]
 
 ---
 

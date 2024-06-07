@@ -10,7 +10,7 @@ image: /images/posts/2020-01-04-fireannach-fo-chasaid-ionnsaigh-a-thoirt-air-deu
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh"]
+categories: ["Alba", "Breatainn", "Lagh"]
 
 ---
 

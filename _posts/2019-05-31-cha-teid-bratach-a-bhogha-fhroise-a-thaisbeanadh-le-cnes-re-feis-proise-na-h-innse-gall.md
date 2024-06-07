@@ -10,7 +10,7 @@ image: /images/posts/2019-05-31-cha-teid-bratach-a-bhogha-fhroise-a-thaisbeanadh
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs", "Pròis"]
+categories: ["Alba", "Breatainn", "Poileataigs", "Pròis"]
 
 ---
 

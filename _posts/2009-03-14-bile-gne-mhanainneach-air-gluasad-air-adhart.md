@@ -10,7 +10,7 @@ image: /images/posts/2009-03-14-bile-gne-mhanainneach-air-gluasad-air-adhart.web
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Eilean Mhanainn", "Lagh", "Poileataigs"]
+categories: ["Breatainn", "Eadar-nàiseanta", "Eilean Mhanainn", "Lagh", "Poileataigs"]
 
 ---
 

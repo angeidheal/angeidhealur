@@ -10,7 +10,7 @@ image: /images/posts/2009-03-24-gearanan-a-cur-bacadh-air-ministear-co-sheorsach
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh"]
+categories: ["Alba", "Breatainn", "Creideamh"]
 
 ---
 

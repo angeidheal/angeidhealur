@@ -10,7 +10,7 @@ image: /images/posts/2009-07-20-a-chiad-seirbheis-aon-sheorsach-eilean-leodhais-
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte"]
+categories: ["Alba", "Breatainn"]
 
 ---
 

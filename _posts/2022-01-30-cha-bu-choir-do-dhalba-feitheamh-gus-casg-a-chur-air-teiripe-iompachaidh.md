@@ -10,7 +10,7 @@ image: /images/posts/2022-01-30-cha-bu-choir-do-dhalba-feitheamh-gus-casg-a-chur
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte"]
+categories: ["Alba", "Breatainn"]
 
 ---
 

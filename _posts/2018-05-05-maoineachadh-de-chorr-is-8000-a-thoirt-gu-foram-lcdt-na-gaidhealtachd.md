@@ -10,7 +10,7 @@ image: /images/posts/2018-05-05-maoineachadh-de-chorr-is-8000-a-thoirt-gu-foram-
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Alba", "Breatainn", "Pròis"]
 
 ---
 

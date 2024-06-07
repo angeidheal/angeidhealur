@@ -10,7 +10,7 @@ image: /images/posts/2017-11-26-riaghailtean-nas-fuasgailte-a-thaobh-fireannaich
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs", "Slàinte"]
+categories: ["Alba", "Breatainn", "Lagh", "Poileataigs", "Slàinte"]
 
 ---
 

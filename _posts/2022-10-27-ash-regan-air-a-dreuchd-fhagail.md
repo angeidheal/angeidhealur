@@ -10,7 +10,7 @@ image: /images/posts/2022-10-27-ash-regan-air-a-dreuchd-fhagail.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Poileataigs"]
 
 ---
 

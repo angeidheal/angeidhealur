@@ -10,7 +10,7 @@ image: /images/posts/2022-03-23-co-chomhairleachadh-air-bile-ath-leasachadh-aith
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Poileataigs"]
 
 ---
 

@@ -10,7 +10,7 @@ image: /images/posts/2020-04-05-stad-air-a-chur-air-an-obair-gus-achd-aithneacha
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs", "Slàinte"]
+categories: ["Alba", "Breatainn", "Lagh", "Poileataigs", "Slàinte"]
 
 ---
 

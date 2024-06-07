@@ -10,7 +10,7 @@ image: /images/posts/2018-03-28-geidh-uk-agus-pink-saltire-gu-bhith-co-obrachadh
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Blog", "Gàidhlig"]
+categories: ["Alba", "Breatainn", "Blog", "Gàidhlig"]
 
 ---
 

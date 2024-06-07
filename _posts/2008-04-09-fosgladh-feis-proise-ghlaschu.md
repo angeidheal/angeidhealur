@@ -10,7 +10,7 @@ image: /images/posts/2008-04-09-fosgladh-pride-glaschu.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Alba", "Breatainn", "Pròis"]
 
 ---
 

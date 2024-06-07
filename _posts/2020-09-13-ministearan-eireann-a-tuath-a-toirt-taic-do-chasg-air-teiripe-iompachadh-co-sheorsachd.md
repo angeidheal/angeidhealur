@@ -10,7 +10,7 @@ image: /images/posts/2020-09-13-ministearan-eireann-a-tuath-a-toirt-taic-do-chas
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Breatainn", "Lagh", "Poileataigs"]
 
 ---
 

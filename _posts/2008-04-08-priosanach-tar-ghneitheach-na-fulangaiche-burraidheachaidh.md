@@ -10,7 +10,7 @@ image: /images/posts/2008-04-08-priosanach-tar-ghneitheach-na-fulangaiche-burrai
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Lagh"]
+categories: ["Breatainn", "Lagh"]
 
 ---
 

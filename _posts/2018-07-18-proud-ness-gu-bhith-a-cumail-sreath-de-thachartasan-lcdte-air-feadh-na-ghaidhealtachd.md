@@ -10,7 +10,7 @@ image: /images/posts/2018-07-18-proud-ness-gu-bhith-a-cumail-sreath-de-thacharta
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Alba", "Breatainn", "Pròis"]
 
 ---
 

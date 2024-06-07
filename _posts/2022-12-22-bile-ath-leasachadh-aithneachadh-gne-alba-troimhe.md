@@ -10,7 +10,7 @@ image: /images/posts/2022-12-22-bile-ath-leasachadh-aithneachadh-gne-alba-troimh
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Lagh", "Poileataigs"]
 
 ---
 

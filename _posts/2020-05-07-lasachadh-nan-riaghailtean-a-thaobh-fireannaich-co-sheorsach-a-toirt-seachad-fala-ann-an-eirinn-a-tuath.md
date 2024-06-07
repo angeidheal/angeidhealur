@@ -10,7 +10,7 @@ image: /images/posts/2020-05-07-lasachadh-nan-riaghailtean-a-thaobh-fireannaich-
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Slàinte"]
+categories: ["Breatainn", "Slàinte"]
 
 ---
 

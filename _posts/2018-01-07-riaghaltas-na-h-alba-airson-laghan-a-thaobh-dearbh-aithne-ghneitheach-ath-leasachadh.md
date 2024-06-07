@@ -10,7 +10,7 @@ image: /images/posts/2018-01-07-riaghaltas-na-h-alba-airson-laghan-a-thaobh-dear
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Lagh", "Poileataigs"]
 
 ---
 

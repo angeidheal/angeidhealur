@@ -10,7 +10,7 @@ image: /images/posts/2020-01-14-bbc-news-pileat-le-hiv-a-cur-an-aghaidh-stiogma.
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Gnìomhachas", "Lagh", "Slàinte"]
+categories: ["Alba", "Breatainn", "Gnìomhachas", "Lagh", "Slàinte"]
 
 ---
 

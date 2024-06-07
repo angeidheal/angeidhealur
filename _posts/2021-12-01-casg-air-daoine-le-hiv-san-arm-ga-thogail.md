@@ -10,7 +10,7 @@ image: /images/posts/2021-12-01-casg-air-daoine-le-hiv-san-arm-ga-thogail.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Slàinte"]
+categories: ["Breatainn", "Slàinte"]
 
 ---
 

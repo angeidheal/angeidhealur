@@ -10,7 +10,7 @@ image: /images/posts/2008-03-17-gearanan-mu-dheidhinn-sanasan-co-sheorsach-air-a
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Foghlam"]
+categories: ["Breatainn", "Foghlam"]
 
 ---
 

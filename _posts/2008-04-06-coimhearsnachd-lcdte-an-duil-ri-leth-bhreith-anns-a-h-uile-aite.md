@@ -10,7 +10,7 @@ image: /images/posts/2008-04-06-coimhearsnachd-lcdte-an-duil-ri-leth-bhreith-ann
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Foghlam", "Gnìomhachas", "Poileataigs"]
+categories: ["Breatainn", "Foghlam", "Gnìomhachas", "Poileataigs"]
     
 ---
 

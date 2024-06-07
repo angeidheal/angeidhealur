@@ -11,7 +11,7 @@ image: /images/posts/2022-10-27-bile-ath-leasachadh-aithneachadh-gne-alba-air-ao
 author: Crìstean MacMhìcheil
 
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Poileataigs"]
 
 ---
 

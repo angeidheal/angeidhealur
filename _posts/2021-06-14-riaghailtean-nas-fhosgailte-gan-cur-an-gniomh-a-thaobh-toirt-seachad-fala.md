@@ -10,7 +10,7 @@ image: /images/posts/2021-06-14-riaghailtean-nas-fhosgailte-gan-cur-an-gniomh-a-
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Slàinte"]
+categories: ["Alba", "Breatainn", "Slàinte"]
 
 ---
 

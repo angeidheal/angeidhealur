@@ -10,7 +10,7 @@ image: /images/posts/Lily-Savage.jpeg
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Cultar"]
+categories: ["Breatainn", "Cultar"]
 
 ---
 

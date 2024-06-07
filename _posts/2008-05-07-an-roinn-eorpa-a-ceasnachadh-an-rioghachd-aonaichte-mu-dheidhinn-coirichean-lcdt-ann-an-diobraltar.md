@@ -10,7 +10,7 @@ image: /images/posts/2008-05-07-an-roinn-eorpa-a-ceasnachadh-an-rioghachd-aonaic
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Lagh", "Poileataigs"]
+categories: ["Breatainn", "Eadar-nàiseanta", "Lagh", "Poileataigs"]
 
 ---
 

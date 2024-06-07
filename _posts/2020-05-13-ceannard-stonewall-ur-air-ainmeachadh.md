@@ -10,7 +10,7 @@ image: /images/posts/2020-05-13-ceannard-stonewall-ur-air-ainmeachadh.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte"]
+categories: ["Breatainn"]
 
 ---
 

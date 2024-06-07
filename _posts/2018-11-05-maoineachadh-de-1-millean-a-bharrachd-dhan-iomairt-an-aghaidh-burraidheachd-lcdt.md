@@ -10,7 +10,7 @@ image: /images/posts/2018-11-05-maoineachadh-de-1-millean-a-bharrachd-dhan-iomai
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Foghlam"]
+categories: ["Breatainn", "Foghlam"]
 
 ---
 

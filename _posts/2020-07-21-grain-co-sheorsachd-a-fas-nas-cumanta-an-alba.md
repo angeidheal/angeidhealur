@@ -10,7 +10,7 @@ image: /images/posts/2020-07-21-grain-co-sheorsachd-a-fas-nas-cumanta-an-alba.we
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh"]
+categories: ["Alba", "Breatainn", "Lagh"]
 
 ---
 

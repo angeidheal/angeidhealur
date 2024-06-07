@@ -10,7 +10,7 @@ image: /images/posts/2022-10-17-partaidh-uaine-na-h-alba-airson-a-cheangal-eadar
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Poileataigs"]
 
 ---
 

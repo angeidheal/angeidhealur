@@ -12,7 +12,7 @@ image: /images/posts/2008-03-14-easbaig-a-caineadh-a-choimhearsnachd-lcdte.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh"]
+categories: ["Alba", "Breatainn", "Creideamh"]
 
 ---
 

@@ -10,7 +10,7 @@ image: /images/posts/2009-03-13-deasbad-mu-dhaoine-co-sheorsach-a-toirt-seachad-
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs", "Slàinte"]
+categories: ["Alba", "Breatainn", "Lagh", "Poileataigs", "Slàinte"]
 
 ---
 

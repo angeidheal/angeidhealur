@@ -10,7 +10,7 @@ image: /images/posts/2022-02-17-program-sonraichte-de-eorpa-a-coimhead-ri-cuspai
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Cultar", "Gàidhlig"]
+categories: ["Alba", "Breatainn", "Cultar", "Gàidhlig"]
 
 ---
 

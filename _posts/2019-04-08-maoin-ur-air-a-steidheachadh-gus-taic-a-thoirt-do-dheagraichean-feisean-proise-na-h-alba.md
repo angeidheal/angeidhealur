@@ -10,7 +10,7 @@ image: /images/posts/2019-04-08-maoin-ur-air-a-steidheachadh-gus-taic-a-thoirt-d
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Alba", "Breatainn", "Pròis"]
 
 ---
 

@@ -10,7 +10,7 @@ author: Crìstean MacMhìcheil
 
 image: /images/posts/2018-09-19-corr-s-14000-air-na-h-ainmean-aca-a-chur-ri-athchuingean-airson-feis-proise-inbhir-nis-a-dhol-air-adhart.webp
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh", "Pròis"]
+categories: ["Alba", "Breatainn", "Creideamh", "Pròis"]
 
 ---
 

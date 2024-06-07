@@ -10,7 +10,7 @@ image: /images/posts/2011-01-01-sgoilearan-sussex-a-deanamh-sabaid-air-grain-co-
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Foghlam"]
+categories: ["Breatainn", "Foghlam"]
 
 ---
 

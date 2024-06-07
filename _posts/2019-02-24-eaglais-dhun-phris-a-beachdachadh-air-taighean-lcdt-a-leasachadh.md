@@ -10,7 +10,7 @@ author: Crìstean MacMhìcheil
 
 image: /images/posts/2019-02-24-eaglais-dhun-phris-a-beachdachadh-air-taighean-lgbt-a-leasachadh.webp
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh"]
+categories: ["Alba", "Breatainn", "Creideamh"]
 
 ---
 

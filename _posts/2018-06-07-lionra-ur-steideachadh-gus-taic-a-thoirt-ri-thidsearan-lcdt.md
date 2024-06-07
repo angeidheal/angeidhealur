@@ -10,7 +10,7 @@ image: /images/posts/2018-06-07-lionra-ur-steideachadh-gus-taic-a-thoirt-ri-thid
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Foghlam"]
+categories: ["Breatainn", "Foghlam"]
 
 ---
 

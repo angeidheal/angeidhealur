@@ -10,7 +10,7 @@ image: /images/posts/2018-09-19-mfr-agallamh-le-donald-morrison-a-thoisich-athch
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh", "Pròis"]
+categories: ["Alba", "Breatainn", "Creideamh", "Pròis"]
 
 ---
 

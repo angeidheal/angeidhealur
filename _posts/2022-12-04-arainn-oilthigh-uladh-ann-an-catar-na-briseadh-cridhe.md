@@ -10,7 +10,7 @@ image: /images/posts/2022-12-04-arainn-oilthigh-uladh-ann-an-catar-na-briseadh-c
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Foghlam"]
+categories: ["Breatainn", "Eadar-nàiseanta", "Foghlam"]
 
 ---
 

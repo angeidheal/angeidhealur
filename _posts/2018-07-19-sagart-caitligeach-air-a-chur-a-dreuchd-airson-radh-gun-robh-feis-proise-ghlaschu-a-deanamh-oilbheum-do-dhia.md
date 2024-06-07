@@ -10,7 +10,7 @@ image: /images/posts/2018-07-19-sagart-caitligeach-air-a-chur-a-dreuchd-airson-r
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh", "Pròis"]
+categories: ["Alba", "Breatainn", "Creideamh", "Pròis"]
 
 ---
 

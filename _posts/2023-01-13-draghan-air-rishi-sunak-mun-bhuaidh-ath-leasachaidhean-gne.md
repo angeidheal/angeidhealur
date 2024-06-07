@@ -10,7 +10,7 @@ image: /images/posts/2023-01-13-draghan-air-rishi-sunak-mun-bhuaidh-ath-leasacha
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Lagh", "Poileataigs"]
 
 ---
 

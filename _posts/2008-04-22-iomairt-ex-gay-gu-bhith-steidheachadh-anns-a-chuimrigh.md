@@ -10,7 +10,7 @@ image: /images/posts/2008-04-22-iomairt-ex-gay-gu-bhith-steidheachadh-anns-a-chu
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Creideamh"]
+categories: ["Breatainn", "Creideamh"]
 
 ---
 

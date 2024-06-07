@@ -10,7 +10,7 @@ image: /images/posts/2018-06-19-bpa-snp-a-caineadh-bile-nan-eucoirean-feise.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Lagh", "Poileataigs"]
 
 ---
 

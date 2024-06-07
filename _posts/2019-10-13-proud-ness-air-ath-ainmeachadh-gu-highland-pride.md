@@ -10,7 +10,7 @@ image: /images/posts/2019-10-13-proud-ness-air-ath-ainmeachadh-gu-highland-pride
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Alba", "Breatainn", "Pròis"]
 
 ---
 

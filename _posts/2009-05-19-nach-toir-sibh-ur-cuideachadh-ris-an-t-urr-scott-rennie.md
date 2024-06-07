@@ -10,7 +10,7 @@ image: /images/posts/2009-05-19-nach-toir-sibh-ur-cuideachadh-ris-an-t-urr-scott
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh"]
+categories: ["Alba", "Breatainn", "Creideamh"]
 
 ---
 

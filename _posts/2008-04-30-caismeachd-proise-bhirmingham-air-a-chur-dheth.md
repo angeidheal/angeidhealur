@@ -10,7 +10,7 @@ image: /images/posts/2008-04-30-caismeachd-proise-bhirmingham-air-a-chur-dheth.w
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Breatainn", "Pròis"]
 
 ---
 

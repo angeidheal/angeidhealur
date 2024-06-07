@@ -10,7 +10,7 @@ image: /images/posts/2019-08-19-corr-is-9000-an-lathair-aig-feis-proise-ghlaschu
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Alba", "Breatainn", "Pròis"]
 
 ---
 

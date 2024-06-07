@@ -8,7 +8,7 @@ title: "Rishi Sunak a’ dèanamh fanaid air boireannaich tar-ghnèitheach"
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Poileataigs"]
+categories: ["Breatainn", "Poileataigs"]
 
 ---
 

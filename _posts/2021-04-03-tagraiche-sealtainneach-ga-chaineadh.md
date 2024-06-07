@@ -10,7 +10,7 @@ image: /images/posts/2021-04-03-tagraiche-sealtainneach-ga-chaineadh.webp
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Creideamh", "Poileataigs"]
 
 ---
 

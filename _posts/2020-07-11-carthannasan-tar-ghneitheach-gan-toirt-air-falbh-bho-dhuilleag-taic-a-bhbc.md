@@ -10,7 +10,7 @@ image: /images/posts/2020-07-11-carthannasan-tar-ghneitheach-gan-toirt-air-falbh
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Slàinte"]
+categories: ["Breatainn", "Slàinte"]
 
 ---
 

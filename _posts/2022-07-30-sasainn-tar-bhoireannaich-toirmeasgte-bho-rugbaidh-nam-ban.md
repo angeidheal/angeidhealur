@@ -10,7 +10,7 @@ image: /images/posts/2022-07-30-sasainn-tar-bhoireannaich-toirmeasgte-bho-rugbai
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Spòrs"]
+categories: ["Breatainn", "Spòrs"]
 
 ---
 

@@ -10,7 +10,7 @@ image: /images/posts/2019-01-22-connspaid-mu-dheidhinn-posadh-aon-sheorsach-ag-a
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Creideamh"]
+categories: ["Alba", "Breatainn", "Creideamh"]
 
 ---
 

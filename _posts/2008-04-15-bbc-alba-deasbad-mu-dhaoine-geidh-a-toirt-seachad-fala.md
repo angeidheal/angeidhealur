@@ -10,7 +10,7 @@ image: /images/posts/2008-04-15-bbc-alba-deasbad-mu-dhaoine-geidh-a-toirt-seacha
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs", "Saidheans", "Slàinte"]
+categories: ["Alba", "Breatainn", "Lagh", "Poileataigs", "Saidheans", "Slàinte"]
 
 ---
 

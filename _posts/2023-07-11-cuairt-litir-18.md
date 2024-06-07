@@ -12,7 +12,7 @@ image: /images/icons/cuairt-litir.png
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Cuairt-litir", "Èirinn", "Lagh", "Poileataigs", "Pròis", "Spòrs"]
+categories: ["Breatainn", "Eadar-nàiseanta", "Cuairt-litir", "Èirinn", "Lagh", "Poileataigs", "Pròis", "Spòrs"]
 ---
 
 Geàrr-chunntas sgrìobhte de naidheachdan LGDTC+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.

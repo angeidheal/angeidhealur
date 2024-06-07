@@ -10,7 +10,7 @@ image: /images/posts/2008-04-22-nhs-anns-a-chuimrigh-airson-seirbheisean-co-iona
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Poileataigs", "Slàinte"]
+categories: ["Breatainn", "Poileataigs", "Slàinte"]
 
 ---
 

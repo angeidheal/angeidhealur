@@ -10,7 +10,7 @@ image: /images/posts/2020-12-14-fireannaich-geidh-agus-da-sheorsach-gu-bhith-com
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte"]
+categories: ["Alba", "Breatainn"]
 
 ---
 

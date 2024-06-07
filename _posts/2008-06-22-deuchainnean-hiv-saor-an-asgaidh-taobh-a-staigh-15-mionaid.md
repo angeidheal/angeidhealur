@@ -10,7 +10,7 @@ image: /images/posts/2008-06-22-deuchainnean-hiv-saor-an-asgaidh-taobh-a-staigh-
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Slàinte"]
+categories: ["Breatainn", "Slàinte"]
 
 ---
 

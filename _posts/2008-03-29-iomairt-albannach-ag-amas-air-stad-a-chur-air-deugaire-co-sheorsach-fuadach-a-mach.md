@@ -10,7 +10,7 @@ image: /images/posts/2008-03-29-iomairt-albannach-ag-amas-air-stad-a-chur-air-de
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Lagh", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Eadar-nàiseanta", "Lagh", "Poileataigs"]
 
 ---
 

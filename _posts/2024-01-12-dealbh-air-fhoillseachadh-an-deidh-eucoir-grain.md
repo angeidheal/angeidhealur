@@ -10,7 +10,7 @@ image: /images/posts/2024-01-12-dealbh-air-fhoillseachadh-an-deidh-eucoir-grain.
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", “Lagh”]
+categories: ["Breatainn", “Lagh”]
   
 ---
 

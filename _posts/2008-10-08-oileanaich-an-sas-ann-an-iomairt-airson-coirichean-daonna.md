@@ -10,7 +10,7 @@ image: /images/posts/2008-10-08-oileanaich-an-sas-ann-an-iomairt-airson-coiriche
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Poileataigs"]
+categories: ["Breatainn", "Eadar-nàiseanta", "Poileataigs"]
 
 ---
 

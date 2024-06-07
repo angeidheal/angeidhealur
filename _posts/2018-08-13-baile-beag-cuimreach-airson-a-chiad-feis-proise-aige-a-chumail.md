@@ -10,7 +10,7 @@ image: /images/posts/2018-08-13-baile-beag-cuimreach-airson-a-chiad-feis-proise-
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Breatainn", "Pròis"]
 
 ---
 

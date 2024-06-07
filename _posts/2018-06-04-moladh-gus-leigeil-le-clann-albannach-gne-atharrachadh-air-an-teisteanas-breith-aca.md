@@ -10,7 +10,7 @@ image: /images/posts/2018-06-04-moladh-gus-leigeil-le-clann-albannach-gne-atharr
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Lagh", "Poileataigs"]
 
 ---
 

@@ -10,7 +10,7 @@ image: /images/posts/2019-02-21-david-mundell-b-e-tighinn-a-mach-aon-de-na-rudan
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Poileataigs"]
 
 ---
 

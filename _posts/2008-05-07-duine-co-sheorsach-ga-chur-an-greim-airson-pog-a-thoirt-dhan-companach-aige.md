@@ -10,7 +10,7 @@ image: /images/posts/2008-05-07-duine-co-sheorsach-ga-chur-an-greim-airson-pog-a
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Lagh"]
+categories: ["Breatainn", "Eadar-nàiseanta", "Lagh"]
 
 ---
 

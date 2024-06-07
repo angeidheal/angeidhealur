@@ -10,7 +10,7 @@ image: /images/posts/2018-07-15-nicola-sturgeon-na-h-ard-mharasgal-na-caismeachd
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs", "Pròis"]
+categories: ["Alba", "Breatainn", "Poileataigs", "Pròis"]
 
 ---
 

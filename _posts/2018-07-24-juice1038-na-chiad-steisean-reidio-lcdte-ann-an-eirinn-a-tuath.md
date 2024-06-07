@@ -10,7 +10,7 @@ image: /images/posts/2018-07-24-juice1038-na-chiad-steisean-reidio-lcdte-ann-an-
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Cultar"]
+categories: ["Breatainn", "Cultar"]
 
 ---
 

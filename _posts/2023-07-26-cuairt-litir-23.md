@@ -12,7 +12,7 @@ image: /images/icons/cuairt-litir.png
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Cuairt-litir", "Eadar-nàiseanta", "Foghlam", "Lagh", "Poileataigs", "Slàinte", "Spòrs"]
+categories: ["Breatainn", "Cuairt-litir", "Eadar-nàiseanta", "Foghlam", "Lagh", "Poileataigs", "Slàinte", "Spòrs"]
 
 ---
 

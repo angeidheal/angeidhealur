@@ -10,7 +10,7 @@ image: /images/posts/2020-08-23-am-priosan-do-dh-athair-a-thug-ionnsaigh-air-a-m
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Lagh"]
+categories: ["Breatainn", "Lagh"]
 
 ---
 

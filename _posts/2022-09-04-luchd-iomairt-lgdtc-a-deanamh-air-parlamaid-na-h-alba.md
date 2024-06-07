@@ -10,7 +10,7 @@ image: /images/posts/2022-09-04-luchd-iomairt-a-deanamh-air-parlamaid-na-h-alba.
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Poileataigs"]
 
 ---
 

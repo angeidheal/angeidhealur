@@ -10,7 +10,7 @@ image: /images/posts/2008-04-25-oileanaich-air-feadh-nan-staitean-aonaichte-nan-
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Foghlam"]
+categories: ["Breatainn", "Eadar-nàiseanta", "Foghlam"]
 
 ---
 

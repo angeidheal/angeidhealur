@@ -10,7 +10,7 @@ image: /images/posts/2018-04-19-parlamaid-na-h-alba-a-toirt-taic-ri-lagh-thuring
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Lagh", "Poileataigs"]
+categories: ["Alba", "Breatainn", "Lagh", "Poileataigs"]
 
 ---
 

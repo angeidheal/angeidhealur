@@ -10,7 +10,7 @@ image: /images/posts/2018-10-10-an-t-oban-airson-a-chiad-feis-proise-aca-a-chuma
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Pròis"]
+categories: ["Alba", "Breatainn", "Pròis"]
 
 ---
 

@@ -10,7 +10,7 @@ image: /images/posts/2022-02-21-cead-ga-thoirt-do-gach-neach-an-gne-fhein-a-thag
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte"]
+categories: ["Alba", "Breatainn"]
 
 ---
 

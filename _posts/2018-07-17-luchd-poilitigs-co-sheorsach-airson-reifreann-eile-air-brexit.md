@@ -10,7 +10,7 @@ image: /images/posts/2018-07-17-luchd-poileataigs-co-sheorsach-airson-reifreann-
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Eadar-nàiseanta", "Poileataigs"]
+categories: ["Breatainn", "Eadar-nàiseanta", "Poileataigs"]
 
 ---
 

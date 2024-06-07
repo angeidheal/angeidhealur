@@ -10,7 +10,7 @@ image: /images/posts/2022-01-06-cuis-lagha-an-aghaidh-taigh-fhuine-ann-am-beul-f
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Gnìomhachas", "Lagh"]
+categories: ["Breatainn", "Gnìomhachas", "Lagh"]
 
 ---
 

@@ -10,7 +10,7 @@ image: /images/posts/2019-01-28-leigheas-siolachadh-in-bhiotro-air-a-thabhann-do
 
 author: Crìstean MacMhìcheil
 
-categories: ["Alba", "An Rìoghachd Aonaichte", "Saidheans", "Slàinte"]
+categories: ["Alba", "Breatainn", "Saidheans", "Slàinte"]
 
 ---
 

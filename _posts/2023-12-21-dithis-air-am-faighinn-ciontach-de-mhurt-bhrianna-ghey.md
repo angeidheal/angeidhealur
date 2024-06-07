@@ -12,7 +12,7 @@ image: /images/posts/2023-12-21-dithis-air-am-faighinn-ciontach-de-mhurt-bhriann
 
 author: Crìstean MacMhìcheil
 
-categories: ["An Rìoghachd Aonaichte", "Lagh"]
+categories: ["Breatainn", "Lagh"]
   
 ---
 
