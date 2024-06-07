@@ -18,10 +18,10 @@
   url: /mu-ar-dheidhinn
   description: Mu mo dheidhinn | About Us
 
-- title: Lorg
-  url: /lorg
-  description: Lorg | Search
-
 - title: Bùth
   url: https://angeidhealur.myspreadshop.co.uk/
   description: Bùth-bhathair | Merch store
+
+- title: Lorg
+  url: /lorg
+  description: Lorg | Search
