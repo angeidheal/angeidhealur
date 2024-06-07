@@ -4,7 +4,7 @@ layout: page
 
 title: Ceanglaichean
 
-image: /images/icons/Substack_Social_Preview.png
+image: /images/icons/cuairt-litir.png
 
 permalink: /ceanglaichean/
 
