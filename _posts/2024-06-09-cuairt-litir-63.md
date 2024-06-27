@@ -46,7 +46,7 @@ Tha Pàrtaidh Poblachdach Cholorado air post-d a chur a-mach dhan bhuill aca ann
 
 An lùib a' phuist-d (a ghabhas a leughadh gu h-ìosal), tha bhideo air a bheil "God Hates Flags", a chaidh a thogail bho searmon a rinn An t-Aoghaire Mark Driscoll an aghaidh daoine LGDTC+.
 
-<div class="youtube-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/xvWN4tv4ddg?si=f7gAZB8UXjbdW-ua" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<p class="youtube-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/xvWN4tv4ddg?si=f7gAZB8UXjbdW-ua" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 <blockquote>
 
