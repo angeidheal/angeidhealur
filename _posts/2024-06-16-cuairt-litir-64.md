@@ -2,7 +2,7 @@
 
 layout: post
 
-date: 2024-06-016 08:28
+date: 2024-06-16 08:28
 
 title: "Cuairt-litir #64"
 
