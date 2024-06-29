@@ -26,7 +26,7 @@ Dh'obraich i aig IBM anns na 1960an, ach chaidh a chur às a dreuchd ann an 1968
 
 Rinn i an uair sin eadar-ghluasad ann an uaigneas, mus do thoisich i ag obair aig Xerox PARC ann an 1973.
 
-Bha an obair a rinn i aig IBM agus Xerox PARC air leth chudromach ann a bhith a' dèanamh e nas fhasa meanbh-sgealban (_microchips_) a dhealbhadh agus a shaothrachadh
+Bha an obair a rinn i aig IBM agus Xerox PARC air leth chudromach ann a bhith a' dèanamh e nas fhasa meanbh-sgealban (_microchips_) a dhealbhadh agus a shaothrachadh.
 
 Ann an 1985 chaidh i na ollamh ann an einnseanaireachd-dealain agus saidheans-compiutaireachd aig Oilthigh Mhichigan gus an do leig i dheth a dreuchd ann an 1998.
 
