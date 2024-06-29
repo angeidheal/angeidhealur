@@ -30,7 +30,7 @@ Bha an obair a rinn i aig IBM agus Xerox PARC air leth chudromach ann a bhith a'
 
 Ann an 1985 chaidh i na ollamh ann an einnseanaireachd-dealain agus saidheans-compiutaireachd aig Oilthigh Mhichigan gus an do leig i dheth a dreuchd ann an 1998.
 
-Thàinig i a-mach mar thar-ghnèitheach ann an 1999/2000 agus thoisich i a' sgrìobhadh mu a beatha air an làrach-lìn aice. Cuideachd chleachd i an làrach-lìn aice naidheachdan agus goireasan a thoirt seachad do luchd tar-ghnèitheach eile.
+Thàinig i a-mach mar thar-ghnèitheach ann an 1999/2000 agus thoisich i a' sgrìobhadh mu a beatha air an làrach-lìn aice. Cuideachd chleachd i an làrach-lìn aice gus naidheachdan agus goireasan a thoirt seachad do luchd tar-ghnèitheach eile.
 
 Rinn IBM leisgeul oifigeil dhi ann an 2020, agus dh'aidich iad gun robh an obair aice air leth chudromach dhan t-soirbheas aca.
 
