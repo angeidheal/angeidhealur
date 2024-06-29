@@ -18,7 +18,7 @@ Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bh
 
 ## Lynn Conway
 
-Tha luaidh ga' dhèanamh air Lynn Conway a th' air bàsachadh aig aois 86.
+Tha luaidh ga dhèanamh air Lynn Conway a th' air bàsachadh aig aois 86.
 
 B' e eòlaiche coimpiutaireachd, einnseanair-dealain agus gnìomhaiche airson còraichean tar-ghnèitheach a bh' innte.
 
