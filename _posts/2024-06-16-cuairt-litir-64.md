@@ -72,6 +72,12 @@ Chaidh an tachartas ainmeachadh sa Ghiblean agus bha dùil gun tèid air adhart 
 
 Thuirt a' chòisir gu bheil leth-iongnadh orra, gu h-àraid air sgàth 's gun do chùm còisir LGDTC+ eile cuirm-chiùil san aon eaglais an-uiridh.
 
+## Pròis Bhaltimore
+
+Chaidh grunn neach a ghoirteachadh ann am Baltimore an-dè fhad 's a bha iad a' teicheadh às a' chaismeachd phròise an dèidh gun deach "stuth ceimigeach" a leigeil a-mach san adhar.
+
+Dhearbh na Poilis gu bheil iad ga rannsachadh, ach nach eil fianais sam bith ann aig an àm seo gur e ionnsaigh a dh'aona ghnothaich air a' chaismeachd a bh' ann.
+
 ## Florida
 
 Tha Cùirt Sgìreil nan Stàitean Aonaichte air casg seasmhach a chur air reachdas Florida a rinn e mì-laghail cùram slàinte daingneachadh gnè a thoirt seachad do luchd tar-ghnèitheach.
