@@ -66,4 +66,4 @@ Tha am poileasaidh ùr cuideachd ag ràdh gum faod lùth-chleasaichean neo-bhìn
 
 ## Jeremy Finlayson
 
-Chaidh casg trì geamaichean air an cluicheadair Lìog Ball-coise Astràiliach, Jeremy Finlayson, an dèidh dha cànan a bha ri oillt cho-sheòrsach a chleachdadh rè geama na bu tràithe air a' mhìos.
+Chaidh casg trì geamaichean air an cluicheadair Lìg Ball-coise Astràiliach, Jeremy Finlayson, an dèidh dha cànan a bha ri oillt cho-sheòrsach a chleachdadh rè geama na bu tràithe air a' mhìos.

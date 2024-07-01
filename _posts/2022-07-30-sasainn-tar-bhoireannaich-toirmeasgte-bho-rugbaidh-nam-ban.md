@@ -24,6 +24,6 @@ Gu ruige seo, bha tar-bhoireannaich air am measadh mar phearsachan air leth gus 
 
 Tha am poileasaidh cuideachd ag ràdh gum faod tar-fhireannaich fhathast cluich airson sgiobaidhean fireannach ach gum feumar cead sgrìobhte agus measadh cunnairt mus cluich iad.
 
-Dh’aontaich Lìog Rugbaidh Shasainn (RFL) ris na riaghailtean ùra cuideachd. Thèid an cur an gnìomh san Lùnastal agus nì iad ath-sgrùdadh orra san t-Samhain 2024.
+Dh’aontaich Lìg Rugbaidh Shasainn (RFL) ris na riaghailtean ùra cuideachd. Thèid an cur an gnìomh san Lùnastal agus nì iad ath-sgrùdadh orra san t-Samhain 2024.
 
 Tha tar-bhoireannaich cuideachd air a bhith toirmeasgte bho bhith a’ cluich gu h-eadar-nàiseanta bho 2020.

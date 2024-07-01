@@ -50,6 +50,6 @@ Tha dùil gun tadhal an Tosgaire Jean-Marc Berthon air an dùthaich bho 27 Ògmh
 
 ## NHL
 
-Tha an Lìog Hocaidh Nàiseanta (NHL) air casg a chuir air cluicheadairean bho bhith a’ cur air geansaidhean pròise rè blàthachaidhean
+Tha an Lìg Hocaidh Nàiseanta (NHL) air casg a chuir air cluicheadairean bho bhith a’ cur air geansaidhean pròise rè blàthachaidhean
 
 Thuirt Coimiseanair an NHL, Gary Bettman, gun robh na geansaidhean a’ toirt aire air falbh bhon a’ gheama ach gum bi geansaidhean pròise fhathast ceadaichte aig geamaichean sònraichte air oidhchean pròise.
