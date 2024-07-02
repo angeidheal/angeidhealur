@@ -10,7 +10,7 @@ image: /images/icons/cuairt-litir.png
   
   <h2 style="text-align: center">{{ post.title }}</h2>
   
-  <p style="text-align: center"><a href="{{ site.url }}/{{ post.url }}">
+  <p style="text-align: center"><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
     {% assign m = post.date | date: "%-m" %}
     {{ post.date | date: "%d" }}
     {% case m %}
