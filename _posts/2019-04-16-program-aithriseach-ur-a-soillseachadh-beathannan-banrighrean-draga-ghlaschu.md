@@ -14,7 +14,7 @@ categories: ["Alba", "Breatainn"]
 
 ---
 
-Thèid prògram aithriseach ùr a shealltainn air BBC Scotland a-nochd (10f) a bheireas sùil air beathannan triùir banrighrean-draga ann an Glaschu.
+Thèid prògram aithriseach ùr a shealltainn air BBC Scotland a-nochd (10f) a bheireas sùil air beathannan triùir bhanrighrean-draga ann an Glaschu.
 
 Bidh am prògram a’ leantainn Barbara Le Bush fhad ‘s a tha i ag ullachadh airson Fèis-pròise Eilean Bhòid 2018, banrigh-draga Instagram Lawrence Chaney, agus Voss, caideat sa chabhlach mharsanta a tha dìreach air drag a thòiseachadh.
 
