@@ -44,6 +44,6 @@ Tha Riaghladair Mhississippi, Tate Reeves, air bile a shoidhnigeadh 'na lagh a c
 
 ## Buenos Aires
 
-Tha triùir boireannach leasbach air bàsachadh agus tè eile san ospadal as dèidh gun deach an taigh-aoigheachd anns an robh iad a’ fuireach a chur ‘na theine.
+Tha triùir bhoireannach leasbach air bàsachadh agus tè eile san ospadal as dèidh gun deach an taigh-aoigheachd anns an robh iad a’ fuireach a chur ‘na theine.
 
 Thuirt na Poilis gun deach an taigh a' losgadh le ragaichean a bha air am bogadh le stuth lasrachd agus gu bheil iad air fireannach, 62, a bha cuideachd a' fuireach san taigh-aoigheachd a chur an grèim.
