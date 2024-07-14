@@ -18,7 +18,7 @@ Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bh
 
 ## Murt Peter Coshan
 
-Tha Àrd-chùirt Ghlaschu air binn prìosain 22 bliadhna aig a char as lugha a chur air fireannach a mhurt seann thidsear an dèidh coinneachadh ris tron aplacaid suirghe Grindr.
+Tha Àrd-chùirt Ghlaschu air binn prìosain 22 bliadhna air a char as lugha a chur air fireannach a mhurt seann thidsear an dèidh coinneachadh ris tron aplacaid suirghe Grindr.
 
 Chaidh Peter Coshan, 75, a mhurt le Paul McNaughton, 29, ann am flat ann an Leith san Dàmhair 2022.
 
