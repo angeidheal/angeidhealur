@@ -32,7 +32,7 @@ Tha Poilis a’ Mhet airson cluinntinn bho neach sam bith aig a bheil fios mu na
 
 Tha Poilis ann am Birmingham air dealbhan CCTV de chòignear fireannach a tha iad a' sireadh às dèidh mar a chaidh droch-bheul homafòbach a thoirt air ball a' phobaill taobh a-muigh Café Soya in the Arcadian Disathairne an 30mh den Mhàrt.
 
-![]({{ site.baseurl }}/images/posts2024-07-21-droch-bheul-ann-am-birmingham.jpeg)
+![](/images/posts/2024-07-21-droch-bheul-ann-am-birmingham.jpeg)
 
 Bu chòir do neach sam bith a tha eòlach air na fireannaich fios a chur dhan Phoilis air 101 agus an àireamh 20/331067/24 a thoirt seachad. No faodar fios gun ainm a chur gu Crimestoppers air 0800 555 111.
 
