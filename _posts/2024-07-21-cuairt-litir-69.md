@@ -16,7 +16,7 @@ categories: ["Cuairt-litir"]
 
 Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
 
-## Murt ann an Lunainn / Bristol
+## Murt ann an Lunnainn / Bristol
 
 Tha fireannach air nochdadh aig Cùirt nam Maighstirean-Lagha ann an Wimbledon fo chasaid gun do mhurt e dithis fireannach gèidh.
 
