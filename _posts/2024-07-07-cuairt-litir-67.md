@@ -20,7 +20,7 @@ Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bh
 
 Bha Trans Kids Deserve Better, buidheann de luchd-iomairt tar-ghnèitheach, a' togail fianais air leac taobh a-muigh prìomh-oifisean NHS Shasainn fad ceithir latha an t-seachdain seo.
 
-Dhìrich dithis dheugaire an togalach Disathairne le bratach a leugh "We are not pawns for your politics" is bha iad a' togail fianais an aghaidh co-dhùnadh NHS Shasainn a chur casg air a bhith a' toirt seachad casgan inbheachd do dh'euslaintich ùra fo 18 bliadhna a dh'aois a chaidh ainmeachadh air thoiseach air an taghadh coitcheann.
+Dhìrich dithis dheugaire an togalach Disathairne le bratach a leugh "We are not pawns for your politics" is bha iad a' togail fianais an aghaidh co-dhùnadh NHS Shasainn a chur casg air a bhith a' toirt seachad casgan inbhidheachd do dh'euslaintich ùra fo 18 bliadhna a dh'aois a chaidh ainmeachadh air thoiseach air an taghadh coitcheann.
 
 Bha mòran luchd-iomairt òga eile air cruinneachadh gus taic a chur thuca thairis air an deireadh sheachdain.
 
