@@ -16,9 +16,9 @@ categories: ["Cuairt-litir"]
 
 Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
 
-## Casgan-inbheachd
+## Casgan inbhidheachd
 
-Thathar ag aithris gu Rùnaire na Slàinte ùr, Wes Streeting, airson an casg sealach a chur na Tòraidhean air NHS Shasainn bho bhith a’ toirt seachad casgan-inbheachd do dh’euslaintich ùra a dhèanamh maireannach.
+Thathar ag aithris gu Rùnaire na Slàinte ùr, Wes Streeting, airson an casg sealach a chur na Tòraidhean air NHS Shasainn bho bhith a’ toirt seachad casgan inbhidheachd do dh’euslaintich ùra a dhèanamh maireannach.
 
 Chleachd Rùnaire na Slàinte a bh’ ann roimhe, Victoria Atkins, cumhachdan èigeannach gus an casg a chur an gnìomh air thoiseach air an Taghadh Coitcheann agus bha e gus ruith gu ruige an 3mh den t-Sultain.
 
