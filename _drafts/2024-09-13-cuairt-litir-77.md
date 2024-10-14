@@ -22,9 +22,9 @@ Chaidh lagh ùr a chur an gnìomh ann am Malta an t-seachdain-sa a tha a’ leig
 
 ## Teagsas
 
-Tha cùirt ann an Teagsas air binn sia bliadhna sa phrìosain a chur air Francisco Ricardo Sotello Baez, 23, as dèidh dha a mhac a dhòrnadh mun aodann iomadh turas.
+Tha cùirt ann an Teagsas air binn sia bliadhna sa phrìosain a chur air Francisco Ricardo Sotello Baez, 23 bliadhna a dh'aois, as dèidh dha a mhac a dhòrnadh mu aodann iomadh turas.
 
-Chuala a' chùirt gun robh dragh air Baez gun robh a mhac, a tha dìreach 2 bhliadhna a dh'aois, gèidh o chionn 's gum bi e a' cluich le doilichean Barbie an àite robotairean, càraichean, agus bàlaichean-coise.
+Chuala a' chùirt gun robh dragh air Baez gun robh a mhac, a tha dìreach 2 bhliadhna a dh'aois, gèidh o chionn 's gum biodh e a' cluich le doilichean Barbie an àite robotairean, càraichean, agus bàlaichean-coise.
 
 Chuala iad cuideachd gun robh e air ionnsaigh a thoirt air màthair a' bhalaich roimhe, agus gun robh e air cùrsaichean fhrithealadh gus smachd fhaighinn air a fhearg.
 
