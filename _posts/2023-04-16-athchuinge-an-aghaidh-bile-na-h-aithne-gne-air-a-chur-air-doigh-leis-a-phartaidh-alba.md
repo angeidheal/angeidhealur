@@ -6,7 +6,7 @@ date: 2023-04-16 16:46
 
 title: "Athchuinge an-aghaidh Bile na h-Aithne Gnè air a chur air dòigh leis a' Phàrtaidh Alba"
 
-image: /images/posts/Trans-Saltire.webp
+image: /images/posts/trans-saltire.webp
 
 author: Crìstean MacMhìcheil
 
