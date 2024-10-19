@@ -6,7 +6,7 @@ date:  2023-03-29 12:00
 
 title: "Sàr-dhibhearsanaiche Paul O’Grady air bàsachadh"
 
-image: /images/posts/Lily-Savage.jpeg
+image: /images/posts/lily-savage.jpeg
 
 author: Crìstean MacMhìcheil
 
