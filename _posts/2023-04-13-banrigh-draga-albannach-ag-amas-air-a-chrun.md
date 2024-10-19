@@ -6,7 +6,7 @@ date: 2023-04-13 16:26
 
 title: "Bànrigh draga Albannach ag amas air a' chrùn"
 
-image: /images/posts/Miss-Peaches.webp
+image: /images/posts/miss-peaches.webp
 
 author: Crìstean MacMhìcheil
 
