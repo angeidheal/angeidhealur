@@ -8,7 +8,7 @@ title: "Bile ga thoirt a-steach do Phàrlamaid na h-Alba a tha ag amas air a dh�
 
 author: Crìstean MacMhìcheil
 
-image: /images/posts/2022-12-22-parlamaid-na-h-alba.webp
+image: /images/posts/parlamaid-na-h-alba.webp
 
 categories: ["Alba", "Breatainn", "Lagh", "Poileataigs"]
 
