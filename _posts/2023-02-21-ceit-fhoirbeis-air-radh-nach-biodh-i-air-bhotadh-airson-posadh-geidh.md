@@ -6,7 +6,7 @@ date: 2023-02-21 18:00
 
 title: "Ceit Fhoirbeis air ràdh nach biodh i air bhòtadh airson pòsadh gèidh"
 
-image: /images/posts/2023-02-21-ceit-fhoirbeis-air-radh-nach-biodh-i-air-bhotadh-airson-posadh-geidh.webp
+image: /images/posts/ceit-fhoirbeis.webp
 
 author: Crìstean MacMhìcheil
 
