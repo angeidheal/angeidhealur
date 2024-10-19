@@ -6,7 +6,7 @@ date: 2008-04-15 08:35:37
 
 title: "Ionnsaigh a thoirt air buidheann LCDT ann an Istanbul leis a’ Phoileas"
 
-mage: /images/posts/2008-04-15-ionnsaigh-a-thoirt-air-buidheann-lcdt-ann-an-istanbul-leis-a-phoileas.webp
+image: /images/posts/2008-04-15-ionnsaigh-a-thoirt-air-buidheann-lcdt-ann-an-istanbul-leis-a-phoileas.webp
 
 author: Crìstean MacMhìcheil
 
