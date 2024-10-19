@@ -6,7 +6,7 @@ date: 2019-02-21 06:30
 
 title: "David Mundell: \"B'e tighinn a-mach aon de na rudan as duilighe a rinn mi\""
 
-image: /images/posts/2019-02-21-david-mundell-b-e-tighinn-a-mach-aon-de-na-rudan-as-duilghe-a-rinn-mi-scaled.webp
+image: /images/posts/2019-02-21-david-mundell-b-e-tighinn-a-mach-aon-de-na-rudan-as-duilghe-a-rinn-mi.webp
 
 author: Crìstean MacMhìcheil
 
