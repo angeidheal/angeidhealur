@@ -6,7 +6,7 @@ date: 2023-03-26 11:30
 
 title: "Casg air lùth-chleasaichean tar-ghnèitheach"
 
-image: /images/posts/World-Athletics.webp
+image: /images/posts/world-athletics.webp
 
 author: Crìstean MacMhìcheil
 
