@@ -6,7 +6,7 @@ date: 2022-10-27 16:17:16
 
 title: "Ash Regan air a dreuchd fhàgail"
 
-image: /images/posts/2022-12-22-parlamaid-na-h-alba.webp
+image: /images/posts/parlamaid-na-h-alba.webp
 
 author: Crìstean MacMhìcheil
 
