@@ -6,7 +6,7 @@ date: 2022-03-18 18:00:37
 
 title: "Fèise-pròise na Gàidhealtachd 2022 ga ainmeachadh"
 
-image: /images/posts/Highland_Pride.webp
+image: /images/posts/highland-pride.webp
 
 author: Crìstean MacMhìcheil
 
