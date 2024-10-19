@@ -6,7 +6,7 @@ date: 2023-03-17 06:00
 
 title: "Athchuinge ag iarraidh GRC as dèidh bàis air a dhiùltadh leis an Riaghaltas"
 
-image: /images/posts/Posthoumous-GRC-Petition.webp
+image: /images/posts/posthoumous-grc-petition.webp
 
 author: Crìstean MacMhìcheil
 
