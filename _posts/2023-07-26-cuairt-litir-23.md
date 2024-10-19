@@ -46,7 +46,7 @@ Thuirt i cuideachd gun do dh'fheuch nigheanan aig an sgoil ionnsaigh a thoirt ai
 
 Dhearbh neach-labhairt Roinn Foghlam Queensland gu bheil rannsachadh a' leantainn aig an sgoil.
 
-![](/images/posts/Onyx-John.jpg)
+![](/images/posts/onyx-john.jpg)
 
 ## Farpaisean snàmh na Cruinne
 
