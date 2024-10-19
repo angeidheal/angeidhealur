@@ -6,7 +6,7 @@ date: 2024-01-18 13:00
 
 title: "Riaghaltas na RA a’ sireadh £150,000 bho Riaghaltas na h-Alba"
 
-image: /images/posts/Trans-Saltire.webp
+image: /images/posts/trans-saltire.webp
 
 author: Crìstean MacMhìcheil
 
