@@ -6,7 +6,7 @@ date: 2017-02-16 19:48:04
 
 title: "The Gaelic for Gay"
 
-image: /images/posts/2017-02-16-the-gaelic-for-gay.webp
+image: /images/posts/faclair-nan-geidheal.webp
 
 author: Crìstean MacMhìcheil
 

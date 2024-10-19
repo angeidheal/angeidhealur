@@ -6,7 +6,7 @@ date: 2022-11-25 06:01:25
 
 title: "Fear à Inbhir Pheofharain air nochdadh sa chùirt fo chasaid giùlan dhroch‑dhìolach"
 
-image: /images/posts/2022-11-25-fear-a-inbhir-pheofharain-air-nochdadh-sa-chuirt-fo-chasaid-giulan-dhroch-dhiolach.webp
+image: /images/posts/ionad-ceartais-inbhir-nis.webp
 
 author: Crìstean MacMhìcheil
 

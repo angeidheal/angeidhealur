@@ -6,7 +6,7 @@ date: 2019-07-21 19:00:58
 
 title: "Òraidean Fèis-pròise Inbhir Nis 2019"
 
-image: /images/posts/2019-07-21-oraidean-feis-proise-inbhir-nis-2019.webp
+image: /images/posts/proud-ness.webp
 
 author: Crìstean MacMhìcheil
 

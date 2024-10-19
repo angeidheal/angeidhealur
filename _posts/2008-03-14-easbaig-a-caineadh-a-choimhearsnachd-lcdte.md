@@ -8,7 +8,7 @@ title: "Easbaig a’ càineadh a’ choimhearsnachd LCDTE"
 
 excerpt: "Tha Easbaig Caitligeach a’ tagradh gu bheil daoine co-sheòrsach a’ dèanamh co-fheall an aghaidh dualchas Crìosdaidheachd."
 
-image: /images/posts/2008-03-14-easbaig-a-caineadh-a-choimhearsnachd-lcdte.webp
+image: /images/posts/joseph-devine.webp
 
 author: Crìstean MacMhìcheil
 

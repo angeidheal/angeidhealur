@@ -6,7 +6,7 @@ date: 2009-03-12 21:06:31
 
 title: "BPA a’ toirt taic do lagh an-aghaidh eucoirean gràineil"
 
-image: /images/posts/2009-03-12-bpa-a-toirt-taic-do-lagh-an-aghaidh-eucoirean-graineil.webp
+image: /images/posts/2022-12-22-parlamaid-na-h-alba.webp
 
 author: Crìstean MacMhìcheil
 

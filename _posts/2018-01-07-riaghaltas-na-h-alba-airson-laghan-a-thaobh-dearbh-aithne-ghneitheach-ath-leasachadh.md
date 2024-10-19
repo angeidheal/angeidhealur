@@ -6,7 +6,7 @@ date: 2018-01-07 21:30:01
 
 title: "Riaghaltas na h-Alba airson laghan a thaobh dearbh-aithne ghnèitheach ath-leasachadh"
 
-image: /images/posts/2018-01-07-riaghaltas-na-h-alba-airson-laghan-a-thaobh-dearbh-aithne-ghneitheach-ath-leasachadh.webp
+image: /images/posts/2022-12-22-parlamaid-na-h-alba.webp
 
 author: Crìstean MacMhìcheil
 

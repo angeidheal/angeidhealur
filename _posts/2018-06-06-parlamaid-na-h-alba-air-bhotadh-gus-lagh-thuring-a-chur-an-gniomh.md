@@ -6,7 +6,7 @@ date: 2018-06-06 21:02:39
 
 title: "Pàrlamaid na h-Alba air bhòtadh gus Lagh Thuring a chur an gnìomh"
 
-image: /images/posts/2018-06-06-parlamaid-na-h-alba-air-bhotadh-gus-lagh-thuring-a-chur-an-gniomh.webp
+image: /images/posts/parlamaid-na-h-alba.webp
 
 author: Crìstean MacMhìcheil
 

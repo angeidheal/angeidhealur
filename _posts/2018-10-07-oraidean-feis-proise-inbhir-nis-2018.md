@@ -6,7 +6,7 @@ date: 2018-10-07 08:54:01
 
 title: "Òraidean Fèis-pròise Inbhir Nis 2018"
 
-image: /images/posts/2018-10-07-oraidean-feis-proise-inbhir-nis-2018.webp
+image: /images/posts/proud-ness.webp
 
 author: Crìstean MacMhìcheil
 

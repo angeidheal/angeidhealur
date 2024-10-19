@@ -6,7 +6,7 @@ date: 2022-09-28 18:00:37
 
 title: "Ceann‑latha air ainmeachadh airson deasbad air Bile Ath‑leasachadh Aithneachadh Gnè (Alba)"
 
-image: /images/posts/2022-09-28-ceann-latha-air-ainmeachadh-airson-deasbad-air-bile-ath-leasachadh-aithneachadh-gne-alba.webp
+image: /images/posts/2022-12-22-parlamaid-na-h-alba.webp
 
 author: Crìstean MacMhìcheil
 

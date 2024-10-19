@@ -6,7 +6,7 @@ date: 2018-06-19 10:52:52
 
 title: "BPA SNP a’ càineadh Bile nan Eucoirean Feise"
 
-image: /images/posts/2018-06-19-bpa-snp-a-caineadh-bile-nan-eucoirean-feise.webp
+image: /images/posts/parlamaid-na-h-alba.webp
 
 author: Crìstean MacMhìcheil
 

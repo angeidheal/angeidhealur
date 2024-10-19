@@ -6,7 +6,7 @@ date: 2022-11-14 10:24
 
 title: "Faclair nan Gèidheal 2.0 air a chur air bhog"
 
-image: /images/posts/2022-11-14-faclair-nan-geidheal-2-0-air-a-chur-air-bhog.webp
+image: /images/posts/faclair-nan-geidheal.webp
 
 author: Crìstean MacMhìcheil
 

@@ -6,7 +6,7 @@ date: 2022-12-22 19:17
 
 title: "Bile Ath-leasachadh Aithneachadh Gnè (Alba) troimhe"
 
-image: /images/posts/2022-12-22-bile-ath-leasachadh-aithneachadh-gne-alba-troimhe.webp
+image: /images/posts/2022-12-22-parlamaid-na-h-alba.webp
 
 author: Crìstean MacMhìcheil
 

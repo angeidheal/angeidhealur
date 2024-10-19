@@ -6,7 +6,7 @@ date: 2018-04-19 13:39:21
 
 title: "Pàrlamaid na h-Alba a’ toirt taic ri Lagh Thuring"
 
-image: /images/posts/2018-04-19-parlamaid-na-h-alba-a-toirt-taic-ri-lagh-thuring.webp
+image: /images/posts/parlamaid-na-h-alba.webp
 
 author: Crìstean MacMhìcheil
 

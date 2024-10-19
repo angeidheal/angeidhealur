@@ -6,7 +6,7 @@ date: 2017-05-10 16:00:06
 
 title: "BBC: Oidhirp gus beag-fhaclair LGBTI Gàidhlig a chruthachadh"
 
-image: /images/posts/2017-05-10-bbc-oidhirp-gus-beag-fhaclair-lgbti-gaidhlig-a-chruthachadh.webp
+image: /images/posts/faclair-nan-geidheal.webp
 
 author: Crìstean MacMhìcheil
 

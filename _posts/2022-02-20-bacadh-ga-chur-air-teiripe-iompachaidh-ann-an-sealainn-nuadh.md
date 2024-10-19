@@ -6,7 +6,7 @@ date: 2022-02-20 13:40:00
 
 title: "Bacadh ga chur air teiripe iompachaidh ann an Sealainn Nuadh"
 
-image: /images/posts/2022-02-20-bacadh-ga-chur-air-teiripe-iompachaidh-ann-an-sealainn-nuadh-scaled.webp
+image: /images/posts/bratach-shealainn-nuaidh.webp
 
 author: Crìstean MacMhìcheil
 

@@ -6,7 +6,7 @@ date: 2022-09-28 18:00:27
 
 title: "Dithis fo chasaid ionnsaigh gràin co‑sheòrsachd an Inbhir Nis"
 
-image: /images/posts/2022-09-28-dithis-fo-chasaid-ionnsaigh-grain-co-sheorsachd-an-inbhir-nis.webp
+image: /images/posts/ionad-ceartais-inbhir-nis.webp.webp
 
 author: Crìstean MacMhìcheil
 
