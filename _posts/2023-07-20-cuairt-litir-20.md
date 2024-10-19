@@ -30,7 +30,7 @@ Thathar a’ creidsinn gun tug an casg buaidh air mu 5,000 neach.
 
 Chaidh an casg a thilgeil a-mach ann an 2000 as dèidh gun d'thug seann-ghaisgich LGDTC+ Riaghaltas an RA gu Cùirt Eòrpach nan Còraichean Daonna agus gun do riaghail a’ chùirt gun robh an casg na bhriseadh den chòir aca air prìobhaideachd.
 
-![](/images/posts/LGBTQ-Troops.jpg)
+![](/images/posts/lgbtq-troops.jpg)
 
 ## King Lawal
 
@@ -46,7 +46,7 @@ Bha King Lawal a’ toirt iomradh air dealbh de chaismeachd pròise nuair a sgr�
 
 Chaidh Lawal a chasg bho na Tòraidhean fhad ’s a tha Prìomh-oifis Iomairt nan Tòraidhean (CCHQ) a’ dèanamh rannsachaidh.
 
-![](/images/posts/King-Lawal.jpg)
+![](/images/posts/king-lawal.jpg)
 
 ## Rothaireachd
 
@@ -55,5 +55,3 @@ Tha buidheann-riaghlaidh rothaireachd na cruinne, Union Cycliste Internationale,
 Fon riaghailt ùr, chan fhaod lùth-chleasaichean a chaidh tro inbhidheachd mar fhireannach pàirt a ghabhail ann am farpaisean nam ban agus bi aca ri farpais ann an roinn mheasgaichte an-aghaidh nam fireannach.
 
 Bha buidheann-riaghlaidh rothaireachd Bhreatainn air tar-bhoireannach a thoirmeasg bho fharpaisean nam ban mar-thà sa’ Chèitean.
-
-![](/images/posts/matt-noble-sXBlqLvWkVk-unsplash.jpg)
