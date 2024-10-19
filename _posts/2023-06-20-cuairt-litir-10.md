@@ -28,7 +28,7 @@ Thuirt na Poilis Metropolitan gu bheil iad a’ dèanamh measaidh air a’ bhide
 
 Faodar am bhideo fhaicinn <a href="https://youtube.com/shorts/lP_9pKBUIk8">an-seo air YouTube</a>.
 
-<figure class="wp-block-image aligncenter"><img src="{{ site.baseurl}}/images/posts/Laurence-Fox-burns-pride-flag.jpeg" alt="" class="wp-image-2057"/></figure>
+<figure class="wp-block-image aligncenter"><img src="{{ site.baseurl}}/images/posts/laurence-fox.jpeg" alt="" class="wp-image-2057"/></figure>
 
 ## Clann tar-ghnèitheach
 
@@ -42,7 +42,7 @@ Tha buidhnean-iomairt, gnìomhaichean LGDTC+ agus luchd-poileataigs air ìmpidh 
 
 Chaidh innse dha na Poilis gun deach bòrd-sanasachd Pròis Bhristol a chur ‘na theine ann an nas lugha na aon là bho chaidh a chur an àirde.
 
-<figure class="wp-block-image aligncenter"><img src="{{ site.baseurl}}/images/posts/Pride-Bristol-billboard.jpg" alt="" class="wp-image-2054"/></figure>
+<figure class="wp-block-image aligncenter"><img src="{{ site.baseurl}}/images/posts/pride-bristol-billboard.jpg" alt="" class="wp-image-2054"/></figure>
 
 ## Estòinia
 
@@ -58,7 +58,7 @@ Shoidhnig Riaghladair Texas, Greg Abbott, bile ‘na lagh a chuireas casg air bo
 
 Tha na Poilis ann an Eabhraig Nuadh a’ sireadh fiosrachaidh mu trì tachartasan anns an deach Carragh-chuimhne Stonewall a mhilleadh bho thoiseach Mìos na Pròise.
 
-<figure class="wp-block-image aligncenter"><img src="{{ site.baseurl}}/images/posts/FyR0PP3XsAAVbRN.jpeg" alt="" class="wp-image-2055"/></figure>
+<figure class="wp-block-image aligncenter"><img src="{{ site.baseurl}}/images/posts/stonewall-memorial.jpeg" alt="" class="wp-image-2055"/></figure>
 
 ## Wickes
 
