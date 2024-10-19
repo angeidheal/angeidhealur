@@ -6,7 +6,7 @@ date: 2023-04-17 10:35
 
 title: "Bùth-obrach: 'What's happening in trans healthcare?'"
 
-image: /images/posts/Trans-Healthcare.jpeg
+image: /images/posts/trans-healthcare.jpeg
 
 author: Crìstean MacMhìcheil
 
