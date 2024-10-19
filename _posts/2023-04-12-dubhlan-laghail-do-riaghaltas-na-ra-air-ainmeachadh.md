@@ -6,7 +6,7 @@ date: 2023-04-12 14:14
 
 title: "Dùbhlan laghail do Riaghaltas na RA air ainmeachadh"
 
-image: /images/posts/Trans-Saltire.webp
+image: /images/posts/trans-saltire.webp
 
 author: Crìstean MacMhìcheil
 
