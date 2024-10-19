@@ -6,7 +6,7 @@ date: 2023-02-04 17:00
 
 title: "Highland Pride 2023 air ainmeachadh"
 
-image: /images/posts/Highland_Pride.webp
+image: /images/posts/highland-pride.webp
 
 author: Crìstean MacMhìcheil
 
