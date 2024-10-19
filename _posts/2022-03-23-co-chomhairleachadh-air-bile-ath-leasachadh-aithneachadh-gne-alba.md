@@ -6,7 +6,7 @@ date: 2022-03-23 18:00:23
 
 title: "Co-chomhairleachadh air Bile Ath-leasachadh Aithneachadh Gnè (Alba)"
 
-image: /images/posts/2022-12-22-parlamaid-na-h-alba.webp
+image: /images/posts/parlamaid-na-h-alba.webp
 
 author: Crìstean MacMhìcheil
 
