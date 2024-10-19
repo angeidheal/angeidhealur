@@ -6,7 +6,7 @@ date: 2023-04-03 18:58
 
 title: "Tar-bhoireannaich toirmeasgte bho fharpaisean snàimh nam ban"
 
-image: /images/posts/Swim-England.jpg
+image: /images/posts/swim-england.jpg
 
 author: Crìstean MacMhìcheil
 
