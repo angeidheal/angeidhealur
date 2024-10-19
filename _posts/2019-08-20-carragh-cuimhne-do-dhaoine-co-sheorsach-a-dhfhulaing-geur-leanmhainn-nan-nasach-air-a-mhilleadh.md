@@ -6,7 +6,7 @@ date: 2019-08-20 17:17:36
 
 title: "Carragh-cuimhne do dhaoine co-sheòrsach a dh’fhulaing geur-leanmhainn nan Nàsach air a mhilleadh"
 
-image: /images/posts/2019-08-20-carragh-cuimhne-do-dhaoine-co-sheorsach-a-dh-fhulaing-geur-leanmhainn-nan-nasach-air-a-mhilleadh-scaled.webp
+image: /images/posts/2019-08-20-carragh-cuimhne-do-dhaoine-co-sheorsach-a-dh-fhulaing-geur-leanmhainn-nan-nasach-air-a-mhilleadh.webp
 
 author: Crìstean MacMhìcheil
 
