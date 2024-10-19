@@ -16,7 +16,7 @@ categories: ["Eadar-nàiseanta", "Lagh"]
 
 Tha AP News anns a’ Ghearmailt ag aithris gun deach carragh-cuimhne do dhaoine co-sheòrsach a dh’fhulaing geur-leanmhainn nan Nàsach a mhilleadh.
 
-Chaidh an carragh-cuimhne “Denkmal für die im Nationalsozialismus verfogten Homosexuellen” a thaisbeanadh ann an 2008 ann am Pairc Tiergarten, Berlin.
+Chaidh an carragh-cuimhne “Denkmal für die im Nationalsozialismus verfolgten Homosexuellen” a thaisbeanadh ann an 2008 ann am Pairc Tiergarten, Berlin.
 
 Am-broinn an carragh tha fosgladh anns a chìthear bhideo de chàraid co-sheòrsach a’ pògadh.
 
