@@ -6,7 +6,7 @@ date: 2008-03-28 11:48
 
 title: "Bàrd connspaideach a’ fuireach air curraicealam na h-Èirinn"
 
-image: /images/posts/2008-03-28-bard-connspaideach-a-fuireach-air-curraicealam-na-h-eirinn.webp
+image: /images/posts/cathal-o-searcaigh.webp
 
 author: Crìstean MacMhìcheil
 
