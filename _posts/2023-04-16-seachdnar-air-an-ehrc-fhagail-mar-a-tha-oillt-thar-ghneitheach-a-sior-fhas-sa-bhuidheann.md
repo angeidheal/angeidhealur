@@ -6,7 +6,7 @@ date: 2023-04-16 12:48
 
 title: "Seachdnar air an EHRC fhàgail mar a tha oillt thar-ghnèitheach a' sìor-fhàs sa bhuidheann"
 
-image: /images/posts/EHRC.webp
+image: /images/posts/ehrc.webp
 
 author: Crìstean MacMhìcheil
 
