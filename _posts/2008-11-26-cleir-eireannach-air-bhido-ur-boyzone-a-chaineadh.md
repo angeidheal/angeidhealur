@@ -6,7 +6,7 @@ date: 2008-11-26 17:13:34
 
 title: "Clèir Èireannach air bhido ùr Boyzone a chàineadh"
 
-image: /images/posts/2008-11-26-cleir-eireannach-air-bhido-ur-boyzone-a-chaineadh-scaled.webp
+image: /images/posts/2008-11-26-cleir-eireannach-air-bhido-ur-boyzone-a-chaineadh.webp
 
 author: Crìstean MacMhìcheil
 
