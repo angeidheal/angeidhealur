@@ -6,7 +6,7 @@ date: 2020-03-29 18:00:41
 
 title: "Àireamh de dhaoine a' cleachdadh loidhne-chuideachaidh LCDT+ air àrdachadh air sgàth Coròna-bhìoras"
 
-image: /images/posts/2020-03-29-aireamh-de-dhaoine-a-cleachdadh-loidhne-chuideachaidh-lcdt-air-ardachadh-air-sgath-corona-bhioras-scaled.webp
+image: /images/posts/2020-03-29-aireamh-de-dhaoine-a-cleachdadh-loidhne-chuideachaidh-lcdt-air-ardachadh-air-sgath-corona-bhioras.webp
 
 author: Crìstean MacMhìcheil
 
