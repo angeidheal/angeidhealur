@@ -6,7 +6,7 @@ date: 2024-03-09 15:51
 
 title: "Highland Pride 2024 air ainmeachadh"
 
-image: /images/posts/Highland_Pride.webp
+image: /images/posts/highland-pride.webp
 
 author: Crìstean MacMhìcheil
 
