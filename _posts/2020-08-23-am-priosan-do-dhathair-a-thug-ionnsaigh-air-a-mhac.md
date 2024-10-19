@@ -6,7 +6,7 @@ date: 2020-08-23 18:00:41
 
 title: "Am prìosan do dh'athair a thug ionnsaigh air a mhac"
 
-image: /images/posts/2020-08-23-am-priosan-do-dh-athair-a-thug-ionnsaigh-air-a-mhac-scaled.webp
+image: /images/posts/2020-08-23-am-priosan-do-dh-athair-a-thug-ionnsaigh-air-a-mhac.webp
 
 author: Crìstean MacMhìcheil
 
