@@ -1,11 +1,11 @@
 ---
 layout: post
 
-date: 2024-03-12 06:00
+date: 2024-03-11 06:00
 
 title: "Achd Eucoir Gràin is Òrdugh Poblach (Alba) ga chur an gnìomh"
 
-image: /images/posts/Parlamaid-na-h-Alba.webp
+image: /images/posts/parlamaid-na-h-alba.webp
 
 author: Crìstean MacMhìcheil
 
