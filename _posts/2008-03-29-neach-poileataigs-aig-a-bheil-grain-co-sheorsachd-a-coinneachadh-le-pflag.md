@@ -6,7 +6,7 @@ date: 2008-03-29 09:58
 
 title: "Neach-poileataigs aig a bheil gràin-co-sheòrsachd a’ coinneachadh le PFLAG"
 
-image: /images/posts/2008-03-29-neach-poileataigs-aig-a-bheil-grain-co-sheorsachd-a-coinneachadh-le-pflag.webp
+image: /images/posts/sally-kern.webp
 
 author: Crìstean MacMhìcheil
 
