@@ -6,7 +6,7 @@ date: 2023-04-17 11:41
 
 title: "SQIFF: 'The Trans-Generational Tour April-June 2023'"
 
-image: /images/posts/SQIFF-Trans-Generational-Tour.jpg
+image: /images/posts/sqiff-trans-generational-tour.jpg
 
 author: Crìstean MacMhìcheil
 
