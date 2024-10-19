@@ -38,13 +38,11 @@ No faodar fios gun urra a chur gu Crimestoppers air 0800 555 111.
 
 Tha Seirbheis Tèarainteachd na Gearmailte a' rannsachadh mar a chaidh carragh-chuimhne do dhaoine co-sheòrsach a dh’fhulaing geur-leanmhainn nan Nàsach air a mhilleadh Disathairne.
 
-Chaidh an carragh-chuimhne “Denkmal für die im Nationalsozialismus verfogten Homosexuellen” a nochdadh ann an 2008 ann am Pàirc Tiergarten, Berlin.
+Chaidh an carragh-chuimhne “Denkmal für die im Nationalsozialismus verfolgten Homosexuellen” a nochdadh ann an 2008 ann am Pàirc Tiergarten, Berlin.
 
 Am-broinn an carragh-chuimhne tha fosgladh anns a chìthear bhideo de chàraid co-sheòrsach a’ pògadh.
 
 Thathar ag aithris gun deach nì lasrachd a thilgeil air a' charragh-chuimhne, ach nach do las e. An dèidh sin chaidh postairean le às-earrannan Bìoballach a chur suas air a' charragh-chuimhne mus do theich am milltear.
-
-![Denkmal für die im Nationalsozialismus verfogten Homosexuellen](https://angeidhealur.micro.blog/uploads/2023/a5ad44ecd7.jpg)
 
 ## Tàileasg
 
