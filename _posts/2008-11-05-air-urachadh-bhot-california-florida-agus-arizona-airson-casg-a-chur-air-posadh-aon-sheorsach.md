@@ -6,7 +6,7 @@ date: 2008-11-05 09:11:28
 
 title: "AIR ÙRACHADH: Bhòt California, Florida agus Arizona airson casg a chur air pòsadh aon-sheòrsach"
 
-image: /images/posts/2008-11-05-air-urachadh-bhot-california-florida-agus-arizona-airson-casg-a-chur-air-posadh-aon-sheorsach.webp
+image: /images/posts/prop-8.webp
 
 author: Crìstean MacMhìcheil
 

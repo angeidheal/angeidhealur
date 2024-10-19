@@ -6,7 +6,7 @@ date: 2008-12-23 11:57:08
 
 title: "Iongnadh mòr air California às deidh baraile bho Attorney General"
 
-image: /images/posts/2008-12-23-iongnadh-mor-air-california-as-deidh-baraile-bho-attorney-general.webp
+image: /images/posts/prop-8.webp
 
 author: Crìstean MacMhìcheil
 

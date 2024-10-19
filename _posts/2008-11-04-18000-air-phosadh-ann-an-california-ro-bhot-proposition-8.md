@@ -6,7 +6,7 @@ date: 2008-11-04 18:13:45
 
 title: "18,000 air phòsadh ann an California ro bhòt Proposition 8"
 
-image: /images/posts/2008-11-04-18000-air-phosadh-ann-an-california-ro-bhot-proposition-8.webp
+image: /images/posts/prop-8.webp
 
 author: Crìstean MacMhìcheil
 

@@ -6,7 +6,7 @@ date: 2008-10-02 21:10:11
 
 title: "Google an aghaidh a’ chaisg air pòsadh aon-sheòrsach"
 
-image: /images/posts/2008-10-02-google-an-aghaidh-a-chaisg-air-posadh-aon-sheorsach.webp
+image: /images/posts/prop-8.webp
 
 author: Crìstean MacMhìcheil
 

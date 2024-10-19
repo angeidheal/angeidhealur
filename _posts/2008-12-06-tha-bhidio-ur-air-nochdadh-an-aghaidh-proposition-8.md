@@ -6,7 +6,7 @@ date: 2008-12-06 23:11:34
 
 title: "Tha bhidio ùr air nochdadh an aghaidh Proposition 8"
 
-image: /images/posts/2008-12-06-tha-bhidio-ur-air-nochdadh-an-aghaidh-proposition-8.webp
+image: /images/posts/prop-8.webp
 
 author: Crìstean MacMhìcheil
 

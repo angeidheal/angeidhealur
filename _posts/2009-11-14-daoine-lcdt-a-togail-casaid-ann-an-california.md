@@ -6,7 +6,7 @@ title: "Daoine LCDT a’ togail casaid ann an California"
 
 date: 2009-11-14 14:23:29
 
-image: /images/posts/2009-11-14-daoine-lcdt-a-togail-casaid-ann-an-california.webp
+image: /images/posts/prop-8.webp
 
 author: Crìstean MacMhìcheil
 

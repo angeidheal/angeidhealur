@@ -6,7 +6,7 @@ date: 2009-05-26 19:11:45
 
 title: "Àrd-chùirt Chalifornia a’ cumail ri Prop 8"
 
-image: /images/posts/2009-05-26-ard-chuirt-chalifornia-a-cumail-ri-prop-8.webp
+image: /images/posts/prop-8.webp
 
 author: Crìstean MacMhìcheil
 
