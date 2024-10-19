@@ -6,7 +6,7 @@ date: 2023-04-19 09:29
 
 title: "Dìonan tar-ghnèitheach gan cur às bho phoileasaidh Twitter air giùlan gràineil"
 
-image: /images/posts/Twitter.webp
+image: /images/posts/twitter.webp
 
 author: Crìstean MacMhìcheil
 
