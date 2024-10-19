@@ -6,7 +6,7 @@ date: 2023-07-02 19:38:32
 
 title: "BPA den bheachd gun deach a chur às a dhreuchd airson taic a chur ri ath-leasachaidhean gnè"
 
-image: /images/posts/MSP-Jamie-Green.jpg
+image: /images/posts/jamie-greene.jpg
 
 author: Crìstean MacMhìcheil
 
