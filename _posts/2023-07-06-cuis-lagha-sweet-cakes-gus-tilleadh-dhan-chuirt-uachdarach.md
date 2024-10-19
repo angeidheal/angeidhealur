@@ -6,7 +6,7 @@ date: 2023-07-06 19:14:57
 
 title: "Cùis-lagha Sweet Cakes gus tilleadh dhan Chùirt Uachdarach"
 
-image: /images/posts/Sweet-Cakes-by-Melissa.jpg
+image: /images/posts/sweet-cakes-by-melissa.jpg
 
 author: Crìstean MacMhìcheil
 
