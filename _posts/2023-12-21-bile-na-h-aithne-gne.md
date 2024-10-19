@@ -8,7 +8,7 @@ title: "Bile na h-Aithne Gnè"
 
 excerpt: "Tha Riaghaltas na h-Alba air dearbhadh nach dèan iad tagradh an-aghaidh co-dhùnadh Cùirt an t-Seisein gun robh an casg a chur air reachdas aithne gnè Pàrlamaid na h-Alba laghail."
 
-image: /images/posts/2023-12-21-bile-na-h-aithne-gne.webp
+image: /images/posts/parlamaid-na-h-alba.webp
 
 author: Crìstean MacMhìcheil
 
