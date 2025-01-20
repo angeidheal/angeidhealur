@@ -21,6 +21,17 @@ layout: page
   </div>
 {% endfor %}
 
+{% for post in paginator.posts %}
+<div class="card mb-3">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+    <p class="card-text"></p>
+    <p class="card-text"><small class="text-body-secondary">{{ post.date | date: "%d" }}/{{ post.date | date: "%m" }}/{{ post.date | date: "%Y" }}</small></p>
+  </div>
+</div>
+{% endfor %}
+
 <div style="margin-top: 28px">
   {% if paginator.total_pages > 1 %}
     <ul class="pagination justify-content-center">
