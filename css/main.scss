@@ -1,8 +1,9 @@
 ---
 ---
-// Theme
+/* Theme */
+
 $text-color: #f0f0f0;
-$background-color: #101010;
+$background-color: #0d1117;
 $brand-color: #6062a5;
 
 // Width of the content area
@@ -17,45 +18,46 @@ $on-laptop: 800px;
   }
 }
 
-// Body
+/* Body */
 
 html,
 body {
-  font-family: "Outfit";
+  font-family: "Outfit", sans-serif;
   background-color: $background-color;
   font-size: 18px;
+  color: $text-color;
 }
 
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3, h4, h5, h6 {
   margin-top: 28px;
 }
 
-h1{
+h1 {
   font-size: 30px;
   font-weight: 900;
 }
 
-h2{
+h2 {
   font-size: 27px;
   font-weight: 700;
 }
 
-h3{
+h3 {
   font-size: 24px;
   font-weight: 500;
 }
 
-h4{
+h4 {
   font-size: 22px;
   font-weight: 400;
 }
 
-h5{
+h5 {
   font-size: 20px;
   font-weight: 200;
 }
 
-h6{
+h6 {
   font-size: 18px;
   font-weight: 100;
 }
@@ -82,65 +84,37 @@ p a:hover, li a:hover {
   text-decoration: underline;
 }
 
-code {
+.nav-link {
+  color: $brand-color;
+}
+
+.nav-link:hover {
   color: $text-color;
+}
+
+blockquote, code {
   border-left: 3px solid $brand-color;
   padding-left: 8px;
 }
 
-blockquote {
-  border-left: 3px solid $brand-color;
-  padding-left: 8px;
+.site-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 56px;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
 }
 
-/* Navbar */
-
-.navbar {
-  border-radius: 0;
-  background-color: $brand-color;
-}
-
-.navbar-brand {
-  font-weight: 900;
-  font-size: 1.85em;
-  padding: 10px;
-  margin-left: 15px !important;
-  @media screen and (max-width: $on-palm) {
-    font-size: 1.5em;
-  }
-}
-
-.navbar-dark .navbar-brand{
+.site-title {
+  font-family: Lemonada;
   color: $text-color;
+  text-align: center;
 }
 
-.navbar-dark .navbar-brand:hover{
-  text-decoration: underline;
-}
-
-.navbar-dark .navbar-nav .nav-link{
-  color: $text-color;
-}
-
-.navbar-dark .navbar-nav .nav-link:hover{
-  text-decoration: underline;
-}
-
-/* Blog Index */
-
-.latest-posts{
- font-family: Outfit;
- margin-top: 28px;
-}
-
-/* Post Text */
-
-.content-area{
-  color: $text-color;
-}
-
-article.post {
-  margin-bottom: 28px;
+.menu-area, .content-area {
+  max-width: 600px;
 }
 
 /* Post Media */
@@ -150,21 +124,6 @@ article.post {
   display: block;
   max-width: 100%;
   height: auto;
-}
-
-.post-body-image {
-  margin: 20px auto;
-  display: block;
-  max-width: 540px;
-}
-
-.avatar {
-  margin: 20px auto;
-  display: block;
-  max-width: 200px;
-  height: auto;
-  border-radius: 50%;
-  border: 8px solid $text-color;
 }
 
 .youtube-wrapper {
