@@ -38,31 +38,6 @@ layout: compress
   </head>  
 
   <body>
-    <nav class="navbar navbar-expand-lg navbar-dark">
-      <img src="/images/logo.jpg" alt="Logo" width="50" height="50" class="d-inline-block align-text-top site-logo">
-      <a class="navbar-brand" href="{{ site.brand-link }}" style="font-family: Lemonada" title="{{ site.description }}">{{ site.title }}</a>
-      <button
-        class="navbar-toggler"
-        type="button"
-        data-toggle="collapse"
-        data-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav ml-auto">
-          {% for item in site.data.navbar %}
-            <li class="nav-item">
-              <a class="nav-link" href="{{ item.url }}" title="{{ item.description }}">{{ item.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </nav>
-
     <div class="container">
       <div class="container justify-content-center menu-area">
         <img class="site-logo" src="{{ site.url }}/images/logo.jpg" />
