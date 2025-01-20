@@ -1,67 +1,40 @@
 ---
-
 layout: page
-
-image: /images/icons/cuairt-litir.png
-
 ---
 
-  {% for post in paginator.posts %}
-  
-  <h2 style="text-align: center">{{ post.title }}</h2>
-  
-  <p style="text-align: center"><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-    {% assign m = post.date | date: "%-m" %}
-    {{ post.date | date: "%d" }}
-    {% case m %}
-      {% when '1' %}Am Faoilleach
-      {% when '2' %}An Gearran
-      {% when '3' %}Am Màrt
-      {% when '4' %}An Giblean
-      {% when '5' %}An Cèitean
-      {% when '6' %}An t-Ògmhios
-      {% when '7' %}An t-Iuchar
-      {% when '8' %}An Lùnastal
-      {% when '9' %}An t-Sultain
-      {% when '10' %}An Dàmhair
-      {% when '11' %}An t-Samhain
-      {% when '12' %}An Dùbhlachd
-    {% endcase %}
-    {{ post.date | date: "%Y" }}
-    </a></p>
+{% include bio.html %}
 
-  {% if post.image %}
-    <img src="{{ site.url }}{{ post.image }}" class="post-image">
-  {% endif %}
-  
-  {{ post.content }}
-  
-  <h1 style="text-align: center">• • •</h1>
-  {% endfor %}
+<h2>Na pòstaichean as ùire</h2>
 
-  <div style="margin-top: 28px">
+{% for post in paginator.posts %}
+  <div class="row">
+    <div class="col-lg-3"><p>{{ post.date | date: "%d" }}/{{ post.date | date: "%m" }}/{{ post.date | date: "%Y" }}</p></div>
+    <div class="col-lg-9"><p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p></div>
+  </div>
+{% endfor %}
+
+<div style="margin-top: 28px">
   {% if paginator.total_pages > 1 %}
-  <ul class="pagination justify-content-center">
-    {% if paginator.next_page %}
-    <li class="page-item active">
-        <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-arrow-circle-left"></i>  Nas sìne</a>
-      </li>
-    {% else %}
-      <li class="page-item disabled">
-        <span class="page-link"><i class="fa fa-arrow-circle-left"></i>  Nas sìne</span>
-      </li>
-    {% endif %}
+    <ul class="pagination justify-content-center">
+      {% if paginator.next_page %}
+        <li class="page-item active">
+          <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-arrow-circle-left"></i>  Nas sìne</a>
+        </li>
+      {% else %}
+        <li class="page-item disabled">
+          <span class="page-link"><i class="fa fa-arrow-circle-left"></i>  Nas sìne</span>
+        </li>
+      {% endif %}
 
-    {% if paginator.previous_page %}
-      <li class="page-item active">
-        <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Nas ùire <i class="fa fa-arrow-circle-right"></i></a>
-      </li>
-    {% else %}
-      <li class="page-item disabled">
-        <span class="page-link">Nas ùire <i class="fa fa-arrow-circle-right"></i></span>
-      </li>
-    {% endif %}
+      {% if paginator.previous_page %}
+        <li class="page-item active">
+          <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Nas ùire <i class="fa fa-arrow-circle-right"></i></a>
+        </li>
+      {% else %}
+        <li class="page-item disabled">
+          <span class="page-link">Nas ùire <i class="fa fa-arrow-circle-right"></i></span>
+        </li>
+      {% endif %}
     </ul>
   {% endif %}
-  </div>
-
+</div>
