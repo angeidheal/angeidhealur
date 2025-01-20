@@ -1,11 +1,11 @@
-- title: Dachaigh
+- title: <i class="fa-solid fa-house"></i>
   url: /
-  description: Dachaigh | Home
-
-- title: Tasg-lann
-  url: /tasg-lann
-  description: Tasg-lann | Archive
+  description: Naidheachdan | News
 
 - title: Faclair
   url: https://faclair.lgbt/
   description: Faclair nan Gèidheal | LGBTQ+ Glossary
+
+- title: <i class="fa-solid fa-magnifying-glass"></i>
+  url: /tasg-lann
+  description: Tasg-lann | Archive
