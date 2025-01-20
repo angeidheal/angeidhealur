@@ -3,7 +3,7 @@ layout: page
 ---
 
 {% for post in paginator.posts %}
-  <h1><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</h1>
+  <h1>{{ post.title }}</h1>
   
   <p>
     {% assign m = post.date | date: "%-m" %}
