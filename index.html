@@ -3,9 +3,9 @@ layout: page
 ---
 
 {% for post in paginator.posts %}
-  <h2 style="text-align: center">{{ post.title }}</h2>
+  <h2>{{ post.title }}</h2>
   
-  <p style="text-align: center"><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+  <p"><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
     {% assign m = post.date | date: "%-m" %}
     {{ post.date | date: "%d" }}
     {% case m %}
