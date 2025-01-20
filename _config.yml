@@ -5,8 +5,8 @@ description: Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàis
 url: "https://angeidhealur.scot" # the base hostname & protocol for your site
 
 #footer
-author-name: Crìstean MacMhìcheil
-author-website: "https://criomagan.scot"
+author: Crìstean MacMhìcheil
+author: "https://criomagan.scot"
 
 #social
 mastodon: 
