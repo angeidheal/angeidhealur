@@ -6,18 +6,15 @@
   url: /tasg-lann
   description: Tasg-lann | Archive
 
+- title: <i class="fa-solid fa-clock-rotate-left"></i>
+  url: https://angeidhealur.scot/dualchas/
+  description: Dualchas | Heritage
+
+- title: <i class="fa-solid fa-link"></i>
+  url: https://angeidhealur.scot/ceanglaichean/
+  description: Ceanglaichean | Links
+
+
 - title: <i class="fa-regular fa-circle-question"></i>
   url: https://angeidhealur.scot/mu-ar-deidhinn/
   description: Mu ar deidhinn | About Us
-
-- title: <i class="fa-brands fa-mastodon"></i>
-  url: https://criomagan.scot/@angeidheal
-  description:
-
-- title: <i class="fa-brands fa-bluesky"></i>
-  url: https://bsky.app/profile/angeidheal.scot
-  description: 
-
-- title: <i class="fa-solid fa-square-rss"></i>
-  url: https://angeidheal.scot/feed
-  description: 
