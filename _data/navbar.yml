@@ -1,10 +1,14 @@
-- title: <i class="fa-solid fa-house"></i>
+- title: Dachaigh
   url: /
-  description: Naidheachdan | News
+  description: Dachaigh | Home
 
-- title: <i class="fa-solid fa-magnifying-glass"></i>
+- title: Tasg-lann
   url: /tasg-lann
   description: Tasg-lann | Archive
+
+- title: Faclair
+  url: https://faclair.lgbt/
+  description: Faclair nan Gèidheal | LGBTQ+ Glossary
 
 - title: <i class="fa-brands fa-mastodon"></i>
   url: https://criomagan.scot/@angeidhealur
