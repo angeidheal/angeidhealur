@@ -2,11 +2,7 @@
   url: /
   description: Naidheachdan | News
 
-- title: Faclair
-  url: https://faclair.lgbt/
-  description: Faclair nan Gèidheal | LGBTQ+ Glossary
-
-- title: Mu ar deidhinn
+- title: <i class="fa-regular fa-circle-question"></i>
   url: https://angeidhealur.scot/mu-ar-deidhinn/
   description: Mu ar deidhinn | About Us
 
