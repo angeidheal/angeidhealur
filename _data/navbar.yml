@@ -1,19 +1,19 @@
 - title: <i class="fa-solid fa-house"></i>
   url: /
-  description: Mo bhlog | My blog
+  description: Naidheachdan | News
 
 - title: <i class="fa-solid fa-magnifying-glass"></i>
   url: /tasg-lann
   description: Tasg-lann | Archive
 
 - title: <i class="fa-brands fa-mastodon"></i>
-  url: https://criomagan.scot/@angeidheal
+  url: https://criomagan.scot/@angeidhealur
   description:
 
 - title: <i class="fa-brands fa-bluesky"></i>
-  url: https://bsky.app/profile/angeidheal.scot
+  url: https://bsky.app/profile/angeidhealur
   description: 
 
 - title: <i class="fa-solid fa-square-rss"></i>
-  url: https://angeidheal.scot/feed
-  description: 
+  url: {{ site.url }}/feed
+  description: Inbhir RSS | RSS Feed
