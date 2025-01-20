@@ -15,5 +15,5 @@
   description: 
 
 - title: <i class="fa-solid fa-square-rss"></i>
-  url: {{ site.url }}/feed
-  description: Inbhir RSS | RSS Feed
+  url: https://angeidhealur.scot/feed
+  description: Inbhir RSS  | RSS Feed
