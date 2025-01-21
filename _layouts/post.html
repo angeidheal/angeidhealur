@@ -28,17 +28,13 @@ layout: default
   </p>
 
   {% if page.image %}
-    <img src="{{ site.baseurl }}{{ page.image }}" class="post-image">
+    <img src="{{ site.baseurl }}{{ page.image }}" class="post-image" />
   {% endif %}
 
   {{ content }}
   
   <h4>Fàg beachd</h4>
-  {% if page.mastodon %}
-    <p>Ma tha beachd agad mun a' phost seo, faodaidh tu a chur thugam air <a href="{{ page.mastodon }}" target="_blank">Mastodon</a>.</p>
-  {% else %}
-    <p>Ma tha beachd agad mun a' phost seo, faodaidh tu a chur thugam air <a href="{{ site.mastodon }}" target="_blank">Mastodon</a>.</p>
-  {% endif %}
+  <p>Ma tha beachd agad mun a' phost seo, faodaidh tu a chur thugam air <a href="{{ site.mastodon }}" target="_blank">Mastodon</a>.</p>
 
 <div class="next-previous-articles">
   <nav aria-label="">
