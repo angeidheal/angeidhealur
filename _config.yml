@@ -1,16 +1,12 @@
 # Site settings
-title: An Gèidheal Ùr
+title: An Gèidheal Ùr
 description: Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
-brand: An Gèidheal Ùr
-brand-link: /
-brand-tagline: Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
 # baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://angeidhealur.scot" # the base hostname & protocol for your site
-excerpt_separator: <!--more-->
 
 #footer
-author-name: Crìstean MacMhìcheil
-author-website: "https://criomagan.scot"
+author: Crìstean MacMhìcheil
+website: "https://criomagan.scot"
 
 #social
 mastodon: 
@@ -21,7 +17,7 @@ email: fios@angeidhealur.scot
 # Build settings
 markdown: kramdown
 permalink: /:year-:month-:day-:title/
-paginate: 12
+paginate: 8
 paginate_path: /duilleag-:num/
 
 # Ruby Gems
