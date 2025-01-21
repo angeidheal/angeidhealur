@@ -5,9 +5,13 @@ layout: page
 <h2>Na postaichean as ùire</h2>
 
 {% for post in paginator.posts %}
-  <div class="row">
-    <div class="col-lg-3"><p>{{ post.date | date: "%d" }}/{{ post.date | date: "%m" }}/{{ post.date | date: "%Y" }}</p></div>
-    <div class="col-lg-9"><p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p></div>
+  <div class="card" style="width: 18rem;">
+    <img class="card-img-top" src="..." alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+      <p class="card-text">{{ post.excerpt }}</p>
+      <p class="card-text">{{ post.date | date: "%d" }}/{{ post.date | date: "%m" }}/{{ post.date | date: "%Y" }}</p>
+    </div>
   </div>
 {% endfor %}
 
