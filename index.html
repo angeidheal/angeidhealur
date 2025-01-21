@@ -1,37 +1,42 @@
 ---
-
 layout: page
-
 image: /images/icons/cuairt-litir.png
-
 ---
 
-  {% for post in paginator.posts %}
-    <div class="card bg-dark mb-3">
-      <img class="card-img-top" src="{{ site.url }}{{ post.image }}" alt="Card image cap">
-      <div class="card-body">
-        <h5 class="card-title"><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h5>
-        <p class="card-text">{{ post.excerpt }}</p>
-        <p class="card-text"><small>{% assign m = post.date | date: "%-m" %}
-          {{ post.date | date: "%d" }}
-          {% case m %}
-            {% when '1' %}Am Faoilleach
-            {% when '2' %}An Gearran
-            {% when '3' %}Am Màrt
-            {% when '4' %}An Giblean
-            {% when '5' %}An Cèitean
-            {% when '6' %}An t-Ògmhios
-            {% when '7' %}An t-Iuchar
-            {% when '8' %}An Lùnastal
-            {% when '9' %}An t-Sultain
-            {% when '10' %}An Dàmhair
-            {% when '11' %}An t-Samhain
-            {% when '12' %}An Dùbhlachd
-          {% endcase %}
-          {{ post.date | date: "%Y" }}</small></p>
-      </div>
+<div class="card bg-dark mb-3">
+  <div class="card-body">
+    <h5 class="card-title">An Gèidheal Ùr</h5>
+    <p class="card-text">Faclair de bhriathrachas LGBTQIA+</p>
+    <a href="https://faclair.lgbt/" class="btn btn-primary">Tadhal air</a>
+  </div>
+</div>
+
+{% for post in paginator.posts %}
+  <div class="card bg-dark mb-3">
+    <img class="card-img-top" src="{{ site.url }}{{ post.image }}" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title"><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h5>
+      <p class="card-text">{{ post.excerpt }}</p>
+      <p class="card-text"><small>{% assign m = post.date | date: "%-m" %}
+        {{ post.date | date: "%d" }}
+        {% case m %}
+          {% when '1' %}Am Faoilleach
+          {% when '2' %}An Gearran
+          {% when '3' %}Am Màrt
+          {% when '4' %}An Giblean
+          {% when '5' %}An Cèitean
+          {% when '6' %}An t-Ògmhios
+          {% when '7' %}An t-Iuchar
+          {% when '8' %}An Lùnastal
+          {% when '9' %}An t-Sultain
+          {% when '10' %}An Dàmhair
+          {% when '11' %}An t-Samhain
+          {% when '12' %}An Dùbhlachd
+        {% endcase %}
+        {{ post.date | date: "%Y" }}</small></p>
     </div>
-  {% endfor %}
+  </div>
+{% endfor %}
 
   <div style="margin-top: 28px">
   {% if paginator.total_pages > 1 %}
