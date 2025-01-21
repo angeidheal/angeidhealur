@@ -57,30 +57,19 @@ layout: compress
   </head>
   
   <body>
-    <nav class="navbar navbar-expand-lg navbar-dark">
-      <img class="site-logo" src="{{ site.url }}/images/logo.jpg" />
-      <h1><a class="navbar-brand" href="{{ site.brand-link }}" style="font-family: Lemonada" title="{{ site.brand-tagline }}">{{ site.brand }}</a--></h1>
-      <button
-        class="navbar-toggler"
-        type="button"
-        data-toggle="collapse"
-        data-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav ml-auto">
-          {% for item in site.data.navbar %}
+    <div class="container">
+      <div class="container justify-content-center menu-area">
+        <img class="site-logo" src="{{ site.url }}/images/logo.jpg" />
+        <h1 class="site-title">{{ site.title }}</h1>
+        <p style="text-align: center; color: #f0f0f0;">{{ site.description }}</p>
+        <ul class="nav nav-justified">
+          {% for site in site.data.navbar %}
             <li class="nav-item">
-              <a class="nav-link" href="{{ item.url }}" title="{{ item.description }}">{{ item.title }}</a>
+              <a class="nav-link" href="{{ site.url }}" title="{{ site.description }}">{{ site.title }}</a>
             </li>
           {% endfor %}
         </ul>
       </div>
-    </nav>    
 
     <div class="container content-area">
       <div class="row">
