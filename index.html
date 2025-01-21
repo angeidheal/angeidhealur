@@ -1,5 +1,6 @@
 ---
 layout: page
+<<<<<<< HEAD
 image: /images/icons/cuairt-litir.png
 ---
 
@@ -37,30 +38,71 @@ image: /images/icons/cuairt-litir.png
     </div>
   </div>
 {% endfor %}
+=======
+---
 
-  <div style="margin-top: 28px">
+<!--{% include bio.html %}-->
+
+<div class="card text-center text-bg-dark mb-3">
+  <div class="card-body">
+    <h5 class="card-title">Faclair nan Gèidheal</h5>
+    <p class="card-text">Faclair de bhriathrachas LGBTQIA+ .</p>
+    <a href="https://faclair.lgbt/" target="_blank" class="btn btn-primary">Tadhal air </a>
+  </div>
+</div>
+>>>>>>> parent of 82ae8e9 (Restore theme)
+
+<h2 style="text-align: center">Na postaichean as ùire</h2>
+
+{% for post in paginator.posts %}
+  <div class="card text-bg-dark mb-3">
+    <img src="{{ site.url }}{{ post.image }}" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+      <p class="card-text"> {{ post.excerpt }}</p>
+      <p class="card-text"><small>{% assign m = post.date | date: "%-m" %}
+        {{ post.date | date: "%d" }}
+        {% case m %}
+          {% when '1' %}Am Faoilleach
+          {% when '2' %}An Gearran
+          {% when '3' %}Am Màrt
+          {% when '4' %}An Giblean
+          {% when '5' %}An Cèitean
+          {% when '6' %}An t-Ògmhios
+          {% when '7' %}An t-Iuchar
+          {% when '8' %}An Lùnastal
+          {% when '9' %}An t-Sultain
+          {% when '10' %}An Dàmhair
+          {% when '11' %}An t-Samhain
+          {% when '12' %}An Dùbhlachd
+        {% endcase %}
+        {{ post.date | date: "%Y" }}</small></p>
+    </div>
+  </div>
+{% endfor %}
+
+<div style="margin-top: 28px">
   {% if paginator.total_pages > 1 %}
-  <ul class="pagination justify-content-center">
-    {% if paginator.next_page %}
-    <li class="page-item active">
-        <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-arrow-circle-left"></i>  Nas sìne</a>
-      </li>
-    {% else %}
-      <li class="page-item disabled">
-        <span class="page-link"><i class="fa fa-arrow-circle-left"></i>  Nas sìne</span>
-      </li>
-    {% endif %}
+    <ul class="pagination justify-content-center">
+      {% if paginator.next_page %}
+        <li class="page-item active">
+          <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-arrow-circle-left"></i>  Nas sìne</a>
+        </li>
+      {% else %}
+        <li class="page-item disabled">
+          <span class="page-link"><i class="fa fa-arrow-circle-left"></i>  Nas sìne</span>
+        </li>
+      {% endif %}
 
-    {% if paginator.previous_page %}
-      <li class="page-item active">
-        <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Nas ùire <i class="fa fa-arrow-circle-right"></i></a>
-      </li>
-    {% else %}
-      <li class="page-item disabled">
-        <span class="page-link">Nas ùire <i class="fa fa-arrow-circle-right"></i></span>
-      </li>
-    {% endif %}
+      {% if paginator.previous_page %}
+        <li class="page-item active">
+          <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Nas ùire <i class="fa fa-arrow-circle-right"></i></a>
+        </li>
+      {% else %}
+        <li class="page-item disabled">
+          <span class="page-link">Nas ùire <i class="fa fa-arrow-circle-right"></i></span>
+        </li>
+      {% endif %}
     </ul>
   {% endif %}
-  </div>
-
+</div>
