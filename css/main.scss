@@ -4,7 +4,7 @@
 
 $text-color: #f0f0f0;
 $background-color: #0d1117;
-$brand-color: #6062a5;
+$brand-color: #fb900c;
 
 // Width of the content area
 $content-width: 800px;
@@ -67,11 +67,11 @@ img {
 }
 
 a {
-  color: $brand-color;
+  color: $text-color;
 }
 
 a:hover {
-  color: $text-color;
+  color: $brand-color;
 }
 
 p a, li a {
@@ -114,7 +114,7 @@ blockquote, code {
 }
 
 .menu-area, .content-area {
-  max-width: 720px;
+  max-width: 600px;
 }
 
 /* Post Media */
