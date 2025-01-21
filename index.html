@@ -8,8 +8,8 @@ layout: page
   <div class="card bg-dark">
     <img class="card-img-top" src="{{ site.url }}{{ post.image }}" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
-      <p class="card-text">{{ post.excerpt }}</p>
+      <h2 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="card-text"><p>{{ post.excerpt }}</p></p>
       <p class="card-text">{% assign m = post.date | date: "%-m" %}
         {{ post.date | date: "%d" }}
         {% case m %}
