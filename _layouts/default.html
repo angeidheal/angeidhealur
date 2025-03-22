@@ -37,22 +37,41 @@ layout: compress
   </head>  
 
   <body>
-    <div class="site-wrapper">
-      <!-- Sidebar -->
-      <aside class="sidebar">
-        <div class="sidebar-content">
+    <!-- Top Navigation -->
+    <nav class="top-nav">
+      <div class="nav-content">
+        <div class="brand-section">
           <img class="site-logo" src="{{ site.url }}/images/logo.jpg" alt="{{ site.title }}" />
           <h1 class="site-title">{{ site.title }}</h1>
-          <p class="site-description text-center">{{ site.description }}</p>
-          <nav class="nav-container">
-            <ul class="nav flex-column">
-              {% for site in site.data.navbar %}
-                <li class="nav-item">
-                  <a class="nav-link" href="{{ site.url }}" title="{{ site.description }}">{{ site.title }}</a>
-                </li>
-              {% endfor %}
-            </ul>
-          </nav>
+        </div>
+        <ul class="nav nav-justified">
+          {% for site in site.data.navbar %}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.url }}" title="{{ site.description }}">{{ site.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </nav>
+
+    <div class="site-wrapper">
+      <!-- Sidebar with Categories -->
+      <aside class="sidebar">
+        <div class="sidebar-content">
+          <h2 class="sidebar-title">Seòrsachadh</h2>
+          <ul class="category-list">
+            {% assign categories = site.categories | sort %}
+            {% for category in categories %}
+              {% assign category_name = category | first %}
+              {% assign category_posts = category | last %}
+              <li class="category-item">
+                <a href="/category/{{ category_name | slugify }}/" class="category-link">
+                  {{ category_name }}
+                  <span class="post-count">({{ category_posts.size }})</span>
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
         </div>
       </aside>
 
