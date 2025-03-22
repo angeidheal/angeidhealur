@@ -12,8 +12,10 @@ $bp-medium: 768px;
 $bp-large: 992px;
 $bp-xlarge: 1200px;
 
-// Width of the content area
-$content-width: min(800px, 95vw);
+// Layout
+$sidebar-width: 280px;
+$sidebar-collapsed-width: 0;
+$content-max-width: 800px;
 $container-padding: 1rem;
 
 @mixin responsive($breakpoint) {
@@ -36,111 +38,148 @@ body {
   background-color: $background-color;
   font-size: 18px;
   color: $text-color;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
   
   @include responsive(small) {
     font-size: 16px;
   }
 }
 
-h1, h2, h3, h4, h5, h6 {
-  margin-top: 1.5rem;
-  line-height: 1.2;
-  word-wrap: break-word;
-}
+/* Layout */
 
-h1 {
-  font-size: 2rem;
-  font-weight: 900;
-  
-  @include responsive(small) {
-    font-size: 1.75rem;
-  }
-}
+.site-wrapper {
+  min-height: 100vh;
+  display: flex;
+  position: relative;
 
-h2 {
-  font-size: 1.75rem;
-  font-weight: 700;
-  
-  @include responsive(small) {
-    font-size: 1.5rem;
-  }
-}
-
-h3 {
-  font-size: 1.5rem;
-  font-weight: 500;
-  
-  @include responsive(small) {
-    font-size: 1.25rem;
-  }
-}
-
-h4 {
-  font-size: 1.25rem;
-  font-weight: 400;
-}
-
-h5 {
-  font-size: 1.1rem;
-  font-weight: 200;
-}
-
-h6 {
-  font-size: 1rem;
-  font-weight: 100;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-a {
-  color: $text-color;
-  transition: color 0.2s ease;
-}
-
-a:hover {
-  color: $brand-color;
-}
-
-p a, li a {
-  color: $brand-color;
-  font-weight: 600;
-}
-
-p a:hover, li a:hover {
-  color: $text-color;
-  text-decoration: underline;
-}
-
-.nav-link {
-  color: $brand-color;
-  padding: 0.5rem;
-  
   @include responsive(medium) {
-    padding: 0.25rem;
-    font-size: 0.9rem;
+    display: block;
   }
 }
 
-.nav-link:hover {
-  color: $text-color;
+/* Sidebar */
+
+.sidebar {
+  width: $sidebar-width;
+  background-color: darken($background-color, 3%);
+  border-right: 1px solid lighten($background-color, 10%);
+  padding: $container-padding;
+  position: fixed;
+  height: 100vh;
+  overflow-y: auto;
+  transition: transform 0.3s ease;
+
+  @include responsive(medium) {
+    transform: translateX(-100%);
+    z-index: 1000;
+    
+    &.active {
+      transform: translateX(0);
+    }
+  }
+
+  .sidebar-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .nav-container {
+    width: 100%;
+    margin-top: 1rem;
+  }
+
+  .nav {
+    gap: 0.5rem;
+  }
+
+  .nav-item {
+    width: 100%;
+  }
+
+  .nav-link {
+    color: $brand-color;
+    padding: 0.75rem 1rem;
+    text-align: center;
+    transition: all 0.2s ease;
+    border-radius: 0.25rem;
+    
+    &:hover {
+      color: $text-color;
+      background-color: lighten($background-color, 5%);
+    }
+  }
 }
 
-blockquote, code {
-  border-left: 3px solid $brand-color;
-  padding-left: 0.5rem;
-  margin: 1rem 0;
-  overflow-x: auto;
+/* Main Content */
+
+.main-wrapper {
+  flex: 1;
+  margin-left: $sidebar-width;
+  width: calc(100% - #{$sidebar-width});
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  @include responsive(medium) {
+    margin-left: 0;
+    width: 100%;
+  }
 }
+
+.content-area {
+  flex: 1;
+  max-width: $content-max-width;
+  margin: 2rem auto;
+  padding: 0 $container-padding;
+  width: 100%;
+}
+
+/* Mobile Menu Toggle */
+
+.mobile-menu-toggle {
+  display: none;
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  z-index: 1001;
+  background-color: $brand-color;
+  color: $text-color;
+  border: none;
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+  font-size: 1.25rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+
+  @include responsive(medium) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  &:hover {
+    background-color: lighten($brand-color, 10%);
+  }
+
+  &.active {
+    background-color: darken($brand-color, 10%);
+  }
+}
+
+/* Logo and Title */
 
 .site-logo {
   display: block;
-  margin: 2rem auto 1rem;
   border-radius: 50%;
   width: 100px;
   height: 100px;
+  margin: 0 auto;
   
   @include responsive(small) {
     width: 80px;
@@ -152,36 +191,93 @@ blockquote, code {
   font-family: Lemonada;
   color: $text-color;
   text-align: center;
-  margin: 1rem 0;
+  margin: 0.5rem 0;
+  font-size: 1.75rem;
   
   @include responsive(small) {
     font-size: 1.5rem;
   }
 }
 
-.menu-area, .content-area {
-  width: 100%;
-  max-width: $content-width;
-  margin: 0 auto;
-  padding: 0 $container-padding;
+.site-description {
+  text-align: center;
+  margin: 0;
+  font-size: 0.9rem;
+  color: $text-color;
 }
 
-.menu-area {
-  margin-bottom: 2rem;
+/* Footer */
+
+footer {
+  margin-top: auto;
+  padding: 2rem $container-padding;
+  text-align: center;
+  background-color: darken($background-color, 3%);
   
-  .nav {
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 0.5rem;
+  .footer-content {
+    max-width: $content-max-width;
+    margin: 0 auto;
+  }
+  
+  p {
+    margin: 0.5rem 0;
     
-    @include responsive(medium) {
-      gap: 0.25rem;
+    @include responsive(small) {
+      font-size: 0.9rem;
     }
   }
 }
 
-.content-area {
-  margin-bottom: 3rem;
+/* Typography and Elements */
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.5rem;
+  line-height: 1.2;
+  word-wrap: break-word;
+}
+
+h1 { font-size: 2rem; font-weight: 900; }
+h2 { font-size: 1.75rem; font-weight: 700; }
+h3 { font-size: 1.5rem; font-weight: 500; }
+h4 { font-size: 1.25rem; font-weight: 400; }
+h5 { font-size: 1.1rem; font-weight: 200; }
+h6 { font-size: 1rem; font-weight: 100; }
+
+@include responsive(small) {
+  h1 { font-size: 1.75rem; }
+  h2 { font-size: 1.5rem; }
+  h3 { font-size: 1.25rem; }
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: $text-color;
+  transition: color 0.2s ease;
+  
+  &:hover {
+    color: $brand-color;
+  }
+}
+
+p a, li a {
+  color: $brand-color;
+  font-weight: 600;
+  
+  &:hover {
+    color: $text-color;
+    text-decoration: underline;
+  }
+}
+
+blockquote, code {
+  border-left: 3px solid $brand-color;
+  padding-left: 0.5rem;
+  margin: 1rem 0;
+  overflow-x: auto;
 }
 
 /* Post Media */
@@ -199,15 +295,15 @@ blockquote, code {
   height: 0;
   padding-bottom: 56.25%;
   margin: 1.5rem 0;
-}
-
-.youtube-wrapper iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border: 0;
+  
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
 }
 
 .twitter-tweet {
@@ -237,30 +333,4 @@ blockquote, code {
 .page-item.active .page-link {
   background-color: $brand-color;
   border-color: $brand-color;
-}
-
-/* Footer */
-
-footer {
-  color: $text-color;
-  padding: 2rem $container-padding;
-  text-align: center;
-  
-  p {
-    margin: 0.5rem 0;
-    
-    @include responsive(small) {
-      font-size: 0.9rem;
-    }
-  }
-}
-
-/* Container overrides */
-.container {
-  width: 100%;
-  max-width: $content-width;
-  padding-left: $container-padding;
-  padding-right: $container-padding;
-  margin-left: auto;
-  margin-right: auto;
 }
