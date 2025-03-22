@@ -1,23 +1,23 @@
-- title: <i class="fa-solid fa-house"></i>
+- title: <i class="fa-solid fa-house"></i> Dachaigh
   url: /
   description: Naidheachdan | News
 
-- title: <i class="fa-solid fa-magnifying-glass"></i>
+- title: <i class="fa-solid fa-magnifying-glass"></i> Tasg-lann
   url: /tasg-lann
   description: Tasg-lann | Archive
 
-- title: <i class="fa-solid fa-book"></i>
+- title: <i class="fa-solid fa-book"></i> Faclair nan Gèidheal
   url: https://faclair.lgbt/
   description: Faclair nan Gèidheal | Gaelic Dictionary
 
-- title: <i class="fa-solid fa-clock-rotate-left"></i>
+- title: <i class="fa-solid fa-clock-rotate-left"></i> Dualchas
   url: https://angeidhealur.scot/dualchas/
   description: Dualchas | Heritage
 
-- title: <i class="fa-solid fa-link"></i>
+- title: <i class="fa-solid fa-link"></i> Ceanglaichean
   url: https://angeidhealur.scot/ceanglaichean/
   description: Ceanglaichean | Links
 
-- title: <i class="fa-regular fa-circle-question"></i>
+- title: <i class="fa-regular fa-circle-question"></i> Mu ar deidhinn
   url: https://angeidhealur.scot/mu-ar-deidhinn/
   description: Mu ar deidhinn | About Us
