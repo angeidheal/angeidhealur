@@ -6,6 +6,10 @@
   url: /tasg-lann
   description: Tasg-lann | Archive
 
+- title: <i class="fa-solid fa-book"></i>
+  url: /faclair
+  description: Faclair nan Gèidheal | Gaelic Dictionary
+
 - title: <i class="fa-solid fa-clock-rotate-left"></i>
   url: https://angeidhealur.scot/dualchas/
   description: Dualchas | Heritage
@@ -13,7 +17,6 @@
 - title: <i class="fa-solid fa-link"></i>
   url: https://angeidhealur.scot/ceanglaichean/
   description: Ceanglaichean | Links
-
 
 - title: <i class="fa-regular fa-circle-question"></i>
   url: https://angeidhealur.scot/mu-ar-deidhinn/
