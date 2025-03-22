@@ -94,6 +94,7 @@ body {
 
   .nav {
     gap: 0.5rem;
+    width: 100%;
   }
 
   .nav-item {
@@ -103,9 +104,11 @@ body {
   .nav-link {
     color: $brand-color;
     padding: 0.75rem 1rem;
-    text-align: center;
+    text-align: left;
     transition: all 0.2s ease;
     border-radius: 0.25rem;
+    display: block;
+    width: 100%;
     
     &:hover {
       color: $text-color;
