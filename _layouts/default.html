@@ -59,15 +59,13 @@ layout: compress
       <aside class="sidebar">
         <div class="sidebar-content">
           <h2 class="sidebar-title">Seòrsachadh</h2>
+
           <ul class="category-list">
-            {% assign categories = site.categories | sort %}
-            {% for category in categories %}
-              {% assign category_name = category | first %}
-              {% assign category_posts = category | last %}
+            {% for category in site.data.categories %}
               <li class="category-item">
-                <a href="/roinn-seorsa/{{ category_name | slugify }}/" class="category-link">
-                  {{ category_name }}
-                  <span class="post-count">({{ category_posts.size }})</span>
+                <a href="{{ site.url}}/{{ category.url }}"  class="category-link">
+                  {{ category.title }}
+                  <span class="post-count">({{ category.posts.size }})</span>
                 </a>
               </li>
             {% endfor %}
