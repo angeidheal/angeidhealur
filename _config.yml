@@ -1,7 +1,7 @@
 # Site settings
 title: An Gèidheal Ùr
 description: Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
-# baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/angeidhealur" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 #footer
