@@ -43,14 +43,19 @@ layout: compress
         <div class="brand-section">
           <img class="site-logo" src="{{ site.url }}/images/logo.jpg" alt="{{ site.title }}" />
           <h1 class="site-title">{{ site.title }}</h1>
+          <button class="nav-toggle" aria-label="Toggle navigation">
+            <i class="fas fa-bars"></i>
+          </button>
         </div>
-        <ul class="nav nav-justified">
-          {% for site in site.data.navbar %}
-            <li class="nav-item">
-              <a class="nav-link" href="{{ site.url }}" title="{{ site.description }}">{{ site.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
+        <div class="nav-menu">
+          <ul class="nav">
+            {% for site in site.data.navbar %}
+              <li class="nav-item">
+                <a class="nav-link" href="{{ site.url }}" title="{{ site.description }}">{{ site.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
       </div>
     </nav>
 
@@ -59,11 +64,10 @@ layout: compress
       <aside class="sidebar">
         <div class="sidebar-content">
           <h2 class="sidebar-title">Seòrsachadh</h2>
-
           <ul class="category-list">
             {% for category in site.data.categories %}
               <li class="category-item">
-                <a href="{{ site.url}}/{{ category.url }}"  class="category-link">
+                <a href="{{ site.url}}/{{ category.url }}" class="category-link">
                   {{ category.title }}
                   <span class="post-count">({{ category.posts.size }})</span>
                 </a>
@@ -88,8 +92,8 @@ layout: compress
       </div>
 
       <!-- Mobile Menu Button -->
-      <button class="mobile-menu-toggle" aria-label="Toggle menu">
-        <i class="fas fa-bars"></i>
+      <button class="mobile-menu-toggle" aria-label="Toggle categories">
+        <i class="fas fa-list"></i>
       </button>
     </div>
 
@@ -104,8 +108,15 @@ layout: compress
       crossorigin="anonymous">
     </script>
     <script>
+      // Toggle category sidebar
       document.querySelector('.mobile-menu-toggle').addEventListener('click', function() {
         document.querySelector('.sidebar').classList.toggle('active');
+        this.classList.toggle('active');
+      });
+
+      // Toggle navigation menu
+      document.querySelector('.nav-toggle').addEventListener('click', function() {
+        document.querySelector('.nav-menu').classList.toggle('active');
         this.classList.toggle('active');
       });
     </script>
