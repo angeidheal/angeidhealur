@@ -1,0 +1,103 @@
+---
+layout: default
+title: Faclair nan Gèidheal
+---
+
+<div class="faclair-container">
+  <div class="search-area">
+    <input type="text" id="searchInput" class="form-control" placeholder="Lorg facal..." aria-label="Lorg facal">
+    <div id="searchResults" class="results-container"></div>
+  </div>
+</div>
+
+<script>
+const dictionary = [
+  {
+    word: 'abhainn',
+    definition: 'Sruthan mòr uisge a tha a' ruith tro dhùthaich',
+    grammar: 'boireann, iol: aibhnichean',
+    irish: 'abhainn',
+    manx: 'awin',
+    english: 'river'
+  },
+  // More entries will be added
+];
+
+document.getElementById('searchInput').addEventListener('input', function(e) {
+  const searchTerm = e.target.value.toLowerCase();
+  const results = dictionary.filter(entry => 
+    entry.word.toLowerCase().includes(searchTerm) ||
+    entry.english.toLowerCase().includes(searchTerm) ||
+    entry.irish.toLowerCase().includes(searchTerm) ||
+    entry.manx.toLowerCase().includes(searchTerm)
+  );
+  
+  displayResults(results);
+});
+
+function displayResults(results) {
+  const resultsDiv = document.getElementById('searchResults');
+  resultsDiv.innerHTML = '';
+  
+  results.forEach(entry => {
+    const entryDiv = document.createElement('div');
+    entryDiv.className = 'dictionary-entry';
+    entryDiv.innerHTML = `
+      <h3>${entry.word}</h3>
+      <p class="definition">${entry.definition}</p>
+      <p class="grammar"><strong>Gràmar:</strong> ${entry.grammar}</p>
+      <div class="translations">
+        <p><strong>Gaeilge:</strong> ${entry.irish}</p>
+        <p><strong>Gaelg:</strong> ${entry.manx}</p>
+        <p><strong>Beurla:</strong> ${entry.english}</p>
+      </div>
+    `;
+    resultsDiv.appendChild(entryDiv);
+  });
+}
+</script>
+
+<style>
+.faclair-container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.search-area {
+  margin-bottom: 2rem;
+}
+
+.dictionary-entry {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background: white;
+}
+
+.dictionary-entry h3 {
+  color: #2c5530;
+  margin-bottom: 0.5rem;
+}
+
+.definition {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.grammar {
+  color: #666;
+  font-style: italic;
+}
+
+.translations {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid #eee;
+}
+
+#searchResults {
+  margin-top: 1rem;
+}
+</style> 
