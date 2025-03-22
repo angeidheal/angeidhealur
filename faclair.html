@@ -6,12 +6,20 @@ title: Faclair nan Gèidheal
 <div class="faclair-container">
   <div class="search-area">
     <input type="text" id="searchInput" class="form-control" placeholder="Lorg facal..." aria-label="Lorg facal">
-    <div id="searchResults" class="results-container"></div>
+    <div id="searchResults" class="results-container">
+      <!-- Debug message to verify div exists -->
+      <div class="debug-message">Loading dictionary...</div>
+    </div>
   </div>
 </div>
 
 <script>
+// Debug log to verify script runs
+console.log('Script starting...');
+
 document.addEventListener('DOMContentLoaded', function() {
+  console.log('DOM loaded');
+  
   const dictionary = [
     {
       word: "abhainn",
@@ -26,10 +34,14 @@ document.addEventListener('DOMContentLoaded', function() {
   const searchInput = document.getElementById('searchInput');
   const resultsDiv = document.getElementById('searchResults');
 
+  console.log('Elements found:', { searchInput, resultsDiv });
+
   // Show all entries initially
   displayResults(dictionary);
+  console.log('Initial display complete');
 
   searchInput.addEventListener('input', function(e) {
+    console.log('Search input:', e.target.value);
     const searchTerm = e.target.value.toLowerCase();
     const results = dictionary.filter(entry => 
       entry.word.toLowerCase().includes(searchTerm) ||
@@ -38,11 +50,18 @@ document.addEventListener('DOMContentLoaded', function() {
       entry.manx.toLowerCase().includes(searchTerm)
     );
     
+    console.log('Search results:', results);
     displayResults(results);
   });
 
   function displayResults(results) {
+    console.log('Displaying results:', results);
     resultsDiv.innerHTML = '';
+    
+    if (results.length === 0) {
+      resultsDiv.innerHTML = '<div class="no-results">Chan eil toradh ann</div>';
+      return;
+    }
     
     results.forEach(entry => {
       const entryDiv = document.createElement('div');
@@ -105,5 +124,19 @@ document.addEventListener('DOMContentLoaded', function() {
 
 #searchResults {
   margin-top: 1rem;
+}
+
+.debug-message {
+  color: #666;
+  font-style: italic;
+  text-align: center;
+  padding: 1rem;
+}
+
+.no-results {
+  text-align: center;
+  padding: 1rem;
+  color: #666;
+  font-style: italic;
 }
 </style> 
