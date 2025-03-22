@@ -13,75 +13,6 @@ title: Faclair nan Gèidheal
   </div>
 </div>
 
-<script>
-// Debug log to verify script runs
-console.log('Script starting...');
-
-document.addEventListener('DOMContentLoaded', function() {
-  console.log('DOM loaded');
-  
-  const dictionary = [
-    {
-      word: "abhainn",
-      definition: "Sruthan mòr uisge a tha a' ruith tro dhùthaich",
-      grammar: "boireann, iol: aibhnichean",
-      irish: "abhainn",
-      manx: "awin",
-      english: "river"
-    }
-  ];
-
-  const searchInput = document.getElementById('searchInput');
-  const resultsDiv = document.getElementById('searchResults');
-
-  console.log('Elements found:', { searchInput, resultsDiv });
-
-  // Show all entries initially
-  displayResults(dictionary);
-  console.log('Initial display complete');
-
-  searchInput.addEventListener('input', function(e) {
-    console.log('Search input:', e.target.value);
-    const searchTerm = e.target.value.toLowerCase();
-    const results = dictionary.filter(entry => 
-      entry.word.toLowerCase().includes(searchTerm) ||
-      entry.english.toLowerCase().includes(searchTerm) ||
-      entry.irish.toLowerCase().includes(searchTerm) ||
-      entry.manx.toLowerCase().includes(searchTerm)
-    );
-    
-    console.log('Search results:', results);
-    displayResults(results);
-  });
-
-  function displayResults(results) {
-    console.log('Displaying results:', results);
-    resultsDiv.innerHTML = '';
-    
-    if (results.length === 0) {
-      resultsDiv.innerHTML = '<div class="no-results">Chan eil toradh ann</div>';
-      return;
-    }
-    
-    results.forEach(entry => {
-      const entryDiv = document.createElement('div');
-      entryDiv.className = 'dictionary-entry';
-      entryDiv.innerHTML = `
-        <h3>${entry.word}</h3>
-        <p class="definition">${entry.definition}</p>
-        <p class="grammar"><strong>Gràmar:</strong> ${entry.grammar}</p>
-        <div class="translations">
-          <p><strong>Gaeilge:</strong> ${entry.irish}</p>
-          <p><strong>Gaelg:</strong> ${entry.manx}</p>
-          <p><strong>Beurla:</strong> ${entry.english}</p>
-        </div>
-      `;
-      resultsDiv.appendChild(entryDiv);
-    });
-  }
-});
-</script>
-
 <style>
 .faclair-container {
   max-width: 800px;
@@ -139,4 +70,77 @@ document.addEventListener('DOMContentLoaded', function() {
   color: #666;
   font-style: italic;
 }
-</style> 
+</style>
+
+{% if content %}{{ content }}{% endif %}
+
+<!-- Add script just before closing body tag -->
+<script type="text/javascript">
+// Wait for jQuery and DOM
+window.addEventListener('load', function() {
+  if (typeof jQuery === 'undefined') {
+    console.error('jQuery not loaded');
+    return;
+  }
+  
+  console.log('Page fully loaded, jQuery available');
+  
+  const dictionary = [
+    {
+      word: "abhainn",
+      definition: "Sruthan mòr uisge a tha a' ruith tro dhùthaich",
+      grammar: "boireann, iol: aibhnichean",
+      irish: "abhainn",
+      manx: "awin",
+      english: "river"
+    }
+  ];
+
+  const searchInput = document.getElementById('searchInput');
+  const resultsDiv = document.getElementById('searchResults');
+
+  if (!searchInput || !resultsDiv) {
+    console.error('Required elements not found:', {searchInput, resultsDiv});
+    return;
+  }
+
+  // Show all entries initially
+  displayResults(dictionary);
+
+  searchInput.addEventListener('input', function(e) {
+    const searchTerm = e.target.value.toLowerCase();
+    const results = dictionary.filter(entry => 
+      entry.word.toLowerCase().includes(searchTerm) ||
+      entry.english.toLowerCase().includes(searchTerm) ||
+      entry.irish.toLowerCase().includes(searchTerm) ||
+      entry.manx.toLowerCase().includes(searchTerm)
+    );
+    displayResults(results);
+  });
+
+  function displayResults(results) {
+    resultsDiv.innerHTML = '';
+    
+    if (results.length === 0) {
+      resultsDiv.innerHTML = '<div class="no-results">Chan eil toradh ann</div>';
+      return;
+    }
+    
+    results.forEach(entry => {
+      const entryDiv = document.createElement('div');
+      entryDiv.className = 'dictionary-entry';
+      entryDiv.innerHTML = `
+        <h3>${entry.word}</h3>
+        <p class="definition">${entry.definition}</p>
+        <p class="grammar"><strong>Gràmar:</strong> ${entry.grammar}</p>
+        <div class="translations">
+          <p><strong>Gaeilge:</strong> ${entry.irish}</p>
+          <p><strong>Gaelg:</strong> ${entry.manx}</p>
+          <p><strong>Beurla:</strong> ${entry.english}</p>
+        </div>
+      `;
+      resultsDiv.appendChild(entryDiv);
+    });
+  }
+});
+</script> 
