@@ -2,7 +2,7 @@
 title: An Gèidheal Ùr
 description: Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
 baseurl: "/angeidhealur" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://angeidheal.github.io" # the base hostname & protocol for your site
 
 #footer
 author: Crìstean MacMhìcheil
