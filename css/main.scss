@@ -14,7 +14,7 @@ $bp-xlarge: 1200px;
 
 // Layout
 $sidebar-width: 280px;
-$top-nav-height: 120px;
+$top-nav-height: 80px;
 $content-max-width: 800px;
 $container-padding: 1rem;
 
@@ -52,7 +52,7 @@ body {
 .top-nav {
   background-color: darken($background-color, 3%);
   border-bottom: 1px solid lighten($background-color, 10%);
-  padding: 1rem;
+  padding: 0.5rem 1rem;
   position: fixed;
   top: 0;
   left: 0;
@@ -63,12 +63,12 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
-    gap: 1rem;
+    justify-content: space-between;
     
     @include responsive(medium) {
-      gap: 0.5rem;
+      flex-wrap: wrap;
     }
   }
   
@@ -76,23 +76,62 @@ body {
     display: flex;
     align-items: center;
     gap: 1rem;
+    flex-shrink: 0;
+  }
+
+  .nav-toggle {
+    display: none;
+    background: none;
+    border: none;
+    color: $brand-color;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    cursor: pointer;
+    transition: color 0.2s ease;
+
+    @include responsive(medium) {
+      display: block;
+    }
+
+    &:hover {
+      color: $text-color;
+    }
+
+    &.active {
+      color: $text-color;
+    }
+  }
+  
+  .nav-menu {
+    flex: 1;
     
     @include responsive(medium) {
-      flex-direction: column;
-      gap: 0.5rem;
+      display: none;
+      width: 100%;
+      margin-top: 1rem;
+      
+      &.active {
+        display: block;
+      }
     }
   }
   
   .nav {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-end;
     gap: 0.5rem;
-    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
     
     @include responsive(medium) {
-      gap: 0.25rem;
+      flex-direction: column;
+      align-items: stretch;
     }
+  }
+  
+  .nav-item {
+    white-space: nowrap;
   }
   
   .nav-link {
@@ -100,6 +139,13 @@ body {
     padding: 0.5rem 1rem;
     transition: all 0.2s ease;
     border-radius: 0.25rem;
+    display: block;
+    text-align: center;
+    
+    @include responsive(medium) {
+      text-align: left;
+      padding: 0.75rem 1rem;
+    }
     
     &:hover {
       color: $text-color;
