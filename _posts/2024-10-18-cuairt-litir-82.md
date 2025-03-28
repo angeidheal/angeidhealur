@@ -16,7 +16,7 @@ categories: ["Cuairt-litir"]
 
 Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
 
-![](/images/icons/cuairt-litir.png)
+![]({{ site.baseurl }}/images/icons/cuairt-litir.png)
 
 ## Trans Kids Deserve Better
 
