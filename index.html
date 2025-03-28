@@ -4,7 +4,7 @@ permalink: /
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in paginator.posts reversed %}
     <article class="post">
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <p class="date">{{ post.date | date: "%B %d, %Y" }}</p>
@@ -22,12 +22,12 @@ permalink: /
   <ul class="pagination justify-content-center">
     {% if paginator.previous_page %}
       <li class="page-item">
-        <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">← Previous</a>
+        <a class="page-link" href="{{ paginator.previous_page_path | replace: 'index.html', '' }}">← Previous</a>
       </li>
     {% endif %}
     {% if paginator.next_page %}
       <li class="page-item">
-        <a class="page-link" href="{{ paginator.next_page_path | relative_url }}">Next →</a>
+        <a class="page-link" href="{{ paginator.next_page_path | replace: 'index.html', '' }}">Next →</a>
       </li>
     {% endif %}
   </ul>
