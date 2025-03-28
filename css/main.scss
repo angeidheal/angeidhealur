@@ -1,0 +1,211 @@
+---
+---
+// Theme
+$text-color: #f0f0f0;
+$background-color: #101010;
+$brand-color: #6062a5;
+
+// Width of the content area
+$content-width: 800px;
+
+$on-palm: 600px;
+$on-laptop: 800px;
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+// Body
+
+html,
+body {
+  font-family: "Outfit";
+  background-color: $background-color;
+  font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6{
+  margin-top: 28px;
+}
+
+h1{
+  font-size: 30px;
+  font-weight: 900;
+}
+
+h2{
+  font-size: 27px;
+  font-weight: 700;
+}
+
+h3{
+  font-size: 24px;
+  font-weight: 500;
+}
+
+h4{
+  font-size: 22px;
+  font-weight: 400;
+}
+
+h5{
+  font-size: 20px;
+  font-weight: 200;
+}
+
+h6{
+  font-size: 18px;
+  font-weight: 100;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  color: $text-color;
+}
+
+a:hover {
+  color: $brand-color;
+}
+
+p a, li a {
+  color: $brand-color;
+  font-weight: 600;
+}
+
+p a:hover, li a:hover {
+  color: $text-color;
+  text-decoration: underline;
+}
+
+code {
+  color: $text-color;
+  border-left: 3px solid $brand-color;
+  padding-left: 8px;
+}
+
+blockquote {
+  border-left: 3px solid $brand-color;
+  padding-left: 8px;
+}
+
+/* Navbar */
+
+.navbar {
+  border-radius: 0;
+  background-color: $brand-color;
+}
+
+.navbar-brand {
+  font-weight: 900;
+  font-size: 1.85em;
+  padding: 10px;
+  margin-left: 15px !important;
+  @media screen and (max-width: $on-palm) {
+    font-size: 1.5em;
+  }
+}
+
+.navbar-dark .navbar-brand{
+  color: $text-color;
+}
+
+.navbar-dark .navbar-brand:hover{
+  text-decoration: underline;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+  color: $text-color;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+  text-decoration: underline;
+}
+
+/* Blog Index */
+
+.latest-posts{
+ font-family: Outfit;
+ margin-top: 28px;
+}
+
+/* Post Text */
+
+.content-area{
+  color: $text-color;
+}
+
+article.post {
+  margin-bottom: 28px;
+}
+
+/* Post Media */
+
+.post-image {
+  margin: 20px auto;
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.post-body-image {
+  margin: 20px auto;
+  display: block;
+  max-width: 540px;
+}
+
+.avatar {
+  margin: 20px auto;
+  display: block;
+  max-width: 200px;
+  height: auto;
+  border-radius: 50%;
+  border: 8px solid $text-color;
+}
+
+.youtube-wrapper {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+
+.youtube-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.twitter-tweet {
+   margin: auto;
+}
+
+/* Pagination */
+
+.next-previous-articles{
+  margin-bottom: 28px;
+}
+
+.page-link {
+  color: $brand-color;
+  margin: 0px 10px;
+}
+
+.page-item.active .page-link {
+  background-color: $brand-color;
+  border-color: $brand-color;
+}
+
+/* Footer */
+
+footer{
+  color: $text-color;
+  padding-bottom: 28px;
+}
