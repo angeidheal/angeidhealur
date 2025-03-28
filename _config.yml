@@ -1,44 +1,61 @@
-# Site settings
+# Site Information
+# Basic site settings and metadata
 title: Faclair nan Gèidheal
 description: Faclair de bhriathrachas LGDTC+ Gàidhlig
 brand: An Gèidheal Ùr
 brand-link: https://angeidhealur.scot/
-brand-tagline: Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
+brand-tagline: Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta 's bho air feadh an t-saoghail.
+
+# URL Configuration
+# Base URL settings for the site
 # baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://faclair.lgbt" # the base hostname & protocol for your site
+
+# Content Settings
+# How content is displayed and organized
 excerpt_separator: <!--more-->
 
-#footer
+# Author Information
+# Details about the site author
 author-name: Crìstean MacMhìcheil
 author-website: "https://criomagan.scot"
 
-#social
+# Social Media Links
+# External social media and contact information
 mastodon: https://abairthusa.scot/@angeidhealur
 instagram: https://www.instagram.com/angeidhealur
 threads: https://www.threads.net/@angeidhealur
 email: fios@angeidhealur.scot
 
-# Build settings
+# Build Configuration
+# Technical settings for Jekyll build process
 markdown: kramdown
 permalink: /:year-:month-:day-:title/
 paginate: 12
 paginate_path: /duilleag-:num/
 
-# Ruby Gems
+# Plugin Configuration
+# Jekyll plugins used by the site
 plugins:
   - jekyll-paginate
   - jekyll-feed
 
+# Collections Configuration
+# Custom collections for different types of content
 collections:
+  # Gaelic dictionary collection
   faclair:
     output: true
     permalink: /:path/
+  # Irish dictionary collection
   focloir:
     output: true
     permalink: /:path/
+  # Manx dictionary collection
   fockleyr:
     output: true
     permalink: /:path/
+  # General glossary collection
   glossary:
     output: true
     permalink: /:path/
