@@ -16,6 +16,8 @@ categories: ["Cuairt-litir"]
 
 Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
 
+![](/images/icons/cuairt-litir.png)
+
 ## Trans Kids Deserve Better
 
 Leig am buidheann-iomairt, Trans Kids Deserve Better, mu 6,000 greollan mu sgaoil aig co-labhairt buidhinn tar-thoirmeasgach an LGB Alliance ann an Lunnainn Dihaoine sa chaidh.
