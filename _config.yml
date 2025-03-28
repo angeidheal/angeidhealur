@@ -1,15 +1,12 @@
 # Site Information
 # Basic site settings and metadata
-title: Faclair nan Gèidheal
-description: Faclair de bhriathrachas LGDTC+ Gàidhlig
-brand: An Gèidheal Ùr
-brand-link: https://angeidhealur.scot/
-brand-tagline: Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta 's bho air feadh an t-saoghail.
+title: An Gèidheal Ùr
+description: Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta 's bho air feadh an t-saoghail.
 
 # URL Configuration
 # Base URL settings for the site
 # baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://faclair.lgbt" # the base hostname & protocol for your site
+url: "https://angeidhealur.scot" # the base hostname & protocol for your site
 
 # Content Settings
 # How content is displayed and organized
