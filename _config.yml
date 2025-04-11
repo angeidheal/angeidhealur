@@ -5,7 +5,7 @@ description: Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàis
 
 # URL Configuration
 # Base URL settings for the site
-# baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/angeidhealur" # the subpath of your site, e.g. /blog
 url: "https://angeidhealur.scot" # the base hostname & protocol for your site
 
 # Content Settings
