@@ -3,13 +3,13 @@
     <nav aria-label="Pagination">
         <ul class="pagination text-center">
         {% if paginator.previous_page %}
-        <li class="pagination-previous"><a href="{{ paginator.previous_page_path }}">Previous</a></li>
+        <li class="pagination-previous"><a href="{{ site.baseurl }}/{{ paginator.previous_page_path }}">Previous</a></li>
         {% else %}
         <li class="pagination-previous disabled">Previous</li>
         {% endif %}
 
         {% if paginator.next_page %}
-        <li class="pagination-next"><a href="{{ paginator.next_page_path }}">Next</a></li>
+        <li class="pagination-next"><a href="{{ site.baseurl }}/{{ paginator.next_page_path }}">Next</a></li>
         {% else %}
         <li class="pagination-next disabled">Next</li>
         {% endif %}
