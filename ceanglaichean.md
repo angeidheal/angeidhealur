@@ -133,7 +133,7 @@ Gu h-ìosal tha liosta de cheanglaichean eile a dh’fhaodadh a bhith feumail no
 - [LGBT Helpline](http://www.lgbthealth.org.uk/helpline/)
 - [LGBT Switchboad](https://switchboard.lgbt/)
 - [LGBT Youth Scotland](https://www.lgbtyouth.org.uk/)
-- [Samh](https://www.samh.org.uk/)/
+- [Samh](https://www.samh.org.uk/)
 - [Stonewall Scotland](http:/tonewallscotland.org.uk/)
 
 ### Creideamh
