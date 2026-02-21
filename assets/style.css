@@ -59,8 +59,8 @@ header {
 }
 
 .u-logo {
-  border-radius: 50%;
-  border: 2px solid CanvasText;
+  /*border-radius: 50%;
+  border: 2px solid CanvasText; */
 }
 
 /* small screens: logo, title, hamburger in one row */

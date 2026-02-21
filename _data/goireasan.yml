@@ -1,0 +1,20 @@
+current:
+  - title: "Faclair nan Gèidheal"
+    url: "https://faclair.lgbt"
+    image: "/assets/images/faclair-nan-geidheal.webp"
+    description: "Faclair LGBTQIA+ Gàidhlig"
+
+  - title: "Dualchas"
+    url: "/dualchas"
+    image: "/assets/images/dualchas.svg"
+    description: "Loidhne-ama de eachdraidh LGBTQIA+ ann an Alba"
+
+  - title: "Ceanglaichean"
+    url: "/ceanglaichean"
+    image: "/assets/images/ceanglaichean.svg"
+    description: "Liosta de cheanglaichean feumail airson a' choimhearsnachd LGBTQIA+ ann an Alba"
+
+  - title: "Bùth"
+    url: "https://angeidhealur.myspreadshop.co.uk/"
+    image: "/assets/images/buth.svg"
+    description: "Lèintean-t, hoodies, stiogairean is tòrr a bharrachd."

@@ -1,0 +1,40 @@
+---
+layout: default
+title: Goireasan
+permalink: /goireasan/
+---
+<h1>{{ page.title }}</h1>
+
+{% if site.data.goireasan.current.size > 0 %}
+<section aria-labelledby="current-heading">
+  <h2 id="current-heading">{{ site.strings.goireasan_current }}</h2>
+  <div class="post-grid">
+    {% for goireas in site.data.goireasan.current %}
+    <article class="post-card project-card">
+      {% if goireas.image %}
+      <img class="card-image" src="{{ goireas.image | relative_url }}" alt="" width="800" height="400">
+      {% endif %}
+      <h3>{% if goireas.url %}<a href="{{ goireas.url }}">{{ goireas.title }}</a>{% else %}{{ goireas.title }}{% endif %}</h3>
+      {% if goireas.description %}<p>{{ goireas.description }}</p>{% endif %}
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+{% if site.data.goireasan.old.size > 0 %}
+<section aria-labelledby="old-heading">
+  <h2 id="old-heading">{{ site.strings.goireasan_old }}</h2>
+  <div class="post-grid">
+    {% for goireas in site.data.goireasan.old %}
+    <article class="post-card project-card project-card--old">
+      {% if goireas.image %}
+      <img class="card-image" src="{{ goireas.image | relative_url }}" alt="" width="800" height="400">
+      {% endif %}
+      <h3>{% if goireas.url %}<a href="{{ goireas.url }}">{{ goireas.title }}</a>{% else %}{{ goireas.title }}{% endif %}</h3>
+      {% if goireas.description %}<p>{{ goireas.description }}</p>{% endif %}
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}

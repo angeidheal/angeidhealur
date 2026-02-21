@@ -1,8 +1,8 @@
-title: "Criomagan"
-description: "Blog Chrìstein MhicMhìcheil"
+title: "An Gèidheal Ùr"
+description: "A' toirt thugaibh an naidheachdan LGBTQIA+ as ùire"
 lang: gd
-logo: /assets/logo.jpg # path to your site logo (or remove this line)
-url: "https://criomagan.scot" # Set to your GitHub Pages URL, e.g. https://username.github.io
+logo: /assets/logo.png # path to your site logo (or remove this line)
+url: "https://angeidhealur.scot" # Set to your GitHub Pages URL, e.g. https://username.github.io
 baseurl: "" # Set to repo name if not user site, e.g. /repo-name
 
 # ── Author / Fediverse ──
@@ -13,7 +13,7 @@ author:
 
 permalink: /:year-:month-:day-:title/
 
-paginate: 4
+paginate: 8
 paginate_path: "/duilleag/:num/"
 plugins:
   - jekyll-paginate
