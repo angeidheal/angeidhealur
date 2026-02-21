@@ -77,6 +77,12 @@ title: Dachaigh
   {% if paginator.total_pages > 1 %}
   <nav class="pagination" aria-label="{{ site.strings.page_navigation }}">
     <ul>
+      {% if paginator.page > 1 %}
+        <li><a href="{{ paginator.first_page_path | default: '/' | relative_url }}" aria-label="{{ site.strings.first_page }}">&laquo; {{ site.strings.first }}</a></li>
+      {% else %}
+        <li><span class="disabled" aria-hidden="true">&laquo; {{ site.strings.first }}</span></li>
+      {% endif %}
+
       {% if paginator.previous_page %}
         <li><a href="{{ paginator.previous_page_path | relative_url }}" rel="prev" aria-label="{{ site.strings.previous_page }}">&larr; {{ site.strings.newer }}</a></li>
       {% else %}
@@ -87,6 +93,12 @@ title: Dachaigh
         <li><a href="{{ paginator.next_page_path | relative_url }}" rel="next" aria-label="{{ site.strings.next_page }}">{{ site.strings.older }} &rarr;</a></li>
       {% else %}
         <li><span class="disabled" aria-hidden="true">{{ site.strings.older }} &rarr;</span></li>
+      {% endif %}
+
+      {% if paginator.page < paginator.total_pages %}
+        <li><a href="{{ paginator.last_page_path | default: '/duilleag/' | append: paginator.total_pages | relative_url }}" aria-label="{{ site.strings.last_page }}">{{ site.strings.last }} &raquo;</a></li>
+      {% else %}
+        <li><span class="disabled" aria-hidden="true">{{ site.strings.last }} &raquo;</span></li>
       {% endif %}
     </ul>
   </nav>
