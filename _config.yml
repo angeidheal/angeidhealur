@@ -37,6 +37,8 @@ strings:
   recent_stories: "Postaichean as ùire"
   page: "Duilleag"
   page_navigation: "seòladaireachd nan duilleagan"
+  first: As ùire
+  last: As sìne
   newer: "Nas ùire"
   older: "Nas sìne"
   previous_page: "An duilleag roimhe"
