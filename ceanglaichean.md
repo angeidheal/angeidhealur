@@ -142,7 +142,7 @@ Gu h-ìosal tha liosta de cheanglaichean eile a dh’fhaodadh a bhith feumail no
 - [Metropolitan Community Church](http://www.mccinglasgow.moonfruit.com/welcome/4522982118)
 - [Pagan Federation (Scotland)](http://www.scottishpf.org)
 
-### Cùltar &amp; Ealain
+### Cultar &amp; Ealain
 
 - [The Lesbian Archive](https://womenslibrary.org.uk/explore-the-library-and-archive/the-archive-collection/the-lesbian-archive/)
 - [OurStory Scotland](https://www.ourstoryscotland.org.uk)
